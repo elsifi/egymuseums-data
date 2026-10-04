@@ -1,6 +1,6 @@
 # egymuseums-data
 
-Public content for the **EgyMuseums** app (`com.egymuseums`): Egypt's museums and archaeological sites, with opening hours, ticket prices, official ticket links and visit info, in Arabic and English.
+Public content for the **Egypt Museums** app (`com.egymuseums`): Egypt's museums and archaeological sites, with opening hours, ticket prices, official ticket links and visit info, in Arabic and English.
 
 - `data/`: versioned JSON that the app downloads via jsDelivr.
 - `privacy/`: the app's privacy policy, served by GitHub Pages.
