@@ -233,7 +233,8 @@
    "Orphaned children",
    "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
    "Mobile-phone photography is free"
-  ]
+  ],
+  "includedIn": "saqqara"
  },
  "tickets": {
   "onlineUrl": "https://egymonuments.com/details/SaqqaraMonuments",

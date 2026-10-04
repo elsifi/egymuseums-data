@@ -221,7 +221,8 @@
    "Egyptians with special needs",
    "Egyptians aged 60+",
    "Mobile-phone photography is free"
-  ]
+  ],
+  "includedIn": "karnak"
  },
  "tickets": {
   "onlineUrl": "https://egymonuments.com/details/KarnakTemple",

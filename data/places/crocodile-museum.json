@@ -229,7 +229,8 @@
    "Egyptians with special needs",
    "Orphaned children",
    "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform"
-  ]
+  ],
+  "includedIn": "kom-ombo-temple"
  },
  "tickets": {
   "onlineUrl": "https://egymonuments.com/details/KomOmboTemple",

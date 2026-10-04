@@ -229,7 +229,8 @@
   "freeGroups": [
    "Egyptians (no Egyptian ticket is sold)",
    "Children under 6"
-  ]
+  ],
+  "includedIn": "sultan-hassan-mosque"
  },
  "tickets": {
   "onlineUrl": "https://egymonuments.com/details/Mosque-MadrassaSultanHassan",

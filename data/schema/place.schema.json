@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://cdn.jsdelivr.net/gh/egymuseums/egymuseums-data/data/schema/place.schema.json",
-  "$comment": "Schema version 1.1 (2026-10-04), additive over 1.0: prices.status; prices.tiers[].onlineAmount; prices.extras[].audience/group/onlineAmount; split-session convention documented on dayHours. Every 1.0 record is valid 1.1; v1/meta.json keeps schemaVersion 1 and adds schemaMinor 1.",
+  "$comment": "Schema version 1.1 (2026-10-04), additive over 1.0: prices.status; prices.tiers[].onlineAmount; prices.extras[].audience/group/onlineAmount; split-session convention documented on dayHours. Every 1.0 record is valid 1.1; v1/meta.json keeps schemaVersion 1 and adds schemaMinor 1. v1.2: prices.includedIn.",
   "title": "EgyMuseums place (schema v1.1)",
   "description": "One museum or archaeological / heritage site in Egypt. Identity and coordinates come from Wikidata (CC0); every hours / price figure must be backed by an entry in `sources`.",
   "type": "object",
@@ -285,6 +285,10 @@
         },
         "effectiveFrom": {
           "$ref": "#/$defs/date"
+        },
+        "includedIn": {
+          "type": "string",
+          "description": "id of the place whose ticket covers this place (schema 1.2). The app shows \"Included in the <name> ticket\" and the planner does not charge twice."
         }
       }
     },
