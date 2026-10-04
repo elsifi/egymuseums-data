@@ -1,0 +1,358 @@
+{
+ "id": "gayer-anderson-museum",
+ "kind": "museum",
+ "wikidataId": "Q2190649",
+ "name": {
+  "en": "Gayer-Anderson Museum",
+  "ar": "متحف جاير أندرسون"
+ },
+ "aliases": [
+  "بيت الجريدلية",
+  "بيت الكرتلية",
+  "بيت الكريتلية",
+  "بيت الكريدلية",
+  "سبيل ومنزل الحاج سالم الجزار",
+  "سبيل ومنزل محمد بن الحاج سالم الجزار",
+  "Bayt al-Kritliya"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Sayyida Zaynab, beside the Ibn Tulun Mosque",
+  "ar": "السيدة زينب، بجوار جامع أحمد بن طولون"
+ },
+ "address": {
+  "en": "Ahmad Ibn Tulun Square, Sayyida Zaynab, Cairo — built against the outer wall of the Ibn Tulun Mosque",
+  "ar": "ميدان أحمد بن طولون، السيدة زينب، القاهرة — ملاصق للسور الخارجي لجامع ابن طولون"
+ },
+ "lat": 30.0284,
+ "lng": 31.2507,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "Two Ottoman-era houses joined into one, filled with the eclectic collection of the British officer who lived here in 1935–1942.",
+  "ar": "بيتان من العصر العثماني صارا بيتًا واحدًا، يضمان المجموعة المتنوعة التي جمعها الضابط البريطاني الذي سكنهما بين عامي 1935 و1942."
+ },
+ "description": {
+  "en": "Pressed against the outer wall of the Ibn Tulun Mosque, this museum occupies two neighbouring houses that escaped demolition when the mosque's surroundings were cleared in the late 1920s. The older one was built in 1540 by Abd al-Qadir al-Haddad; the larger was completed in 1631 by Hajj Muhammad ibn Salim al-Gazzar and later became known as the House of the Cretan Woman, Bayt al-Kritliya, after one of its owners. In 1935 the British army doctor and collector Robert Gayer-Anderson was allowed to live in the restored houses, which he linked and furnished with objects gathered across Egypt and the wider East: carpets, woodwork, ceramics, glass, pharaonic pieces and Asian curios. When ill health forced him to leave in 1942, he gave the contents to the Egyptian state, and the house became a museum. Visitors move through a sequence of rooms that keep the layout of a traditional Cairene home, with a men's reception wing and private family quarters, a marble-floored hall with a fountain, latticed galleries from which women could look down unseen, and themed rooms such as the Damascus and Persian rooms. The rooftop terrace, which appeared in a James Bond film, looks out over the mosque.",
+  "ar": "يستند هذا المتحف إلى السور الخارجي لجامع ابن طولون، ويشغل بيتين متجاورين نجوا من الهدم عندما أُزيلت المباني المحيطة بالجامع في أواخر عشرينيات القرن الماضي. شيّد أقدمهما عبد القادر الحداد عام 1540م، أما الأكبر فأتمه الحاج محمد بن سالم الجزار عام 1631م، وعُرف لاحقًا ببيت الكريتلية نسبة إلى سيدة من جزيرة كريت امتلكته. وفي عام 1935 سُمح للطبيب العسكري البريطاني وهاوي المقتنيات روبرت جاير أندرسون بالإقامة في البيتين بعد ترميمهما، فوصل بينهما وأثّثهما بقطع جمعها من مصر والشرق: سجاد وأعمال خشبية وخزف وزجاج وقطع فرعونية وتحف آسيوية. وحين اضطره المرض إلى مغادرة مصر عام 1942 أهدى المقتنيات إلى الدولة، فتحوّل البيت إلى متحف. ويتنقل الزائر بين قاعات تحتفظ بتخطيط البيت القاهري التقليدي، بجناح السلاملك لاستقبال الرجال والحرملك لأهل البيت، وقاعة مفروشة بالرخام تتوسطها فسقية، ومشربيات كانت النساء يطللن منها دون أن يُرين، وغرف ذات طابع خاص مثل القاعة الدمشقية والغرفة الفارسية. أما السطح، الذي ظهر في أحد أفلام جيمس بوند، فيطل على الجامع."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Reception hall (qa'a)",
+    "ar": "قاعة الاحتفالات"
+   },
+   "desc": {
+    "en": "A double-height hall with a marble floor and central fountain, overlooked by latticed galleries.",
+    "ar": "قاعة مرتفعة السقف بأرضية رخامية وفسقية في الوسط، تطل عليها مشربيات من الطوابق العليا."
+   }
+  },
+  {
+   "title": {
+    "en": "Damascus room",
+    "ar": "القاعة الدمشقية"
+   },
+   "desc": {
+    "en": "Painted and gilded wooden panelling brought from a Syrian house.",
+    "ar": "كسوة خشبية ملونة ومذهبة جُلبت من بيت شامي."
+   }
+  },
+  {
+   "title": {
+    "en": "Persian room",
+    "ar": "الغرفة الفارسية"
+   },
+   "desc": {
+    "en": "A room decorated in Persian style with objects from Gayer-Anderson's travels.",
+    "ar": "غرفة مزينة على الطراز الفارسي بتحف جمعها جاير أندرسون من رحلاته."
+   }
+  },
+  {
+   "title": {
+    "en": "Mashrabiya galleries",
+    "ar": "المشربيات"
+   },
+   "desc": {
+    "en": "Screened balconies that let the women of the house watch receptions unseen.",
+    "ar": "شرفات مغطاة بالمشربيات كانت تتيح لنساء البيت متابعة المجالس دون أن يُرين."
+   }
+  },
+  {
+   "title": {
+    "en": "Rooftop terrace",
+    "ar": "السطح"
+   },
+   "desc": {
+    "en": "A roof terrace with views over the Ibn Tulun Mosque and its spiral minaret.",
+    "ar": "سطح يطل على جامع ابن طولون ومئذنته الملوية."
+   }
+  },
+  {
+   "title": {
+    "en": "Courtyard and Bats' Well",
+    "ar": "الفناء وبئر الوطاويط"
+   },
+   "desc": {
+    "en": "The inner courtyard and a deep well wrapped in local legend.",
+    "ar": "الفناء الداخلي وبئر عميقة تحيط بها الحكايات الشعبية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/GayerAndersonMuseum",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning, combined with the Ibn Tulun Mosque next door.",
+   "ar": "الصباح، مع الجمع بين الزيارة وجامع ابن طولون المجاور."
+  },
+  "crowdNotes": {
+   "en": "Rooms are small and connected by narrow stairs, so they feel crowded when a tour group passes through. A gift shop is on site.",
+   "ar": "القاعات صغيرة وتربطها سلالم ضيقة، فتبدو مزدحمة عند مرور مجموعة سياحية. ويوجد متجر للهدايا داخل المتحف."
+  }
+ },
+ "facilities": {
+  "giftShop": true,
+  "signLanguage": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bayt_al-Kritiliyya_%28Gayer-Anderson_Museum%29%2C_16th-17th_cents.%2C_Cairo_%281%29.jpg",
+   "author": "Prof. Mortel",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayt_al-Kritiliyya_(Gayer-Anderson_Museum),_16th-17th_cents.,_Cairo_(1).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Central_Courtyard_of_the_Gayer-Anderson_Museum.jpg",
+   "author": "Peter Astbury",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Central_Courtyard_of_the_Gayer-Anderson_Museum.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/CairoGayerDamascusRoom.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoGayerDamascusRoom.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/gayer-anderson-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Gayer-Anderson_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%AC%D8%A7%D9%8A%D8%B1_%D8%A3%D9%86%D8%AF%D8%B1%D8%B3%D9%88%D9%86",
+  "osm": "node/328965969"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2190649",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/gayer-anderson-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),freeGroups (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/GayerAndersonMuseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/106",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,freeGroups,facilities,description",
+   "url": "https://egymonuments.gov.eg/en/museums/gayer-anderson-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-جاير-أندرسون/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Gayer-Anderson_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Ramadan 09:00-15:00 (MoTA guide) with last entry 14:00 (egymonuments.com) agree. The museum's best-known object, the Gayer-Anderson Cat, is in the British Museum and is deliberately not listed."
+}

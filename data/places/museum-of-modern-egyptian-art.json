@@ -1,0 +1,332 @@
+{
+ "id": "museum-of-modern-egyptian-art",
+ "kind": "museum",
+ "wikidataId": "Q5555085",
+ "name": {
+  "en": "Museum of Modern Egyptian Art",
+  "ar": "متحف الفن المصري الحديث"
+ },
+ "aliases": [
+  "متحف الفنون الحديثة المصرية",
+  "معرض الفن الحديث بالقاهرة"
+ ],
+ "category": "modern-art",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Gezira, Cairo Opera House grounds",
+  "ar": "الجزيرة، ساحة دار الأوبرا المصرية"
+ },
+ "address": {
+  "en": "Cairo Opera House grounds (National Cultural Centre), Gezira, Cairo — near Opera metro station",
+  "ar": "ساحة دار الأوبرا المصرية (المركز الثقافي القومي)، الجزيرة، القاهرة — بالقرب من محطة مترو الأوبرا"
+ },
+ "lat": 30.042781,
+ "lng": 31.2231,
+ "status": "open",
+ "statusNote": {
+  "en": "Open in two daily sessions in the current season; closed on Mondays. The display was renewed in 2026.",
+  "ar": "مفتوح على فترتين يوميًا في الموسم الحالي، ويُغلق يوم الاثنين. وقد جُدد العرض المتحفي عام 2026."
+ },
+ "summary": {
+  "en": "Egypt's national collection of modern art, tracing a century of painting and sculpture from the pioneers of the 1920s to today.",
+  "ar": "المجموعة القومية للفن الحديث في مصر، وتروي قرنًا من التصوير والنحت منذ رواد العشرينيات حتى اليوم."
+ },
+ "description": {
+  "en": "The Museum of Modern Egyptian Art grew out of the artistic revival that followed the founding of the Cairo School of Fine Arts in 1908. A first museum opened in 1931, and the collection then moved between several buildings in Cairo before settling in its present home on the Gezira exhibition grounds, now part of the Opera House complex. The building, known as the Grand Saray, dates from 1936 and was adapted for museum use; it officially opened as the museum's permanent seat in 1991. The holdings run to many thousands of paintings, sculptures, drawings and ceramics, of which around nine hundred works are shown in a new display completed in 2026 across ten galleries on three floors, with large sculptures in an open-air court at the front. The galleries follow Egyptian art from the generation of pioneers, such as Mahmoud Mukhtar, Mahmoud Said, Ragheb Ayad and Muhammad Naghi, through the realist, surrealist and abstract currents of the mid-century to contemporary artists, often showing one artist at several stages of a career. In 2026 the Fine Arts Sector began referring to it as the Museum of Modern Egyptian Art and Inji Aflatoun.",
+  "ar": "نشأ متحف الفن المصري الحديث من النهضة الفنية التي أعقبت تأسيس مدرسة الفنون الجميلة بالقاهرة عام 1908. وقد افتُتح أول متحف عام 1931، ثم تنقلت المجموعة بين عدة مبانٍ في القاهرة قبل أن تستقر في مقرها الحالي بأرض المعارض في الجزيرة، التي صارت جزءًا من مجمع دار الأوبرا. ويعود المبنى المعروف بالسراي الكبرى إلى عام 1936، وقد جُهز للعرض المتحفي وافتُتح رسميًا مقرًا دائمًا للمتحف عام 1991. وتضم مقتنياته آلافًا من اللوحات والمنحوتات والرسوم والخزفيات، يُعرض منها نحو تسعمئة عمل في سيناريو عرض جديد اكتمل عام 2026، موزعة على عشر قاعات في ثلاثة طوابق، فضلًا عن ساحة مكشوفة أمام المبنى للمنحوتات الكبيرة. وتتتبع القاعات مسيرة الفن المصري من جيل الرواد، مثل محمود مختار ومحمود سعيد وراغب عياد ومحمد ناجي، مرورًا بتيارات الواقعية والسريالية والتجريد في منتصف القرن، وصولًا إلى الفنانين المعاصرين، وكثيرًا ما تعرض أعمال الفنان الواحد في مراحل مختلفة من مسيرته. ومنذ عام 2026 بات قطاع الفنون التشكيلية يسميه متحف الفن المصري الحديث وإنجي أفلاطون."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Pioneers' galleries",
+    "ar": "قاعات الرواد"
+   },
+   "desc": {
+    "en": "Works by the first generation of modern Egyptian artists, including Mahmoud Said, Ragheb Ayad and Muhammad Naghi.",
+    "ar": "أعمال الجيل الأول من الفنانين المصريين المحدثين، ومنهم محمود سعيد وراغب عياد ومحمد ناجي."
+   }
+  },
+  {
+   "title": {
+    "en": "Sculpture by Mahmoud Mukhtar",
+    "ar": "منحوتات محمود مختار"
+   },
+   "desc": {
+    "en": "Pieces by the father of modern Egyptian sculpture, such as his \"Bride of the Nile\".",
+    "ar": "أعمال رائد النحت المصري الحديث، ومنها «عروس النيل»."
+   }
+  },
+  {
+   "title": {
+    "en": "Inji Aflatoun",
+    "ar": "إنجي أفلاطون"
+   },
+   "desc": {
+    "en": "Paintings by the artist and activist whose name the museum now also carries.",
+    "ar": "لوحات الفنانة والمناضلة التي بات المتحف يحمل اسمها أيضًا."
+   }
+  },
+  {
+   "title": {
+    "en": "Mid-century movements",
+    "ar": "تيارات منتصف القرن"
+   },
+   "desc": {
+    "en": "Realist, surrealist and abstract currents of the 1940s to 1970s.",
+    "ar": "التيارات الواقعية والسريالية والتجريدية من الأربعينيات إلى السبعينيات."
+   }
+  },
+  {
+   "title": {
+    "en": "Open-air sculpture court",
+    "ar": "ساحة النحت المكشوفة"
+   },
+   "desc": {
+    "en": "Large sculptures displayed in front of the building.",
+    "ar": "منحوتات كبيرة الحجم معروضة أمام المبنى."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "sat",
+    "open": "17:00",
+    "close": "20:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "17:00",
+    "close": "20:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "17:00",
+    "close": "20:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "17:00",
+    "close": "20:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "17:00",
+    "close": "20:00"
+   },
+   {
+    "day": "fri",
+    "open": "17:00",
+    "close": "20:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (evening art events may also be held after iftar)",
+     "ar": "مواعيد شهر رمضان (وقد تُقام أمسيات فنية بعد الإفطار)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "10:00",
+      "close": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 20
+   }
+  ],
+  "freeGroups": [
+   "People with special needs",
+   "Veterans",
+   "Seniors over 60",
+   "Children under 12",
+   "Members of artists' professional syndicates",
+   "Members of national museum committees"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "The evening session in the warmer months, or a weekday morning; combine with the Mukhtar Museum nearby.",
+   "ar": "الفترة المسائية في الشهور الحارة أو صباح أحد أيام الأسبوع، مع الجمع بين الزيارة ومتحف مختار القريب."
+  },
+  "crowdNotes": {
+   "en": "Calm on most days; the Opera House grounds are busier on performance evenings. The museum also runs family and children's programmes.",
+   "ar": "هادئ معظم الأيام، وتزدحم ساحة الأوبرا في أمسيات العروض. وينظم المتحف أيضًا برامج للأسر والأطفال."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Cairo_Museum_of_Modern_Art_Mahmoud_Mokhtar_Bride_of_the_Nile.jpg",
+   "author": "Mahmoud Mokhtar",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo_Museum_of_Modern_Art_Mahmoud_Mokhtar_Bride_of_the_Nile.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Cairo_Museum_of_Modern_Art_Ali_El-Ahwani_A_scene_from_Shobra.jpg",
+   "author": "Ali El-Ahwani (1892-1954)",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo_Museum_of_Modern_Art_Ali_El-Ahwani_A_scene_from_Shobra.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Museum_of_Modern_Egyptian_Art",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%81%D9%86_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A_%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q5555085",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q138647693",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Fine Arts Sector summer 2026 schedule)",
+   "url": "https://www.youm7.com/story/2026/6/4/x/7437546",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Feb 2025 decision: Mon closed, Friday 15:00-21:00)",
+   "url": "https://www.youm7.com/story/2025/2/16/x/6884390",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,freeGroups,address (official Fine Arts Sector visitor page)",
+   "url": "http://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=34",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,statusNote (2026 redisplay: 10 halls, ~900 works)",
+   "url": "https://www.youm7.com/story/2026/3/19/x/7345893",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (artists; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Museum_of_Modern_Egyptian_Art",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "low",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Hours: Fine Arts Sector summer 2026 (youm7 2026-06-04): two sessions 09:00-15:00 and 17:00-20:00, closed days not stated; Monday closure and Friday afternoon-only opening come from the Feb 2025 sector decision (09:00-21:00, Fri 15:00-21:00, Mon closed), so Friday is set to the evening session only. Whether the summer schedule still applies in October, and the winter schedule, are unknown. Ramadan: sector-wide 10:00-14:00 plus evening events 21:00-23:00 (not modelled as a session). Prices 10/5/20 from the undated official fineart.gov.eg page (which also shows outdated 10:00-16:00 hours). Seed Arabic name \"مركز الجزيرة للفن الحديث\" (the Gezira Art Center, a different venue) corrected locally to the official \"متحف الفن المصري الحديث\" on 2026-10-04 (batch-5 Q6); the seed and Wikidata are not edited, and the wrong alias \"Gezira Center for Modern Art\" was dropped. Photos: Mukhtar (d. 1934) and Ali El-Ahwani (d. 1954) works, PD in Egypt; no photo of the building or of works by artists who died after 1975."
+}

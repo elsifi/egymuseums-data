@@ -1,0 +1,336 @@
+{
+ "id": "al-ghuri-complex",
+ "kind": "site",
+ "wikidataId": "Q6743467",
+ "name": {
+  "en": "Sultan al-Ghuri Complex",
+  "ar": "مجموعة السلطان الأشرف الغوري"
+ },
+ "aliases": [
+  "مسجد الغوري",
+  "مجمع الغوري",
+  "مجموعة الغوري",
+  "مدرسة الغوري",
+  "مسجد ومدرسة الغوري",
+  "Mosque of Sultan Kansou-el-Gouri",
+  "Qanshuh al-Ghouri Complex",
+  "Funerary Complex of Sultan Qansuh al-Ghuri"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Al-Ghuriya, al-Muizz Street, Historic Cairo",
+  "ar": "الغورية، شارع المعز، القاهرة التاريخية"
+ },
+ "address": {
+  "en": "Al-Muizz li-Din Allah Street at al-Azhar Street, al-Ghuriya, Cairo — the two halves face each other across the street",
+  "ar": "شارع المعز لدين الله عند تقاطعه مع شارع الأزهر، الغورية، القاهرة — يتقابل نصفا المجموعة على جانبي الشارع"
+ },
+ "lat": 30.046,
+ "lng": 31.2599,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The ticket covers the eastern half (mausoleum dome, khanqah and sabil-kuttab); the western mosque-madrasa is a working mosque visited outside prayer times. The nearby Wikala of al-Ghuri has its own ticket.",
+  "ar": "مفتوحة يوميًا. تشمل التذكرة النصف الشرقي (القبة والخانقاه والسبيل والكتّاب)، أما المسجد والمدرسة في النصف الغربي فمسجد تُقام فيه الصلاة ويُزار خارج أوقاتها. ولوكالة الغوري القريبة تذكرة مستقلة."
+ },
+ "summary": {
+  "en": "A late-Mamluk royal complex built in 1503–1505 as two grand buildings facing each other across al-Muizz Street.",
+  "ar": "مجموعة سلطانية من أواخر العصر المملوكي شُيدت بين عامي 1503 و1505، وتتألف من مبنيين فخمين يتقابلان على جانبي شارع المعز."
+ },
+ "description": {
+  "en": "Qansuh al-Ghuri, one of the last Mamluk sultans, chose the busiest crossroads of medieval Cairo for his funerary foundation, demolishing shops and houses to make room for it. Completed between 1503 and 1505, the complex is split into two buildings that face each other across al-Muizz Street. On the west stands the mosque-madrasa, raised above a row of shops, with a four-iwan courtyard lined in coloured marble and a tall square minaret capped by four small heads, an unusual crown for Cairo. On the east are the domed mausoleum, the khanqah where Sufis gathered, a public water fountain and a Quran school above it. The sultan never lay in his tomb: he died fighting the Ottomans near Aleppo in 1516 and his body was not recovered, and within a year Egypt had become an Ottoman province. The mausoleum's dome proved unstable and was eventually replaced by a flat roof in the nineteenth century, while the gilded wooden ceilings inside survived. Restored after the 1992 earthquake, the eastern half is now a monument open to visitors and also hosts cultural events, while the mosque remains in daily use.",
+  "ar": "اختار قنصوه الغوري، أحد آخر سلاطين المماليك، أكثر تقاطعات القاهرة القديمة ازدحامًا ليقيم عليه منشأته الجنائزية، فهدم ما كان في الموضع من دكاكين وبيوت. واكتملت المجموعة بين عامي 1503 و1505م، وهي مقسومة إلى مبنيين يتقابلان على جانبي شارع المعز. في الجهة الغربية يقوم المسجد والمدرسة فوق صف من الحوانيت، بصحن تحيط به أربعة إيوانات مكسوة بالرخام الملون، ومئذنة مربعة شاهقة تنتهي بأربعة رؤوس صغيرة، وهو تتويج نادر في عمارة القاهرة. وفي الجهة الشرقية القبة الضريحية والخانقاه التي كان يجتمع فيها الصوفية، وسبيل لسقاية المارة يعلوه كتّاب لتحفيظ القرآن. غير أن السلطان لم يُدفن في ضريحه، فقد قُتل في قتاله مع العثمانيين قرب حلب عام 1516م ولم يُعثر على جثمانه، وخلال عام واحد صارت مصر ولاية عثمانية. وثبت أن قبة الضريح غير مستقرة، فاستُبدل بها سقف مسطح في القرن التاسع عشر، بينما بقيت الأسقف الخشبية المذهبة في الداخل. وبعد ترميمه إثر زلزال 1992، صار النصف الشرقي أثرًا مفتوحًا للزيارة يحتضن أيضًا فعاليات ثقافية، في حين يظل المسجد عامرًا بالمصلين."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Four-headed minaret",
+    "ar": "المئذنة ذات الرؤوس الأربعة"
+   },
+   "desc": {
+    "en": "The madrasa's tall square minaret is topped by four small heads instead of the usual single finial.",
+    "ar": "تنتهي مئذنة المدرسة المربعة الشاهقة بأربعة رؤوس صغيرة بدلًا من القمة المفردة المعتادة."
+   }
+  },
+  {
+   "title": {
+    "en": "Mosque-madrasa courtyard",
+    "ar": "صحن المسجد والمدرسة"
+   },
+   "desc": {
+    "en": "Four iwans around a central court, faced with marble panels and carved stone.",
+    "ar": "أربعة إيوانات حول صحن أوسط، تكسوها ألواح الرخام والحجر المنحوت."
+   }
+  },
+  {
+   "title": {
+    "en": "Khanqah and mausoleum",
+    "ar": "الخانقاه والقبة الضريحية"
+   },
+   "desc": {
+    "en": "The Sufi hall and the sultan's intended tomb chamber, with richly painted and gilded wooden ceilings.",
+    "ar": "قاعة الصوفية وحجرة الضريح التي أُعدّت للسلطان، بأسقف خشبية غنية بالزخارف الملونة والمذهبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Sabil-kuttab",
+    "ar": "السبيل والكتّاب"
+   },
+   "desc": {
+    "en": "A public water fountain on the street corner with a Quran school above it.",
+    "ar": "سبيل لسقاية المارة عند ناصية الشارع يعلوه كتّاب لتعليم القرآن."
+   }
+  },
+  {
+   "title": {
+    "en": "Twin façades on al-Muizz",
+    "ar": "الواجهتان المتقابلتان على شارع المعز"
+   },
+   "desc": {
+    "en": "The two halves face each other across the street, framing one of Cairo's great medieval streetscapes.",
+    "ar": "يتقابل نصفا المجموعة على جانبي الشارع، فيؤطّران واحدًا من أجمل مشاهد القاهرة في العصور الوسطى."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/AlGhuriDome",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Morning, before the market lanes around al-Ghuriya fill up; combine with al-Azhar Mosque and al-Muizz Street.",
+   "ar": "الصباح قبل أن تزدحم أزقة السوق حول الغورية، مع الجمع بين الزيارة والجامع الأزهر وشارع المعز."
+  },
+  "crowdNotes": {
+   "en": "The street between the two buildings is a crowded market. The mosque side is an active place of worship: dress modestly, remove shoes and avoid prayer times, especially Friday noon. The khanqah and dome also serve as a cultural venue, with evening performances ticketed separately.",
+   "ar": "الشارع بين المبنيين سوق مزدحم. والمسجد عامر بالمصلين، لذا يُرجى الاحتشام وخلع الأحذية وتجنّب أوقات الصلاة، خاصة ظهر الجمعة. وتُستخدم الخانقاه والقبة أيضًا مكانًا للعروض الثقافية المسائية بتذاكر منفصلة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Al-Ghuri_2019-11-02a.jpg",
+   "author": "Djehouty",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Ghuri_2019-11-02a.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Cairo%2C_moschea_di_al-ghouri%2C_01.JPG",
+   "author": "Sailko",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo,_moschea_di_al-ghouri,_01.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Al-Ghuri_madrasa_DSCF8631.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Ghuri_madrasa_DSCF8631.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/sultan-al-ghuri-complex/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Sultan_al-Ghuri_Complex",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D8%A3%D8%B4%D8%B1%D9%81_%D8%A7%D9%84%D8%BA%D9%88%D8%B1%D9%8A",
+  "osm": "way/29973724"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6743467",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/sultan-al-ghuri-complex/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/madrasa-of-sultan-al-ghuri/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),freeGroups (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/AlGhuriDome",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/100",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/sultan-al-ghuri-complex/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (mosque-madrasa),description",
+   "url": "https://egymonuments.gov.eg/en/monuments/madrasa-of-sultan-al-ghuri/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (Wikala of al-Ghuri separate ticket)",
+   "url": "https://egymonuments.com/details/WikalaOfAl-Guri",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Sultan_al-Ghuri_Complex",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Ramadan closing time not published (egymonuments.com gives last entry 15:00 only). Booking slug AlGhuriDome (book-date/100) is taken to be this complex's eastern half; egymonuments.gov.eg lists the same 150/75 and 10/5 for the complex. Wikala of al-Ghuri (100/50, 10/5; book-date/103) is a separate building and is not covered here."
+}

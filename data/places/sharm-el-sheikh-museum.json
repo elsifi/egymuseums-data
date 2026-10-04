@@ -1,0 +1,459 @@
+{
+ "id": "sharm-el-sheikh-museum",
+ "kind": "museum",
+ "wikidataId": "Q64744327",
+ "name": {
+  "en": "Sharm El Sheikh Museum",
+  "ar": "متحف شرم الشيخ"
+ },
+ "aliases": [
+  "Sharm El-Sheikh Museum",
+  "Sharm Museum",
+  "Museum of Sharm El Sheikh"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "south-sinai",
+ "city": {
+  "en": "Sharm El Sheikh",
+  "ar": "شرم الشيخ"
+ },
+ "area": {
+  "en": "El Salam (Peace) Road",
+  "ar": "طريق السلام"
+ },
+ "address": {
+  "en": "El Salam Road, Sharm El Sheikh, South Sinai Governorate",
+  "ar": "طريق السلام، شرم الشيخ، محافظة جنوب سيناء"
+ },
+ "lat": 27.931858,
+ "lng": 34.34545,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily in morning and evening sessions. A temporary exhibition of Coptic art, \"Stone and Ink\", runs from 29 August 2026 for about three months.",
+  "ar": "مفتوح يوميًا على فترتين صباحية ومسائية. ويقام معرض مؤقت للفن القبطي بعنوان «الحجر والحبر» منذ 29 أغسطس 2026 لمدة ثلاثة أشهر تقريبًا."
+ },
+ "summary": {
+  "en": "South Sinai's antiquities museum, exploring how ancient Egyptians lived with nature, science and other cultures, from animal mummies to the painted coffins of a priestess of Amun's household.",
+  "ar": "متحف الآثار في جنوب سيناء، يستكشف علاقة المصري القديم بالطبيعة والعلوم والثقافات الأخرى، من مومياوات الحيوانات إلى التوابيت الملونة لكاهنة من بيت آمون."
+ },
+ "description": {
+  "en": "First proposed in 1999 and finally opened in 2020 after long interruptions, the Sharm El Sheikh Museum is the first antiquities museum in South Sinai. Rather than a strict timeline, its two floors follow themes: how Egyptians understood the natural world around them, their achievements in science, crafts and daily life, and Egypt's long role as a meeting point of civilisations. The Grand Hall sets humans and wildlife side by side, with animal mummies that reflect the reverence shown to cats, birds and other creatures sacred to the gods. In the Hall of Civilisation, the finest pieces are the inner and outer coffins of Isetemkheb, wife of the high priest of Amun Pinedjem II and herself a priestess, displayed with her canopic chest, papyri, cosmetic and perfume vessels. Other works include the head of a statue of Hatshepsut and Hellenistic Tanagra figurines of elegantly dressed women. Further sections cover funerary boats, Roman baths, the afterlife, jewellery of the Muhammad Ali family and the heritage of Sinai's Bedouin communities. Evening hours suit visitors staying at the resorts.",
+  "ar": "اقتُرحت فكرة متحف شرم الشيخ عام 1999، وافتُتح أخيرًا عام 2020 بعد توقفات طويلة، ليكون أول متحف للآثار في جنوب سيناء. ولا يتبع طابقاه تسلسلًا زمنيًا صارمًا بل محاور موضوعية: كيف فهم المصريون العالم الطبيعي من حولهم، وإنجازاتهم في العلوم والحرف والحياة اليومية، ودور مصر الممتد ملتقى للحضارات. وتضع القاعة الكبرى الإنسان والحياة البرية جنبًا إلى جنب، بمومياوات حيوانات تعكس التقديس الذي حظيت به القطط والطيور وكائنات أخرى مقدسة للآلهة. وفي قاعة الحضارة تبرز التوابيت الداخلية والخارجية لإست إم خب، زوجة كبير كهنة آمون بينجم الثاني وهي نفسها كاهنة، وتُعرض معها صناديق أحشائها وبردياتها وأواني الزينة والعطور. ومن القطع الأخرى رأس تمثال لحتشبسوت وتماثيل تاناجرا الهلنستية لنساء في أزياء أنيقة. وتتناول أقسام أخرى المراكب الجنائزية والحمامات الرومانية والعالم الآخر ومجوهرات أسرة محمد علي وتراث بدو سيناء. وتناسب الفترة المسائية نزلاء المنتجعات."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Coffins of Isetemkheb",
+    "ar": "توابيت إست إم خب"
+   },
+   "desc": {
+    "en": "Painted inner and outer coffins of a priestess, wife of Pinedjem II.",
+    "ar": "التابوتان الداخلي والخارجي الملونان لكاهنة، زوجة بينجم الثاني."
+   }
+  },
+  {
+   "title": {
+    "en": "Animal mummies",
+    "ar": "مومياوات الحيوانات"
+   },
+   "desc": {
+    "en": "Mummified cats, birds and other sacred animals in the Grand Hall.",
+    "ar": "قطط وطيور وحيوانات مقدسة أخرى محنطة في القاعة الكبرى."
+   }
+  },
+  {
+   "title": {
+    "en": "Head of Hatshepsut",
+    "ar": "رأس حتشبسوت"
+   },
+   "desc": {
+    "en": "A statue head of the female pharaoh.",
+    "ar": "رأس تمثال للملكة الفرعون."
+   }
+  },
+  {
+   "title": {
+    "en": "Tanagra figurines",
+    "ar": "تماثيل تاناجرا"
+   },
+   "desc": {
+    "en": "Hellenistic terracottas of women in varied dress.",
+    "ar": "تماثيل هلنستية من الطين المحروق لنساء في أزياء متنوعة."
+   }
+  },
+  {
+   "title": {
+    "en": "Sinai heritage",
+    "ar": "تراث سيناء"
+   },
+   "desc": {
+    "en": "Bedouin costume, crafts and objects from the peninsula.",
+    "ar": "أزياء وحرف ومقتنيات بدوية من شبه الجزيرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Muhammad Ali family jewellery",
+    "ar": "مجوهرات أسرة محمد علي"
+   },
+   "desc": {
+    "en": "Royal jewellery from the nineteenth and twentieth centuries.",
+    "ar": "مجوهرات ملكية من القرنين التاسع عشر والعشرين."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "mon",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   },
+   {
+    "day": "tue",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "tue",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   },
+   {
+    "day": "wed",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "wed",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   },
+   {
+    "day": "thu",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "thu",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   },
+   {
+    "day": "fri",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "fri",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   },
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "sat",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   },
+   {
+    "day": "sun",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "sun",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan: 10:00–12:00 (last entry 11:00) and 20:00–23:00 (last entry 22:00)",
+     "ar": "رمضان: 10:00–12:00 (آخر دخول 11:00) و20:00–23:00 (آخر دخول 22:00)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "mon",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "tue",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "wed",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "thu",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "fri",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "fri",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "sat",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "sun",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Audio guide — foreign visitor",
+     "ar": "الدليل الصوتي — زائر أجنبي"
+    },
+    "audience": "foreign",
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Audio guide — Egyptian visitor",
+     "ar": "الدليل الصوتي — زائر مصري"
+    },
+    "audience": "egyptian",
+    "amount": 30
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/SharmElSheikhMuseum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "The evening session, when the day's heat has passed.",
+   "ar": "الفترة المسائية بعد انكسار حرارة النهار."
+  },
+  "crowdNotes": {
+   "en": "Closed between 13:00 and 17:00. Tour groups from the resorts come mostly in the evening. Large bags go to the cloakroom; flash photography is not allowed and a camera-stand ticket is needed for tripods.",
+   "ar": "مغلق بين 13:00 و17:00. وتأتي مجموعات المنتجعات غالبًا في المساء. وتُترك الحقائب الكبيرة في غرفة الأمانات، ولا يُسمح بالتصوير بالفلاش، ويلزم شراء تذكرة لحامل الكاميرا."
+  }
+ },
+ "accessibility": {
+  "elevator": true,
+  "rampedEntrance": true,
+  "brailleLabels": true
+ },
+ "facilities": {
+  "cafe": true,
+  "giftShop": true,
+  "parking": true,
+  "vipHall": true,
+  "openTheatre": true,
+  "cloakroom": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cercueil_pour_une_momie_de_chat_%28la_Villette%2C_2023%29.jpg",
+   "author": "Tangopaso",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cercueil_pour_une_momie_de_chat_(la_Villette,_2023).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lionceau_momifi%C3%A9_%28la_Villette%2C_2023%29.jpg",
+   "author": "Tangopaso",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lionceau_momifi%C3%A9_(la_Villette,_2023).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/sharm-al-sheikh-museum/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B4%D8%B1%D9%85_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q64744327",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/sharm-al-sheikh-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (10:00-13:00, window to 12:00; 17:00-23:00, to 22:00; Ramadan 10:00-12:00 and 20:00-23:00),prices,extras (audio guide),freeGroups,facilities,highlights",
+   "url": "https://egymonuments.gov.eg/en/museums/sharm-al-sheikh-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan 10:00-14:00 and 20:00-23:00),address,highlights",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-شرم-الشيخ/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (last entry 12:00 and 22:00; Ramadan 13:00 and 22:00),tickets",
+   "url": "https://egymonuments.com/details/SharmElSheikhMuseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (temporary exhibition 'Stone and Ink' from 29 Aug 2026 for three months)",
+   "url": "https://www.youm7.com/story/2026/8/29/%D9%85%D8%AA%D8%AD%D9%81-%D8%B4%D8%B1%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B9%D8%B1%D8%B6-%C2%AB%D8%A7%D9%84%D8%AD%D8%AC%D8%B1-%D9%88%D8%A7%D9%84%D8%AD%D8%A8%D8%B1%C2%BB-%D8%B1%D8%AD%D9%84%D8%A9-%D8%B9%D8%A8%D8%B1-14/7529620",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B4%D8%B1%D9%85_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Cercueil_pour_une_momie_de_chat_(la_Villette,_2023).jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Lionceau_momifi%C3%A9_(la_Villette,_2023).jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Ramadan conflict as for Hurghada: portal 10:00-12:00 (window 11:00) and 20:00-23:00 (22:00) vs MoTA guide morning to 14:00 and booking Ramadan last entry 13:00; earlier times used. statusNote mentions the 'Stone and Ink' exhibition (opened 29 Aug 2026, three months per youm7): TIME-LIMITED: the exhibition sentence in statusNote (EN and AR) expires about 2026-11-29 (three months from 29 Aug 2026); still valid on 2026-10-04. Photos: no CC photos taken inside the museum exist on Commons; the two used show Sharm museum objects (cat-mummy coffin, lion-cub mummy, inventory 'Museum of Sharm-El-Sheikh') photographed on loan at the 'Ramses and the Gold of the Pharaohs' exhibition in Paris (2023). That touring show may still hold them abroad, so they are not named as highlights. The colossus of Ramesses II (JE 87299) is likewise not listed. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

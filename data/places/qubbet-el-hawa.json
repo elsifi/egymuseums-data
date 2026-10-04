@@ -1,0 +1,255 @@
+{
+ "id": "qubbet-el-hawa",
+ "kind": "site",
+ "wikidataId": "Q1518125",
+ "name": {
+  "en": "Qubbet el-Hawa (Tombs of the Nobles, Aswan)",
+  "ar": "قبة الهوا"
+ },
+ "aliases": [
+  "Kubbet el Hawa",
+  "Old and Middle Kingdom Tombs",
+  "Qubbet el-Hawa"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Aswan",
+  "ar": "أسوان"
+ },
+ "area": {
+  "en": "West bank, Aswan",
+  "ar": "البر الغربي، أسوان"
+ },
+ "address": {
+  "en": "West bank of the Nile opposite the northern tip of Elephantine Island, Aswan — reached by public ferry or boat",
+  "ar": "البر الغربي للنيل قبالة الطرف الشمالي لجزيرة إلفنتين، أسوان — يُوصل إليها بالمعدية العامة أو بالقارب"
+ },
+ "lat": 24.1025,
+ "lng": 32.888889,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Steep stairs lead up from the riverbank to the tombs.",
+  "ar": "مفتوح يوميًا، ويصعد الزائر درجًا شديد الانحدار من ضفة النهر حتى المقابر."
+ },
+ "summary": {
+  "en": "Rock-cut tombs of Aswan's ancient governors high on the west-bank cliffs, with sweeping views over the Nile.",
+  "ar": "مقابر صخرية لحكام أسوان القدماء عالية في جروف البر الغربي، تطل على مشهد بانورامي للنيل."
+ },
+ "description": {
+  "en": "Across the river from the Aswan Corniche, the sandstone hill of Qubbet el-Hawa is lined with tombs cut for the governors and high officials of Elephantine during the Old and Middle Kingdoms, roughly between 2300 and 1800 BC; the cemetery remained in use into Roman times. Its name, 'dome of the wind', comes from the small domed shrine of a local holy man, Sheikh Ali Abu el-Hawa, on the summit. Steep stairs climb from the riverbank to the tomb terraces. The most elaborate tomb belongs to Sarenput II, a Middle Kingdom governor, with a pillared hall, a corridor lined with statue niches and a shrine whose painted scenes keep vivid colour. The decorated façade of his predecessor Sarenput I is also notable. Older tombs record remarkable lives: the inscriptions of Harkhuf describe trading expeditions deep into Africa and quote a letter from the boy king Pepi II eager to see a dancing pygmy, while the joint tomb of Mekhu and Sabni tells of a son who travelled into Nubia to bring home his father's body. The climb is rewarded with one of the finest panoramas in Aswan.",
+  "ar": "قبالة كورنيش أسوان، يمتد تل قبة الهوا من الحجر الرملي وقد نُحتت فيه مقابر حكام إلفنتين وكبار موظفيها في عصري الدولتين القديمة والوسطى، أي بين نحو 2300 و1800 قبل الميلاد، وظلت الجبانة مستخدمة حتى العصر الروماني. ويرجع اسمها إلى القبة الصغيرة لضريح الشيخ علي أبو الهوا، أحد الأولياء المحليين، على قمة التل. ويصعد درج شديد الانحدار من ضفة النهر إلى مصاطب المقابر. وأكثر المقابر فخامة مقبرة سارنبوت الثاني، حاكم الإقليم في الدولة الوسطى، وتضم صالة أعمدة ودهليزًا تصطف فيه كوات التماثيل ومقصورة تحتفظ مناظرها المرسومة بألوان زاهية. كما تلفت النظر الواجهة المنقوشة لسلفه سارنبوت الأول. وتروي المقابر الأقدم سيرًا مدهشة: فنقوش حرخوف تصف رحلات تجارية إلى أعماق أفريقيا، وتنقل رسالة من الملك الصبي ببي الثاني يتشوق فيها لرؤية قزم راقص، بينما تحكي المقبرة المشتركة لميخو وسابني قصة ابن رحل إلى النوبة ليعود بجثمان أبيه. ويكافئ الصعود زائره بواحدة من أجمل الإطلالات في أسوان."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Sarenput II",
+    "ar": "مقبرة سارنبوت الثاني"
+   },
+   "desc": {
+    "en": "Pillared hall, statue niches and a brightly painted shrine.",
+    "ar": "صالة أعمدة وكوات للتماثيل ومقصورة بمناظر زاهية الألوان."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Sarenput I",
+    "ar": "مقبرة سارنبوت الأول"
+   },
+   "desc": {
+    "en": "A Middle Kingdom tomb with a decorated entrance façade.",
+    "ar": "مقبرة من الدولة الوسطى بواجهة مدخل منقوشة."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Harkhuf",
+    "ar": "مقبرة حرخوف"
+   },
+   "desc": {
+    "en": "Inscriptions of African expeditions and Pepi II's letter about a dancing pygmy.",
+    "ar": "نقوش عن الرحلات إلى أفريقيا ورسالة ببي الثاني عن القزم الراقص."
+   }
+  },
+  {
+   "title": {
+    "en": "Tombs of Mekhu and Sabni",
+    "ar": "مقبرتا ميخو وسابني"
+   },
+   "desc": {
+    "en": "A father-and-son tomb recording the recovery of a body from Nubia.",
+    "ar": "مقبرة أب وابنه تروي استعادة جثمان من النوبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Dome of the wind",
+    "ar": "قبة الهوا"
+   },
+   "desc": {
+    "en": "The hilltop shrine that gives the site its name, with views over Aswan.",
+    "ar": "الضريح الذي يمنح الموقع اسمه على قمة التل، بإطلالة على أسوان."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Early morning, before the sun heats the cliff face; late afternoon light over the Nile is also beautiful.",
+   "ar": "الصباح الباكر قبل أن تشتد حرارة الجرف، كما أن ضوء آخر النهار على النيل بديع."
+  },
+  "crowdNotes": {
+   "en": "The climb is steep with little shade. Ferries and boats leave from the Corniche; the hilltop shrine is a further sandy walk above the tombs.",
+   "ar": "الصعود شديد الانحدار وقليل الظل. تنطلق المعديات والقوارب من الكورنيش، ويقع الضريح أعلى التل بعد مسير رملي إضافي فوق المقابر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Tombs_of_the_Nobles.jpg",
+   "author": "Zezinho68",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tombs_of_the_Nobles.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Qubbet_el-Hawa_Sarenput_I._01.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qubbet_el-Hawa_Sarenput_I._01.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Qubbet_el-Hawa_Sarenput_I._08.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qubbet_el-Hawa_Sarenput_I._08.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/qubbat-al-hawa-cemetery-1/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Qubbet_el-Hawa",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D9%87%D9%88%D8%A7",
+  "osm": "way/1080026210"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1518125",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/qubbat-al-hawa-cemetery-1/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/aswan-cemetery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/qubbat-al-hawa-cemetery-1/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices (cross-check: 07:00-16:00; foreign 200/100, Egyptian 20/10)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Qubbet_el-Hawa",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Not listed on the egymonuments.com booking platform (onlineUrl null, platform onsite). Hours and prices come from the portal, cross-checked with the Nov 2024 list; no last entry or Ramadan schedule is published, and no free-entry list is shown. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

@@ -153,7 +153,7 @@
      "en": "Summer: last entry 17:00",
      "ar": "الصيف: آخر دخول الساعة 17:00"
     },
-    "rule": "summer (season dates not published)",
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
     "weekly": [
      {
       "day": "mon",
@@ -190,53 +190,9 @@
       "open": "06:00",
       "lastEntry": "17:00"
      }
-    ]
-   },
-   {
-    "label": {
-     "en": "Ramadan: same as winter, last entry 16:00",
-     "ar": "رمضان: كالمواعيد الشتوية، آخر دخول 16:00"
-    },
-    "rule": "Ramadan",
-    "from": "2027-02-08",
-    "to": "2027-03-08",
-    "weekly": [
-     {
-      "day": "mon",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "tue",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "wed",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "thu",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "fri",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "sat",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "sun",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     }
-    ]
+    ],
+    "from": "2026-04-24",
+    "to": "2026-10-29"
    }
   ]
  },
@@ -265,7 +221,7 @@
    }
   ],
   "freeGroups": [
-   "children under 6",
+   "Children under 6",
    "Egyptians with special needs",
    "Egyptians aged 60+"
   ]
@@ -290,19 +246,19 @@
  },
  "photos": [
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Medinet_Habu_Temple_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Medinet_Habu_Temple_R01.jpg",
    "author": "Marc Ryckaert (MJJR)",
    "license": "CC BY 3.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medinet_Habu_Temple_R01.jpg"
   },
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Medinet_Habu_Temple%2C_Piles_of_Hands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Medinet_Habu_Temple%2C_Piles_of_Hands.jpg",
    "author": "Steven C. Price",
    "license": "CC BY-SA 3.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medinet_Habu_Temple,_Piles_of_Hands.jpg"
   },
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Medinet_Habu_Temple_Column_Detail2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Medinet_Habu_Temple_Column_Detail2.jpg",
    "author": "Steven C. Price",
    "license": "CC BY-SA 3.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medinet_Habu_Temple_Column_Detail2.jpg"
@@ -370,9 +326,19 @@
    "field": "photos (license, author)",
    "url": "https://commons.wikimedia.org/wiki/File:Medinet_Habu_Temple_Column_Detail2.jpg",
    "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours(summer 2026, Luxor antiquities announcement from 24 Apr 2026)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-04"
   }
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "D4: foreign adult 220 (booking platform, MoTA Nov 2024 list, 2026 guides); the portal's 230 is treated as outdated. No source says the gate price differs, so no onlineAmount. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+ "curationNote": "D4: foreign adult 220 (booking platform, MoTA Nov 2024 list, 2026 guides); the portal's 230 is treated as outdated. No source says the gate price differs, so no onlineAmount. Summer exception dated 2026-04-24 to 2026-10-29 on 2026-10-04 (it had no dates): the Luxor antiquities 2026 summer schedule started 24 Apr, and the season ends with daylight-saving time on 29 Oct (batch-7 Q7a); recheck the winter 2026-27 schedule after 29 Oct 2026. Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
 }

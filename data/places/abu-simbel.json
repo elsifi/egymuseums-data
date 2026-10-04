@@ -162,52 +162,6 @@
     "rule": "annually on 22 February and 22 October",
     "from": "2026-10-22",
     "to": "2026-10-22"
-   },
-   {
-    "label": {
-     "en": "Ramadan: same hours, last entry 16:00",
-     "ar": "رمضان: المواعيد نفسها، آخر دخول 16:00"
-    },
-    "rule": "Ramadan",
-    "from": "2027-02-08",
-    "to": "2027-03-08",
-    "weekly": [
-     {
-      "day": "mon",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "tue",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "wed",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "thu",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "fri",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "sat",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "sun",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     }
-    ]
    }
   ]
  },
@@ -240,7 +194,7 @@
    }
   ],
   "freeGroups": [
-   "children under 6",
+   "Children under 6",
    "Egyptians with special needs",
    "Egyptians aged 60+"
   ],
@@ -333,19 +287,19 @@
  },
  "photos": [
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gro%C3%9Fer_Tempel_%28Abu_Simbel%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gro%C3%9Fer_Tempel_%28Abu_Simbel%29_01.jpg",
    "author": "Olaf Tausch",
    "license": "CC BY 3.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_01.jpg"
   },
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Kleiner_Tempel_%28Abu_Simbel%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Kleiner_Tempel_%28Abu_Simbel%29_02.jpg",
    "author": "Olaf Tausch",
    "license": "CC BY 3.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kleiner_Tempel_(Abu_Simbel)_02.jpg"
   },
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_59-61_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_59-61_HDR.jpg",
    "author": "Diego Delso",
    "license": "CC BY-SA 4.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_59-61_HDR.jpg"
@@ -427,5 +381,5 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "effectiveFrom (2024-11-01) removed: the date comes only from a news report of the SCA decision (aleqaria.com.eg); set it again once the dated official decision is cited. cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.youm7.com); needs an official 2025-2026 source. D2: `amount` is the portal/gate price (750/375, 30/10; alignment day 1200/600); `onlineAmount` is what the egymonuments.com booking platform charges (822/445.5, 30.5/10.5; alignment day 1272/670.5 for foreign visitors; the Egyptian alignment-day online price was not shown). Whether the gate itself charges the online price is not confirmed. D14: alignment-day logistics moved from hours.exceptions to visit.crowdNotes; the Feb 2026 note (festivities cancelled for Ramadan, temple still open for viewing; youm7 2026-02-21) was dropped from user text. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+ "curationNote": "effectiveFrom (2024-11-01) removed: the date comes only from a news report of the SCA decision (aleqaria.com.eg); set it again once the dated official decision is cited. cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.youm7.com); needs an official 2025-2026 source. D2: `amount` is the portal/gate price (750/375, 30/10; alignment day 1200/600); `onlineAmount` is what the egymonuments.com booking platform charges (822/445.5, 30.5/10.5; alignment day 1272/670.5 for foreign visitors; the Egyptian alignment-day online price was not shown). Whether the gate itself charges the online price is not confirmed. D14: alignment-day logistics moved from hours.exceptions to visit.crowdNotes; the Feb 2026 note (festivities cancelled for Ramadan, temple still open for viewing; youm7 2026-02-21) was dropped from user text. Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
 }

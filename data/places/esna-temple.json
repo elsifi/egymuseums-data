@@ -1,0 +1,335 @@
+{
+ "id": "esna-temple",
+ "kind": "site",
+ "wikidataId": "Q1131024",
+ "name": {
+  "en": "Temple of Esna (Temple of Khnum)",
+  "ar": "معبد إسنا (معبد خنوم)"
+ },
+ "aliases": [
+  "Temple of Khnum",
+  "معبد خنوم"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Esna",
+  "ar": "إسنا"
+ },
+ "area": {
+  "en": "Esna town centre, west bank of the Nile (about 60 km south of Luxor)",
+  "ar": "وسط مدينة إسنا، غرب النيل (نحو 60 كم جنوب الأقصر)"
+ },
+ "address": {
+  "en": "Temple of Khnum, central Esna, near the old market, Luxor Governorate",
+  "ar": "معبد خنوم، وسط مدينة إسنا، بالقرب من السوق القديم، محافظة الأقصر"
+ },
+ "lat": 25.293417,
+ "lng": 32.556222,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily, with longer hours on Sunday, Tuesday and Friday.",
+  "ar": "مفتوح يوميًا، وتمتد المواعيد أيام الأحد والثلاثاء والجمعة."
+ },
+ "summary": {
+  "en": "The Roman-era hall of the temple of the ram god Khnum, sunk below the streets of Esna, its ceiling now glowing with restored colour.",
+  "ar": "بهو الأساطين الروماني لمعبد المعبود الكبش خنوم، يقع تحت مستوى شوارع إسنا، وقد استعاد سقفه ألوانه الزاهية بعد الترميم."
+ },
+ "description": {
+  "en": "Esna's temple was dedicated to Khnum, the ram-headed creator god who shaped people on his potter's wheel, together with the goddess Neith and other deities. Only the great columned hall survives, and it sits about nine metres below today's street level, because the town grew up over the ruins; visitors walk down a stairway into a sunken courtyard. The hall was added in the Roman period, probably under Claudius, to a temple begun by the Ptolemies, whose rear wall still carries their reliefs. Eighteen columns and six half-columns, each crowned by a different floral capital, support a ceiling covered with astronomical figures, zodiac signs and constellations. The walls and columns carry some of the latest long hieroglyphic texts known, including festival calendars and hymns, and show Roman emperors as far as Decius dressed as pharaohs. Since 2018 a joint Egyptian–German conservation project has removed centuries of soot and dirt, revealing vivid original paintwork. Nile cruise ships stop at the Esna lock, so the temple is often visited on a short walk through the town's market.",
+  "ar": "كُرّس معبد إسنا للمعبود خنوم ذي رأس الكبش، الخالق الذي يشكّل البشر على عجلة الفخار، ومعه المعبودة نيت ومعبودات أخرى. ولم يبق منه سوى بهو الأساطين الكبير، الذي يقع على عمق نحو تسعة أمتار تحت مستوى الشارع الحالي لأن المدينة نمت فوق أطلاله، فينزل الزائر عبر درج إلى فناء منخفض. وقد أُضيف البهو في العصر الروماني، على الأرجح في عهد كلوديوس، إلى معبد بدأه البطالمة، ولا يزال جداره الخلفي يحمل نقوشهم. وتحمل ثمانية عشر عمودًا وستة أنصاف أعمدة، لكل منها تاج نباتي مختلف، سقفًا تغطيه رموز فلكية وأبراج ومجموعات نجمية. وتضم الجدران والأعمدة بعضًا من آخر النصوص الهيروغليفية الطويلة المعروفة، منها تقاويم الأعياد والأناشيد، وتصوّر أباطرة الرومان حتى ديكيوس في هيئة الفراعنة. ومنذ عام 2018 أزال مشروع ترميم مصري ألماني مشترك طبقات السخام والأتربة المتراكمة عبر القرون، فظهرت الألوان الأصلية زاهية. وترسو البواخر النيلية عند هويس إسنا، لذا كثيرًا ما يُزار المعبد في جولة قصيرة سيرًا عبر سوق المدينة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Astronomical ceiling",
+    "ar": "السقف الفلكي"
+   },
+   "desc": {
+    "en": "Zodiac signs, planets and constellations, now cleaned to show their colours.",
+    "ar": "أبراج وكواكب ومجموعات نجمية، وقد نُظّفت فظهرت ألوانها."
+   }
+  },
+  {
+   "title": {
+    "en": "Floral capitals",
+    "ar": "التيجان النباتية"
+   },
+   "desc": {
+    "en": "Twenty-four columns and half-columns, no two capitals alike.",
+    "ar": "أربعة وعشرون عمودًا ونصف عمود، لا يتشابه تاجان منها."
+   }
+  },
+  {
+   "title": {
+    "en": "Roman emperors as pharaohs",
+    "ar": "أباطرة الرومان في هيئة الفراعنة"
+   },
+   "desc": {
+    "en": "Reliefs of emperors from Claudius to Decius making offerings to the gods.",
+    "ar": "نقوش لأباطرة من كلوديوس إلى ديكيوس يقدمون القرابين للمعبودات."
+   }
+  },
+  {
+   "title": {
+    "en": "Ptolemaic rear wall",
+    "ar": "الجدار الخلفي البطلمي"
+   },
+   "desc": {
+    "en": "The only surviving part of the earlier temple, with reliefs of Ptolemy VI and Ptolemy VIII.",
+    "ar": "الجزء الوحيد الباقي من المعبد الأقدم، وعليه نقوش بطلميوس السادس وبطلميوس الثامن."
+   }
+  },
+  {
+   "title": {
+    "en": "Sunken setting",
+    "ar": "الموقع المنخفض"
+   },
+   "desc": {
+    "en": "The hall lies some nine metres below the modern town, reached by a stairway.",
+    "ar": "يقع البهو على عمق نحو تسعة أمتار تحت المدينة الحديثة، ويُنزل إليه عبر درج."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "07:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "tue",
+      "open": "07:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "wed",
+      "open": "07:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "thu",
+      "open": "07:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "fri",
+      "open": "07:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sat",
+      "open": "07:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sun",
+      "open": "07:00",
+      "lastEntry": "16:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/EsnaTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Mid-morning or late afternoon; the sunken hall stays relatively cool, and the colours read best in soft light.",
+   "ar": "منتصف الصباح أو آخر النهار، فالبهو المنخفض يظل لطيفًا نسبيًا، وتظهر الألوان في أجمل حالاتها مع الضوء الهادئ."
+  },
+  "crowdNotes": {
+   "en": "Cruise passengers arrive in waves when boats wait at the Esna lock; outside those times the temple is calm. The walk from the river passes through a busy market street.",
+   "ar": "يصل ركاب البواخر على دفعات حين تنتظر السفن عند هويس إسنا، وفي غير هذه الأوقات يكون المعبد هادئًا. ويمر الطريق من النهر عبر شارع سوق مزدحم."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Esna_Tempel_31.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Esna_Tempel_31.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Esna_Tempel_06.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Esna_Tempel_06.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Esna_Tempel_Deckenrelief_31.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Esna_Tempel_Deckenrelief_31.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Temple_of_Esna",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D8%AE%D9%86%D9%88%D9%85",
+  "osm": "way/133868409"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1131024",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (per-day),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/EsnaTemple",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (booking page)",
+   "url": "https://egymonuments.com/book-date/15",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (07:00-17:00; Sun, Tue, Fri 07:00-19:00),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-إسنا/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (ceiling restoration)",
+   "url": "https://egymonuments.gov.eg/en/news/restoration-works-on-the-ceiling-of-esna-temple/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (newly revealed scenes)",
+   "url": "https://egymonuments.gov.eg/en/news/new-scene-details-on-the-walls-and-columns-of-esna-temple/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Temple_of_Esna",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Esna_Tempel_31.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Esna_Tempel_06.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Esna_Tempel_Deckenrelief_31.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Hours conflict on Sun/Tue/Fri: booking platform 07:00-18:00, MoTA guide 07:00-19:00, MoTA Nov 2024 list repeats 07:00-17:00 - the earlier official 18:00 is used (D3 rule), with lastEntry 17:00 from the guide's one-hour rule. Other days: 07:00-17:00, last entry 16:00 (booking platform + guide). Reason for the longer days not found (possibly cruise schedules). No summer exception: the booking platform shows identical summer/winter rows. Ramadan: last entry 16:00 only (closing not published). The 2018 start date of the Egyptian-German (Tübingen) project is from general knowledge/Wikipedia-level sources; the official news pages are undated. Wikalat al-Gedawi is 'within Esna Temple ticket' on the Nov 2024 list only - not claimed. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

@@ -1,0 +1,259 @@
+{
+ "id": "mahmoud-said-museums-center",
+ "kind": "museum",
+ "wikidataId": "Q12239098",
+ "name": {
+  "en": "Mahmoud Said Museums Center",
+  "ar": "مجمع متاحف محمود سعيد"
+ },
+ "aliases": [
+  "متحف محمود سعيد",
+  "مركز محمود سعيد للمتاحف"
+ ],
+ "category": "modern-art",
+ "operator": "ministry-of-culture",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Gianaclis",
+  "ar": "جناكليس"
+ },
+ "address": {
+  "en": "6 Mohamed Pasha Said Street, Gianaclis, Alexandria",
+  "ar": "6 شارع محمد باشا سعيد، جناكليس، الإسكندرية"
+ },
+ "lat": 31.244334,
+ "lng": 29.968917,
+ "status": "open",
+ "statusNote": {
+  "en": "Closed on Mondays; opens only in the afternoon and evening on Fridays.",
+  "ar": "مغلق يوم الاثنين، ويفتح يوم الجمعة في فترتي العصر والمساء فقط."
+ },
+ "summary": {
+  "en": "The family villa of Mahmoud Said, a pioneer of modern Egyptian painting, now home to three art museums.",
+  "ar": "قصر الفنان محمود سعيد، أحد رواد التصوير المصري الحديث، وقد صار مقرًا لثلاثة متاحف فنية."
+ },
+ "description": {
+  "en": "Mahmoud Said (1897–1964) was born into a prominent Alexandrian family, trained in law and served for years as a judge, including in the Mixed Courts, while painting in every spare moment, until he left the bench in the late 1940s to devote himself to art. His warm, sculptural portraits of Alexandrian women, fishermen, worshippers and Nile landscapes made him one of the founders of modern Egyptian painting. His villa in the Gianaclis district of eastern Alexandria opened as a museum centre in 2000 and reopened after a full renovation in November 2014. The ground floor is devoted to Said himself, with paintings from across his career, personal memorabilia and the decorations he received from the state. The first floor presents the brothers Seif and Adham Wanly, Alexandrian painters known for their scenes of ballet, circus and city life, while the basement houses a museum of modern Egyptian art. Two galleries for changing exhibitions, plus workshops and lectures, keep the centre lively. It is run by the Fine Arts Sector of the Ministry of Culture.",
+  "ar": "وُلد محمود سعيد (1897–1964) لأسرة سكندرية مرموقة، ودرس القانون وعمل قاضيًا سنوات طويلة، منها فترة في المحاكم المختلطة، وكان يرسم في كل وقت يتاح له، حتى ترك القضاء في أواخر الأربعينيات ليتفرغ للفن. وجعلته صوره الدافئة ذات الكتل الواضحة لنساء الإسكندرية والصيادين والمصلين ومناظر النيل واحدًا من مؤسسي فن التصوير المصري الحديث. وقد افتُتح قصره في حي جناكليس شرق الإسكندرية مركزًا للمتاحف عام 2000، ثم أعيد افتتاحه بعد تطوير شامل في نوفمبر 2014. يُخصص الطابق الأرضي للفنان نفسه، ويضم لوحات من مختلف مراحل مسيرته ومقتنيات شخصية والأوسمة التي نالها من الدولة. ويقدم الطابق الأول الأخوين سيف وأدهم وانلي، الرسامين السكندريين المعروفين بمشاهد الباليه والسيرك وحياة المدينة، بينما يضم الطابق السفلي متحفًا للفن المصري الحديث. وتحافظ قاعتان للعروض المتغيرة، إلى جانب الورش والمحاضرات، على حيوية المركز. ويتبع المركز قطاع الفنون التشكيلية بوزارة الثقافة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Mahmoud Said galleries",
+    "ar": "قاعات محمود سعيد"
+   },
+   "desc": {
+    "en": "Paintings from every stage of the artist's career on the ground floor.",
+    "ar": "لوحات من كل مراحل مسيرة الفنان في الطابق الأرضي."
+   }
+  },
+  {
+   "title": {
+    "en": "My Friend at the Mixed Courts (1923)",
+    "ar": "صديقي بالمحاكم المختلطة (1923)"
+   },
+   "desc": {
+    "en": "An early oil portrait from the years Said spent as a judge.",
+    "ar": "صورة زيتية مبكرة من سنوات عمل سعيد بالقضاء."
+   }
+  },
+  {
+   "title": {
+    "en": "My Wife in the Green Shawl",
+    "ar": "قرينتي بالشال الأخضر"
+   },
+   "desc": {
+    "en": "An intimate portrait of the artist's wife from the museum's own collection.",
+    "ar": "صورة حميمة لزوجة الفنان من مقتنيات المتحف."
+   }
+  },
+  {
+   "title": {
+    "en": "State honours",
+    "ar": "أوسمة الدولة"
+   },
+   "desc": {
+    "en": "The State Merit Award (1959) and the Order of Merit, first class (1960), presented by President Nasser.",
+    "ar": "جائزة الدولة التقديرية (1959) ووسام الاستحقاق من الطبقة الأولى (1960)، وقد منحهما له الرئيس جمال عبد الناصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Seif and Adham Wanly Museum",
+    "ar": "متحف سيف وأدهم وانلي"
+   },
+   "desc": {
+    "en": "Works by the Alexandrian brothers on the first floor, from ballet to the circus.",
+    "ar": "أعمال الأخوين السكندريين في الطابق الأول، من الباليه إلى السيرك."
+   }
+  },
+  {
+   "title": {
+    "en": "Museum of Modern Egyptian Art",
+    "ar": "متحف الفن المصري الحديث"
+   },
+   "desc": {
+    "en": "A selection of 20th-century Egyptian art in the basement galleries.",
+    "ar": "مختارات من الفن المصري في القرن العشرين بقاعات الطابق السفلي."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "21:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "21:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "21:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "21:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "21:00"
+   },
+   {
+    "day": "fri",
+    "open": "15:00",
+    "close": "21:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Late afternoon or evening, thanks to the long opening hours.",
+   "ar": "آخر العصر أو المساء بفضل ساعات العمل الممتدة."
+  },
+  "crowdNotes": {
+   "en": "Generally calm; cultural events and exhibition openings can bring crowds in the evening.",
+   "ar": "هادئ عمومًا، وقد تجذب الفعاليات الثقافية وافتتاحات المعارض جمهورًا كبيرًا في المساء."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/%D8%B5%D8%AF%D9%8A%D9%82%D9%8A_%D8%A8%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D9%85_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D8%B7%D8%A9.jpg",
+   "author": "مركز محمود سعيد للمتاحف",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%B5%D8%AF%D9%8A%D9%82%D9%8A_%D8%A8%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D9%85_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D8%B7%D8%A9.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/%D9%82%D8%B1%D9%8A%D9%86%D8%AA%D9%8A_%D8%A8%D8%A7%D9%84%D8%B4%D8%A7%D9%84_%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1.jpg",
+   "author": "مركز محمود سعيد للمتاحف",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%82%D8%B1%D9%8A%D9%86%D8%AA%D9%8A_%D8%A8%D8%A7%D9%84%D8%B4%D8%A7%D9%84_%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=33",
+  "social": [
+   "https://www.facebook.com/mahmoud.said.museum.alex/"
+  ]
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D8%B9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%B3%D8%B9%D9%8A%D8%AF",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12239098",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (floors, reopening 11 Nov 2014; official Fine Arts Sector page)",
+   "url": "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=33",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,address (official Fine Arts Sector visitor page; older hours 10:00-16:00 superseded)",
+   "url": "https://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=33",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Fine Arts Sector decision extending hours, Feb 2025)",
+   "url": "https://www.youm7.com/story/2025/2/16/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%80-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D9%8A%D8%A9/6884390",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (opened 2000)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D8%B9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%B3%D8%B9%D9%8A%D8%AF",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (artworks and honours, captions by the Mahmoud Said Museums Center)",
+   "url": "https://commons.wikimedia.org/wiki/File:%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D8%B1%D9%8A%D8%A9.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "social (official Facebook page)",
+   "url": "https://www.facebook.com/mahmoud.said.museum.alex/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Ministry of Culture museum. Hours: the Feb 2025 Fine Arts Sector decision (youm7) replaced the 10:00-16:00 (closed Mon and Fri) schedule still shown on the undated official page; no 2026 confirmation found. Prices 20 foreign / 10 Egyptian / 5 Egyptian student come only from the undated official visitor page and may be outdated; no foreign-student price is published. Last entry not published. Photos are the Center's own uploads of works by Mahmoud Said (d. 1964; public domain in Egypt), licensed CC BY-SA 4.0."
+}

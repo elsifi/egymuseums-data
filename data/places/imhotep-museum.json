@@ -1,0 +1,368 @@
+{
+ "id": "imhotep-museum",
+ "kind": "museum",
+ "wikidataId": "Q2341403",
+ "name": {
+  "en": "Imhotep Museum",
+  "ar": "متحف إمحوتب"
+ },
+ "aliases": [
+  "Imhotep Museum in Saqqara"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "giza",
+ "city": {
+  "en": "Badrashin",
+  "ar": "البدرشين"
+ },
+ "area": {
+  "en": "Saqqara necropolis (site entrance)",
+  "ar": "جبانة سقارة (مدخل المنطقة)"
+ },
+ "address": {
+  "en": "Entrance of the Saqqara archaeological area, off the Mariouteya tourist road, Badrashin, Giza",
+  "ar": "مدخل منطقة آثار سقارة، طريق المريوطية السياحي، مركز البدرشين، الجيزة"
+ },
+ "lat": 29.8697,
+ "lng": 31.2164,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Entry is included in the Saqqara site ticket.",
+  "ar": "مفتوح يوميًا، والدخول مشمول في تذكرة منطقة آثار سقارة."
+ },
+ "summary": {
+  "en": "The site museum at the entrance to Saqqara, named after the architect of the Step Pyramid and filled with finds from the necropolis.",
+  "ar": "متحف الموقع عند مدخل سقارة، يحمل اسم مهندس الهرم المدرج ويضم مكتشفات من الجبانة."
+ },
+ "description": {
+  "en": "Imhotep, vizier and architect to King Djoser in the Third Dynasty, is credited with designing the Step Pyramid, the first monumental building in stone, and was later revered as a god of wisdom and healing. The museum named after him opened in 2006 at the foot of the Saqqara plateau to show the best finds from the necropolis in a secure, climate-controlled setting. Its six halls move from the entrance, where a statue base of Djoser carved with Imhotep's name and titles greets visitors, through recent discoveries, to rooms on everyday crafts, architecture and burial. Among the most striking pieces are the blue-green faience tiles that lined chambers beneath the Step Pyramid complex, painted wooden statues and coffins, the elegant pair statue of the priest Amenemopet and his wife, and a reconstructed burial chamber with its mummy and grave goods. A final room recreates the library of Jean-Philippe Lauer, the French architect who devoted some seventy years to restoring Djoser's complex. A visit here before walking out to the monuments gives real context to the site.",
+  "ar": "كان إيمحتب وزيرًا ومهندسًا للملك زوسر في الأسرة الثالثة، ويُنسب إليه تصميم الهرم المدرج، أول بناء ضخم من الحجر، ثم قدّسه المصريون لاحقًا إلهًا للحكمة والطب. وافتُتح المتحف الذي يحمل اسمه عام 2006 عند سفح هضبة سقارة ليعرض أبرز مكتشفات الجبانة في بيئة آمنة ومكيفة. تتدرج قاعاته الست من المدخل، حيث تستقبل الزائرَ قاعدةُ تمثال للملك زوسر منقوش عليها اسم إيمحتب وألقابه، مرورًا بالاكتشافات الحديثة، ثم قاعات الحرف اليومية والعمارة والدفن. ومن أبرز المعروضات بلاطات القيشاني الزرقاء المخضرّة التي كست حجرات أسفل مجموعة الهرم المدرج، وتماثيل وتوابيت خشبية ملونة، والتمثال الثنائي الأنيق للكاهن أمنموبي وزوجته، ونموذج لحجرة دفن بمومياء وأثاث جنائزي. وتعيد القاعة الأخيرة تجسيد مكتبة جان فيليب لوير، المعماري الفرنسي الذي كرّس نحو سبعين عامًا لترميم مجموعة زوسر. وتمنح زيارة المتحف قبل التجول بين الآثار فهمًا أعمق للموقع كله."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Statue base of Djoser",
+    "ar": "قاعدة تمثال زوسر"
+   },
+   "desc": {
+    "en": "Inscribed with the name and titles of Imhotep, a rare contemporary record of the architect.",
+    "ar": "منقوش عليها اسم إيمحتب وألقابه، في شاهد نادر معاصر لهذا المهندس."
+   }
+  },
+  {
+   "title": {
+    "en": "Faience tiles from the Step Pyramid",
+    "ar": "بلاطات القيشاني من الهرم المدرج"
+   },
+   "desc": {
+    "en": "Blue-green tiles that once lined chambers beneath Djoser’s complex.",
+    "ar": "بلاطات زرقاء مخضرّة كانت تكسو حجرات أسفل مجموعة زوسر."
+   }
+  },
+  {
+   "title": {
+    "en": "Amenemopet and his wife",
+    "ar": "أمنموبي وزوجته"
+   },
+   "desc": {
+    "en": "A Nineteenth-Dynasty pair statue of a high priest and his wife, found near the Unas causeway.",
+    "ar": "تمثال ثنائي من الأسرة التاسعة عشرة لكبير كهنة وزوجته، عُثر عليه قرب الطريق الصاعد لهرم أوناس."
+   }
+  },
+  {
+   "title": {
+    "en": "Statue of the vizier Ptahhotep",
+    "ar": "تمثال الوزير بتاح حتب"
+   },
+   "desc": {
+    "en": "An Old Kingdom official of King Isesi shown with an elaborate wig.",
+    "ar": "تمثال لأحد كبار موظفي الملك إسيسي من الدولة القديمة بشعر مستعار متقن."
+   }
+  },
+  {
+   "title": {
+    "en": "Reconstructed burial chamber",
+    "ar": "نموذج حجرة الدفن"
+   },
+   "desc": {
+    "en": "A tomb recreated with its mummy, wooden coffin and grave goods.",
+    "ar": "مقبرة أعيد تجسيدها بمومياء وتابوت خشبي وأثاث جنائزي."
+   }
+  },
+  {
+   "title": {
+    "en": "Jean-Philippe Lauer library",
+    "ar": "مكتبة جان فيليب لوير"
+   },
+   "desc": {
+    "en": "The study of the French architect who rebuilt much of Djoser’s complex.",
+    "ar": "مكتبة المعماري الفرنسي الذي أعاد بناء جانب كبير من مجموعة زوسر."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 600
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 300
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/SaqqaraMonuments",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "At the start of a Saqqara visit, from 08:00, before heading out to the pyramids and tombs.",
+   "ar": "في بداية زيارة سقارة، بدءًا من الثامنة صباحًا، قبل التوجه إلى الأهرامات والمقابر."
+  },
+  "crowdNotes": {
+   "en": "Much calmer than the open site; it is air-conditioned, which makes it a welcome break from the heat. Temporary exhibitions are sometimes held here.",
+   "ar": "أهدأ كثيرًا من الموقع المكشوف، ومكيف الهواء، فيمنح استراحة مرحبًا بها من الحر. وتُقام فيه أحيانًا معارض مؤقتة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Statuevizir095.jpg",
+   "author": "Kurohito",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statuevizir095.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/26685-_elaborate_blue_faience_inlays_from_Djoser%27s_mortuary_complex.jpg",
+   "author": "Panegyrics of Granovetter",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:26685-_elaborate_blue_faience_inlays_from_Djoser%27s_mortuary_complex.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Egypt_Sakkara_Museum_Statue_scribe_5th_Dynasty.JPG",
+   "author": "Harald Gaertner",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egypt_Sakkara_Museum_Statue_scribe_5th_Dynasty.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/imhotep-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Imhotep_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A5%D9%85%D8%AD%D9%88%D8%AA%D8%A8",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2341403",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/imhotep-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices (inclusive Saqqara ticket),lastEntry,freeGroups (official portal)",
+   "url": "https://egymonuments.gov.eg/en/museums/imhotep-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,tickets (Saqqara ticket, official booking platform)",
+   "url": "https://egymonuments.com/details/SaqqaraMonuments",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (booking page)",
+   "url": "https://egymonuments.com/book-date/22",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (incl. Ramadan 09:00-15:00),address,status (listed among museums open for visit)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-إيمحتب/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (open daily, highlights incl. Djoser statue base; Apr 2026)",
+   "url": "https://www.elwatannews.com/news/details/8273801",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (conflict: Saqqara page of the same guide says the museum is closed for restoration)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/منطقة-آثار-سقارة/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Imhotep_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Statuevizir095.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:26685-_elaborate_blue_faience_inlays_from_Djoser%27s_mortuary_complex.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Egypt_Sakkara_Museum_Statue_scribe_5th_Dynasty.JPG",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "STATUS CONFLICT (resolved 2026-10-04): saqqara.json said the Imhotep Museum was closed for restoration (from the Saqqara page of the MoTA guide). Newer evidence says open: the museum's own MoTA guide page lists hours, elwatannews (27 Apr 2026) describes it open daily 08:00-17:00, and it reportedly reopened in Dec 2023 after closing in Mar 2022 (presidency/SIS, per research notes) with a temporary exhibition in June 2026 (Maspero). Recorded as open (newest dated source wins); saqqara.json statusNote, description, all-inclusive label and highlights were updated to match on 2026-10-04. Prices: portal says the Saqqara area ticket (600/300, 30/10) includes the museum; elwatannews' 450/230 looks outdated. Ramadan: museum guide page 09:00-15:00; lastEntry 14:00 from the guide's one-hour rule. Djoser statue base: Wikipedia says it was a loan shown only in the opening months; the MoTA guide and elwatannews (2026) list it on display - kept, verify on site. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

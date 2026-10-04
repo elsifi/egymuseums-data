@@ -1,0 +1,227 @@
+{
+ "id": "abu-serga-church",
+ "kind": "site",
+ "wikidataId": "Q2965718",
+ "name": {
+  "en": "Church of Saints Sergius and Bacchus (Abu Serga)",
+  "ar": "كنيسة القديس أبو سرجة"
+ },
+ "aliases": [
+  "كنيسه القديس أبو سرجه",
+  "Abu Sarga Church",
+  "Abu Serga Church",
+  "Cavern Church",
+  "Saints Sergius and Bacchus Church"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Coptic Cairo (Old Cairo)",
+  "ar": "مصر القديمة (مجمع الأديان)"
+ },
+ "address": {
+  "en": "Haret Mar Girgis, Coptic Cairo, Old Cairo — nearest metro: Mar Girgis (Line 1)",
+  "ar": "حارة مار جرجس، مصر القديمة، القاهرة — أقرب محطة مترو: مار جرجس (الخط الأول)"
+ },
+ "lat": 30.00625,
+ "lng": 31.230639,
+ "status": "open",
+ "statusNote": {
+  "en": "Active Coptic Orthodox church, open daily to visitors.",
+  "ar": "كنيسة قبطية أرثوذكسية عامرة، تفتح أبوابها للزوار يوميًا."
+ },
+ "summary": {
+  "en": "One of Cairo's oldest churches, built over the cave where the Holy Family is said to have sheltered.",
+  "ar": "من أقدم كنائس القاهرة، شُيدت فوق المغارة التي يُقال إن العائلة المقدسة احتمت بها."
+ },
+ "description": {
+  "en": "Tucked inside the walls of the Roman fortress of Babylon in Coptic Cairo, the Church of Saints Sergius and Bacchus, known as Abu Serga, honours two Roman officers martyred in Syria in the early fourth century for their Christian faith. Its age is debated: tradition and some scholars place the first church in the late fourth or fifth century, while others date much of the present building to far later rebuilding after fires and repairs. What gives it special standing is the crypt beneath the main sanctuary, a low vaulted cave venerated as a resting place of the Holy Family during their flight into Egypt, which makes the church an important station on the Holy Family route. The interior follows the basilica plan, with a narthex, a nave divided from the aisles by marble columns, some still bearing faint painted figures of saints, and three sanctuaries at the east end behind screens of wood inlaid with ivory. A marble pulpit and an old baptismal font complete the furnishings. The church lies a few steps from the Hanging Church, the Ben Ezra Synagogue and the Coptic Museum.",
+  "ar": "في قلب أسوار حصن بابليون الروماني بمصر القديمة، تقع كنيسة القديسين سرجيوس وواخس المعروفة بكنيسة أبي سرجة، وهي تكرم ضابطين رومانيين استُشهدا في سوريا مطلع القرن الرابع بسبب إيمانهما المسيحي. وتاريخها موضع جدل: فالتقليد وبعض الباحثين يرجعون الكنيسة الأولى إلى أواخر القرن الرابع أو القرن الخامس، بينما يؤرخ آخرون معظم المبنى الحالي بإعادة بناء لاحقة بكثير بعد حرائق وترميمات. وما يمنحها مكانتها الخاصة هو المغارة الواقعة أسفل الهيكل الرئيسي، وهي كهف منخفض مقبب يُجلّ بوصفه موضعًا استراحت فيه العائلة المقدسة خلال رحلتها إلى مصر، مما يجعل الكنيسة محطة مهمة في مسار رحلة العائلة المقدسة. ويتبع داخلها التخطيط البازيليكي، بدهليز مدخل وصحن تفصله عن الجناحين أعمدة رخامية لا يزال بعضها يحمل رسومًا باهتة لقديسين، وثلاثة هياكل في الجهة الشرقية خلف أحجبة من الخشب المطعم بالعاج. ويكتمل أثاثها بمنبر رخامي ومعمودية قديمة. وتقع الكنيسة على بعد خطوات من الكنيسة المعلقة ومعبد بن عزرا والمتحف القبطي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Holy Family crypt",
+    "ar": "مغارة العائلة المقدسة"
+   },
+   "desc": {
+    "en": "The vaulted cave beneath the sanctuary where the Holy Family is said to have rested.",
+    "ar": "الكهف المقبب أسفل الهيكل حيث يُقال إن العائلة المقدسة استراحت."
+   }
+  },
+  {
+   "title": {
+    "en": "Basilica nave",
+    "ar": "صحن البازيليكا"
+   },
+   "desc": {
+    "en": "Marble columns, some with faded paintings of saints.",
+    "ar": "أعمدة رخامية يحمل بعضها رسومًا باهتة لقديسين."
+   }
+  },
+  {
+   "title": {
+    "en": "Inlaid sanctuary screens",
+    "ar": "الأحجبة المطعمة"
+   },
+   "desc": {
+    "en": "Wooden screens inlaid with ivory in front of the three sanctuaries.",
+    "ar": "أحجبة خشبية مطعمة بالعاج أمام الهياكل الثلاثة."
+   }
+  },
+  {
+   "title": {
+    "en": "Marble pulpit",
+    "ar": "المنبر الرخامي"
+   },
+   "desc": {
+    "en": "A raised pulpit (ambo) in the nave.",
+    "ar": "منبر مرتفع في صحن الكنيسة."
+   }
+  },
+  {
+   "title": {
+    "en": "Baptismal font",
+    "ar": "المعمودية"
+   },
+   "desc": {
+    "en": "An old font that recalls the church's long liturgical life.",
+    "ar": "معمودية قديمة تذكّر بتاريخ الكنيسة الطقسي الطويل."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 30,
+  "deepMinutes": 45,
+  "bestTime": {
+   "en": "A weekday morning, combined with the Hanging Church and the Coptic Museum.",
+   "ar": "صباح أحد أيام الأسبوع، مع ضم زيارة الكنيسة المعلقة والمتحف القبطي."
+  },
+  "crowdNotes": {
+   "en": "A working church: dress modestly, keep quiet and give way to worshippers during services. The crypt is small and may be closed at times.",
+   "ar": "كنيسة عامرة بالمصلين: يُرجى ارتداء ملابس محتشمة والتزام الهدوء وإفساح المجال للمصلين أثناء الصلوات. المغارة صغيرة وقد تُغلق أحيانًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cairo%2C_chiesa_di_san_sergio_01.JPG",
+   "author": "Sailko",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo,_chiesa_di_san_sergio_01.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Abu_Serga_Cave_1.jpg",
+   "author": "Sherief1969",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abu_Serga_Cave_1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Church_of_Sts._Sergius_and_Bacchus_%28Abu_Serga%29_in_Old_Cairo%2C_4th_century_%281%29_%2852087427429%29.jpg",
+   "author": "Richard Mortel from Riyadh, Saudi Arabia",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_Sts._Sergius_and_Bacchus_(Abu_Serga)_in_Old_Cairo,_4th_century_(1)_(52087427429).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/church-of-saint-sergius-and-bacchus/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Saints_Sergius_and_Bacchus_Church",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%B3%D9%8A%D9%86_%D8%B3%D8%B1%D8%AC%D9%8A%D9%88%D8%B3_%D9%88%D8%A8%D8%A7%D8%AE%D9%88%D8%B3_(%D8%A3%D8%A8%D9%88_%D8%B3%D8%B1%D8%AC%D8%A9)",
+  "osm": "way/197960952"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2965718",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/church-of-saint-sergius-and-bacchus/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description (MoTA open-sites guide; last entry one hour before closing)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%D8%A3%D8%A8%D9%8A-%D8%B3%D8%B1%D8%AC%D8%A9/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-16:00),description",
+   "url": "https://egymonuments.gov.eg/en/monuments/church-of-saint-sergius-and-bacchus/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Saints_Sergius_and_Bacchus_Church",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Hours agree across the MoTA guide, portal and Nov 2024 list (09:00-16:00; guide gives the same hours in Ramadan, so no exception). No ticket price in any official source, so prices.status is 'unconfirmed' (D9, as for the Hanging Church); confirm via MoTA hotline 19654. The crypt-closure note is general advice."
+}

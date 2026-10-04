@@ -1,0 +1,193 @@
+{
+ "id": "rashid-national-museum",
+ "kind": "museum",
+ "wikidataId": "Q42332082",
+ "name": {
+  "en": "Rashid National Museum",
+  "ar": "متحف رشيد الوطني"
+ },
+ "aliases": [
+  "Arab Killy House",
+  "منزل عرب كلى"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "beheira",
+ "city": {
+  "en": "Rosetta (Rashid)",
+  "ar": "رشيد"
+ },
+ "area": {
+  "en": "Historic centre",
+  "ar": "وسط المدينة التاريخي"
+ },
+ "address": {
+  "en": "Arab Killy House, historic centre of Rosetta (Rashid), Beheira Governorate",
+  "ar": "منزل عرب كلي، وسط مدينة رشيد التاريخي، محافظة البحيرة"
+ },
+ "lat": 31.405,
+ "lng": 30.4244,
+ "status": "renovation",
+ "statusNote": {
+  "en": "Closed for restoration; no reopening date had been announced as of October 2026.",
+  "ar": "مغلق للترميم، ولم يُعلن موعد لإعادة افتتاحه حتى أكتوبر 2026."
+ },
+ "summary": {
+  "en": "Rosetta's museum of local history in the grand Ottoman-era house of Arab Killy, currently closed for restoration.",
+  "ar": "متحف التاريخ المحلي لمدينة رشيد في منزل عرب كلي العثماني الفخم، وهو مغلق حاليًا للترميم."
+ },
+ "description": {
+  "en": "The museum occupies the house of Arab Killy, one of the grandest of Rosetta's Ottoman-era residences, built in the first half of the twelfth Islamic century (around the early eighteenth century) and later associated with Hussein Arab Killy, governor of the city in the 1840s. Like its neighbours it is built of the town's distinctive red-and-black brick, with projecting upper storeys and finely worked wooden mashrabiya screens. President Gamal Abdel Nasser opened it in 1959 as a military museum commemorating the people of Rosetta's victory over the British Fraser expedition of 1807, and it was reorganised in 1986 to tell the wider story of the town. Its displays cover the resistance to the French and British campaigns, everyday life and traditional crafts, a replica of the Rosetta Stone, found near the town in 1799, weapons of the eighteenth and nineteenth centuries, and coins and pottery from Rosetta's Islamic past. In 2026 the house was undergoing a full restoration of its façades, floors and architectural details as part of a national programme to revive historic Rosetta, and the Prime Minister inspected the works in June.",
+  "ar": "يشغل المتحف منزل عرب كلي، أحد أفخم منازل رشيد من العصر العثماني، شُيد في النصف الأول من القرن الثاني عشر الهجري (مطلع القرن الثامن عشر الميلادي تقريبًا)، وارتبط اسمه لاحقًا بحسين عرب كلي محافظ المدينة في أربعينيات القرن التاسع عشر. وعلى غرار جيرانه بُني بالطوب الرشيدي المميز بلونيه الأحمر والأسود، بطوابق علوية بارزة ومشربيات خشبية دقيقة الصنع. وقد افتتحه الرئيس جمال عبد الناصر عام 1959 متحفًا حربيًا يخلد انتصار أهالي رشيد على حملة فريزر الإنجليزية عام 1807، ثم أعيد تنظيمه عام 1986 ليروي تاريخ المدينة على نطاق أوسع. وتتناول معروضاته مقاومة الحملتين الفرنسية والإنجليزية، والحياة اليومية والحرف التقليدية، ونسخة من حجر رشيد الذي عُثر عليه قرب المدينة عام 1799، وأسلحة من القرنين الثامن عشر والتاسع عشر، وعملات وأواني فخارية من ماضي رشيد الإسلامي. وفي عام 2026 كان المنزل يخضع لترميم شامل لواجهاته وطوابقه وعناصره المعمارية ضمن مشروع قومي لإحياء رشيد التاريخية، وقد تفقد رئيس الوزراء الأعمال في يونيو."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Arab Killy House",
+    "ar": "منزل عرب كلي"
+   },
+   "desc": {
+    "en": "A grand Ottoman merchant house in Rosetta's red-and-black brick.",
+    "ar": "منزل عثماني فخم بالطوب الرشيدي الأحمر والأسود."
+   }
+  },
+  {
+   "title": {
+    "en": "Rosetta Stone replica",
+    "ar": "نسخة حجر رشيد"
+   },
+   "desc": {
+    "en": "A copy of the trilingual stone found near the town in 1799; the original is in London.",
+    "ar": "نسخة من الحجر ثلاثي الكتابة الذي عُثر عليه قرب المدينة عام 1799، والأصل في لندن."
+   }
+  },
+  {
+   "title": {
+    "en": "Fraser campaign of 1807",
+    "ar": "حملة فريزر 1807"
+   },
+   "desc": {
+    "en": "Displays on the townspeople's defeat of the British expedition.",
+    "ar": "معروضات عن هزيمة الأهالي للحملة الإنجليزية."
+   }
+  },
+  {
+   "title": {
+    "en": "Historic weapons",
+    "ar": "الأسلحة التاريخية"
+   },
+   "desc": {
+    "en": "Arms from the eighteenth and nineteenth centuries.",
+    "ar": "أسلحة من القرنين الثامن عشر والتاسع عشر."
+   }
+  },
+  {
+   "title": {
+    "en": "Daily life and crafts",
+    "ar": "الحياة اليومية والحرف"
+   },
+   "desc": {
+    "en": "Models and objects showing household life and Rosetta's trades.",
+    "ar": "نماذج ومقتنيات تصور الحياة المنزلية وحرف رشيد."
+   }
+  },
+  {
+   "title": {
+    "en": "Islamic finds",
+    "ar": "اللقى الإسلامية"
+   },
+   "desc": {
+    "en": "Coins and pottery discovered in Rosetta.",
+    "ar": "عملات وأوانٍ فخارية عُثر عليها في رشيد."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Check that the museum has reopened before planning a visit; combine it with Rosetta's historic houses.",
+   "ar": "يُستحسن التأكد من إعادة افتتاح المتحف قبل التخطيط للزيارة، مع ضم جولة في منازل رشيد الأثرية."
+  },
+  "crowdNotes": {
+   "en": "While the museum is closed, the house can only be seen from the outside.",
+   "ar": "طوال فترة الإغلاق لا يمكن مشاهدة المنزل إلا من الخارج."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/RashidArabKilly.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:RashidArabKilly.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/RashidArabKillyMuseum3.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:RashidArabKillyMuseum3.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/RashidArabKillyMuseum1.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:RashidArabKillyMuseum1.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Rashid_National_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B1%D8%B4%D9%8A%D8%AF_%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A",
+  "osm": "node/12278326845"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q42332082",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q45108397",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (restoration under way, PM inspection 13 Jun 2026),description,highlights",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2026/6/13/3002180/%D9%85%D8%AF%D8%A8%D9%88%D9%84%D9%8A-%D9%8A%D8%AA%D9%81%D9%82%D8%AF-%D9%85%D8%AA%D8%AD%D9%81-%D8%B1%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%B6%D9%85%D9%86-%D8%AE%D8%B7%D8%A9-%D8%A5%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (restoration, Jun 2026)",
+   "url": "https://gate.ahram.org.eg/News/5672279.aspx",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Rashid_National_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Closed for restoration (masrawy/ahram, 13 Jun 2026: works on façades, floors and architectural elements). No reopening date found; hours and prices omitted (Nov 2024 list showed the museum without a price). Not on the egymonuments.com booking platform. Recheck in early 2027."
+}

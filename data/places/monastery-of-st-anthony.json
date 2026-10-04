@@ -1,0 +1,277 @@
+{
+ "id": "monastery-of-st-anthony",
+ "kind": "site",
+ "wikidataId": "Q2088356",
+ "name": {
+  "en": "Monastery of St. Anthony",
+  "ar": "دير الأنبا أنطونيوس"
+ },
+ "aliases": [
+  "Dayr Mārī Antonios",
+  "Deir Mar Antonios",
+  "Monastery of Saint Anthony"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "red-sea",
+ "city": {
+  "en": "Zafarana area",
+  "ar": "منطقة الزعفرانة"
+ },
+ "area": {
+  "en": "South Galala mountains",
+  "ar": "جبال الجلالة القبلية"
+ },
+ "address": {
+  "en": "Off the Zafarana–Beni Suef road, South Galala mountains, Red Sea Governorate",
+  "ar": "على طريق الزعفرانة – بني سويف، جبال الجلالة القبلية، محافظة البحر الأحمر"
+ },
+ "lat": 28.923889,
+ "lng": 32.35,
+ "status": "open",
+ "statusNote": {
+  "en": "Working Coptic Orthodox monastery, open to visitors. During the Coptic fasts visits are usually limited to weekends, and it closes completely in Holy Week; check before travelling.",
+  "ar": "دير قبطي أرثوذكسي عامر مفتوح للزوار. وفي أصوام الكنيسة تقتصر الزيارة عادة على نهاية الأسبوع، ويُغلق تمامًا في أسبوع الآلام؛ تحقق قبل السفر."
+ },
+ "summary": {
+  "en": "One of the world's oldest Christian monasteries, sheltering beneath the cliffs where St Anthony lived as a hermit, with a church of brilliant thirteenth-century wall paintings.",
+  "ar": "من أقدم الأديرة المسيحية في العالم، يحتمي بسفح الجبل الذي عاش فيه الأنبا أنطونيوس متوحدًا، وفيه كنيسة ذات رسوم جدارية زاهية من القرن الثالث عشر."
+ },
+ "description": {
+  "en": "Saint Anthony, regarded as the father of Christian monasticism, withdrew deep into the Eastern Desert in the late third century and spent his last decades in a cave high on the South Galala cliffs, near a spring at their foot. After his death in 356 his followers settled around the spring, and the community they founded has survived, with interruptions, for more than sixteen centuries. Behind high walls lies a small town of churches, cells, gardens, a mill and a refectory, with a keep in which monks could shelter during raids. The oldest church, dedicated to Saint Anthony, holds one of the most important cycles of medieval Coptic painting: saints, monks, mounted martyrs and Christ in majesty, painted in 1232–33 by a master named Theodore and his team. Conservation by the American Research Center in Egypt in the late 1990s cleaned away centuries of soot to reveal their vivid colour. The monastery also guards a renowned library of manuscripts. Visitors with stamina can climb more than a thousand steps up the mountain to Anthony's cave, rewarded with a vast view over the desert towards the Gulf of Suez.",
+  "ar": "اعتزل الأنبا أنطونيوس، الذي يُعد أب الرهبنة المسيحية، في أعماق الصحراء الشرقية أواخر القرن الثالث، وقضى عقوده الأخيرة في مغارة عالية في جبال الجلالة القبلية، قرب عين ماء عند سفحها. وبعد وفاته عام 356 استقر أتباعه حول العين، وبقيت الجماعة التي أسسوها، مع فترات انقطاع، أكثر من ستة عشر قرنًا. وخلف أسوار عالية تقوم بلدة صغيرة من الكنائس والقلالي والحدائق والطاحونة والمائدة، ومعها حصن كان الرهبان يحتمون به أثناء الغارات. وتضم أقدم كنائسه، المكرسة للأنبا أنطونيوس، واحدة من أهم مجموعات التصوير القبطي في العصور الوسطى: قديسون ورهبان وشهداء فرسان والسيد المسيح في مجده، رسمها عامي 1232 و1233 فنان يدعى ثيودور ومعاونوه. وقد أزالت أعمال الترميم التي نفذها مركز البحوث الأمريكي بمصر أواخر التسعينيات سناج القرون فظهرت ألوانها الزاهية. ويحتفظ الدير كذلك بمكتبة مخطوطات ذائعة الصيت. ويستطيع الزائر القادر أن يصعد أكثر من ألف درجة في الجبل إلى مغارة الأنبا أنطونيوس، ليكافأ بمشهد واسع للصحراء ممتد نحو خليج السويس."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Church of St Anthony",
+    "ar": "كنيسة الأنبا أنطونيوس"
+   },
+   "desc": {
+    "en": "Wall paintings of 1232–33 by Theodore, cleaned in the 1990s.",
+    "ar": "رسوم جدارية من عامي 1232 و1233 للفنان ثيودور، نُظفت في التسعينيات."
+   }
+  },
+  {
+   "title": {
+    "en": "Cave of St Anthony",
+    "ar": "مغارة الأنبا أنطونيوس"
+   },
+   "desc": {
+    "en": "The hermit's cave, reached by about 1,400 steps up the cliff.",
+    "ar": "مغارة الناسك، يُصعد إليها بنحو 1400 درجة في الجبل."
+   }
+  },
+  {
+   "title": {
+    "en": "The keep",
+    "ar": "الحصن"
+   },
+   "desc": {
+    "en": "A defensive tower where the monks sheltered during raids.",
+    "ar": "برج دفاعي كان الرهبان يحتمون به أثناء الغارات."
+   }
+  },
+  {
+   "title": {
+    "en": "Ancient walls and gardens",
+    "ar": "الأسوار القديمة والحدائق"
+   },
+   "desc": {
+    "en": "High enclosure walls around gardens watered by the spring.",
+    "ar": "أسوار عالية تحيط بحدائق ترويها عين الماء."
+   }
+  },
+  {
+   "title": {
+    "en": "Spring of St Anthony",
+    "ar": "عين الأنبا أنطونيوس"
+   },
+   "desc": {
+    "en": "The desert spring around which the community grew.",
+    "ar": "عين الماء الصحراوية التي نشأت حولها الجماعة الرهبانية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "04:00",
+    "close": "18:00"
+   },
+   {
+    "day": "tue",
+    "open": "04:00",
+    "close": "18:00"
+   },
+   {
+    "day": "wed",
+    "open": "04:00",
+    "close": "18:00"
+   },
+   {
+    "day": "thu",
+    "open": "04:00",
+    "close": "18:00"
+   },
+   {
+    "day": "fri",
+    "open": "04:00",
+    "close": "18:00"
+   },
+   {
+    "day": "sat",
+    "open": "04:00",
+    "close": "18:00"
+   },
+   {
+    "day": "sun",
+    "open": "04:00",
+    "close": "18:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Nativity Fast 2026 (expected): visits on Friday, Saturday and Sunday only",
+     "ar": "صوم الميلاد 2026 (متوقع): الزيارة أيام الجمعة والسبت والأحد فقط"
+    },
+    "rule": "Coptic Nativity Fast (25 November to 6 January)",
+    "from": "2026-11-25",
+    "to": "2027-01-06",
+    "weekly": [
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "closed": true
+     },
+     {
+      "day": "wed",
+      "closed": true
+     },
+     {
+      "day": "thu",
+      "closed": true
+     },
+     {
+      "day": "fri",
+      "open": "04:00",
+      "close": "18:00"
+     },
+     {
+      "day": "sat",
+      "open": "04:00",
+      "close": "18:00"
+     },
+     {
+      "day": "sun",
+      "open": "04:00",
+      "close": "18:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 90,
+  "standardMinutes": 150,
+  "deepMinutes": 300,
+  "bestTime": {
+   "en": "Arrive for one of the morning tours of the old church; climb to the cave early, before the sun is high.",
+   "ar": "احضر إحدى الجولات الصباحية في الكنيسة الأثرية، واصعد إلى المغارة مبكرًا قبل ارتفاع الشمس."
+  },
+  "crowdNotes": {
+   "en": "The historic section is shown on guided tours at 09:00, 11:00, 14:00 and 16:00. Dress modestly (shoulders and knees covered) and respect services. Fridays and Coptic holidays bring crowds of pilgrims. The cave climb is steep, about 1,400 steps each way, with no shade; carry water and a torch. There is no public transport: come by car or with a tour from Hurghada, Ain Sokhna or Cairo.",
+   "ar": "تُعرض المنطقة الأثرية في جولات مصحوبة بمرشد في التاسعة والحادية عشرة صباحًا والثانية والرابعة عصرًا. التزم بالملابس المحتشمة (تغطية الكتفين والركبتين) واحترم الصلوات. وتشهد أيام الجمعة والأعياد القبطية زحامًا من الزوار. والصعود إلى المغارة شاق، نحو 1400 درجة في كل اتجاه بلا ظل، فاحمل الماء ومصباحًا. ولا توجد مواصلات عامة، فتعال بالسيارة أو مع رحلة من الغردقة أو العين السخنة أو القاهرة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Antonius_Kloster_BW_11.jpg",
+   "author": "Berthold Werner",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antonius_Kloster_BW_11.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Antonius_Kloster_BW_12.jpg",
+   "author": "Berthold Werner",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antonius_Kloster_BW_12.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Aufstieg_zur_H%C3%B6hle_des_hl_Antonius_1980.jpg",
+   "author": "Otto F.A. Meinardus",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aufstieg_zur_H%C3%B6hle_des_hl_Antonius_1980.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Anthony",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7_%D8%A3%D9%86%D8%B7%D9%88%D9%86%D9%8A%D9%88%D8%B3",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2088356",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (daily 04:00-18:00; ancient section at 09:00, 11:00, 14:00, 16:00; Red Sea diocese spokesman, news 6 Nov 2022)",
+   "url": "https://www.elwatannews.com/news/details/6349032",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (fast-period visiting rules: closed Mon-Thu, closed in Holy Week; monastery statement, news 14 Mar 2025)",
+   "url": "https://www.youm7.com/story/2025/3/14/%D8%A8%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%86-%D9%85%D8%B9-%D8%A7%D9%84%D8%B5%D9%88%D9%85-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%AF%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B7%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AE%D9%84%D8%A7%D9%84/6917618",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (cave of St Anthony: 1,420 steps; news 10 Apr 2025)",
+   "url": "https://www.youm7.com/story/2025/4/10/1420-%D8%AF%D8%B1%D8%AC%D8%A9-%D9%84%D9%84%D8%B5%D8%B9%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%A8%D9%84-%D9%85%D8%BA%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7-%D8%A3%D9%86%D8%B7%D9%88%D9%86%D9%8A%D9%88%D8%B3-%D8%A8%D8%A7%D9%84%D8%A8%D8%AD%D8%B1/6949452",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights,description (13th-century wall paintings, ARCE conservation)",
+   "url": "https://arce.org/museum-monastery-st-anthony/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Anthony",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Antonius_Kloster_BW_11.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Antonius_Kloster_BW_12.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Aufstieg_zur_H%C3%B6hle_des_hl_Antonius_1980.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "low",
+ "curationNote": "Hours (gates 04:00-18:00, ancient-section tours 09:00/11:00/14:00/16:00) come from the Red Sea diocese spokesman as quoted in Nov 2022; no 2025-26 update found. Nativity Fast exception (Fri-Sun only) is projected from the monastery's announcements for the 2021 and 2023 fasts and the Lent 2025 statement (Mon-Thu closed; full closure Holy Week); confirm the 2026 notice before 25 Nov 2026. Lent 2027 and Holy Week 2027 closures are not entered as exceptions (dates and rules not yet announced). No entry fee mentioned by any source, but no official 'free' statement either: prices.status = unconfirmed. Dress-code detail (shoulders/knees) is general advice. A Facebook page (facebook.com/stantonymonastery) appears to be the monastery's own but is not verified, so contacts are omitted. Modern church towers and gate excluded from photos (no freedom of panorama)."
+}

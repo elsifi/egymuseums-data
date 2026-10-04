@@ -1,0 +1,383 @@
+{
+ "id": "valley-of-the-queens",
+ "kind": "site",
+ "wikidataId": "Q260386",
+ "name": {
+  "en": "Valley of the Queens",
+  "ar": "وادي الملكات"
+ },
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor (West Bank)",
+  "ar": "الأقصر (البر الغربي)"
+ },
+ "area": {
+  "en": "West Bank, southern end of the Theban necropolis (Qurna)",
+  "ar": "البر الغربي، الطرف الجنوبي لجبانة طيبة (القرنة)"
+ },
+ "address": {
+  "en": "Valley of the Queens, Qurna, West Bank, Luxor",
+  "ar": "وادي الملكات، القرنة، البر الغربي، الأقصر"
+ },
+ "lat": 25.7275,
+ "lng": 32.593056,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The tomb of Nefertari has been closed since 2024 for conservation, with no reopening date announced; the general ticket covers the other open tombs.",
+  "ar": "مفتوح يوميًا. ومقبرة نفرتاري مغلقة منذ عام 2024 لأعمال الصيانة دون إعلان موعد لإعادة فتحها، وتشمل التذكرة العامة بقية المقابر المفتوحة."
+ },
+ "summary": {
+  "en": "A desert valley where queens, princes and princesses of the Ramesside age were buried in richly painted tombs.",
+  "ar": "وادٍ صحراوي دُفنت فيه ملكات وأمراء وأميرات العصر الرعمسيسي في مقابر غنية بالرسوم الملونة."
+ },
+ "description": {
+  "en": "At the southern end of the Theban necropolis, a dry valley was chosen as the burial place for royal wives and children, especially in the Nineteenth and Twentieth Dynasties. The Egyptians called it Ta-Set-Neferu, which can mean both the Place of Beauty and the Place of the Royal Children. More than ninety tombs have been found in the main wadi and its side branches, first explored systematically by the Italian archaeologist Ernesto Schiaparelli in the early twentieth century. The most celebrated is the tomb of Nefertari, the favourite wife of Ramesses II, whose paintings are among the finest in Egypt; it has been closed since 2024 while its condition is monitored. Several other tombs remain open on the general ticket. Those of Amenherkhepeshef and Khaemwaset, sons of Ramesses III, show the young princes being led by their father before the gods, in unusually bright blues, yellows and reds, and the tomb of Queen Titi keeps delicate paintings of protective deities. The valley is smaller and calmer than the Valley of the Kings, and pairs naturally with nearby Deir el-Medina and Medinet Habu.",
+  "ar": "في الطرف الجنوبي لجبانة طيبة اختير وادٍ جاف مدفنًا لزوجات الملوك وأبنائهم، خاصة في عصر الأسرتين التاسعة عشرة والعشرين. وقد سماه المصريون «تا ست نفرو»، وهو اسم يحتمل معنيين: «مكان الجمال» و«مكان الأبناء الملكيين». وعُثر في الوادي الرئيسي وفروعه على أكثر من تسعين مقبرة، استكشفها لأول مرة على نحو منهجي الأثري الإيطالي إرنستو سكياباريللي في أوائل القرن العشرين. وأشهرها مقبرة نفرتاري، الزوجة المحببة لرمسيس الثاني، التي تُعد رسومها من أروع ما في مصر، وهي مغلقة منذ عام 2024 لمتابعة حالتها. وتظل عدة مقابر أخرى مفتوحة بالتذكرة العامة؛ فمقبرتا أمون حر خبشف وخع إم واست، ابني رمسيس الثالث، تصوّران الأميرين الصغيرين يقودهما أبوهما أمام المعبودات بألوان زرقاء وصفراء وحمراء شديدة الزهو، بينما تحتفظ مقبرة الملكة تيتي برسوم رقيقة للمعبودات الحامية. والوادي أصغر من وادي الملوك وأهدأ، ويسهل الجمع بينه وبين دير المدينة ومدينة هابو القريبتين."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Amenherkhepeshef (QV55)",
+    "ar": "مقبرة أمون حر خبشف"
+   },
+   "desc": {
+    "en": "Ramesses III presents his young son to the gods in vivid, almost untouched colours.",
+    "ar": "رمسيس الثالث يقدّم ابنه الصغير إلى المعبودات بألوان زاهية تكاد تكون سليمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Khaemwaset (QV44)",
+    "ar": "مقبرة خع إم واست"
+   },
+   "desc": {
+    "en": "Another son of Ramesses III, with bright scenes of the prince and his father.",
+    "ar": "ابن آخر لرمسيس الثالث، بمناظر مشرقة للأمير وأبيه."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Queen Titi (QV52)",
+    "ar": "مقبرة الملكة تيتي"
+   },
+   "desc": {
+    "en": "Delicate paintings of a Ramesside queen and the deities who protect her.",
+    "ar": "رسوم رقيقة لملكة رعمسيسية والمعبودات الحامية لها."
+   }
+  },
+  {
+   "title": {
+    "en": "Ta-Set-Neferu",
+    "ar": "تا ست نفرو"
+   },
+   "desc": {
+    "en": "The quiet desert wadi itself, framed by the cliffs of the Theban hills.",
+    "ar": "الوادي الصحراوي الهادئ نفسه تحيط به جروف جبال طيبة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Parking: car or taxi",
+     "ar": "انتظار السيارات: ملاكي أو تاكسي"
+    },
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Parking: microbus",
+     "ar": "انتظار السيارات: ميكروباص"
+    },
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Parking: coaster",
+     "ar": "انتظار السيارات: كوستر"
+    },
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Parking: bus",
+     "ar": "انتظار السيارات: أتوبيس"
+    },
+    "amount": 100
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/ValleyOfTheQueens",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Early morning or the last two hours before closing, combined with Deir el-Medina.",
+   "ar": "الصباح الباكر أو الساعتان الأخيرتان قبل الإغلاق، مع زيارة دير المدينة."
+  },
+  "crowdNotes": {
+   "en": "Much quieter than the Valley of the Kings, especially while Nefertari’s tomb is closed. The open tombs are reached by short sloping corridors; photography inside may be restricted.",
+   "ar": "أهدأ كثيرًا من وادي الملوك، خاصة مع إغلاق مقبرة نفرتاري. ويُدخل إلى المقابر المفتوحة عبر ممرات منحدرة قصيرة، وقد يُقيد التصوير في الداخل."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tal_der_K%C3%B6niginnen_2016-03-22a.jpg",
+   "author": "Djehouty",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tal_der_K%C3%B6niginnen_2016-03-22a.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ramesses_III_and_Prince_Amenherkhepeshef_before_Hathor_MET_DT11787.jpg",
+   "author": "Nina M. Davies",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramesses_III_and_Prince_Amenherkhepeshef_before_Hathor_MET_DT11787.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/1904_wurde_das_Grab_von_Titi_im_Tal_der_K%C3%B6niginnen_entdeckt._01.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:1904_wurde_das_Grab_von_Titi_im_Tal_der_K%C3%B6niginnen_entdeckt._01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Valley_of_the_Queens",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%88%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D9%85%D9%84%D9%83%D8%A7%D8%AA",
+  "osm": "way/115780893"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q260386",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry by season),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/ValleyOfTheQueens",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras (parking) (booking page; no Nefertari ticket offered)",
+   "url": "https://egymonuments.com/book-date/26",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (06:00-17:00),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/وادي-الملكات/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (Nefertari closed; reopening under study, Sept 2026)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2026/9/18/3050039/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (Nefertari closed; reopening under study, Sept 2026)",
+   "url": "https://www.maspero.eg/art-and-culture/2026/09/18/990332/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (Nefertari closed since March 2024)",
+   "url": "https://aawsat.com/%D9%8A%D9%88%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82/5320156",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (open tombs QV44, QV52, QV55 on the general ticket; Aug 2026, non-official)",
+   "url": "https://monkeystale.ca/africa/egypt/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Valley_of_the_Queens",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Tal_der_K%C3%B6niginnen_2016-03-22a.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Ramesses_III_and_Prince_Amenherkhepeshef_before_Hathor_MET_DT11787.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:1904_wurde_das_Grab_von_Titi_im_Tal_der_K%C3%B6niginnen_entdeckt._01.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Nefertari (QV66): closed since March 2024; on 18 Sep 2026 the SCA said reopening is being studied with strict limits on numbers and duration - no date or price. No Nefertari extra is given; last known price (MoTA Nov 2024 list): foreign 2,500, Egyptian 600 / student 300. Re-add as an extra (audience/group) when it reopens. Open tombs (QV44, QV52, QV55) come from a non-official Aug 2026 report; the booking platform offers only the general entry ticket. Winter (standard) hours 06:00-17:00 with last entry 16:00 (MoTA guide closing 17:00 + one-hour rule; booking platform winter last entry 16:00). Summer 2026: 06:00-18:00 for the Qurna (West Bank) zone per the 24 Apr 2026 announcement, last entry 17:00 per booking platform. City overridden from the seed's 'Qurnah District'. Summer 2026 exception (2026-04-24 to 2026-10-29) follows the Luxor antiquities summer schedule (daylight-saving period, until the last Thursday of October); the winter 2026-27 schedule had not been announced on 2026-10-04 - recheck after 29 Oct 2026. Summer exception ends 2026-10-29, the last day of daylight-saving time (batch-7 Q7a, applied 2026-10-04 to every summer exception). Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
+}

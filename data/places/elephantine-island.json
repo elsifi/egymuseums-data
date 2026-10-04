@@ -1,0 +1,283 @@
+{
+ "id": "elephantine-island",
+ "kind": "site",
+ "wikidataId": "Q284009",
+ "name": {
+  "en": "Elephantine Island archaeological site",
+  "ar": "جزيرة إلفنتين"
+ },
+ "aliases": [
+  "Jeb",
+  "جزيرة الفنتين",
+  "Elephantine",
+  "إلفنتين"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Aswan",
+  "ar": "أسوان"
+ },
+ "area": {
+  "en": "Elephantine Island",
+  "ar": "جزيرة إلفنتين"
+ },
+ "address": {
+  "en": "Southern end of Elephantine Island, opposite the Aswan Corniche (reached by public ferry or felucca)",
+  "ar": "الطرف الجنوبي لجزيرة إلفنتين، قبالة كورنيش أسوان (يُوصل إليها بالمعدية العامة أو الفلوكة)"
+ },
+ "lat": 24.09,
+ "lng": 32.89,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "Aswan's ancient frontier town on a granite island, with the temples of Satet and Khnum and one of Egypt's oldest Nilometers.",
+  "ar": "مدينة الحدود القديمة لأسوان على جزيرة من الجرانيت، تضم معبدي ساتت وخنوم وأحد أقدم مقاييس النيل في مصر."
+ },
+ "description": {
+  "en": "Long before Aswan grew on the east bank, the island of Elephantine in the middle of the Nile was the town that guarded Egypt's southern frontier and controlled trade with Nubia. Its ancient name, Abu, meant elephant, perhaps because ivory passed through its markets. German and Swiss archaeologists have worked on the southern part of the island for decades, revealing layer upon layer of houses, streets and sanctuaries spanning some three thousand years. Satet, goddess of the frontier and of the annual flood, had a temple here from very early times; the version rebuilt under Hatshepsut and Thutmose III has been partly reconstructed on its ancient foundations. Nearby lie the vast platform and a granite gateway of the temple of Khnum, the ram-headed god of the cataract, and a chapel honouring the deified local governor Heqaib. On the riverbank a stone stairway Nilometer recorded the height of the flood, and a Roman staircase linked the landing stage to the temples. A small display of excavated finds and views over the boulders of the First Cataract complete the visit.",
+  "ar": "قبل أن تنشأ أسوان على البر الشرقي بزمن طويل، كانت جزيرة إلفنتين في وسط النيل هي المدينة التي تحرس حدود مصر الجنوبية وتتحكم في التجارة مع النوبة. وكان اسمها القديم «آبو» يعني الفيل، وربما يرجع ذلك إلى تجارة العاج التي مرت بأسواقها. ويعمل الأثريون الألمان والسويسريون منذ عقود في الجزء الجنوبي من الجزيرة، وقد كشفوا عن طبقات متعاقبة من البيوت والشوارع والمعابد تمتد نحو ثلاثة آلاف عام. وكان للمعبودة ساتت، حامية الحدود والمرتبطة بالفيضان السنوي، معبد هنا منذ أقدم العصور، وقد أعيد تشييد جزء من المعبد الذي جدده الملكة حتشبسوت والملك تحتمس الثالث فوق أساساته القديمة. وعلى مقربة منه تمتد المصطبة الضخمة لمعبد خنوم، المعبود ذي رأس الكبش ورب الجندل، وبوابة جرانيتية منه، إلى جانب مقصورة للحاكم المحلي المؤلَّه حقا إيب. وعلى ضفة النهر كان مقياس للنيل على هيئة درج حجري يسجل ارتفاع الفيضان، بينما ربط درج من العصر الروماني بين المرسى والمعابد. ويكتمل المشهد بعرض صغير للقطع المكتشفة في الحفائر وإطلالة على صخور الجندل الأول."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Temple of Satet",
+    "ar": "معبد ساتت"
+   },
+   "desc": {
+    "en": "The frontier goddess's temple, partly rebuilt from its Hatshepsut-era blocks.",
+    "ar": "معبد ربة الحدود، وقد أعيد تشييد جزء منه بكتله من عهد حتشبسوت."
+   }
+  },
+  {
+   "title": {
+    "en": "Temple of Khnum",
+    "ar": "معبد خنوم"
+   },
+   "desc": {
+    "en": "The platform and granite gateway of the ram-headed cataract god's temple.",
+    "ar": "مصطبة وبوابة جرانيتية من معبد رب الجندل ذي رأس الكبش."
+   }
+  },
+  {
+   "title": {
+    "en": "Nilometer",
+    "ar": "مقياس النيل"
+   },
+   "desc": {
+    "en": "A stone stairway on the riverbank that measured the annual flood.",
+    "ar": "درج حجري على ضفة النهر كان يقيس الفيضان السنوي."
+   }
+  },
+  {
+   "title": {
+    "en": "Sanctuary of Heqaib",
+    "ar": "مقصورة حقا إيب"
+   },
+   "desc": {
+    "en": "A shrine to a deified local governor, with statues of Aswan's rulers.",
+    "ar": "مقصورة لحاكم محلي مؤلَّه، تضم تماثيل لحكام أسوان."
+   }
+  },
+  {
+   "title": {
+    "en": "Ancient town",
+    "ar": "المدينة القديمة"
+   },
+   "desc": {
+    "en": "Excavated houses and streets layered over three thousand years.",
+    "ar": "بيوت وشوارع مكتشفة تتراكم طبقاتها عبر ثلاثة آلاف عام."
+   }
+  },
+  {
+   "title": {
+    "en": "Excavation finds",
+    "ar": "معروضات الحفائر"
+   },
+   "desc": {
+    "en": "A small display of objects found by the archaeological missions.",
+    "ar": "عرض صغير لقطع عثرت عليها البعثات الأثرية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/ElephantineIsland",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Early morning, before the heat, crossing by the first ferries from the Corniche.",
+   "ar": "الصباح الباكر قبل اشتداد الحر، بالعبور مع أولى المعديات من الكورنيش."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded. The site is open-air with little shade; wear sturdy shoes for the uneven ground. The Nubian villages in the north of the island can be visited on the same trip.",
+   "ar": "نادرًا ما يزدحم. الموقع مكشوف قليل الظل، ويُستحسن ارتداء حذاء مريح للأرض غير المستوية. ويمكن زيارة القرى النوبية في شمال الجزيرة في الرحلة نفسها."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Assuan_Elephantine_Satistempel_02.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Assuan_Elephantine_Satistempel_02.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Assuan_Elephantine_Nilometer_02.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Assuan_Elephantine_Nilometer_02.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Assuan_Elephantine_Chnumtempel_07.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Assuan_Elephantine_Chnumtempel_07.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/elephantine-1/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Elephantine",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A5%D9%84%D9%81%D9%86%D8%AA%D9%8A%D9%86",
+  "osm": "way/5772018"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q284009",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/elephantine-1/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/aswan/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/elephantine-1/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry),prices,freeGroups,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/ElephantineIsland",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (last entry one hour before closing),description,highlights",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A5%D9%84%D9%81%D9%86%D8%AA%D9%8A%D9%86/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Elephantine",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "D3 (earlier time): the portal and MoTA guide close at 16:00 and the guide says last entry is one hour before closing (15:00); the booking page gives last entry 16:00 (= closing). Booking page Ramadan row equals the normal schedule, so no Ramadan exception. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

@@ -1,0 +1,321 @@
+{
+ "id": "obelisk-of-senusret-i",
+ "kind": "site",
+ "wikidataId": "Q23973758",
+ "name": {
+  "en": "Obelisk of Senusret I (Ancient Heliopolis, Matariya)",
+  "ar": "مسلة المطرية"
+ },
+ "aliases": [
+  "مسلة سنوسرت",
+  "مسلة سنوسرت الأول",
+  "مسلة عين شمس",
+  "مسله المطرية",
+  "Misallat al Maţarīyah",
+  "Obelisk of Senusret I"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "El Mataria",
+  "ar": "المطرية"
+ },
+ "area": {
+  "en": "Ancient Heliopolis (Iunu), al-Matariya",
+  "ar": "هليوبوليس القديمة (أون)، المطرية"
+ },
+ "address": {
+  "en": "Old Obelisk Square (Midan al-Misalla), al-Matariya, Cairo",
+  "ar": "ميدان المسلة القديم، المطرية، القاهرة"
+ },
+ "lat": 30.129444,
+ "lng": 31.3075,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily as a small fenced archaeological site around the obelisk.",
+  "ar": "مفتوح يوميًا بوصفه موقعًا أثريًا صغيرًا مسوّرًا حول المسلة."
+ },
+ "summary": {
+  "en": "A 20-metre granite obelisk raised by Senusret I almost 4,000 years ago, the oldest obelisk still standing where it was first erected in Egypt.",
+  "ar": "مسلة من الجرانيت يبلغ ارتفاعها نحو 20 مترًا أقامها الملك سنوسرت الأول قبل قرابة أربعة آلاف عام، وهي أقدم مسلة في مصر ما زالت قائمة في موضعها الأصلي."
+ },
+ "description": {
+  "en": "In the middle of the busy district of al-Matariya stands the last upright monument of Iunu, the city the Greeks called Heliopolis, one of the great religious centres of ancient Egypt. Here priests served the sun god Ra-Atum, whose cult taught that creation began on a mound rising from the primeval waters. The temple of the sun, thought to have rivalled Karnak in scale, has almost entirely vanished; much of its stone was carried off in later ages, and several of its obelisks now stand in Rome, London and New York. The one survivor was cut from a single block of pink Aswan granite and raised by Senusret I of the Twelfth Dynasty, around 1950 BC, to celebrate his jubilee. It rises about twenty metres and carries hieroglyphic inscriptions naming the king. It is the oldest of Egypt's obelisks still standing in its original position. Excavations around Matariya continue to recover statues and temple blocks, and some finds from the area, such as a column of Merenptah, are now displayed at the Grand Egyptian Museum. The obelisk is set within a small enclosure that visitors can walk around.",
+  "ar": "في قلب حي المطرية المزدحم تقف آخر الآثار القائمة من مدينة أون، التي سماها الإغريق هليوبوليس، وكانت من أعظم المراكز الدينية في مصر القديمة. هنا خدم الكهنة إله الشمس رع-أتوم، الذي تقول عقيدته إن الخلق بدأ من تل انبثق من المياه الأزلية. وقد اختفى معبد الشمس، الذي يُرجح أنه كان يضاهي معبد الكرنك في اتساعه، اختفاءً شبه تام، إذ نُقل كثير من أحجاره في عصور لاحقة، وتقف عدة من مسلاته اليوم في روما ولندن ونيويورك. أما المسلة الباقية فقد قُطعت من كتلة واحدة من الجرانيت الوردي من محاجر أسوان، وأقامها الملك سنوسرت الأول من الأسرة الثانية عشرة نحو عام 1950 قبل الميلاد احتفالًا بعيده الثلاثيني. ويبلغ ارتفاعها نحو عشرين مترًا، وتحمل نقوشًا هيروغليفية تذكر اسم الملك. وهي أقدم المسلات المصرية التي لا تزال قائمة في موضعها الأصلي. وما زالت الحفائر في المطرية تكشف عن تماثيل وكتل من المعابد، ويُعرض بعض ما عُثر عليه في المنطقة، مثل عمود الملك مرنبتاح، في المتحف المصري الكبير. وتقوم المسلة داخل ساحة صغيرة مسوّرة يمكن للزائر أن يطوف حولها."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Obelisk of Senusret I",
+    "ar": "مسلة سنوسرت الأول"
+   },
+   "desc": {
+    "en": "A single shaft of pink Aswan granite about 20 metres high, erected around 1950 BC.",
+    "ar": "عمود واحد من الجرانيت الوردي الأسواني بارتفاع نحو 20 مترًا، أُقيم نحو عام 1950 قبل الميلاد."
+   }
+  },
+  {
+   "title": {
+    "en": "Jubilee inscriptions",
+    "ar": "نقوش العيد الثلاثيني"
+   },
+   "desc": {
+    "en": "Hieroglyphic texts naming the king and recording the jubilee for which it was raised.",
+    "ar": "نصوص هيروغليفية تذكر اسم الملك وتسجل العيد الذي أُقيمت المسلة احتفالًا به."
+   }
+  },
+  {
+   "title": {
+    "en": "Site of the sun temple",
+    "ar": "موضع معبد الشمس"
+   },
+   "desc": {
+    "en": "The obelisk marks the precinct of Iunu's great temple of Ra-Atum.",
+    "ar": "تحدد المسلة موضع المعبد الكبير لرع-أتوم في مدينة أون."
+   }
+  },
+  {
+   "title": {
+    "en": "Nearby: the Virgin Mary's Tree",
+    "ar": "بالقرب: شجرة مريم"
+   },
+   "desc": {
+    "en": "A short ride away in Matariya, the tree linked to the Holy Family's journey (separate ticket).",
+    "ar": "على مسافة قصيرة في المطرية، الشجرة المرتبطة برحلة العائلة المقدسة (بتذكرة مستقلة)."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/AlMatariyyahObelisk",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 30,
+  "deepMinutes": 45,
+  "bestTime": {
+   "en": "Morning, combined with a visit to the Virgin Mary's Tree nearby.",
+   "ar": "الصباح، مع الجمع بين الزيارة وشجرة مريم القريبة."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded. The surrounding streets are dense and busy, so a taxi is the easiest way to arrive.",
+   "ar": "نادرًا ما يزدحم. والشوارع المحيطة مكتظة، فالوصول بسيارة أجرة هو الأيسر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Heliopolis200501.JPG",
+   "author": "Héliopolis200501.JPG: user:Neithsabes derivative work: JMCC1 (talk)",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heliopolis200501.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/CairoObeliskSesostris1.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoObeliskSesostris1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Egypt._Cairo._Obelisk_at_Heliopolis_LOC_matpc.23044.jpg",
+   "author": "Matson Collection",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egypt._Cairo._Obelisk_at_Heliopolis_LOC_matpc.23044.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/ayn-shams-city/",
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q23973758",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/ayn-shams-city/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),freeGroups (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/AlMatariyyahObelisk",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/237",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مسلة-سنوسرت-الأول/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (Iunu, Merenptah column at GEM)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/ayn-shams-city/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (Virgin Mary's Tree listed as a separate ticketed site)",
+   "url": "https://egymonuments.com/details/Mary%27sTree",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Ramadan 09:00-16:00 (MoTA guide) and last entry 15:00 (egymonuments.com) agree. The current state of any open-air display around the obelisk was not verified. Merenptah column at GEM per egymonuments.gov.eg Ayn Shams page."
+}

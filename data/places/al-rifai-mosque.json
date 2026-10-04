@@ -1,0 +1,334 @@
+{
+ "id": "al-rifai-mosque",
+ "kind": "site",
+ "wikidataId": "Q311441",
+ "name": {
+  "en": "Al-Rifa'i Mosque",
+  "ar": "مسجد الرفاعي"
+ },
+ "aliases": [
+  "جامع الرفاعي"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Salah al-Din Square (Midan al-Qal'a), El-Khalifa",
+  "ar": "ميدان صلاح الدين (ميدان القلعة)، الخليفة"
+ },
+ "address": {
+  "en": "Salah al-Din Square (Midan al-Qal'a), El-Khalifa, Cairo — facing the Mosque-Madrasa of Sultan Hassan",
+  "ar": "ميدان صلاح الدين (ميدان القلعة)، حي الخليفة، القاهرة — في مواجهة مسجد ومدرسة السلطان حسن"
+ },
+ "lat": 30.032778,
+ "lng": 31.256667,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily as a monument and a working mosque. Entry is on the joint ticket with the Sultan Hassan Mosque opposite; Egyptians enter free.",
+  "ar": "مفتوح يوميًا بوصفه أثرًا ومسجدًا تُقام فيه الصلاة. والدخول بالتذكرة المشتركة مع مسجد السلطان حسن المقابل، ويدخل المصريون مجانًا."
+ },
+ "summary": {
+  "en": "A monumental neo-Mamluk mosque completed in 1912, where Khedive Ismail, Kings Fuad and Farouk and the last Shah of Iran are buried.",
+  "ar": "مسجد ضخم على الطراز المملوكي المحدث اكتمل عام 1912، وفيه يرقد الخديوي إسماعيل والملكان فؤاد وفاروق وآخر شاهات إيران."
+ },
+ "description": {
+  "en": "Facing the fourteenth-century Mosque of Sultan Hassan across a narrow lane, al-Rifa'i was designed to match its medieval neighbour in height and grandeur. The site once held a small zawiya around the tomb of Ali Abu Shubbak, a descendant of Ahmad al-Rifa'i, founder of the Rifa'i Sufi order, and the new mosque took its name from him. Construction was commissioned in 1869 by Khoshiyar Hanim, mother of Khedive Ismail, to the designs of Hussein Fahmi Pasha, but stopped after the architect's death and Ismail's fall. Khedive Abbas II revived the project in 1905, and the Hungarian architect Max Herz, head of the committee for Arab monuments, saw it completed in 1912. Built in a revived Mamluk style, it is said to be the first Islamic monument in Egypt to use cement, and it combines carved stone, imported marble, gilded ceilings and huge bronze-trimmed doors. Part of the building is a prayer hall; the rest is a royal mausoleum for the family of Muhammad Ali. Khedive Ismail, his mother, Sultan Hussein Kamel, King Fuad I and King Farouk are buried here, as is Mohammad Reza Pahlavi, the last Shah of Iran, who died in Cairo in 1980.",
+  "ar": "يقف مسجد الرفاعي في مواجهة مسجد السلطان حسن الذي يعود إلى القرن الرابع عشر، لا يفصل بينهما سوى ممر ضيق، وقد صُمّم ليضاهي جاره العتيق ارتفاعًا وفخامة. وكانت في موضعه زاوية صغيرة تضم ضريح الشيخ علي أبي شباك، من أحفاد الإمام أحمد الرفاعي مؤسس الطريقة الرفاعية الصوفية، ومنه أخذ المسجد الجديد اسمه. وقد أمرت خوشيار هانم، والدة الخديوي إسماعيل، ببنائه عام 1869 وفق تصميم حسين فهمي باشا، لكن العمل توقف بعد وفاة المعماري وعزل إسماعيل. ثم أحيا الخديوي عباس حلمي الثاني المشروع عام 1905، وأشرف المعماري المجري ماكس هرتس، رئيس لجنة حفظ الآثار العربية، على إتمامه عام 1912. وقد بُني على الطراز المملوكي المحدث، ويُقال إنه أول أثر إسلامي في مصر استُخدم الأسمنت في بنائه، ويجمع بين الحجر المنحوت والرخام المستورد والأسقف المذهبة والأبواب الضخمة المكسوة بالنحاس. ويُخصص جزء منه للصلاة، والباقي مدافن لأسرة محمد علي، ففيه يرقد الخديوي إسماعيل ووالدته والسلطان حسين كامل والملك فؤاد الأول والملك فاروق، إلى جانب محمد رضا بهلوي آخر شاهات إيران الذي توفي في القاهرة عام 1980."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Royal tombs",
+    "ar": "مدافن الأسرة العلوية"
+   },
+   "desc": {
+    "en": "Marble tombs of Khedive Ismail, his mother Khoshiyar, King Fuad I and King Farouk.",
+    "ar": "مقابر رخامية للخديوي إسماعيل ووالدته خوشيار والملك فؤاد الأول والملك فاروق."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of the Shah of Iran",
+    "ar": "ضريح شاه إيران"
+   },
+   "desc": {
+    "en": "The burial place of Mohammad Reza Pahlavi, who died in Cairo in 1980.",
+    "ar": "مدفن محمد رضا بهلوي الذي توفي في القاهرة عام 1980."
+   }
+  },
+  {
+   "title": {
+    "en": "Shrine of Ali Abu Shubbak",
+    "ar": "ضريح الشيخ علي أبي شباك"
+   },
+   "desc": {
+    "en": "The Rifa'i saint whose tomb gave the mosque its name.",
+    "ar": "الولي الرفاعي الذي منح ضريحه المسجد اسمه."
+   }
+  },
+  {
+   "title": {
+    "en": "Prayer hall",
+    "ar": "قاعة الصلاة"
+   },
+   "desc": {
+    "en": "A lofty hall of marble columns, gilded ceilings and hanging lamps.",
+    "ar": "قاعة شاهقة بأعمدة رخامية وأسقف مذهبة ومشكاوات معلقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Façades and portals",
+    "ar": "الواجهات والمداخل"
+   },
+   "desc": {
+    "en": "Towering carved stone portals and twin minarets facing Sultan Hassan.",
+    "ar": "مداخل حجرية شاهقة منحوتة ومئذنتان في مواجهة مسجد السلطان حسن."
+   }
+  },
+  {
+   "title": {
+    "en": "Sultan Hassan (same ticket)",
+    "ar": "السلطان حسن (بالتذكرة نفسها)"
+   },
+   "desc": {
+    "en": "The Mamluk masterpiece across the lane is included in the same visit.",
+    "ar": "تحفة العمارة المملوكية عبر الممر تشملها الزيارة نفسها."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 0
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 0
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   }
+  ],
+  "freeGroups": [
+   "Egyptians (no Egyptian ticket is sold)",
+   "Children under 6"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Mosque-MadrassaSultanHassan",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Mid-morning, together with Sultan Hassan and the Citadel above the square.",
+   "ar": "منتصف الصباح، مع الجمع بين الزيارة ومسجد السلطان حسن والقلعة المطلة على الميدان."
+  },
+  "crowdNotes": {
+   "en": "A working mosque and a Sufi shrine: dress modestly, remove shoes and expect visits to pause at prayer times, especially Friday noon. The square is crowded during the Rifa'i mawlid celebrations.",
+   "ar": "مسجد عامر وضريح صوفي، لذا يُرجى الاحتشام وخلع الأحذية، وقد تتوقف الزيارات وقت الصلاة خاصة ظهر الجمعة. ويزدحم الميدان في أيام الاحتفال بمولد الرفاعي."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cairo_-_al-Rifa%27i_Mosque_0033.jpg",
+   "author": "OmarJihad",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo_-_al-Rifa%27i_Mosque_0033.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/De_El_Rifai_moskee_in_Ca%C3%AFro%2C_Bestanddeelnr_191-0069.jpg",
+   "author": "Willem van de Poll",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:De_El_Rifai_moskee_in_Ca%C3%AFro,_Bestanddeelnr_191-0069.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A_-_%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84_04.jpg",
+   "author": "Sherif Alyamany",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A_-_%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84_04.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/al-rifa-i-mosque/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Al-Rifa%27i_Mosque",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q311441",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q138135972",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/al-rifa-i-mosque/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (joint ticket with Sultan Hassan),hours,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/al-rifa-i-mosque/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),tickets (official MoTA ticketing, Sultan Hassan joint ticket)",
+   "url": "https://egymonuments.com/details/Mosque-MadrassaSultanHassan",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/جامع-الرفاعي/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Al-Rifa%27i_Mosque",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Price: joint ticket with Sultan Hassan (egymonuments.gov.eg Rifa'i page: 220/110 foreign, Egyptians 0). Mirrors sultan-hassan-mosque record."
+}

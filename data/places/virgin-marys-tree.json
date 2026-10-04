@@ -1,0 +1,337 @@
+{
+ "id": "virgin-marys-tree",
+ "kind": "site",
+ "wikidataId": "Q141246010",
+ "name": {
+  "en": "Virgin Mary's Tree (Matariya)",
+  "ar": "شجرة العذراء مريم"
+ },
+ "aliases": [
+  "Virgin Mary's Tree",
+  "Virgin Mary tree"
+ ],
+ "category": "coptic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Matariya",
+  "ar": "المطرية"
+ },
+ "address": {
+  "en": "Al-Matarawi Street, Matariya, Cairo",
+  "ar": "شارع المطراوي، المطرية، القاهرة"
+ },
+ "lat": 30.12057,
+ "lng": 31.30912,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A walled garden in Matariya around the sycamore where, by tradition, the Holy Family rested on its flight into Egypt.",
+  "ar": "حديقة مسوّرة في المطرية حول شجرة الجميز التي استظلت بها العائلة المقدسة، بحسب التقليد، في رحلتها إلى مصر."
+ },
+ "description": {
+  "en": "Christian tradition holds that Mary, Joseph and the infant Jesus stopped to rest beneath a tree here, in the area of ancient Heliopolis, during their flight into Egypt, and that a spring appeared to refresh them. The place became one of the most visited stations on the Holy Family route and drew pilgrims, medieval historians and European travellers for centuries. The original sycamore fell in 1656; the tree standing today grew from one of its shoots. French soldiers are said to have carved their names into its branches in 1800, and Empress Eugénie came here during the celebrations for the opening of the Suez Canal in 1869. The Supreme Council of Antiquities restored the whole site and reopened it in September 2022. Besides the venerable tree, which is supported by props and fenced off, visitors see the old well, a small grotto and the garden setting. It is a short, quiet visit that sits naturally beside the obelisk of Senusret I in Matariya and the other stops of the Holy Family trail in Cairo.",
+  "ar": "يروي التقليد المسيحي أن السيدة مريم ويوسف النجار والطفل يسوع استراحوا تحت شجرة في هذا الموضع، في نطاق مدينة أون (هليوبوليس) القديمة، أثناء رحلتهم إلى مصر، وأن نبع ماء تفجّر ليرويهم. وأصبح المكان من أكثر محطات مسار العائلة المقدسة زيارة، وقصده الحجاج والمؤرخون في العصور الوسطى والرحالة الأوروبيون على مدى قرون. سقطت شجرة الجميز الأصلية عام 1656، أما الشجرة القائمة اليوم فنبتت من أحد فروعها. ويُروى أن جنودًا فرنسيين حفروا أسماءهم على أغصانها عام 1800، كما زارتها الإمبراطورة أوجيني خلال احتفالات افتتاح قناة السويس عام 1869. وقد رمم المجلس الأعلى للآثار الموقع بالكامل وأعاد افتتاحه في سبتمبر 2022. وإلى جانب الشجرة العتيقة المسنودة بدعامات والمحاطة بسياج، يشاهد الزائر البئر القديمة ومغارة صغيرة والحديقة المحيطة. زيارة قصيرة هادئة يمكن الجمع بينها وبين مسلة سنوسرت الأول في المطرية وبقية محطات مسار العائلة المقدسة في القاهرة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "The Virgin's tree",
+    "ar": "شجرة العذراء"
+   },
+   "desc": {
+    "en": "The ancient sycamore, grown from a shoot of the tree that fell in 1656.",
+    "ar": "شجرة الجميز العتيقة التي نبتت من فرع الشجرة الأصلية التي سقطت عام 1656."
+   }
+  },
+  {
+   "title": {
+    "en": "The well",
+    "ar": "البئر"
+   },
+   "desc": {
+    "en": "The old well linked by tradition to the spring that refreshed the Holy Family.",
+    "ar": "البئر القديمة التي يربطها التقليد بالنبع الذي روى العائلة المقدسة."
+   }
+  },
+  {
+   "title": {
+    "en": "The grotto",
+    "ar": "المغارة"
+   },
+   "desc": {
+    "en": "A small grotto within the restored site.",
+    "ar": "مغارة صغيرة داخل الموقع بعد ترميمه."
+   }
+  },
+  {
+   "title": {
+    "en": "Holy Family route station",
+    "ar": "محطة في مسار العائلة المقدسة"
+   },
+   "desc": {
+    "en": "One of the main stops of the pilgrimage route across Egypt.",
+    "ar": "إحدى أبرز محطات مسار رحلة العائلة المقدسة في مصر."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Mary",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Weekday mornings; the site is busiest with church groups around the Coptic feast of the Holy Family’s entry into Egypt (1 June).",
+   "ar": "صباح أيام الأسبوع، ويزداد الإقبال مع الرحلات الكنسية في عيد دخول العائلة المقدسة مصر (1 يونيو)."
+  },
+  "crowdNotes": {
+   "en": "Usually quiet. The tree itself is fenced and cannot be touched.",
+   "ar": "هادئ عادة، والشجرة محاطة بسياج ولا يُسمح بلمسها."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/CairoVirginTree.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoVirginTree.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Louis_Haghe_-_Egypt_and_Nubia%2C_Volume_III-_The_Holy_Tree_of_Metereah_-_2012.153_-_Cleveland_Museum_of_Art.jpg",
+   "author": "Louis Haghe",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louis_Haghe_-_Egypt_and_Nubia,_Volume_III-_The_Holy_Tree_of_Metereah_-_2012.153_-_Cleveland_Museum_of_Art.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Mariaboom_bij_Heliopolis%2C_Egypte_Mariaboom_bij_Heliopolis%2C_RP-F-1999-139-1-65.jpg",
+   "author": "Rijksmuseum",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mariaboom_bij_Heliopolis,_Egypte_Mariaboom_bij_Heliopolis,_RP-F-1999-139-1-65.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/marys-tree-archaeological-site/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Tree_of_the_Virgin",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B4%D8%AC%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%B0%D8%B1%D8%A7%D8%A1_%D9%85%D8%B1%D9%8A%D9%85",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q141246010",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q13141836",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/marys-tree-archaeological-site/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/marys-tree-archaeological-site/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/Mary",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (booking page)",
+   "url": "https://egymonuments.com/book-date/234",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close 16:00),address,status (reopened Sept 2022)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/شجرة-مريم/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Tree_of_the_Virgin",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:CairoVirginTree.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Louis_Haghe_-_Egypt_and_Nubia,_Volume_III-_The_Holy_Tree_of_Metereah_-_2012.153_-_Cleveland_Museum_of_Art.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Mariaboom_bij_Heliopolis,_Egypte_Mariaboom_bij_Heliopolis,_RP-F-1999-139-1-65.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Hours and prices agree across portal, booking platform, MoTA guide and Nov 2024 list. Feast-date line in bestTime (1 June, Coptic feast of the entry of the Holy Family) is general knowledge, not from a MoTA source. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

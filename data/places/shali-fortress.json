@@ -1,0 +1,199 @@
+{
+ "id": "shali-fortress",
+ "kind": "site",
+ "wikidataId": "Q12218198",
+ "name": {
+  "en": "Shali Fortress (Siwa)",
+  "ar": "قلعة شالي"
+ },
+ "aliases": [
+  "Fort of Siwa",
+  "Shali",
+  "شالي، سيوة"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "matrouh",
+ "city": {
+  "en": "Siwa",
+  "ar": "سيوة"
+ },
+ "area": {
+  "en": "Siwa town centre",
+  "ar": "وسط مدينة سيوة"
+ },
+ "address": {
+  "en": "Old town of Shali, central Siwa, Matrouh Governorate",
+  "ar": "مدينة شالي القديمة، وسط سيوة، محافظة مطروح"
+ },
+ "lat": 29.201319,
+ "lng": 25.519231,
+ "status": "open",
+ "statusNote": {
+  "en": "Open-access ruined town in the middle of Siwa; its walls and old mosque have been restored. No official opening hours or ticket price are published.",
+  "ar": "مدينة أثرية متهدمة مفتوحة في قلب سيوة، رُممت أسوارها ومسجدها العتيق. ولا توجد مواعيد زيارة أو أسعار تذاكر رسمية منشورة."
+ },
+ "summary": {
+  "en": "The crumbling mud-and-salt citadel town that was Siwa's fortified home for some eight centuries, with a restored old mosque and wide views over the oasis.",
+  "ar": "مدينة القلعة المبنية من الطين والملح، كانت حصن أهل سيوة ومسكنهم نحو ثمانية قرون، وفيها مسجد عتيق مرمم وإطلالة واسعة على الواحة."
+ },
+ "description": {
+  "en": "Shali, whose name means simply \"the town\" in the Siwi language, was founded in the sixth century of the Hijra, the twelfth century AD, when the people of the oasis gathered on a rocky outcrop for protection against raiders. They built tightly packed, multi-storey houses from kershef, a mix of salty lake mud and rock that sets almost like cement in the dry desert air. A strong wall enclosed the town with a single gate, Bab Inshal; a second gate was opened later near the olive press, and a third, Qaduha, was reserved for women. Wells inside the walls supplied drinking water. Kershef cannot withstand heavy rain, and after a rare downpour in the 1920s families began moving to new houses at the foot of the hill, leaving the eroded, sculptural ruins seen today. A restoration programme stabilised the walls and the old mosque, whose mud minaret is among the oldest of its kind. Climbing through the lanes to the top rewards visitors with a sweeping view of palm groves, salt lakes and the surrounding desert.",
+  "ar": "تعني كلمة «شالي» في اللغة السيوية «المدينة»، وقد أُسست في القرن السادس الهجري الموافق للقرن الثاني عشر الميلادي، حين تجمّع أهل الواحة فوق مرتفع صخري احتماءً من الغزاة. وشيدوا بيوتًا متلاصقة متعددة الطوابق من الكرشيف، وهو مزيج من طين البحيرات المالح والحجر يتصلب في هواء الصحراء الجاف حتى يقارب الإسمنت. وأحاط بالمدينة سور متين له باب واحد هو «باب إنشال»، ثم فُتح باب ثانٍ قرب معصرة الزيتون، وباب ثالث يُعرف بـ«قدوحة» خُصص للنساء. وكانت آبار داخل الأسوار توفر مياه الشرب. غير أن الكرشيف لا يصمد أمام الأمطار الغزيرة، فبعد سيول نادرة في عشرينيات القرن العشرين بدأت الأسر تنتقل إلى بيوت جديدة عند سفح التل، تاركة الأطلال المنحوتة بفعل التعرية التي نراها اليوم. وقد ثبّت مشروع ترميم الأسوار والمسجد العتيق الذي تُعد مئذنته الطينية من أقدم مثيلاتها. ويكافأ من يصعد عبر الحارات إلى القمة بمنظر بانورامي لبساتين النخيل والبحيرات المالحة والصحراء المحيطة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Kershef architecture",
+    "ar": "عمارة الكرشيف"
+   },
+   "desc": {
+    "en": "Walls of salt-rich mud and rock, eroded into sculptural shapes.",
+    "ar": "جدران من الطين المالح والحجر شكّلتها التعرية في هيئات أشبه بالمنحوتات."
+   }
+  },
+  {
+   "title": {
+    "en": "Bab Inshal",
+    "ar": "باب إنشال"
+   },
+   "desc": {
+    "en": "The original and for long the only gate of the walled town.",
+    "ar": "البوابة الأصلية التي ظلت طويلًا المدخل الوحيد للمدينة المسوّرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Old Mosque",
+    "ar": "المسجد العتيق"
+   },
+   "desc": {
+    "en": "Restored mud-brick mosque with a tapering earthen minaret.",
+    "ar": "مسجد مرمم من الطوب اللبن تعلوه مئذنة طينية مستدقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Tandi Mosque",
+    "ar": "مسجد تندي"
+   },
+   "desc": {
+    "en": "The mosque of Sheikha Hasina, still standing within the old town.",
+    "ar": "مسجد الشيخة حسينة، ولا يزال قائمًا داخل المدينة القديمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Hilltop panorama",
+    "ar": "الإطلالة من القمة"
+   },
+   "desc": {
+    "en": "Views over palm groves, salt lakes and desert ridges.",
+    "ar": "مشهد يمتد فوق بساتين النخيل والبحيرات المالحة وتلال الصحراء."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Late afternoon, for softer light on the walls and sunset over the oasis from the top.",
+   "ar": "آخر النهار، حين يلين الضوء على الجدران ويمكن مشاهدة الغروب فوق الواحة من القمة."
+  },
+  "crowdNotes": {
+   "en": "The kershef is fragile: keep to the restored paths and do not climb on crumbling walls. Siwa town itself needs no special permit, but the road from Marsa Matrouh has several police checkpoints, so carry your passport; trips into the open desert beyond the oasis are arranged through local operators who obtain the permits.",
+   "ar": "الكرشيف هش، فالتزم بالممرات المرممة ولا تتسلق الجدران المتهالكة. ولا تحتاج زيارة مدينة سيوة نفسها إلى تصريح خاص، لكن الطريق من مرسى مطروح يمر بعدة نقاط تفتيش للشرطة، فاحمل جواز سفرك؛ أما الرحلات إلى الصحراء المفتوحة خارج الواحة فتُرتب عبر منظمي رحلات محليين يستخرجون التصاريح اللازمة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Shali_%28Historic_Center_of_Siwa%29_01.JPG",
+   "author": "Michael Hermann",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shali_(Historic_Center_of_Siwa)_01.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Shali_01.jpg",
+   "author": "Marsupium",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shali_01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Old_Mosque_of_Shali_01.jpg",
+   "author": "Marsupium",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Mosque_of_Shali_01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/shali-village-in-siwa-oasis/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D9%84%D9%8A_(%D8%B3%D9%8A%D9%88%D8%A9)",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12218198",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/shali-village-in-siwa-oasis/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (official portal; facts only)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/shali-village-in-siwa-oasis/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (restoration and reopening of Shali and the Aghurmi mosque; official news, undated)",
+   "url": "https://egymonuments.gov.eg/ar/news/inaugurates-shali-fortress-and-the-aghurmi-mosque-in-the-siwa-oasis/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (old mosque restored and open, news 12 Jun 2026)",
+   "url": "https://www.youm7.com/story/2026/6/12/%D8%B4%D8%A7%D9%84%D9%8A-%D8%AC%D9%88%D9%87%D8%B1%D8%A9-%D8%B3%D9%8A%D9%88%D8%A9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D9%88%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-%D9%85%D9%86-%D8%A3%D9%86%D8%AF%D8%B1-%D8%A7%D9%84%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A/7445650",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (not listed: no Shali entry in the MoTA ticket list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "visit.crowdNotes (travel advice: Siwa town and the Matrouh-Siwa road exempt from warnings; updated 4 Aug 2026)",
+   "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D9%84%D9%8A_(%D8%B3%D9%8A%D9%88%D8%A9)",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Shali_(Historic_Center_of_Siwa)_01.JPG",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Shali_01.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Old_Mosque_of_Shali_01.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "No official hours or price found: Shali is not in the MoTA Nov 2024 ticket list, the MoTA open-sites guide or egymonuments.com; travel blogs say it is free and always open, so hours are omitted and prices.status = unconfirmed. Reopening news on egymonuments.gov.eg is undated in its text (press coverage places it in Nov 2020); prose avoids a precise year. The 'rain in the 1920s' (1926) abandonment comes from Wikipedia. Night photo 'Shali castle-قلعه شالي.jpg' rejected (modern restaurant furniture in frame)."
+}

@@ -1,0 +1,183 @@
+{
+ "id": "al-azhar-mosque",
+ "kind": "site",
+ "wikidataId": "Q312342",
+ "name": {
+  "en": "Al-Azhar Mosque",
+  "ar": "الجامع الأزهر"
+ },
+ "aliases": [
+  "الازهر",
+  "أزهر",
+  "الأزهر",
+  "ازهر",
+  "الجامع الأزهر الشريف",
+  "الجامع الازهر",
+  "الجامع الازهر الشريف",
+  "المسجد الازهر",
+  "جامع ازهر",
+  "جامع الأزهر",
+  "جامع الازهر",
+  "مسجد الأزهر"
+ ],
+ "category": "islamic",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Al-Azhar, Islamic Cairo",
+  "ar": "الأزهر، القاهرة التاريخية"
+ },
+ "address": {
+  "en": "Al-Azhar Street, al-Darb al-Ahmar, opposite al-Hussein Square, Cairo",
+  "ar": "شارع الأزهر، الدرب الأحمر، أمام ميدان الحسين، القاهرة"
+ },
+ "lat": 30.045726,
+ "lng": 31.262696,
+ "status": "open",
+ "statusNote": {
+  "en": "Active mosque, open daily; visitors are welcome outside prayer times.",
+  "ar": "مسجد عامر يفتح أبوابه يوميًا، ويُرحب بالزوار خارج أوقات الصلاة."
+ },
+ "summary": {
+  "en": "Cairo's great Fatimid congregational mosque, founded in 970–972 and still the heart of Sunni learning.",
+  "ar": "الجامع الفاطمي الكبير في القاهرة، أُسس بين عامي 970 و972 ولا يزال قلب العلم في العالم السني."
+ },
+ "description": {
+  "en": "Al-Azhar was founded by the Fatimid commander Jawhar al-Siqilli as the official mosque of the newly built city of Cairo; its first Friday prayer was held in Ramadan 361 AH (972 AD), and its name is usually linked to Fatima al-Zahra, daughter of the Prophet. Teaching began early, and over more than a thousand years al-Azhar has become one of the world's oldest continuously active centres of learning and a symbol of Sunni scholarship. The building records Cairo's history layer by layer. The Fatimid core, an open courtyard surrounded by arcades with keel-shaped arches and carved stucco, was enlarged repeatedly. Mamluk patrons added the madrasas of Taybars, Aqbugha and Jawhar beside the main entrance; Sultan Qaitbay built a minaret and the Barbers' Gate, and Sultan al-Ghuri added the distinctive minaret with twin finials. In 1754 the Ottoman emir Abd al-Rahman Katkhuda extended the prayer hall and added new gates. After a major restoration, the mosque was reopened in 2018. Today it remains a living mosque and university hub, and visitors are welcome outside prayer times.",
+  "ar": "أسس القائد الفاطمي جوهر الصقلي الجامع الأزهر ليكون المسجد الرسمي لمدينة القاهرة الناشئة، وأقيمت فيه أول صلاة جمعة في رمضان سنة 361 هـ (972 م)، ويُربط اسمه عادة بالسيدة فاطمة الزهراء ابنة النبي. وبدأ التدريس فيه مبكرًا، وعلى مدى أكثر من ألف عام صار من أقدم مراكز العلم التي لم ينقطع نشاطها في العالم، ورمزًا للعلم السني. ويسجل المبنى تاريخ القاهرة طبقة فوق طبقة. فالنواة الفاطمية، وهي صحن مكشوف تحيط به أروقة ذات عقود منكسرة وزخارف جصية محفورة، جرى توسيعها مرارًا. وأضاف رعاة العصر المملوكي المدارس الطيبرسية والأقبغاوية والجوهرية بجوار المدخل الرئيسي، وشيد السلطان قايتباي مئذنة وباب المزينين، وأضاف السلطان الغوري مئذنته المميزة ذات الرأسين. وفي عام 1754 وسع الأمير العثماني عبد الرحمن كتخدا قاعة الصلاة وأضاف أبوابًا جديدة. وبعد ترميم كبير أعيد افتتاح الجامع عام 2018. ولا يزال اليوم مسجدًا عامرًا ومركزًا علميًا نابضًا، ويُرحب بالزوار خارج أوقات الصلاة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Fatimid courtyard",
+    "ar": "الصحن الفاطمي"
+   },
+   "desc": {
+    "en": "The open court framed by keel-arched arcades and carved stucco.",
+    "ar": "الصحن المكشوف تحيط به أروقة بعقود منكسرة وزخارف جصية."
+   }
+  },
+  {
+   "title": {
+    "en": "Minaret of al-Ghuri",
+    "ar": "مئذنة الغوري"
+   },
+   "desc": {
+    "en": "The early 16th-century minaret crowned by twin finials.",
+    "ar": "مئذنة من مطلع القرن السادس عشر تعلوها قمتان."
+   }
+  },
+  {
+   "title": {
+    "en": "Minaret of Qaitbay",
+    "ar": "مئذنة قايتباي"
+   },
+   "desc": {
+    "en": "A finely carved Mamluk minaret beside the Barbers' Gate.",
+    "ar": "مئذنة مملوكية دقيقة النقش بجوار باب المزينين."
+   }
+  },
+  {
+   "title": {
+    "en": "Barbers' Gate",
+    "ar": "باب المزينين"
+   },
+   "desc": {
+    "en": "The main entrance, rebuilt by Sultan Qaitbay.",
+    "ar": "المدخل الرئيسي الذي جدده السلطان قايتباي."
+   }
+  },
+  {
+   "title": {
+    "en": "Mamluk madrasas",
+    "ar": "المدارس المملوكية"
+   },
+   "desc": {
+    "en": "The Taybarsiyya and Aqbughawiyya schools beside the entrance.",
+    "ar": "المدرستان الطيبرسية والأقبغاوية بجوار المدخل."
+   }
+  },
+  {
+   "title": {
+    "en": "Ottoman prayer hall",
+    "ar": "قاعة الصلاة العثمانية"
+   },
+   "desc": {
+    "en": "Abd al-Rahman Katkhuda's 18th-century extension of the sanctuary.",
+    "ar": "توسعة عبد الرحمن كتخدا لقاعة الصلاة في القرن الثامن عشر."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Mid-morning on a weekday; combine with al-Muizz Street and Khan el-Khalili across the road.",
+   "ar": "منتصف الصباح في أحد أيام الأسبوع، مع ضم شارع المعز وخان الخليلي على الجانب الآخر من الطريق."
+  },
+  "crowdNotes": {
+   "en": "Dress modestly; women should cover their hair, and shoes are removed at the entrance. Avoid Friday noon prayer and prayer times; it is very busy in Ramadan evenings.",
+   "ar": "يُرجى ارتداء ملابس محتشمة وتغطية الشعر للنساء وخلع الأحذية عند المدخل. ويُستحسن تجنب صلاة الجمعة وأوقات الصلاة، ويشتد الزحام في ليالي رمضان."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+   "author": "Daniel Mayer",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Al-Azhar_Mosque_courtyard_columns_DSCF4592.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Azhar_Mosque_courtyard_columns_DSCF4592.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Courtyard_of_Al-Azhar_Mosque.jpg",
+   "author": "Lekegian, G.",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Courtyard_of_Al-Azhar_Mosque.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Al-Azhar_Mosque",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D8%A3%D8%B2%D9%87%D8%B1",
+  "osm": "way/24749059"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q312342",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights,status (MoTA open-sites guide: hours 'according to its managing authority')",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9-%D8%A7%D9%84%D8%A3%D8%B2%D9%87%D8%B1/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Al-Azhar_Mosque",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Managed by Al-Azhar; MoTA's guide gives visiting hours only as 'according to its managing authority', and no official visitor hours or price were found, so hours are omitted and prices.status is 'unconfirmed' (D9)."
+}

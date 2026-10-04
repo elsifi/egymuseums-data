@@ -156,6 +156,9 @@
    }
   ]
  },
+ "prices": {
+  "status": "unconfirmed"
+ },
  "visit": {
   "quickMinutes": 30,
   "standardMinutes": 60,
@@ -171,19 +174,19 @@
  },
  "photos": [
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Katharinenkloster_Sinai_BW_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Katharinenkloster_Sinai_BW_2.jpg",
    "author": "Berthold Werner",
    "license": "CC BY-SA 3.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW_2.jpg"
   },
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Katharinenkloster_Sinai_BW_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Katharinenkloster_Sinai_BW_4.jpg",
    "author": "Berthold Werner",
    "license": "CC BY-SA 3.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW_4.jpg"
   },
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Outside_wall_of_St._Catherine%27s_Convent_-_Mt._Sinai_LCCN2004672945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Outside_wall_of_St._Catherine%27s_Convent_-_Mt._Sinai_LCCN2004672945.jpg",
    "author": "Underwood & Underwood, photographer",
    "license": "Public domain",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outside_wall_of_St._Catherine%27s_Convent_-_Mt._Sinai_LCCN2004672945.jpg"
@@ -280,5 +283,5 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "low",
- "curationNote": "D10: hours follow masrawy 2026-04-09 (monastery adviser): Sat–Thu 08:45–11:30, Fri 10:45–11:30. Conflicts: the monastery's undated site says 09:00–11:30 closed Fri and Sun; the egymonuments portal says 08:45–12:45, Fri 10:30–11:30, Sun closed. Recheck Nov/Dec 2026 feast-day closure dates."
+ "curationNote": "D10: hours follow masrawy 2026-04-09 (monastery adviser): Sat–Thu 08:45–11:30, Fri 10:45–11:30. Conflicts: the monastery's undated site says 09:00–11:30 closed Fri and Sun; the egymonuments portal says 08:45–12:45, Fri 10:30–11:30, Sun closed. Recheck Nov/Dec 2026 feast-day closure dates. prices set to {status: 'unconfirmed'} on 2026-10-04 for consistency with D9 (no official entry fee found; the record previously had no prices object)."
 }

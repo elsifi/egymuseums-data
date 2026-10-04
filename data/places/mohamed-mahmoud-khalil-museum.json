@@ -1,0 +1,344 @@
+{
+ "id": "mohamed-mahmoud-khalil-museum",
+ "kind": "museum",
+ "wikidataId": "Q4115728",
+ "name": {
+  "en": "Mohamed Mahmoud Khalil Museum",
+  "ar": "متحف محمد محمود خليل وحرمه"
+ },
+ "category": "modern-art",
+ "operator": "ministry-of-culture",
+ "governorate": "giza",
+ "city": {
+  "en": "Giza",
+  "ar": "الجيزة"
+ },
+ "area": {
+  "en": "Dokki, on the Nile",
+  "ar": "الدقي، على النيل"
+ },
+ "address": {
+  "en": "1 Kafour Street, Dokki, Giza",
+  "ar": "1 شارع كافور، الدقي، الجيزة"
+ },
+ "lat": 30.0356,
+ "lng": 31.2197,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily except Monday and official holidays.",
+  "ar": "مفتوح يوميًا عدا الاثنين والعطلات الرسمية."
+ },
+ "summary": {
+  "en": "A Nile-side villa holding one of the finest collections of nineteenth-century French painting outside Europe, from Delacroix to Gauguin.",
+  "ar": "قصر على النيل يضم واحدة من أروع مجموعات التصوير الفرنسي في القرن التاسع عشر خارج أوروبا، من ديلاكروا إلى جوجان."
+ },
+ "description": {
+  "en": "Mohamed Mahmoud Khalil (1877–1953), a politician who served as president of the Senate and minister of agriculture, and his French wife Emilienne Luce assembled one of the great private art collections of their time. They lived in this villa on the west bank of the Nile, and on their deaths the house and its contents passed to the Egyptian state. It opened as a museum in 1962, was later used as presidential offices, and reopened in the 1990s. In 2010 the theft of Van Gogh's Poppy Flowers, still missing, led to more than a decade of closure; a careful restoration followed, and the museum reopened in April 2021. The collection numbers several hundred works. Paintings by Delacroix, Ingres, Courbet, Corot and the Barbizon school lead on to Impressionists and their successors, including Monet, Renoir, Sisley, Pissarro and Gauguin, whose Life and Death is a highlight. Sculpture is represented by Rodin and the animal bronzes of Barye, and there are fine pieces of decorative art. The restored interiors, with their panelling and staircases, make the house itself part of the experience.",
+  "ar": "جمع محمد محمود خليل (1877–1953)، السياسي الذي تولى رئاسة مجلس الشيوخ ووزارة الزراعة، وزوجته الفرنسية إميليان لوس، واحدة من أعظم المجموعات الفنية الخاصة في عصرهما. وقد عاشا في هذا القصر المطل على الضفة الغربية للنيل، ثم آل القصر بمقتنياته إلى الدولة المصرية بعد وفاتهما. افتُتح متحفًا عام 1962، ثم استُخدم مقرًا لمكاتب رئاسية، وأعيد افتتاحه في التسعينيات. وفي عام 2010 أدت سرقة لوحة «زهرة الخشخاش» لفان جوخ، التي لا تزال مفقودة، إلى إغلاقه أكثر من عشر سنوات أعقبها ترميم دقيق، حتى أعيد افتتاحه في أبريل 2021. تضم المجموعة مئات الأعمال؛ إذ تمهّد لوحات ديلاكروا وآنجر وكوربيه وكورو ومدرسة باربيزون لأعمال الانطباعيين ومن تلاهم، ومنهم مونيه ورينوار وسيسلي وبيسارو وجوجان، الذي تُعد لوحته «الحياة والموت» من أبرز المعروضات. ويمثّل النحتَ رودان وتماثيل باري البرونزية للحيوانات، إلى جانب قطع رفيعة من الفنون الزخرفية. وتجعل القاعات المرممة، بأخشابها المشغولة وسلالمها، من القصر نفسه جزءًا من التجربة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Gauguin's Life and Death",
+    "ar": "لوحة «الحياة والموت» لجوجان"
+   },
+   "desc": {
+    "en": "An 1889 painting of two bathers, one of the collection’s best-known works.",
+    "ar": "لوحة من عام 1889 لامرأتين عند الماء، من أشهر أعمال المجموعة."
+   }
+  },
+  {
+   "title": {
+    "en": "Impressionist paintings",
+    "ar": "لوحات الانطباعيين"
+   },
+   "desc": {
+    "en": "Works by Monet, Renoir, Sisley and Pissarro.",
+    "ar": "أعمال لمونيه ورينوار وسيسلي وبيسارو."
+   }
+  },
+  {
+   "title": {
+    "en": "Nineteenth-century French masters",
+    "ar": "رواد الفن الفرنسي في القرن التاسع عشر"
+   },
+   "desc": {
+    "en": "Canvases by Delacroix, Ingres, Courbet and Corot.",
+    "ar": "لوحات لديلاكروا وآنجر وكوربيه وكورو."
+   }
+  },
+  {
+   "title": {
+    "en": "Rodin sculptures",
+    "ar": "منحوتات رودان"
+   },
+   "desc": {
+    "en": "Bronzes by Auguste Rodin, including a portrait of Victor Hugo.",
+    "ar": "أعمال برونزية لأوجست رودان، منها رأس لفيكتور هوجو."
+   }
+  },
+  {
+   "title": {
+    "en": "The villa",
+    "ar": "القصر"
+   },
+   "desc": {
+    "en": "The restored early twentieth-century home of the collectors beside the Nile.",
+    "ar": "منزل جامعي المجموعة من أوائل القرن العشرين على النيل بعد ترميمه."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "18:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (Fine Arts Sector museums)",
+     "ar": "مواعيد شهر رمضان (متاحف قطاع الفنون التشكيلية)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Foreign university teaching staff",
+     "ar": "أعضاء هيئة التدريس الأجانب"
+    },
+    "audience": "foreign",
+    "amount": 50
+   }
+  ],
+  "freeGroups": [
+   "Veterans",
+   "Visitors over 65",
+   "Children under 6",
+   "Members of the Syndicate of Plastic Artists"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Weekday mornings, when the galleries are quiet.",
+   "ar": "صباح أيام الأسبوع حين تكون القاعات هادئة."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded. Security checks at the entrance are thorough, and large bags may have to be left at the cloakroom.",
+   "ar": "نادرًا ما يزدحم. وإجراءات التفتيش عند المدخل دقيقة، وقد يُطلب ترك الحقائب الكبيرة في الأمانات."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/GizaMahmoudKhalilMuseum.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:GizaMahmoudKhalilMuseum.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Gauguin_1889_La_Vie_et_la_Mort.jpg",
+   "author": "Paul Gauguin",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gauguin_1889_La_Vie_et_la_Mort.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Rodin_Mahmoud_Khalil_Museum_Kairo.JPG",
+   "author": "Willyman",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rodin_Mahmoud_Khalil_Museum_Kairo.JPG"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 2 33362376",
+  "website": "https://www.fineart.gov.eg/Arb/Musem/Musem.asp?IDs=28",
+  "social": [
+   "https://www.facebook.com/Main.fineartsector/"
+  ]
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mohamed_Mahmoud_Khalil_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D8%AD%D9%85%D8%AF_%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%AE%D9%84%D9%8A%D9%84_%D9%88%D8%AD%D8%B1%D9%85%D9%87",
+  "osm": "way/201188348"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q4115728",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,freeGroups,address,contacts (official Fine Arts Sector page; hours there conflict)",
+   "url": "https://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=28",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Fine Arts Sector summer 2026 schedule: daily 09:00-18:00 except Monday and official holidays; 4 Jun 2026)",
+   "url": "https://www.youm7.com/story/2026/6/4/x/7437546",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (earlier sector decision: Fri 13:00-18:00, Mon closed; Feb 2025)",
+   "url": "https://www.youm7.com/story/2025/2/16/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%80-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D9%8A%D8%A9/6884390",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (reopened 4 Apr 2021)",
+   "url": "https://www.elwatannews.com/news/details/5416898",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (2021 reopening schedule, superseded)",
+   "url": "https://www.elwatannews.com/news/details/5419842",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (official collection page)",
+   "url": "https://www.fineart.gov.eg/Arb/Musem/Musem.asp?IDs=28",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Mohamed_Mahmoud_Khalil_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:GizaMahmoudKhalilMuseum.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Gauguin_1889_La_Vie_et_la_Mort.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Rodin_Mahmoud_Khalil_Museum_Kairo.JPG",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Ministry of Culture (Fine Arts Sector), not SCA. Open in 2026 (museum programmes reported by youm7 Oct 2026, ahram Sept 2026). Hours conflict: the official fineart.gov.eg visitor page (undated, stale) says 10:00-16:00 except Monday and Friday; the Sector's Feb 2025 decision said daily 09:00-18:00 with Friday 13:00-18:00; the Sector's summer-2026 announcement (youm7, 4 Jun 2026) says daily 09:00-18:00 except Monday and official holidays. The latest dated statement is used (as batch 5 for the other Fine Arts museums); whether Friday reverts to an afternoon opening in winter is unknown - recheck in winter. No lastEntry published. Ramadan: sector-wide 10:00-14:00 (Ramadan 2026 statement does not name this museum). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Prices from the official page (undated): Egyptians 30, Egyptian students 10, foreigners 100, foreign students 50, foreign teaching staff 50. Highlights list artists named on Wikipedia/Commons; the Barye, Corot and Delacroix holdings are well documented but individual works were not checked against the current hang."
+}

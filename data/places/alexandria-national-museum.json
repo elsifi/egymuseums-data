@@ -1,0 +1,367 @@
+{
+ "id": "alexandria-national-museum",
+ "kind": "museum",
+ "wikidataId": "Q201383",
+ "name": {
+  "en": "Alexandria National Museum",
+  "ar": "متحف الإسكندرية القومي"
+ },
+ "aliases": [
+  "ANM",
+  "متحف الأسكندرية القومي"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Bab Sharq",
+  "ar": "باب شرق"
+ },
+ "address": {
+  "en": "Fouad Street (Tariq al-Horreya), Bab Sharq, Alexandria",
+  "ar": "شارع فؤاد (طريق الحرية)، باب شرق، الإسكندرية"
+ },
+ "lat": 31.2011,
+ "lng": 29.9132,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A compact walk through Egyptian history, from the pharaohs to the 19th century, inside an Italianate villa on Alexandria's main avenue.",
+  "ar": "جولة موجزة في تاريخ مصر من عصر الفراعنة حتى القرن التاسع عشر، داخل قصر على الطراز الإيطالي في أشهر شوارع الإسكندرية."
+ },
+ "description": {
+  "en": "The Alexandria National Museum occupies an elegant Italian-style mansion built in the late 1920s for Asaad Basili Pasha, a wealthy Alexandrian merchant, and later used by the United States consulate. Restored and converted by the antiquities authorities, it opened as a museum in 2003. Some 1,800 objects are arranged in chronological order across three levels, so a single visit leads from pharaonic statuary and a reconstructed burial chamber with mummies to the Greek and Roman city, and on to Coptic, Islamic and modern Egypt. Among the most memorable displays are finds raised during underwater excavations in Abu Qir Bay, where the sunken towns of Canopus and Heracleion once stood, and graceful terracotta figurines from Hellenistic Alexandria. Later galleries present Coptic icons and textiles, a hall tracing coinage through the ages, Islamic-era weapons, and jewellery and silverware that belonged to the family of Muhammad Ali. Bright, well labelled and manageable in an hour or two, the museum is an excellent introduction before exploring the city's archaeological sites.",
+  "ar": "يشغل متحف الإسكندرية القومي قصرًا أنيقًا على الطراز الإيطالي شُيد في أواخر عشرينيات القرن العشرين لأسعد باسيلي باشا، أحد أثرياء الإسكندرية، ثم اتخذته القنصلية الأمريكية مقرًا لها. وبعد أن رممته هيئة الآثار وحولته إلى متحف، افتُتح للجمهور عام 2003. تُعرض فيه نحو 1800 قطعة مرتبة ترتيبًا زمنيًا على ثلاثة طوابق، فتنتقل الزيارة الواحدة من التماثيل الفرعونية وحجرة دفن أعيد تكوينها بما فيها من مومياوات، إلى الإسكندرية اليونانية والرومانية، ثم إلى مصر القبطية والإسلامية والحديثة. ومن أبرز ما يلفت النظر قطع انتُشلت خلال الحفائر تحت الماء في خليج أبي قير، حيث كانت مدينتا كانوب وهيراكليون الغارقتان، إلى جانب تماثيل صغيرة رقيقة من الفخار من الإسكندرية الهلنستية. وتضم القاعات التالية أيقونات ومنسوجات قبطية، وقاعة تتتبع تطور العملة عبر العصور، وأسلحة من العصر الإسلامي، ومجوهرات وأواني فضية كانت مملوكة لأسرة محمد علي. ويُعد المتحف، بإضاءته الجيدة وبطاقاته الواضحة وإمكان زيارته في ساعة أو ساعتين، مدخلًا مثاليًا قبل استكشاف المواقع الأثرية في المدينة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Sunken treasures of Abu Qir",
+    "ar": "كنوز أبي قير الغارقة"
+   },
+   "desc": {
+    "en": "Statues and objects recovered from the submerged towns of Abu Qir Bay.",
+    "ar": "تماثيل وقطع انتُشلت من المدن الغارقة في خليج أبي قير."
+   }
+  },
+  {
+   "title": {
+    "en": "Pharaonic burial chamber",
+    "ar": "حجرة الدفن الفرعونية"
+   },
+   "desc": {
+    "en": "A reconstructed tomb setting with mummies and funerary equipment.",
+    "ar": "تكوين لمقبرة قديمة يضم مومياوات وأثاثًا جنائزيًا."
+   }
+  },
+  {
+   "title": {
+    "en": "Hellenistic figurines",
+    "ar": "التماثيل الهلنستية الصغيرة"
+   },
+   "desc": {
+    "en": "Terracotta figures of elegant women, among them a musician with a stringed instrument.",
+    "ar": "تماثيل فخارية لسيدات أنيقات، منها عازفة على آلة وترية."
+   }
+  },
+  {
+   "title": {
+    "en": "Coptic gallery",
+    "ar": "القاعة القبطية"
+   },
+   "desc": {
+    "en": "Icons and woven textiles from Egypt's Christian centuries.",
+    "ar": "أيقونات ومنسوجات من القرون المسيحية في مصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Coin hall",
+    "ar": "قاعة العملة"
+   },
+   "desc": {
+    "en": "Coins from successive eras, tracing Egypt's money through time.",
+    "ar": "عملات من عصور متعاقبة ترسم تطور النقد في مصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Islamic arms",
+    "ar": "الأسلحة الإسلامية"
+   },
+   "desc": {
+    "en": "Swords, armour and firearms from the Islamic period.",
+    "ar": "سيوف ودروع وأسلحة نارية من العصر الإسلامي."
+   }
+  },
+  {
+   "title": {
+    "en": "Muhammad Ali family treasures",
+    "ar": "مقتنيات أسرة محمد علي"
+   },
+   "desc": {
+    "en": "Jewellery, gold and silverware once owned by Egypt's last royal dynasty.",
+    "ar": "مجوهرات ومشغولات ذهبية وفضية كانت لآخر أسرة حاكمة في مصر."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/AlexandriaNationalMuseum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Weekday mornings; the museum is a good first stop in Alexandria.",
+   "ar": "صباح أيام الأسبوع، وهو محطة أولى مناسبة في الإسكندرية."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded except for school groups on term-time mornings. Mobile-phone photography is free; tripods and flash are not allowed.",
+   "ar": "نادرًا ما يزدحم إلا بالرحلات المدرسية صباح أيام الدراسة. التصوير بالهاتف المحمول مجاني، ولا يُسمح بالحامل الثلاثي أو الفلاش."
+  }
+ },
+ "accessibility": {
+  "ramp": true,
+  "elevator": true
+ },
+ "facilities": {
+  "toilets": true,
+  "giftShop": true,
+  "parking": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Musee_national_-_alexandrie_facade_vue_large.JPG",
+   "author": "Papillus",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Musee_national_-_alexandrie_facade_vue_large.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/EWUG_visit_to_Alexandria_National_Museum%2C_April_2025_-_012.jpg",
+   "author": "Amr F.Nagy",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:EWUG_visit_to_Alexandria_National_Museum,_April_2025_-_012.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/EWUG_visit_to_Alexandria_National_Museum%2C_April_2025_-_007.jpg",
+   "author": "Amr F.Nagy",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:EWUG_visit_to_Alexandria_National_Museum,_April_2025_-_007.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/alexandria-national-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Alexandria_National_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A",
+  "osm": "way/110658128"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q201383",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/alexandria-national-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan),prices,freeGroups,facilities,description",
+   "url": "https://egymonuments.gov.eg/en/museums/alexandria-national-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry),prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/AlexandriaNationalMuseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan closing),address",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices (cross-check, Apr 2026)",
+   "url": "https://www.elwatannews.com/news/details/8275207",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Alexandria_National_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "D3 (earlier time): Ramadan last entry 14:00 from the egymonuments.gov.eg ticket-window note; the booking page says 15:00. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

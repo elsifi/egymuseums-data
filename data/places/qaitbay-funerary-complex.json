@@ -1,0 +1,242 @@
+{
+ "id": "qaitbay-funerary-complex",
+ "kind": "site",
+ "wikidataId": "Q12242839",
+ "name": {
+  "en": "Funerary Complex of Sultan Qaitbay",
+  "ar": "مجموعة السلطان الأشرف قايتباي"
+ },
+ "aliases": [
+  "مجمع قايتباي",
+  "مجموعة الأشرف قايتباي",
+  "مجموعة السلطان قايتباي",
+  "مجموعة السلطان قيتباي",
+  "مجموعة قايتباي",
+  "مدرسة قايتباى (قرافة المماليك)",
+  "مدرسة قايتباي",
+  "مدرسة قيتباي (قرافة المماليك)",
+  "مسجد قايتباى",
+  "مسجد قايتباي",
+  "مسجد قيتباي",
+  "مسجد وتربة قايتباي"
+ ],
+ "category": "islamic",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Northern Cemetery (Qarafat al-Mamalik), east of al-Azhar",
+  "ar": "قرافة المماليك (الجبانة الشمالية)، شرق الأزهر"
+ },
+ "address": {
+  "en": "Sultan Qaitbay Street, Northern Cemetery (City of the Dead), Manshiyat Nasser, Cairo",
+  "ar": "شارع السلطان قايتباي، قرافة المماليك (الجبانة الشمالية)، منشأة ناصر، القاهرة"
+ },
+ "lat": 30.04402,
+ "lng": 31.27499,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily as a working mosque; visits pause during prayers, especially Friday noon prayer.",
+  "ar": "مفتوحة يوميًا وهي مسجد تُقام فيه الصلاة، وتتوقف الزيارة أثناء الصلوات، خاصة صلاة الجمعة."
+ },
+ "summary": {
+  "en": "Sultan Qaitbay's late-Mamluk mosque and mausoleum in the Northern Cemetery, famous for its carved stone dome and the view on Egypt's one-pound note.",
+  "ar": "مسجد السلطان قايتباي وضريحه في قرافة المماليك، من أبدع عمائر العصر المملوكي الجركسي، وتشتهر قبته الحجرية المنقوشة وصورته على الجنيه المصري."
+ },
+ "description": {
+  "en": "Al-Ashraf Qaitbay, who ruled Egypt for almost three decades in the late fifteenth century, was one of the greatest builders of the Mamluk era, and his funerary complex in the desert cemetery east of Cairo is widely seen as the finest expression of late Mamluk architecture. Built between 1472 and 1474, it combines a madrasa that now serves as a mosque, the sultan's domed mausoleum, a sabil-kuttab, a trough for watering animals and lodgings for staff and visitors. The stone dome is the star: its surface is covered in an interlacing star pattern laid over a band of arabesques, a technical feat that later craftsmen rarely matched. Inside, four iwans open onto a covered central court lit by a gilded wooden lantern, and the hall keeps an ivory-inlaid wooden minbar and polychrome marble floors. The slender minaret rises in three richly carved storeys. A conservation project restored the mausoleum dome, completed in 2026, and the complex remains an active place of worship in the middle of a living neighbourhood.",
+  "ar": "كان الأشرف قايتباي، الذي حكم مصر قرابة ثلاثة عقود في أواخر القرن الخامس عشر، من أعظم البنّائين في العصر المملوكي، وتُعد مجموعته الجنائزية في الصحراء الشرقية للقاهرة أرقى تعبير عن العمارة المملوكية المتأخرة. شُيّدت بين عامي 1472 و1474، وتجمع مدرسة تحولت إلى مسجد، وضريح السلطان المقبب، وسبيلًا يعلوه كُتّاب، وحوضًا لسقي الدواب، ومساكن للعاملين والوافدين. وتبقى القبة الحجرية درة المجموعة؛ إذ تكسو سطحها شبكة من الأطباق النجمية المتشابكة فوق أرضية من الزخارف النباتية، في إنجاز تقني قلّما بلغه الحرفيون بعد ذلك. وفي الداخل تلتف إيوانات المدرسة الأربعة حول دُرقاعة مسقوفة تعلوها شخشيخة خشبية مذهّبة، وتحتفظ بمنبر خشبي منقوش ومطعّم بالعاج وأرضيات من الرخام الملون. وترتفع المئذنة الرشيقة في ثلاثة طوابق غنية بالنقوش. وقد اكتمل في عام 2026 مشروع لترميم قبة الضريح، ولا تزال المجموعة مكانًا عامرًا بالصلاة وسط حي مأهول."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Carved stone dome",
+    "ar": "القبة الحجرية المنقوشة"
+   },
+   "desc": {
+    "en": "An interlacing star pattern over arabesques, the high point of Mamluk stone carving.",
+    "ar": "أطباق نجمية متشابكة فوق زخارف نباتية، ذروة فن النحت المملوكي في الحجر."
+   }
+  },
+  {
+   "title": {
+    "en": "Minaret",
+    "ar": "المئذنة"
+   },
+   "desc": {
+    "en": "A slender three-storey minaret with richly carved balconies and shafts.",
+    "ar": "مئذنة رشيقة من ثلاثة طوابق بشرفات وأبدان غنية بالنقوش."
+   }
+  },
+  {
+   "title": {
+    "en": "Prayer hall",
+    "ar": "إيوان الصلاة"
+   },
+   "desc": {
+    "en": "Coloured marble floors, a carved wooden minbar and a gilded lantern in the roof.",
+    "ar": "أرضيات من الرخام الملون، ومنبر خشبي منقوش، وشخشيخة مذهّبة في السقف."
+   }
+  },
+  {
+   "title": {
+    "en": "Mausoleum of the sultan",
+    "ar": "ضريح السلطان"
+   },
+   "desc": {
+    "en": "Qaitbay's tomb chamber beneath the great dome.",
+    "ar": "حجرة دفن السلطان قايتباي أسفل القبة الكبرى."
+   }
+  },
+  {
+   "title": {
+    "en": "Sabil-kuttab and animal trough",
+    "ar": "السبيل والكُتّاب وحوض الدواب"
+   },
+   "desc": {
+    "en": "Charitable water fountain with a Quran school above, and a trough for watering animals nearby.",
+    "ar": "سبيل لسقي المارة يعلوه كُتّاب لتعليم القرآن، وبالقرب منه حوض لسقي الدواب."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Weekday mornings, avoiding prayer times; the dome looks best in the low light of late morning.",
+   "ar": "صباح أيام الأسبوع بعيدًا عن أوقات الصلاة، وتبدو القبة في أجمل حالاتها مع ضوء آخر الصباح."
+  },
+  "crowdNotes": {
+   "en": "Few tourists come here, but the complex is a working mosque: dress modestly, remove shoes, and avoid Friday noon prayer. Women should bring a headscarf. The upper levels and minaret are not normally open.",
+   "ar": "قليل من السياح يصلون إلى هنا، لكن المجموعة مسجد عامر بالصلاة: يُراعى الاحتشام وخلع الأحذية وتجنب وقت صلاة الجمعة، ويُستحسن أن تحمل السيدات غطاء للرأس. والطوابق العليا والمئذنة غير مفتوحة عادة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Qaytbay_complex_DSCF0423.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qaytbay_complex_DSCF0423.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Qaytbay_dome_closeup.jpg",
+   "author": "Robert Prazeres",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qaytbay_dome_closeup.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Qaytbay_complex_portal_DSCF4574.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qaytbay_complex_portal_DSCF4574.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/the-complex-of-sultan-qayitbay-in-the-mamluk-cemetery/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Funerary_complex_of_Sultan_Qaytbay",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D8%A3%D8%B4%D8%B1%D9%81_%D9%82%D8%A7%D9%8A%D8%AA%D8%A8%D8%A7%D9%8A",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12242839",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-complex-of-sultan-qayitbay-in-the-mamluk-cemetery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (official portal, no ticket listed)",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-complex-of-sultan-qayitbay-in-the-mamluk-cemetery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Funerary_complex_of_Sultan_Qaytbay",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (dome restoration completed, July 2026)",
+   "url": "https://www.elwatannews.com/news/details/8324201",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (dome restoration completed, July 2026)",
+   "url": "https://www.maspero.eg/art-and-culture/2026/07/21/973674/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "visit.crowdNotes (active mosque, upper floor closed)",
+   "url": "https://www.sinai.news/tourism/%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D9%87-%D9%88%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA-%D9%8A%D8%A7%D8%B3%D9%8A%D9%86-%D8%B1%D8%AD%D9%84%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Qaytbay_complex_DSCF0423.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Qaytbay_dome_closeup.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Qaytbay_complex_portal_DSCF4574.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Price not confirmed: egymonuments.gov.eg lists hours (09:00-16:00 daily) but no ticket, and the complex is not on the booking platform or the MoTA Nov 2024 list (the 'Sabil-Kuttab of Sultan Qaitbay' priced there is the separate Saliba Street monument). Same treatment as D9 (Ibn Tulun): prices.status 'unconfirmed'; confirm via MoTA hotline 19654. No lastEntry: none published. Operator kept as 'other' (seed); a working mosque - Awqaf vs SCA responsibility not confirmed. Street address is general (no official address found)."
+}

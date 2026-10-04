@@ -1,0 +1,364 @@
+{
+ "id": "temple-of-the-oracle-of-amun",
+ "kind": "site",
+ "wikidataId": "Q958997",
+ "name": {
+  "en": "Temple of the Oracle of Amun (Aghurmi)",
+  "ar": "معبد آمون (معبد الوحي) بأغورمي"
+ },
+ "aliases": [
+  "Ammonium",
+  "Ammonion",
+  "معبد آمون",
+  "معبد الوحي",
+  "Aghurmi",
+  "أغورمي",
+  "أَغُورْمِي",
+  "Aghūrmī",
+  "Oracle of Amun",
+  "معبد التنبؤات"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "matrouh",
+ "city": {
+  "en": "Siwa",
+  "ar": "سيوة"
+ },
+ "area": {
+  "en": "Aghurmi village, east of Siwa town",
+  "ar": "قرية أغورمي، شرق مدينة سيوة"
+ },
+ "address": {
+  "en": "Aghurmi village, Siwa Oasis, Matrouh Governorate",
+  "ar": "قرية أغورمي، واحة سيوة، محافظة مطروح"
+ },
+ "lat": 29.1866,
+ "lng": 25.5475,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The temple stands inside the ruined mud-brick village of Aghurmi, whose old mosque has been restored.",
+  "ar": "مفتوح يوميًا. يقوم المعبد داخل أطلال قرية أغورمي المبنية بالطوب اللبن، وقد رُمم مسجدها العتيق."
+ },
+ "summary": {
+  "en": "The hilltop sanctuary of Amun where Alexander the Great came to consult the oracle in 331 BC, set among the ruins of Aghurmi's old fortified village.",
+  "ar": "معبد آمون فوق التل الذي قصده الإسكندر الأكبر لاستشارة الوحي عام 331 ق.م، وسط أطلال قرية أغورمي القديمة المحصنة."
+ },
+ "description": {
+  "en": "On a rocky hill a few kilometres east of Siwa town stands one of the most famous oracles of the ancient world. The temple was built in the Twenty-sixth Dynasty, under King Ahmose II (Amasis), and dedicated to Amun, whose prophecies drew pilgrims from Egypt, Libya and the Greek cities alike. Its reputation gave rise to legends: the Persian king Cambyses is said to have sent an army in 525 BC to destroy it, only for the whole force to vanish in the sands. Two centuries later, in 331 BC, Alexander the Great made the long desert journey to the oracle, and tradition holds that he was greeted here as the son of Amun, a title that shaped his image as ruler of Egypt. The modest stone temple, with its courtyard, hall and narrow sanctuary, was stabilised by conservators in the 1990s. Around it rise the mud-brick ruins of Aghurmi, a fortified village built of the same salt-rich kershef as Shali, with a restored mosque and minaret. From the top, the view takes in palm groves, Siwa's salt lakes and the nearby remains of the Umm Ubayda temple.",
+  "ar": "على تل صخري يبعد بضعة كيلومترات شرق مدينة سيوة يقوم أحد أشهر معابد الوحي في العالم القديم. شُيد المعبد في عصر الأسرة السادسة والعشرين في عهد الملك أحمس الثاني، وكُرس لآمون الذي اجتذبت نبوءاته الحجاج من مصر وليبيا والمدن الإغريقية على السواء. ونسجت شهرته الأساطير؛ إذ يقال إن الملك الفارسي قمبيز أرسل جيشًا عام 525 ق.م لهدمه، فابتلعت الرمال الجيش كله. وبعد قرنين، عام 331 ق.م، قطع الإسكندر الأكبر رحلة صحراوية طويلة إلى المعبد، وتروي التقاليد أنه استُقبل هنا ابنًا لآمون، وهو لقب رسم صورته حاكمًا لمصر. وقد ثبّت المرممون في تسعينيات القرن العشرين هذا المعبد الحجري المتواضع بفنائه وصالته وقدس أقداسه الضيق. وتحيط به أطلال أغورمي، القرية المحصنة المبنية من الكرشيف المالح نفسه الذي بُنيت منه شالي، وفيها مسجد ومئذنة مرممان. ومن القمة يمتد المشهد فوق بساتين النخيل وبحيرات سيوة المالحة وبقايا معبد أم عبيدة القريب."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Oracle sanctuary",
+    "ar": "قدس أقداس الوحي"
+   },
+   "desc": {
+    "en": "The narrow inner chamber where Amun's pronouncements were delivered.",
+    "ar": "الحجرة الداخلية الضيقة التي كانت تصدر منها نبوءات آمون."
+   }
+  },
+  {
+   "title": {
+    "en": "Alexander's visit",
+    "ar": "زيارة الإسكندر"
+   },
+   "desc": {
+    "en": "The setting of Alexander the Great's famous consultation in 331 BC.",
+    "ar": "المكان الذي شهد استشارة الإسكندر الأكبر الشهيرة للوحي عام 331 ق.م."
+   }
+  },
+  {
+   "title": {
+    "en": "Aghurmi village ruins",
+    "ar": "أطلال قرية أغورمي"
+   },
+   "desc": {
+    "en": "A fortified kershef village wrapped around the temple hill.",
+    "ar": "قرية محصنة من الكرشيف تلتف حول تل المعبد."
+   }
+  },
+  {
+   "title": {
+    "en": "Restored mosque and minaret",
+    "ar": "المسجد والمئذنة المرممان"
+   },
+   "desc": {
+    "en": "The village mosque, restored with its mud-brick minaret.",
+    "ar": "مسجد القرية بعد ترميمه مع مئذنته المبنية بالطوب اللبن."
+   }
+  },
+  {
+   "title": {
+    "en": "Oasis panorama",
+    "ar": "إطلالة على الواحة"
+   },
+   "desc": {
+    "en": "Views over palm groves and salt lakes from the hilltop.",
+    "ar": "مشهد لبساتين النخيل والبحيرات المالحة من أعلى التل."
+   }
+  },
+  {
+   "title": {
+    "en": "Umm Ubayda temple",
+    "ar": "معبد أم عبيدة"
+   },
+   "desc": {
+    "en": "A single standing wall of a second Amun temple close by.",
+    "ar": "جدار وحيد قائم من معبد آخر لآمون على مقربة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/TempleofAghurmiinSiwa",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Early morning or late afternoon, when the light is soft and the hill is cooler.",
+   "ar": "الصباح الباكر أو آخر النهار، حين يلين الضوء ويكون التل أقل حرارة."
+  },
+  "crowdNotes": {
+   "en": "Usually quiet; small groups arrive with Siwa day tours. The road from Marsa Matrouh has several police checkpoints, so carry your passport. Combine with the nearby Umm Ubayda wall and Cleopatra's Spring.",
+   "ar": "هادئ عادة، وتصل إليه مجموعات صغيرة ضمن الجولات اليومية في سيوة. ويمر الطريق من مرسى مطروح بعدة نقاط تفتيش للشرطة، فاحمل جواز سفرك. ويمكن الجمع بينه وبين جدار أم عبيدة القريب وعين كليوباترا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Oracle_Temple_Siwa0-0.jpg",
+   "author": "ولاء",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oracle_Temple_Siwa0-0.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Oracle_Temple_Siwa0-6.jpg",
+   "author": "ولاء",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oracle_Temple_Siwa0-6.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/SiwaAghurmiTemple.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SiwaAghurmiTemple.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D8%A4%D8%A7%D8%AA",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q958997",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q14201426",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing), address, description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-الوحي/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (09:00, last entry 17:00; Ramadan last entry 16:00),tickets,freeGroups",
+   "url": "https://egymonuments.com/details/TempleofAghurmiinSiwa",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (09:00-17:00, Nov 2024 cross-check)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (checked: the 9 Jul 2026 SCA board decision raising prices from 1 Oct 2026 names only Bahariya Oasis sites; not applied here)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (Aghurmi mosque restored and reopened; official news, undated)",
+   "url": "https://egymonuments.gov.eg/ar/news/inaugurates-shali-fortress-and-the-aghurmi-mosque-in-the-siwa-oasis/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "visit.crowdNotes (travel advice, updated 4 Aug 2026)",
+   "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D8%A4%D8%A7%D8%AA",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Oracle_Temple_Siwa0-0.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Oracle_Temple_Siwa0-6.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:SiwaAghurmiTemple.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Opening time conflict: MoTA guide 08:00 vs egymonuments.com and the Nov 2024 PDF 09:00; the later opening (09:00) is used so visitors do not arrive before the gate opens (batch-7 Q1a, applied 2026-10-04). Last entry: booking platform says 17:00 (= closing time); MoTA's one-hour rule gives 16:00, the earlier time is used. Ramadan: MoTA 09:00-16:00; booking last entry 16:00; earlier last entry 15:00 used. Prices 120/60 foreign, 10/5 Egyptian agree on booking platform and Nov 2024 PDF; the 9 Jul 2026 oasis price decision covers only Bahariya (MoTA statement), so no 1 Oct 2026 increase applied. No egymonuments.gov.eg page. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

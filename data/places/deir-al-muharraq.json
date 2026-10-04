@@ -1,0 +1,284 @@
+{
+ "id": "deir-al-muharraq",
+ "kind": "site",
+ "wikidataId": "Q2177194",
+ "name": {
+  "en": "Al-Muharraq Monastery",
+  "ar": "دير المحرق"
+ },
+ "aliases": [
+  "Dayr al-Muḥarraq",
+  "Deir el-Muharraq"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "asyut",
+ "city": {
+  "en": "El Qusiya",
+  "ar": "القوصية"
+ },
+ "area": {
+  "en": "Mount Qusqam",
+  "ar": "جبل قسقام"
+ },
+ "address": {
+  "en": "Al-Munsha'a al-Kubra, about 12 km from El Qusiya, Asyut Governorate",
+  "ar": "المنشأة الكبرى، على بعد نحو 12 كم من مدينة القوصية، محافظة أسيوط"
+ },
+ "lat": 27.3853,
+ "lng": 30.7792,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily, but the monastery usually closes to visitors for most of Great Lent (in 2026 from 24 February to 11 April) and on some other occasions; check before travelling.",
+  "ar": "مفتوح يوميًا، لكن الدير يغلق أبوابه أمام الزوار عادة معظم فترة الصوم الكبير (في عام 2026 من 24 فبراير حتى 11 أبريل) وفي بعض المناسبات الأخرى، لذا يُستحسن التأكد قبل السفر."
+ },
+ "summary": {
+  "en": "A major Coptic pilgrimage monastery near El Qusiya, venerated as the longest stop of the Holy Family in Egypt.",
+  "ar": "دير قبطي كبير يقصده الحجاج قرب القوصية، ويُجلّ بوصفه أطول محطات العائلة المقدسة في مصر."
+ },
+ "description": {
+  "en": "Set on the edge of the desert at the foot of Mount Qusqam, about 12 kilometres from El Qusiya in Asyut Governorate, the Monastery of the Virgin Mary, better known as al-Muharraq, is one of the largest and most visited monasteries in Egypt. Coptic tradition holds that the Holy Family stayed here for about six months during their flight into Egypt, longer than anywhere else on their journey, which makes it a principal station on the Holy Family route. Its popular name, meaning 'the burnt', is usually explained by the old practice of burning weeds and brushwood on land beside the site. Inner walls divide the monastery into three parts: an outer zone with a modern church, guest buildings and libraries; a central area of gardens and the guesthouse; and the inner enclosure of churches and monks' cells. There stands the ancient Church of the Virgin, which many Copts consider among the oldest in Egypt, with its main altar, icons and early stone pieces, and a massive defensive keep built in the early Middle Ages with a chapel of its own. A large community of monks lives here, so the monastery combines heritage with active religious life.",
+  "ar": "على حافة الصحراء عند سفح جبل قسقام، على بعد نحو 12 كيلومترًا من القوصية بمحافظة أسيوط، يقع دير السيدة العذراء المعروف بالدير المحرق، وهو من أكبر الأديرة في مصر وأكثرها استقبالًا للزوار. ويذكر التقليد القبطي أن العائلة المقدسة أقامت هنا نحو ستة أشهر خلال رحلتها إلى مصر، وهي أطول مدة قضتها في أي موضع، مما يجعله محطة رئيسية في مسار رحلة العائلة المقدسة. ويُفسَّر اسمه الشائع عادة بما كان يجري قديمًا من حرق الحشائش والنباتات الضارة في أرض مجاورة للموقع. وتقسم الأسوار الداخلية الدير إلى ثلاثة أقسام: قسم خارجي يضم كنيسة حديثة ومباني الضيافة والمكتبات، وقسم أوسط تتخلله الحدائق ودار الضيافة، ثم الحرم الداخلي الذي يضم الكنائس وقلالي الرهبان. وهناك تقوم كنيسة السيدة العذراء الأثرية التي يعدها كثير من الأقباط من أقدم كنائس مصر، بمذبحها الرئيسي وأيقوناتها وقطعها الحجرية القديمة، إلى جانب حصن دفاعي ضخم شُيد في أوائل العصور الوسطى وبداخله كنيسة صغيرة. وتعيش في الدير جماعة كبيرة من الرهبان، فيجمع بين التراث والحياة الدينية النابضة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Ancient Church of the Virgin",
+    "ar": "كنيسة السيدة العذراء الأثرية"
+   },
+   "desc": {
+    "en": "The monastery's oldest church, built where the Holy Family is believed to have stayed.",
+    "ar": "أقدم كنائس الدير، شُيدت حيث يُعتقد أن العائلة المقدسة أقامت."
+   }
+  },
+  {
+   "title": {
+    "en": "The keep",
+    "ar": "الحصن"
+   },
+   "desc": {
+    "en": "A tall early-medieval defensive tower with its own chapel.",
+    "ar": "برج دفاعي شاهق من أوائل العصور الوسطى بداخله كنيسة صغيرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Icons and screen",
+    "ar": "الأيقونات وحامل الأيقونات"
+   },
+   "desc": {
+    "en": "Painted icons and a carved wooden screen in the old church.",
+    "ar": "أيقونات ملونة وحجاب خشبي منحوت في الكنيسة الأثرية."
+   }
+  },
+  {
+   "title": {
+    "en": "Church of St George",
+    "ar": "كنيسة مار جرجس"
+   },
+   "desc": {
+    "en": "A 19th-century church inside the monastery's inner enclosure.",
+    "ar": "كنيسة من القرن التاسع عشر داخل الحرم الداخلي للدير."
+   }
+  },
+  {
+   "title": {
+    "en": "Holy Family route",
+    "ar": "مسار العائلة المقدسة"
+   },
+   "desc": {
+    "en": "One of the main stations on Egypt's official Holy Family pilgrimage route.",
+    "ar": "من أهم محطات مسار رحلة العائلة المقدسة الرسمي في مصر."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "A weekday morning outside feast periods.",
+   "ar": "صباح أحد أيام الأسبوع خارج مواسم الأعياد."
+  },
+  "crowdNotes": {
+   "en": "A working monastery: dress modestly and follow the monks' guidance. Very crowded during feasts, especially the 6 Hatour celebration in mid-November and on public holidays.",
+   "ar": "دير عامر بالرهبان: يُرجى ارتداء ملابس محتشمة واتباع إرشادات الرهبان. ويشتد الزحام في الأعياد، ولا سيما احتفال 6 هاتور في منتصف نوفمبر وفي العطلات الرسمية."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/DeirMuharraqKeepSouthSide.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:DeirMuharraqKeepSouthSide.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/DeirMuharraqChurchHlVirginInside.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:DeirMuharraqChurchHlVirginInside.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/DeirMuharraqChurchHlVirginScreen.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:DeirMuharraqChurchHlVirginScreen.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Deir_el-Muharraq",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D9%82",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2177194",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan),address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D9%82/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (cross-check 09:00-17:00; no ticket price listed)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (Great Lent 2026 closure 24 Feb-11 Apr)",
+   "url": "https://www.egyptke.com/180112",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "visit.crowdNotes (6 Hatour feast, Sep 2026)",
+   "url": "https://www.dostor.org/5704643",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Deir_el-Muharraq",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Coptic Orthodox monastery; hours from MoTA's open-sites guide (last entry one hour before closing). No ticket price in any official source (Nov 2024 list shows dashes), so prices.status is 'unconfirmed' (D9 treatment). The Great Lent closure is announced each year by the monastery; 2027 dates not yet known (Orthodox Lent 2027 expected from early March), so it is described in statusNote rather than as a dated exception. Ramadan 2027 overlaps the probable start of Lent. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

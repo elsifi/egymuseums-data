@@ -1,0 +1,363 @@
+{
+ "id": "manial-palace-museum",
+ "kind": "museum",
+ "wikidataId": "Q2586045",
+ "name": {
+  "en": "Manial Palace Museum (Prince Muhammad Ali Palace)",
+  "ar": "قصر الأمير محمد علي بالمنيل"
+ },
+ "aliases": [
+  "قصر الأمير محمد على",
+  "قصر الأمير محمد علي",
+  "قصر المنيل",
+  "متحف قصر المنيل",
+  "متحف قصر محمد علي بالمنيل",
+  "Manial Palace and Museum"
+ ],
+ "category": "royal-palace",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Manial al-Roda, Roda Island",
+  "ar": "منيل الروضة، جزيرة الروضة"
+ },
+ "address": {
+  "en": "Al-Saray Street, Manial al-Roda, Cairo",
+  "ar": "شارع السراي، منيل الروضة، القاهرة"
+ },
+ "lat": 30.027479,
+ "lng": 31.230244,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The palace reopened in 2015 after a decade of restoration, and its Hunting Museum reopened in 2017.",
+  "ar": "مفتوح يوميًا. أُعيد افتتاح القصر عام 2015 بعد نحو عشر سنوات من الترميم، وأُعيد افتتاح متحف الصيد به عام 2017."
+ },
+ "summary": {
+  "en": "A walled royal estate on Roda Island where Prince Muhammad Ali Tawfiq mixed Mamluk, Ottoman, Persian, Moorish and Levantine styles in a set of palaces set among rare gardens.",
+  "ar": "مقر أميري مسوّر في جزيرة الروضة مزج فيه الأمير محمد علي توفيق طرزًا مملوكية وعثمانية وفارسية ومغربية وشامية في مجموعة قصور تتوسط حدائق نادرة."
+ },
+ "description": {
+  "en": "Prince Muhammad Ali Tawfiq, younger brother of Khedive Abbas II and twice heir to the throne, spent nearly three decades, from about 1900 to 1929, building this estate on Roda Island as a showcase for the Islamic arts he loved. He drew the designs himself, and an inscription credits the master builder Muhammad Afifi with carrying them out. Inside a crenellated wall modelled on medieval fortifications stand several distinct buildings: a reception palace, a clock tower, a small mosque, the residence palace where the prince lived, a throne hall, a private museum, a hunting museum and a richly decorated golden hall. Each mixes styles freely, with Mamluk stonework, Ottoman tiles, Persian ceramics, Moroccan plaster and Syrian painted wood. The prince asked that the estate become a museum after his death, and the state took it over after the 1952 revolution. Around the buildings lies a large garden of rare trees and plants he collected, including banyans, giant cacti and royal palms. After a long closure the palace reopened in 2015, and its hunting museum, with hundreds of mounted trophies, followed in 2017.",
+  "ar": "أمضى الأمير محمد علي توفيق، الشقيق الأصغر للخديوي عباس حلمي الثاني وولي العهد أكثر من مرة، قرابة ثلاثة عقود، من نحو عام 1900 حتى 1929، في تشييد هذا المقر بجزيرة الروضة ليكون معرضًا للفنون الإسلامية التي شغف بها. وقد وضع التصميمات بنفسه، وتنسب كتابة عند المدخل تنفيذها إلى المعلم محمد عفيفي. وداخل سور تعلوه الشرفات على طراز حصون العصور الوسطى تقوم مبانٍ متمايزة: سراي الاستقبال، وبرج الساعة، ومسجد صغير، وسراي الإقامة التي سكنها الأمير، وسراي العرش، والمتحف الخاص، ومتحف الصيد، والقاعة الذهبية الغنية بالزخارف. ويمزج كل منها الطرز بحرية، من الحجر المملوكي إلى البلاطات العثمانية والخزف الفارسي والجص المغربي والخشب الشامي الملون. وقد أوصى الأمير بتحويل القصر إلى متحف بعد وفاته، وآل إلى الدولة بعد ثورة 1952. وتحيط بالمباني حديقة واسعة تضم أشجارًا ونباتات نادرة جمعها الأمير، منها أشجار التين البنغالي والصبار العملاق والنخيل الملكي. وبعد إغلاق طويل أُعيد افتتاح القصر عام 2015، ثم متحف الصيد بمئات من رؤوس الحيوانات المحنطة عام 2017."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Residence palace",
+    "ar": "سراي الإقامة"
+   },
+   "desc": {
+    "en": "The prince's private rooms, lavishly furnished and lined with tiles, carved wood and painted ceilings.",
+    "ar": "الأجنحة الخاصة بالأمير بأثاثها الفاخر وجدرانها المكسوة بالقاشاني والخشب المحفور والأسقف الملونة."
+   }
+  },
+  {
+   "title": {
+    "en": "Throne hall",
+    "ar": "سراي العرش"
+   },
+   "desc": {
+    "en": "A grand hall with a gilded throne and portraits of the Muhammad Ali dynasty.",
+    "ar": "قاعة فخمة بعرش مذهب وصور لأفراد أسرة محمد علي."
+   }
+  },
+  {
+   "title": {
+    "en": "Golden hall",
+    "ar": "القاعة الذهبية"
+   },
+   "desc": {
+    "en": "A reception room covered in gilded decoration, now also used for events.",
+    "ar": "قاعة استقبال تكسوها الزخارف المذهبة، وتُستخدم أيضًا للفعاليات."
+   }
+  },
+  {
+   "title": {
+    "en": "Mosque and clock tower",
+    "ar": "المسجد وبرج الساعة"
+   },
+   "desc": {
+    "en": "A small mosque with fine tilework beside a tower styled on a Moroccan minaret.",
+    "ar": "مسجد صغير بزخارف خزفية بديعة بجوار برج على هيئة مئذنة مغربية."
+   }
+  },
+  {
+   "title": {
+    "en": "Hunting Museum",
+    "ar": "متحف الصيد"
+   },
+   "desc": {
+    "en": "Hundreds of trophies and mounted animals, reopened in 2017.",
+    "ar": "مئات الرؤوس والحيوانات المحنطة، أُعيد افتتاحه عام 2017."
+   }
+  },
+  {
+   "title": {
+    "en": "Botanical gardens",
+    "ar": "الحدائق"
+   },
+   "desc": {
+    "en": "Rare trees and plants collected by the prince, including banyans, cacti and royal palms.",
+    "ar": "أشجار ونباتات نادرة جمعها الأمير، منها التين البنغالي والصبار والنخيل الملكي."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/PrinceMohamedAliPalace",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 120,
+  "deepMinutes": 180,
+  "bestTime": {
+   "en": "Weekday mornings; the gardens are pleasant in the cooler months.",
+   "ar": "صباح أيام الأسبوع، والحدائق ممتعة خاصة في الشهور الأكثر اعتدالًا."
+  },
+  "crowdNotes": {
+   "en": "Popular with school trips and wedding photographers on some days. The buildings are spread across the gardens, so expect a fair amount of walking.",
+   "ar": "يقصده طلاب الرحلات المدرسية ومصورو حفلات الزفاف في بعض الأيام. وتتوزع المباني داخل الحدائق، فاستعد لقدر من المشي."
+  }
+ },
+ "accessibility": {
+  "rampedEntrance": true
+ },
+ "facilities": {
+  "toilets": true,
+  "atm": true,
+  "parking": true,
+  "giftShop": true,
+  "information": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/GD-EG-Caire-AlManyal020.JPG",
+   "author": "Néfermaât",
+   "license": "CC BY-SA 2.5",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:GD-EG-Caire-AlManyal020.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Cairo2015ManialPalastClockTower.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo2015ManialPalastClockTower.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cairo2015ManialResidencePalast.jpg",
+   "author": "RolandUnger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo2015ManialResidencePalast.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/manial-palace-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Manial_Palace_and_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_%D8%A8%D8%A7%D9%84%D9%85%D9%86%D9%8A%D9%84",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2586045",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/manial-palace-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),freeGroups (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/PrinceMohamedAliPalace",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/46",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,freeGroups,facilities,description",
+   "url": "https://egymonuments.gov.eg/en/museums/manial-palace-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close),address,statusNote",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/قصر-المنيل/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Manial_Palace_and_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Ramadan: MoTA guide 09:00-15:00 (last entry 14:00 by its one-hour rule) vs egymonuments.com last entry 15:00; earlier time used. Egyptian student price is 20 (not 30) on both official pages."
+}

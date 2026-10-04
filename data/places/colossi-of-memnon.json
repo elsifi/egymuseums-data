@@ -1,0 +1,227 @@
+{
+ "id": "colossi-of-memnon",
+ "kind": "site",
+ "wikidataId": "Q750209",
+ "name": {
+  "en": "Colossi of Memnon",
+  "ar": "تمثالا ممنون"
+ },
+ "aliases": [
+  "Colossi of Memnon at Theban necropolis",
+  "Colossus of Memnon"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor (West Bank)",
+  "ar": "الأقصر (البر الغربي)"
+ },
+ "area": {
+  "en": "West Bank, Kom el-Hettan (Qurna), beside the main road",
+  "ar": "البر الغربي، كوم الحيتان (القرنة)، بجوار الطريق الرئيسي"
+ },
+ "address": {
+  "en": "Main West Bank road, between the Nile and the Theban hills, West Bank, Luxor",
+  "ar": "الطريق الرئيسي بالبر الغربي، بين النيل وجبال طيبة، الأقصر"
+ },
+ "lat": 25.720556,
+ "lng": 32.610556,
+ "status": "open",
+ "statusNote": {
+  "en": "Open-air monument beside the main West Bank road. The temple area behind the statues is an active excavation and is not open to visitors.",
+  "ar": "أثر مكشوف بجوار الطريق الرئيسي في البر الغربي، أما منطقة المعبد خلف التمثالين فموقع حفائر نشط وغير مفتوحة للزيارة."
+ },
+ "summary": {
+  "en": "Two seated quartzite giants of Amenhotep III, almost 18 metres high, that once guarded the largest temple on the Theban West Bank.",
+  "ar": "تمثالان جالسان عملاقان من الكوارتزيت للملك أمنحتب الثالث بارتفاع يقارب 18 مترًا، كانا يحرسان أكبر معبد في البر الغربي بطيبة."
+ },
+ "description": {
+  "en": "The first monuments most visitors see on the West Bank are these two colossal seated statues of Amenhotep III, each nearly 18 metres high and carved from quartzite sandstone brought from far to the north. They flanked the entrance to the king's memorial temple, which was the largest on the West Bank, but floods, an earthquake and later stone-robbing left little of it standing. Beside the king's legs stand smaller figures of his wife Tiye and his mother Mutemwia, and the sides of the thrones show Nile gods binding the plants of Upper and Lower Egypt. After an earthquake in 27 BC cracked the northern statue, it began to give out a sound at dawn. Greek visitors linked it with Memnon, the hero who greeted his mother Eos, the dawn, and Roman travellers, including members of Emperor Hadrian's party, carved verses on its legs. The sound stopped after the statue was repaired in Roman times. Behind the colossi, an Egyptian–European mission is excavating the temple and has raised further colossal statues from the mud.",
+  "ar": "أول ما يراه معظم الزوار في البر الغربي هذان التمثالان الجالسان الهائلان للملك أمنحتب الثالث، ويبلغ ارتفاع كل منهما نحو 18 مترًا، وقد نُحتا من حجر الكوارتزيت المجلوب من مسافة بعيدة في الشمال. وكانا يتقدمان مدخل معبد تخليد ذكرى الملك، أكبر معابد البر الغربي، غير أن الفيضانات وزلزالًا ونهب الأحجار لاحقًا لم تُبقِ منه إلا القليل. وإلى جانب ساقي الملك تقف تماثيل أصغر لزوجته الملكة تي وأمه موت إم ويا، بينما تصوّر جوانب العرش معبودي النيل يربطان نباتي الصعيد والدلتا. وبعد أن شقّ زلزال عام 27 قبل الميلاد التمثال الشمالي، صار يصدر صوتًا عند الفجر، فربطه الإغريق بممنون، البطل الذي كان يحيّي أمه إيوس ربة الفجر، ونقش الرحالة الرومان، ومنهم مرافقون للإمبراطور هادريان، أبياتًا على ساقيه. وقد توقف هذا الصوت بعد ترميم التمثال في العصر الروماني. وخلف التمثالين تواصل بعثة مصرية أوروبية التنقيب في المعبد، وقد أعادت إقامة تماثيل ضخمة أخرى انتُشلت من الطين."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "The two colossi",
+    "ar": "التمثالان العملاقان"
+   },
+   "desc": {
+    "en": "Seated figures of Amenhotep III, nearly 18 m high, carved from quartzite.",
+    "ar": "تمثالان جالسان للملك أمنحتب الثالث من الكوارتزيت بارتفاع يقارب 18 مترًا."
+   }
+  },
+  {
+   "title": {
+    "en": "Queen Tiye and Mutemwia",
+    "ar": "الملكة تي وموت إم ويا"
+   },
+   "desc": {
+    "en": "Smaller figures of the king's wife and mother beside his legs.",
+    "ar": "تماثيل أصغر لزوجة الملك وأمه إلى جانب ساقيه."
+   }
+  },
+  {
+   "title": {
+    "en": "Throne reliefs",
+    "ar": "نقوش العرش"
+   },
+   "desc": {
+    "en": "Nile gods binding papyrus and lotus, the symbol of a united Egypt.",
+    "ar": "معبودا النيل يربطان البردي واللوتس رمزًا لتوحيد مصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Greek and Latin inscriptions",
+    "ar": "النقوش الإغريقية واللاتينية"
+   },
+   "desc": {
+    "en": "Verses left by Roman-era visitors on the northern statue's legs.",
+    "ar": "أبيات تركها زوار العصر الروماني على ساقي التمثال الشمالي."
+   }
+  },
+  {
+   "title": {
+    "en": "Kom el-Hettan excavations",
+    "ar": "حفائر كوم الحيتان"
+   },
+   "desc": {
+    "en": "Re-erected statues of the vanished temple, visible from the edge of the site.",
+    "ar": "تماثيل أعيدت إقامتها من المعبد المندثر، تُرى من حافة الموقع."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00"
+   },
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 15,
+  "standardMinutes": 20,
+  "deepMinutes": 45,
+  "bestTime": {
+   "en": "Early morning, when the low sun lights the statues from the east, or on the way back at sunset.",
+   "ar": "الصباح الباكر حين تضيء الشمس المنخفضة التمثالين من الشرق، أو في طريق العودة وقت الغروب."
+  },
+  "crowdNotes": {
+   "en": "Almost every West Bank tour stops here briefly, so mid-morning brings clusters of coaches and souvenir sellers. A short stop is enough unless you want to study the inscriptions.",
+   "ar": "تتوقف معظم الرحلات في البر الغربي هنا لدقائق، فتتكدس الحافلات وباعة الهدايا في منتصف الصباح. وتكفي وقفة قصيرة ما لم ترغب في تأمل النقوش."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/21_Meter_waren_die_Memnonskolosse_urspr%C3%BCnglich_hoch._01.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:21_Meter_waren_die_Memnonskolosse_urspr%C3%BCnglich_hoch._01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/A_Colossi_of_Memnon_2015.JPG",
+   "author": "MusikAnimal",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Colossi_of_Memnon_2015.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Aegypt1987-077_hg.jpg",
+   "author": "H. Grobe",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aegypt1987-077_hg.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Colossi_of_Memnon",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AA%D9%85%D8%AB%D8%A7%D9%84%D8%A7_%D9%85%D9%85%D9%86%D9%88%D9%86",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q750209",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description (official MoTA guide; no online-ticket link)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/تمثالا-ممنون/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (MoTA Nov 2024 list shows no price for the Colossi)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (Colossi and temple restoration project)",
+   "url": "https://egymonuments.gov.eg/en/news/new-archaeological-discoveries-in-the-project-to-restore-the-colossi-of-memnon-and-the-temple-of-king-amenhotep-iii/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Colossi_of_Memnon",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:21_Meter_waren_die_Memnonskolosse_urspr%C3%BCnglich_hoch._01.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:A_Colossi_of_Memnon_2015.JPG",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Aegypt1987-077_hg.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Price not confirmed: no ticket appears on the booking platform, the MoTA guide page has no online-ticket link, and the Nov 2024 list shows dashes; free viewing is widely reported by non-official guides only. Same treatment as D9: prices.status 'unconfirmed'; confirm via MoTA hotline 19654. Hours 06:00-17:00 from the MoTA guide; no lastEntry (open roadside site); the Qurna summer schedule (06:00-18:00) is not applied because it is not stated for the Colossi. Kom el-Hettan (Amenhotep III temple) public access: not found - statusNote says the temple area is not open, matching the site's excavation status; verify. City overridden from the seed's 'Thebes' to 'Luxor (West Bank)' (as valley-of-the-kings)."
+}

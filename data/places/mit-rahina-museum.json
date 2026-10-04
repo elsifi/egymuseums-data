@@ -1,0 +1,379 @@
+{
+ "id": "mit-rahina-museum",
+ "kind": "museum",
+ "wikidataId": "Q31608652",
+ "name": {
+  "en": "Mit Rahina Open-Air Museum (Memphis)",
+  "ar": "المتحف المفتوح بميت رهينة"
+ },
+ "aliases": [
+  "Memphis open air museum",
+  "Mit Rahina Museum",
+  "المتحف المفتوح",
+  "Memphis"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "giza",
+ "city": {
+  "en": "Badrashin",
+  "ar": "البدرشين"
+ },
+ "area": {
+  "en": "Mit Rahina village (ancient Memphis)",
+  "ar": "قرية ميت رهينة (منف القديمة)"
+ },
+ "address": {
+  "en": "Mit Rahina village, Badrashin, Giza (about 20 km south of central Cairo)",
+  "ar": "قرية ميت رهينة، مركز البدرشين، الجيزة (نحو 20 كم جنوب وسط القاهرة)"
+ },
+ "lat": 29.8495,
+ "lng": 31.2552,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A garden museum among the palms of Mit Rahina, on the site of ancient Memphis, centred on a colossal limestone statue of Ramesses II.",
+  "ar": "متحف مفتوح بين نخيل ميت رهينة في موقع منف القديمة، يتمحور حول تمثال ضخم من الحجر الجيري للملك رمسيس الثاني."
+ },
+ "description": {
+  "en": "Memphis was Egypt's first capital, founded by tradition around 3000 BC, and remained one of its great cities for three thousand years. Little of it stands above ground today, because its temples were quarried for stone and its mud-brick houses melted back into the fields, but the village of Mit Rahina sits on top of the ancient city, and its open-air museum gathers some of the finest survivors. The centrepiece is a colossal limestone statue of Ramesses II, about ten metres long even without its lower legs, lying on its back inside a covered hall with a gallery from which visitors look down on the finely carved face, crown and cartouches. In the garden outside stand an alabaster sphinx weighing around 80 tonnes, granite statues of Ramesses II, stelae, sarcophagi, column bases and the huge calcite tables on which the sacred Apis bulls were embalmed. Nearby lie the remains of the great temple of Ptah and smaller shrines. Part of the Memphis and its Necropolis World Heritage Site, it fits easily into a day with Saqqara and Dahshur.",
+  "ar": "كانت منف أول عاصمة لمصر، ويُنسب تأسيسها إلى نحو عام 3000 قبل الميلاد، وظلت من كبريات مدنها ثلاثة آلاف عام. ولم يبق منها فوق سطح الأرض إلا القليل، إذ انتُزعت أحجار معابدها وعادت بيوتها اللبنية ترابًا في الحقول، غير أن قرية ميت رهينة تقوم فوق المدينة القديمة، ويجمع متحفها المفتوح بعضًا من أروع ما بقي منها. ويتصدر المتحف تمثال ضخم من الحجر الجيري للملك رمسيس الثاني يبلغ طوله نحو عشرة أمتار رغم فقدان ساقيه، ويرقد على ظهره داخل قاعة مسقوفة تعلوها شرفة يطل منها الزوار على ملامح الوجه الدقيقة والتاج والخراطيش. وفي الحديقة الخارجية يقف تمثال أبو الهول من الألباستر الذي يزن نحو 80 طنًا، وتماثيل جرانيتية لرمسيس الثاني، ولوحات وتوابيت وقواعد أعمدة، إلى جانب موائد التحنيط الضخمة من الألباستر التي كانت تُحنّط عليها عجول أبيس المقدسة. وبالقرب منها بقايا معبد بتاح الكبير ومقاصير أصغر. والموقع جزء من منطقة منف وجبانتها المسجلة على قائمة التراث العالمي، ويسهل الجمع بينه وبين سقارة ودهشور في يوم واحد."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Colossus of Ramesses II",
+    "ar": "تمثال رمسيس الثاني الضخم"
+   },
+   "desc": {
+    "en": "A finely carved limestone giant lying in its own hall, viewed from a gallery above.",
+    "ar": "تمثال عملاق من الحجر الجيري دقيق النحت يرقد في قاعة خاصة ويُشاهد من شرفة علوية."
+   }
+  },
+  {
+   "title": {
+    "en": "Alabaster sphinx",
+    "ar": "تمثال أبو الهول الألباستر"
+   },
+   "desc": {
+    "en": "One of the largest calcite sculptures known, standing in the garden.",
+    "ar": "من أكبر التماثيل المعروفة المنحوتة من الألباستر، ويقف في الحديقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Apis embalming tables",
+    "ar": "موائد تحنيط عجول أبيس"
+   },
+   "desc": {
+    "en": "Massive calcite beds used to embalm the sacred bulls of Ptah.",
+    "ar": "موائد ضخمة من الألباستر كانت تُحنّط عليها عجول بتاح المقدسة."
+   }
+  },
+  {
+   "title": {
+    "en": "Granite statues of Ramesses II",
+    "ar": "تماثيل رمسيس الثاني الجرانيتية"
+   },
+   "desc": {
+    "en": "Standing figures of the king among the palms of the garden.",
+    "ar": "تماثيل واقفة للملك بين نخيل الحديقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Sculpture garden",
+    "ar": "حديقة المنحوتات"
+   },
+   "desc": {
+    "en": "Stelae, sarcophagi, column bases and statue fragments from the ancient city.",
+    "ar": "لوحات وتوابيت وقواعد أعمدة وأجزاء تماثيل من المدينة القديمة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Parking: car or taxi",
+     "ar": "انتظار السيارات: ملاكي أو تاكسي"
+    },
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Parking: microbus",
+     "ar": "انتظار السيارات: ميكروباص"
+    },
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Parking: coaster",
+     "ar": "انتظار السيارات: كوستر"
+    },
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Parking: bus",
+     "ar": "انتظار السيارات: أتوبيس"
+    },
+    "amount": 100
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Memphis",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning, on the way to or from Saqqara; the palm garden gives some shade.",
+   "ar": "الفترة الصباحية في الطريق من سقارة أو إليها، وتوفر حديقة النخيل بعض الظل."
+  },
+  "crowdNotes": {
+   "en": "Tour groups usually stop for a short visit in mid-morning; arriving at 08:00 or after midday is quieter. Souvenir stalls line the entrance.",
+   "ar": "تتوقف المجموعات السياحية عادة لزيارة قصيرة في منتصف الصباح، والوصول في الثامنة أو بعد الظهر أهدأ. وتصطف أكشاك الهدايا عند المدخل."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Memphis%2C_Pharaoh_Rameses_II%2C_Ancient_Egypt.jpg",
+   "author": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Memphis,_Pharaoh_Rameses_II,_Ancient_Egypt.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/A_Sphinx_%2839447461795%29.jpg",
+   "author": "Mike McBey",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Sphinx_(39447461795).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Memphis_-_Museum_-_Head_of_Goddess_Hathor_in_limestone.jpg",
+   "author": "Daniel Mayer",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Memphis_-_Museum_-_Head_of_Goddess_Hathor_in_limestone.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD_(%D9%85%D9%8A%D8%AA_%D8%B1%D9%87%D9%8A%D9%86%D8%A9)",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q31608652",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q28717574",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/Memphis",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras (parking) (booking page)",
+   "url": "https://egymonuments.com/book-date/42",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (incl. Ramadan close 16:00),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/منطقة-آثار-ميت-رهينة/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (Memphis and its Necropolis World Heritage Site)",
+   "url": "https://whc.unesco.org/en/list/86",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Memphis,_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Memphis,_Pharaoh_Rameses_II,_Ancient_Egypt.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:A_Sphinx_(39447461795).jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Memphis_-_Museum_-_Head_of_Goddess_Hathor_in_limestone.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Record also stands for the visitable part of ancient Memphis (Q5715). Hours and prices agree across booking platform, MoTA guide and Nov 2024 list (PDF parking had microbus 75; booking platform 50 - booking platform used). The colossus that moved to GEM is the standing one from Ramses Square, not this one. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

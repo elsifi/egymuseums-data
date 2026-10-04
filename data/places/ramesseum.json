@@ -1,0 +1,408 @@
+{
+ "id": "ramesseum",
+ "kind": "site",
+ "wikidataId": "Q311581",
+ "name": {
+  "en": "The Ramesseum",
+  "ar": "معبد الرامسيوم"
+ },
+ "aliases": [
+  "معبد الرمسيوم",
+  "معبدالرامسيوم",
+  "Ramesseum"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor (West Bank)",
+  "ar": "الأقصر (البر الغربي)"
+ },
+ "area": {
+  "en": "West Bank, Qurna (below Sheikh Abd el-Qurna)",
+  "ar": "البر الغربي، القرنة (أسفل الشيخ عبد القرنة)"
+ },
+ "address": {
+  "en": "The Ramesseum, Qurna, West Bank, Luxor",
+  "ar": "معبد الرامسيوم، القرنة، البر الغربي، الأقصر"
+ },
+ "lat": 25.727778,
+ "lng": 32.610556,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Restoration of the first pylon is in progress, with scaffolding expected until 2027.",
+  "ar": "مفتوح يوميًا، وتجري أعمال ترميم في الصرح الأول، ومن المتوقع بقاء السقالات حتى عام 2027."
+ },
+ "summary": {
+  "en": "The memorial temple of Ramesses II on the West Bank, with its toppled granite colossus, Osiride pillars and Kadesh battle reliefs.",
+  "ar": "معبد تخليد ذكرى رمسيس الثاني في البر الغربي، بتمثاله الجرانيتي المحطم وأعمدته الأوزيرية ونقوش معركة قادش."
+ },
+ "description": {
+  "en": "Ramesses II built his memorial temple at the edge of the cultivation on the West Bank, where his cult was to continue after his death. Classical writers called it the tomb of Ozymandias, a corruption of one of the king's names, and the shattered statue in its court is said to have inspired Shelley's famous sonnet. That colossus, carved from a single block of granite and once well over 17 metres tall, now lies in huge fragments near the second pylon, beyond which a row of pillars shows the king in the wrapped form of Osiris. The pylons carry scenes of the battle of Kadesh against the Hittites. Beyond them, a hypostyle hall of 48 columns, a smaller version of Karnak's great hall, leads to a room with an astronomical ceiling. Around the stone temple stretch long mud-brick vaults that once held grain, wine and offerings, along with the remains of a palace and workshops. The name Ramesseum was given by Champollion in 1829. An Egyptian–Korean team is currently restoring the northern tower of the first pylon.",
+  "ar": "شيّد رمسيس الثاني معبد تخليد ذكراه على حافة الأرض الزراعية في البر الغربي، ليستمر فيه تقديس عبادته بعد وفاته. وقد سماه الكتّاب الكلاسيكيون «مقبرة أوزيماندياس»، وهو تحريف لأحد أسماء الملك، ويقال إن التمثال المحطم في فنائه ألهم الشاعر شيلي قصيدته الشهيرة. هذا التمثال، المنحوت من كتلة واحدة من الجرانيت والذي تجاوز ارتفاعه 17 مترًا، يرقد اليوم أجزاءً ضخمة قرب الصرح الثاني، الذي يليه صف من الأعمدة يصوّر الملك في هيئة أوزيريس الملفوف. وتحمل الصروح مناظر معركة قادش ضد الحيثيين. ويلي ذلك بهو أساطين من 48 عمودًا، يُعد صورة مصغرة لبهو الكرنك الكبير، يؤدي إلى حجرة سقفها مزين بالمناظر الفلكية. ومن حول المعبد الحجري تمتد أقبية طويلة من الطوب اللبن كانت تُخزن فيها الحبوب والنبيذ والقرابين، إلى جانب بقايا قصر وورش. وقد أطلق شامبليون اسم «الرامسيوم» على المعبد عام 1829. ويعمل حاليًا فريق مصري كوري على ترميم البرج الشمالي للصرح الأول."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Fallen colossus",
+    "ar": "التمثال المحطم"
+   },
+   "desc": {
+    "en": "Fragments of a giant granite statue of Ramesses II, said to have inspired “Ozymandias”.",
+    "ar": "أجزاء تمثال جرانيتي هائل لرمسيس الثاني يُقال إنه ألهم قصيدة «أوزيماندياس»."
+   }
+  },
+  {
+   "title": {
+    "en": "Osiride pillars",
+    "ar": "الأعمدة الأوزيرية"
+   },
+   "desc": {
+    "en": "The king shown as Osiris along the second court.",
+    "ar": "الملك في هيئة أوزيريس على امتداد الفناء الثاني."
+   }
+  },
+  {
+   "title": {
+    "en": "Battle of Kadesh reliefs",
+    "ar": "نقوش معركة قادش"
+   },
+   "desc": {
+    "en": "Scenes of Ramesses II's campaign against the Hittites.",
+    "ar": "مناظر حملة رمسيس الثاني ضد الحيثيين."
+   }
+  },
+  {
+   "title": {
+    "en": "Hypostyle hall",
+    "ar": "بهو الأساطين"
+   },
+   "desc": {
+    "en": "Forty-eight columns in six rows, a smaller echo of Karnak.",
+    "ar": "ثمانية وأربعون عمودًا في ستة صفوف، صدى مصغر للكرنك."
+   }
+  },
+  {
+   "title": {
+    "en": "Astronomical ceiling",
+    "ar": "السقف الفلكي"
+   },
+   "desc": {
+    "en": "A small hall with a celebrated astronomical ceiling.",
+    "ar": "قاعة صغيرة بسقف فلكي شهير."
+   }
+  },
+  {
+   "title": {
+    "en": "Mud-brick storerooms",
+    "ar": "المخازن اللبنية"
+   },
+   "desc": {
+    "en": "Long vaulted magazines that held the temple’s grain and goods.",
+    "ar": "مخازن مقببة طويلة حُفظت فيها حبوب المعبد وبضائعه."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Parking: car or taxi",
+     "ar": "انتظار السيارات: ملاكي أو تاكسي"
+    },
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Parking: microbus",
+     "ar": "انتظار السيارات: ميكروباص"
+    },
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Parking: coaster",
+     "ar": "انتظار السيارات: كوستر"
+    },
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Parking: bus",
+     "ar": "انتظار السيارات: أتوبيس"
+    },
+    "amount": 100
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Ramesseum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Late afternoon, when the light warms the pillars and most tour groups have left the West Bank.",
+   "ar": "آخر النهار حين يدفئ الضوء الأعمدة وتكون معظم المجموعات قد غادرت البر الغربي."
+  },
+  "crowdNotes": {
+   "en": "Often skipped by large tours, so usually calm. Expect scaffolding at the first pylon during restoration; the main entrance may move to the eastern side.",
+   "ar": "كثيرًا ما تتجاوزه الجولات الكبيرة، لذا يكون هادئًا عادة. وتوقّع وجود سقالات عند الصرح الأول خلال الترميم، وقد ينتقل المدخل الرئيسي إلى الجهة الشرقية."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Luxor_Ramesseum_R02.jpg",
+   "author": "Marc Ryckaert",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luxor_Ramesseum_R02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Luxor_Ramesseum_R10.jpg",
+   "author": "Marc Ryckaert",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luxor_Ramesseum_R10.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Osiride_pillars_and_great_fallen_colossus._The_Memnonium_Thebes.%2C_RP-F-F25403-T.jpg",
+   "author": "Rijksmuseum",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osiride_pillars_and_great_fallen_colossus._The_Memnonium_Thebes.,_RP-F-F25403-T.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/the-ramesseum-the-temple-of-ramses-ii/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Ramesseum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%A7%D9%85%D8%B3%D9%8A%D9%88%D9%85",
+  "osm": "way/89828305"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q311581",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-ramesseum-the-temple-of-ramses-ii/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-ramesseum-the-temple-of-ramses-ii/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry by season),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/Ramesseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras (parking) (booking page)",
+   "url": "https://egymonuments.com/book-date/21",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description (48-column hall, astronomical room)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-الرامسيوم/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (Egyptian-Korean first-pylon restoration to 2027; entrance plan), Sept 2026",
+   "url": "https://www.elwatannews.com/news/details/8360839",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (restoration, Sept 2026)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2026/9/18/3050039/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Ramesseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Luxor_Ramesseum_R02.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Luxor_Ramesseum_R10.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Osiride_pillars_and_great_fallen_colossus._The_Memnonium_Thebes.,_RP-F-F25403-T.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Winter (standard) hours 06:00-17:00 with last entry 16:00 (MoTA guide closing 17:00 + one-hour rule; booking platform winter last entry 16:00). Summer 2026: 06:00-18:00 for the Qurna (West Bank) zone per the 24 Apr 2026 announcement, last entry 17:00 per booking platform. Portal, booking platform and MoTA guide agree on prices (220/110, 20/10) and the 06:00-17:00 day. Summer 2026 exception (2026-04-24 to 2026-10-29) follows the Luxor antiquities summer schedule (daylight-saving period, until the last Thursday of October); the winter 2026-27 schedule had not been announced on 2026-10-04 - recheck after 29 Oct 2026. Summer exception ends 2026-10-29, the last day of daylight-saving time (batch-7 Q7a, applied 2026-10-04 to every summer exception). Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
+}

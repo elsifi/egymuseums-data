@@ -152,9 +152,9 @@
      "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)",
      "en": "Summer schedule 2026 (daylight-saving period)"
     },
-    "rule": "summer (daylight-saving period), until the last Friday of October",
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
     "from": "2026-04-24",
-    "to": "2026-10-30",
+    "to": "2026-10-29",
     "weekly": [
      {
       "day": "mon",
@@ -197,52 +197,6 @@
       "open": "06:00",
       "close": "18:00",
       "lastEntry": "17:00"
-     }
-    ]
-   },
-   {
-    "label": {
-     "ar": "مواعيد شهر رمضان",
-     "en": "Ramadan schedule"
-    },
-    "rule": "Ramadan",
-    "from": "2027-02-08",
-    "to": "2027-03-08",
-    "weekly": [
-     {
-      "day": "mon",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "tue",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "wed",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "thu",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "fri",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "sat",
-      "open": "06:00",
-      "lastEntry": "16:00"
-     },
-     {
-      "day": "sun",
-      "open": "06:00",
-      "lastEntry": "16:00"
      }
     ]
    }
@@ -273,10 +227,10 @@
    }
   ],
   "freeGroups": [
-   "children under 6",
+   "Children under 6",
    "Egyptians aged 60+",
    "Egyptians with disabilities",
-   "photography with mobile phones is free"
+   "Mobile-phone photography is free"
   ],
   "extras": [
    {
@@ -509,9 +463,14 @@
    "field": "photos",
    "url": "https://commons.wikimedia.org/wiki/File:Thebes,_Luxor,_Egypt,_Panoramic_view_of_the_Valley_of_the_Kings.jpg",
    "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-04"
   }
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "high",
- "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. statusNote reworded as visitor advice (was an editorial 'not verified/confirmed' remark; the open question stays in the batch report)."
+ "curationNote": "statusNote reworded as visitor advice (was an editorial 'not verified/confirmed' remark; the open question stays in the batch report). Summer exception ends 2026-10-29, the last day of daylight-saving time (batch-7 Q7a, applied 2026-10-04 to every summer exception). Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
 }

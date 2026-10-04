@@ -1,0 +1,265 @@
+{
+ "id": "october-war-panorama",
+ "kind": "museum",
+ "wikidataId": "Q6741397",
+ "name": {
+  "en": "October War Panorama",
+  "ar": "بانوراما حرب أكتوبر"
+ },
+ "aliases": [
+  "6th of October Panorama"
+ ],
+ "category": "military",
+ "operator": "defense",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Nasr City, Salah Salem Street",
+  "ar": "مدينة نصر، شارع صلاح سالم"
+ },
+ "address": {
+  "en": "Salah Salem Street, Nasr City, next to Cairo International Stadium — nearest metro: Ard El-Maared",
+  "ar": "شارع صلاح سالم، مدينة نصر، بجوار استاد القاهرة الدولي — أقرب محطة مترو: أرض المعارض"
+ },
+ "lat": 30.0742,
+ "lng": 31.3067,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily with a morning and an evening session; visits run as guided tours. Entry is free from 3 to 6 October 2026 for the anniversary of the October War.",
+  "ar": "مفتوحة يوميًا على فترتين صباحية ومسائية، وتتم الزيارة في جولات منظمة. والدخول مجاني من 3 إلى 6 أكتوبر 2026 احتفالًا بذكرى حرب أكتوبر."
+ },
+ "summary": {
+  "en": "A military museum built around a revolving 360-degree panorama of the 1973 crossing of the Suez Canal, with war aircraft and armour in its grounds.",
+  "ar": "متحف عسكري يتمحور حول قاعة بانورامية دوّارة تجسّد عبور قناة السويس عام 1973، وتحيط به ساحة تعرض طائرات ومدرعات شاركت في الحرب."
+ },
+ "description": {
+  "en": "The October War Panorama commemorates the crossing of the Suez Canal on 6 October 1973 and the storming of the Bar-Lev Line. Planned from 1983 as a joint project with North Korea, it opened on 5 October 1989 and reopened in 2019 after a full renovation. The site covers about 31,000 square metres: an open-air yard of Egyptian weapons used in the war, a circular fort-like main building, and the newer Tahya Misr building. Visits follow a set route. A light-and-sound model traces the first hours of an infantry brigade's crossing, and then visitors take their seats on a rotating platform for about 18 minutes as a vast painted panorama of the battle, with life-size figures in the foreground, turns slowly around them. Further halls cover the years of preparation before the war, the crossing itself and the heroes and martyrs of the campaign. The outer wall of the drum carries large reliefs of earlier Egyptian victories, from Ahmose's expulsion of the Hyksos to the battle of Mansoura.",
+  "ar": "تخلّد بانوراما حرب أكتوبر ملحمة عبور قناة السويس واقتحام خط بارليف في السادس من أكتوبر 1973. بدأ التخطيط لها عام 1983 بالتعاون مع كوريا الشمالية، وافتُتحت في 5 أكتوبر 1989، ثم أعيد افتتاحها عام 2019 بعد أعمال تطوير شاملة. يمتد الموقع على نحو 31 ألف متر مربع، ويضم ساحة مكشوفة لأسلحة مصرية شاركت في الحرب، ومبنى رئيسيًا دائريًا يشبه الحصن، إلى جانب مبنى «تحيا مصر» الأحدث. تسير الزيارة وفق مسار محدد؛ إذ يستعرض مجسم بالصوت والضوء الساعات الأولى من عبور لواء مشاة، ثم يجلس الزوار على منصة دوّارة لنحو 18 دقيقة تدور بهم أمام لوحة بانورامية هائلة للمعركة تتقدمها مجسمات بالحجم الطبيعي. وتتناول قاعات أخرى سنوات الإعداد للحرب، ومشهد العبور، وبطولات المقاتلين وشهدائهم. أما الجدار الخارجي للمبنى الدائري فيحمل لوحات بارزة كبيرة لانتصارات مصرية سابقة، من طرد أحمس للهكسوس إلى معركة المنصورة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Panoramic hall",
+    "ar": "القاعة البانورامية"
+   },
+   "desc": {
+    "en": "A rotating platform turns visitors slowly past a 360-degree painting of the crossing and the assault on the Bar-Lev Line.",
+    "ar": "منصة دوّارة تمر بالزوار أمام لوحة دائرية كاملة لمشهد العبور واقتحام خط بارليف."
+   }
+  },
+  {
+   "title": {
+    "en": "Crossing model",
+    "ar": "مجسم العبور"
+   },
+   "desc": {
+    "en": "A six-minute light-and-sound model of an infantry brigade crossing the canal.",
+    "ar": "مجسم بالصوت والضوء مدته ست دقائق يصوّر عبور لواء مشاة للقناة."
+   }
+  },
+  {
+   "title": {
+    "en": "Open-air weapons yard",
+    "ar": "ساحة العرض المكشوف"
+   },
+   "desc": {
+    "en": "Fighter aircraft, tanks, guns and air-defence missiles that served in the war.",
+    "ar": "طائرات مقاتلة ودبابات ومدافع وصواريخ دفاع جوي شاركت في الحرب."
+   }
+  },
+  {
+   "title": {
+    "en": "Steadfastness and Challenge Hall",
+    "ar": "قاعة الصمود والتحدي"
+   },
+   "desc": {
+    "en": "Displays on the years of rebuilding and preparation between 1967 and 1973.",
+    "ar": "عروض عن سنوات إعادة البناء والاستعداد بين عامي 1967 و1973."
+   }
+  },
+  {
+   "title": {
+    "en": "Historic battle reliefs",
+    "ar": "لوحات المعارك التاريخية"
+   },
+   "desc": {
+    "en": "Large reliefs on the outer drum showing earlier Egyptian victories across the centuries.",
+    "ar": "لوحات بارزة كبيرة على الجدار الخارجي تصوّر انتصارات مصرية عبر العصور."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "17:00",
+    "close": "21:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "17:00",
+    "close": "21:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "17:00",
+    "close": "21:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "17:00",
+    "close": "21:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "17:00",
+    "close": "21:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "sat",
+    "open": "17:00",
+    "close": "21:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "17:00",
+    "close": "21:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 90,
+  "standardMinutes": 120,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "The first morning tour at 09:00, or an evening tour in summer when the outdoor yard is cooler.",
+   "ar": "الجولة الصباحية الأولى في التاسعة، أو إحدى الجولات المسائية صيفًا حين تكون الساحة المكشوفة ألطف جوًا."
+  },
+  "crowdNotes": {
+   "en": "Visits run as fixed tours of about two hours: three in the morning session and two in the evening. School groups are common on weekdays, and the days around 6 October are the busiest of the year.",
+   "ar": "تتم الزيارة في جولات محددة مدة كل منها نحو ساعتين: ثلاث في الفترة الصباحية واثنتان في المسائية. وتكثر الرحلات المدرسية في أيام الأسبوع، وتشهد الأيام المحيطة بالسادس من أكتوبر أعلى إقبال في العام."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Su-20_Armament_October_War_Panorama_in_Cairo.jpg",
+   "author": "LeCaire",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Su-20_Armament_October_War_Panorama_in_Cairo.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/6th_of_October_War_Panorama_26.jpg",
+   "author": "Nabbegat",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:6th_of_October_War_Panorama_26.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 2 26882042",
+  "website": "https://www.mod.gov.eg/ModWebSite/MuseumDetailsAr.aspx?id=2",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/6th_of_October_Panorama",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%D9%88%D8%B1%D8%A7%D9%85%D8%A7_%D8%AD%D8%B1%D8%A8_%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1",
+  "osm": "way/34209128"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6741397",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,contacts,description,highlights (official MoD page)",
+   "url": "https://www.mod.gov.eg/ModWebSite/MuseumDetailsAr.aspx?id=2",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (free entry 3-6 Oct 2026)",
+   "url": "https://www.shorouknews.com/news/view.aspx?cdate=01102026&id=5b2f8680-8dd8-43ef-bfc6-cc61697e1bf5",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (free entry 3-6 Oct 2026)",
+   "url": "https://www.elbalad.news/7126399",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (cross-check, Oct 2026)",
+   "url": "https://egypttelegraph.com/article/283696/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (conflict: 2021 report of a Tuesday closure)",
+   "url": "https://www.elwatannews.com/news/details/5729800",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/6th_of_October_Panorama",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Su-20_Armament_October_War_Panorama_in_Cairo.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:6th_of_October_War_Panorama_26.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Operated by the Armed Forces (National Military Museums Department). Price not confirmed: the official MoD page lists what the ticket covers but no amounts; news (2021) and aggregators give conflicting figures, so prices.status is 'unconfirmed'. Closed day: the official MoD page says every day of the week; elwatannews (2021) said closed Tuesday and aggregators say Friday - official page followed. lastEntry not given: tours are 2 h each (3 morning, 2 evening), so the last tour presumably starts about 13:00 and 19:00 - not stated officially. Photos: the panorama building (1989) and its modern paintings are not used (no freedom of panorama in Egypt); only war hardware in the yard is shown. TIME-LIMITED: the free-entry sentence in statusNote (EN and AR) expires after 2026-10-06; still valid on 2026-10-04."
+}

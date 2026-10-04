@@ -150,61 +150,6 @@
     "close": "16:00",
     "lastEntry": "15:00"
    }
-  ],
-  "exceptions": [
-   {
-    "label": {
-     "ar": "شهر رمضان (المواعيد المعتادة نفسها)",
-     "en": "Ramadan (same hours as usual)"
-    },
-    "rule": "Ramadan",
-    "from": "2027-02-08",
-    "to": "2027-03-08",
-    "weekly": [
-     {
-      "day": "mon",
-      "open": "09:00",
-      "close": "16:00",
-      "lastEntry": "15:00"
-     },
-     {
-      "day": "tue",
-      "open": "09:00",
-      "close": "16:00",
-      "lastEntry": "15:00"
-     },
-     {
-      "day": "wed",
-      "open": "09:00",
-      "close": "16:00",
-      "lastEntry": "15:00"
-     },
-     {
-      "day": "thu",
-      "open": "09:00",
-      "close": "16:00",
-      "lastEntry": "15:00"
-     },
-     {
-      "day": "fri",
-      "open": "09:00",
-      "close": "16:00",
-      "lastEntry": "15:00"
-     },
-     {
-      "day": "sat",
-      "open": "09:00",
-      "close": "16:00",
-      "lastEntry": "15:00"
-     },
-     {
-      "day": "sun",
-      "open": "09:00",
-      "close": "16:00",
-      "lastEntry": "15:00"
-     }
-    ]
-   }
   ]
  },
  "prices": {
@@ -283,5 +228,5 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "D9: price not confirmed. No ticket is listed by MoTA's guide, egymonuments.gov.eg or the Nov 2024 list; free entry was only inferred, so prices.status is 'unconfirmed' and no price or free claim is shown. Confirm via the MoTA hotline 19654. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+ "curationNote": "D9: price not confirmed. No ticket is listed by MoTA's guide, egymonuments.gov.eg or the Nov 2024 list; free entry was only inferred, so prices.status is 'unconfirmed' and no price or free claim is shown. Confirm via the MoTA hotline 19654. Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
 }

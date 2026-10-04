@@ -1,0 +1,170 @@
+{
+ "id": "abu-al-abbas-al-mursi-mosque",
+ "kind": "site",
+ "wikidataId": "Q1323845",
+ "name": {
+  "en": "Mosque of Abu al-Abbas al-Mursi",
+  "ar": "مسجد أبو العباس المرسي"
+ },
+ "aliases": [
+  "جامع أبو العباس المرسي",
+  "جامع المرسى أبو العباس",
+  "مسجد المرسي أبو العباس",
+  "El-Mursi Abul Abbas Mosque"
+ ],
+ "category": "islamic",
+ "operator": "other",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Anfushi (Bahary)",
+  "ar": "الأنفوشي (بحري)"
+ },
+ "address": {
+  "en": "Midan al-Masajid (Mosques Square), Anfushi, Alexandria — near the Qaitbay Citadel",
+  "ar": "ميدان المساجد، الأنفوشي، الإسكندرية — بالقرب من قلعة قايتباي"
+ },
+ "lat": 31.205609,
+ "lng": 29.882246,
+ "status": "open",
+ "statusNote": {
+  "en": "Active mosque, open for prayer. Redevelopment of the surrounding square was about 90% complete in September 2026 and is due to finish by the end of 2026, so parts of the square may be fenced off.",
+  "ar": "مسجد عامر تُقام فيه الصلوات. وقد بلغت أعمال تطوير الساحة المحيطة به نحو 90% في سبتمبر 2026، ومن المنتظر انتهاؤها بنهاية العام، لذا قد تكون أجزاء من الساحة مغلقة بالحواجز."
+ },
+ "summary": {
+  "en": "Alexandria's best-loved shrine mosque, a pale neo-Mamluk landmark raised over the tomb of a 13th-century Andalusian Sufi master.",
+  "ar": "أحب مساجد الأضرحة إلى أهل الإسكندرية، صرح فاتح اللون على الطراز المملوكي المستحدث يعلو ضريح شيخ صوفي أندلسي من القرن الثالث عشر."
+ },
+ "description": {
+  "en": "Abu al-Abbas al-Mursi was a Sufi teacher born in Murcia, in al-Andalus, who settled in Alexandria and guided disciples there until his death in 1286. A small domed shrine soon rose over his grave, and a mosque followed in the early fourteenth century; it was rebuilt more than once, notably under the Mamluks. The building seen today is the result of a large reconstruction ordered by King Fuad I in the 1930s, in which the Italian architect Mario Rossi shaped the design. Its cream-coloured stone façades, finely carved domes and slender minaret follow a neo-Mamluk style, and the mosque stands at the centre of a broad square shared with the shrines of al-Busiri and Yaqut al-Arshi. Inside, a lofty prayer hall rises on granite columns beneath ceilings worked with arabesques, inscriptions and mosaic. The mosque remains a living place of prayer and pilgrimage, busiest during the saint's mawlid each July, and sits a short walk from the Qaitbay Citadel on the Eastern Harbour.",
+  "ar": "وُلد أبو العباس المرسي في مرسية بالأندلس، ثم استقر في الإسكندرية وظل يربي مريديه فيها حتى وفاته عام 1286. وسرعان ما أُقيمت قبة صغيرة فوق قبره، ثم شُيد مسجد في مطلع القرن الرابع عشر، وتوالت عليه عمليات إعادة البناء ولا سيما في العصر المملوكي. أما المبنى الحالي فثمرة إعادة إعمار كبرى أمر بها الملك فؤاد الأول في ثلاثينيات القرن العشرين، وأسهم المعماري الإيطالي ماريو روسي في وضع تصميمه. تتبع واجهاته الحجرية الفاتحة وقبابه المنقوشة بدقة ومئذنته الرشيقة طرازًا مملوكيًا مستحدثًا، ويتوسط المسجد ساحة فسيحة يتقاسمها مع ضريحي البوصيري وياقوت العرشي. وفي الداخل ترتفع قاعة الصلاة عالية فوق أعمدة من الجرانيت، تحت أسقف تزينها الزخارف النباتية والكتابات والفسيفساء. ولا يزال المسجد مقصدًا حيًا للصلاة والزيارة، ويبلغ ذروة ازدحامه في مولد الشيخ كل يوليو، ويقع على مسافة قصيرة سيرًا من قلعة قايتباي على الميناء الشرقي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Domes and minaret",
+    "ar": "القباب والمئذنة"
+   },
+   "desc": {
+    "en": "Carved stone domes and a tall, slender minaret in neo-Mamluk style.",
+    "ar": "قباب حجرية منقوشة ومئذنة عالية رشيقة على الطراز المملوكي المستحدث."
+   }
+  },
+  {
+   "title": {
+    "en": "Prayer hall",
+    "ar": "قاعة الصلاة"
+   },
+   "desc": {
+    "en": "A lofty interior on granite columns, with arabesque ceilings and mosaic.",
+    "ar": "فضاء داخلي شاهق تحمله أعمدة الجرانيت، بأسقف مزخرفة وفسيفساء."
+   }
+  },
+  {
+   "title": {
+    "en": "Shrine of the saint",
+    "ar": "ضريح الشيخ"
+   },
+   "desc": {
+    "en": "The tomb of Abu al-Abbas al-Mursi, still a focus of daily devotion.",
+    "ar": "قبر أبي العباس المرسي، ولا يزال مقصدًا يوميًا للزائرين والمحبين."
+   }
+  },
+  {
+   "title": {
+    "en": "Mosques Square",
+    "ar": "ميدان المساجد"
+   },
+   "desc": {
+    "en": "A wide square shared with the shrine mosques of al-Busiri and Yaqut al-Arshi.",
+    "ar": "ساحة واسعة يتقاسمها المسجد مع مسجدي البوصيري وياقوت العرشي."
+   }
+  },
+  {
+   "title": {
+    "en": "Summer mawlid",
+    "ar": "المولد الصيفي"
+   },
+   "desc": {
+    "en": "The saint's annual festival each July fills the square with visitors.",
+    "ar": "يملأ مولد الشيخ السنوي في يوليو الساحة بالزوار."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 30,
+  "deepMinutes": 45,
+  "bestTime": {
+   "en": "A weekday morning between prayer times; combine with the Qaitbay Citadel nearby.",
+   "ar": "صباح أحد أيام الأسبوع بين أوقات الصلاة، مع ضم زيارة قلعة قايتباي القريبة."
+  },
+  "crowdNotes": {
+   "en": "A working mosque: dress modestly, women should cover their hair, remove shoes at the entrance and avoid Friday noon prayer. The square is crowded during the July mawlid.",
+   "ar": "مسجد تُقام فيه الصلوات: يُرجى ارتداء ملابس محتشمة وتغطية الشعر للنساء وخلع الأحذية عند المدخل، وتجنب وقت صلاة الجمعة. وتزدحم الساحة كثيرًا خلال المولد في يوليو."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Abu_al-Abbas_al-Mursi_Mosque03.JPG",
+   "author": "Share Bear",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abu_al-Abbas_al-Mursi_Mosque03.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/ABU_ABBAS_AL-MURSI_MOSQUE_IN_ALEXANDRIA%2C_EGYPT.jpg",
+   "author": "Jerrye & Roy Klotz, MD",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ABU_ABBAS_AL-MURSI_MOSQUE_IN_ALEXANDRIA,_EGYPT.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/El-Mursi_Abul_Abbas_Mosque_Interior.jpg",
+   "author": "Kaliper1",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:El-Mursi_Abul_Abbas_Mosque_Interior.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Abu_al-Abbas_al-Mursi_Mosque",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B3_%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%8A",
+  "osm": "way/32747541"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1323845",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (square redevelopment about 90% complete, completion end-2026)",
+   "url": "https://www.youm7.com/story/2026/9/18/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%8A%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AC%D8%AF-%D8%A8%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9-90/7547494",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "visit.crowdNotes (July mawlid, square works)",
+   "url": "https://www.youm7.com/story/2026/7/4/%D8%A7%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%88%D9%84%D8%AF-%D8%AD%D8%A8%D9%8A%D8%A8-%D8%A7%D9%84%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%8A-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B3-%D9%8A%D8%AC%D9%85%D8%B9-%D8%A3%D8%AD%D8%A8%D8%A7%D8%A1%D9%87-%D9%81%D9%89/7469608",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Abu_al-Abbas_al-Mursi_Mosque",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Mosque run by the Ministry of Awqaf; no official visiting hours or ticket found, so hours are omitted and prices.status is 'unconfirmed' (same treatment as Ibn Tulun, D9). Recheck the square redevelopment in early 2027."
+}

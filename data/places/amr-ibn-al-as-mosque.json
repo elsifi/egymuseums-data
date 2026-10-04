@@ -1,0 +1,220 @@
+{
+ "id": "amr-ibn-al-as-mosque",
+ "kind": "site",
+ "wikidataId": "Q683511",
+ "name": {
+  "en": "Mosque of Amr ibn al-As",
+  "ar": "جامع عمرو بن العاص"
+ },
+ "aliases": [
+  "مسجد عمرو بن العاص",
+  "جامع عمرو بالفسطاط",
+  "جامع عمرو بن العاص بالقاهرة",
+  "Amr Ibn Al-Aas Mosque (Cairo)"
+ ],
+ "category": "islamic",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Fustat, Old Cairo",
+  "ar": "الفسطاط، مصر القديمة"
+ },
+ "address": {
+  "en": "Hassan al-Anwar Street, Old Cairo (Misr al-Qadima), Cairo — a short walk north of Mar Girgis metro station",
+  "ar": "شارع حسن الأنور، مصر القديمة، القاهرة — على مسافة قصيرة شمال محطة مترو مار جرجس"
+ },
+ "lat": 30.010139,
+ "lng": 31.233161,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily; an active mosque, with visiting hours for tourists between prayers.",
+  "ar": "مفتوح يوميًا، وهو مسجد عامر بالمصلين تُتاح زيارته السياحية بين أوقات الصلاة."
+ },
+ "summary": {
+  "en": "The first mosque built in Egypt and Africa, founded in 641–642 at the heart of Fustat and rebuilt many times since.",
+  "ar": "أول مسجد بُني في مصر وإفريقيا، أُسس عامي 641 و642م في قلب الفسطاط وأُعيد بناؤه مرات عديدة."
+ },
+ "description": {
+  "en": "When the Arab commander Amr ibn al-As founded Fustat, Egypt's first Islamic capital, its first building was a congregational mosque raised in 641–642 on the spot where, tradition says, his tent had stood. That first mosque was a modest rectangle of mud brick with palm-trunk columns, no courtyard and no minaret. Over the following centuries governors and caliphs enlarged it again and again, until it became one of the largest mosques of the Islamic world, known as the Crown of Mosques and the Old Mosque. It was also a great centre of learning; Imam al-Shafi'i taught here in the early ninth century. Fire, decay and repeated reconstruction mean that almost nothing of the original survives. The Mamluk emir Murad Bey rebuilt much of it in the 1790s, probably adding the present minarets, and further rebuilding followed in the nineteenth and twentieth centuries. The mosque today is a vast open courtyard with a central ablution fountain, surrounded by arcades on hundreds of columns, many of them reused from older buildings, with the deepest hall on the qibla side. It remains a busy congregational mosque, especially during Ramadan.",
+  "ar": "حين أسس القائد العربي عمرو بن العاص مدينة الفسطاط، أولى العواصم الإسلامية في مصر، كان أول ما شُيّد فيها مسجد جامع أُقيم عامي 641 و642م في الموضع الذي تقول الرواية إن خيمته كانت قائمة فيه. وكان ذلك المسجد الأول بناءً مستطيلًا متواضعًا من الطوب اللبن تحمله جذوع النخل، بلا صحن ولا مئذنة. وعلى مدى القرون التالية وسّعه الولاة والخلفاء مرة بعد أخرى حتى صار من أكبر مساجد العالم الإسلامي، وعُرف بتاج الجوامع والجامع العتيق. وكان كذلك مركزًا كبيرًا للعلم، فقد درّس فيه الإمام الشافعي مطلع القرن التاسع الميلادي. وبسبب الحرائق والتهدم وإعادة البناء المتكررة لم يبق من البناء الأصلي شيء يُذكر. فقد أعاد الأمير المملوكي مراد بك بناء جزء كبير منه في تسعينيات القرن الثامن عشر، ويُرجح أنه أضاف المئذنتين الحاليتين، ثم توالت أعمال التجديد في القرنين التاسع عشر والعشرين. والمسجد اليوم صحن واسع مكشوف تتوسطه فوارة للوضوء، تحيط به أروقة تحملها مئات الأعمدة، كثير منها منقول من مبانٍ أقدم، وأعمقها رواق القبلة. ولا يزال جامعًا عامرًا بالمصلين، خاصة في شهر رمضان."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Great courtyard",
+    "ar": "الصحن الكبير"
+   },
+   "desc": {
+    "en": "A vast open court with a domed ablution fountain at its centre.",
+    "ar": "صحن واسع مكشوف تتوسطه فوارة للوضوء تعلوها قبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Qibla sanctuary",
+    "ar": "رواق القبلة"
+   },
+   "desc": {
+    "en": "The deepest prayer hall, a forest of marble columns reused from earlier buildings.",
+    "ar": "أعمق أروقة الصلاة، غابة من الأعمدة الرخامية المنقولة من مبانٍ أقدم."
+   }
+  },
+  {
+   "title": {
+    "en": "Minarets",
+    "ar": "المئذنتان"
+   },
+   "desc": {
+    "en": "Two minarets, one beside the main entrance and one at the end of the qibla wall.",
+    "ar": "مئذنتان، إحداهما بجوار المدخل الرئيسي والأخرى عند طرف جدار القبلة."
+   }
+  },
+  {
+   "title": {
+    "en": "Monumental entrance",
+    "ar": "المدخل التذكاري"
+   },
+   "desc": {
+    "en": "The projecting main portal on the western side.",
+    "ar": "المدخل الرئيسي البارز في الجهة الغربية."
+   }
+  },
+  {
+   "title": {
+    "en": "Birthplace of Fustat",
+    "ar": "نواة الفسطاط"
+   },
+   "desc": {
+    "en": "The spot where Egypt's first Islamic capital began, next to the ruins of old Fustat.",
+    "ar": "الموضع الذي بدأت منه أول عاصمة إسلامية في مصر، بجوار أطلال الفسطاط القديمة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Weekday mornings, combined with Coptic Cairo a short walk away.",
+   "ar": "صباح أيام الأسبوع، مع الجمع بين الزيارة ومنطقة القاهرة القبطية القريبة."
+  },
+  "crowdNotes": {
+   "en": "An active mosque: dress modestly, remove shoes and avoid prayer times, especially Friday noon. It draws enormous crowds on Ramadan nights, above all the 27th night and the last Friday of the month.",
+   "ar": "مسجد عامر بالمصلين، لذا يُرجى الاحتشام وخلع الأحذية وتجنّب أوقات الصلاة، خاصة ظهر الجمعة. ويشهد زحامًا هائلًا في ليالي رمضان، ولا سيما ليلة السابع والعشرين والجمعة الأخيرة من الشهر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mosque_Amr_ibn_Al-As_Entrance.jpg",
+   "author": "Buyoof",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosque_Amr_ibn_Al-As_Entrance.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Galerij_van_de_Amr_ibn_al-As_moskee%2C_Ca%C3%AFro_Cairo._Moschee_Amrou%2C_die_Kolonnade_%28titel_op_object%29%2C_RP-F-F12916.jpg",
+   "author": "Rijksmuseum (anonymous 19th-century photographer)",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galerij_van_de_Amr_ibn_al-As_moskee,_Ca%C3%AFro_Cairo._Moschee_Amrou,_die_Kolonnade_(titel_op_object),_RP-F-F12916.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/the-mosque-of-amr-ibn-al-as/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%B9%D9%85%D8%B1%D9%88_%D8%A8%D9%86_%D8%A7%D9%84%D8%B9%D8%A7%D8%B5",
+  "osm": "relation/1399806"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q683511",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-mosque-of-amr-ibn-al-as/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-mosque-of-amr-ibn-al-as/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (incl. Ramadan),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مسجد-عمرو-بن-العاص/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Price not confirmed: the mosque is free to worshippers, but no official source states whether a tourist ticket applies (seed enumeration cites the Nov 2024 MoTA list); prices.status unconfirmed. Visiting hours are MoTA's tourist hours; the mosque itself opens for all prayers. Fustat plaza redevelopment around the mosque reported complete (alkhaleej.ae, Jan 2025), not used in user text. Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
+}

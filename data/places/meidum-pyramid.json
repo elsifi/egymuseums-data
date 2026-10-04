@@ -1,0 +1,322 @@
+{
+ "id": "meidum-pyramid",
+ "kind": "site",
+ "wikidataId": "Q13444093",
+ "name": {
+  "en": "Meidum Pyramid",
+  "ar": "هرم ميدوم"
+ },
+ "aliases": [
+  "Haram Maydūm",
+  "Pyramid of Sneferu",
+  "Pyramid of Snefru"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "beni-suef",
+ "city": {
+  "en": "El Wasta",
+  "ar": "الواسطى"
+ },
+ "area": {
+  "en": "Meidum",
+  "ar": "ميدوم"
+ },
+ "address": {
+  "en": "Meidum village, El Wasta, Beni Suef Governorate (about 100 km south of Cairo)",
+  "ar": "قرية ميدوم، مركز الواسطى، محافظة بني سويف (نحو 100 كم جنوب القاهرة)"
+ },
+ "lat": 29.388333,
+ "lng": 31.156944,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "Sneferu's tower-like pyramid rising from its own rubble, a key step between the Step Pyramid and the true pyramids.",
+  "ar": "هرم سنفرو الشبيه بالبرج يرتفع وسط ركامه، وهو خطوة حاسمة بين الهرم المدرج والأهرامات الكاملة."
+ },
+ "description": {
+  "en": "Standing alone at the edge of the desert near El Wasta, the pyramid of Meidum looks less like a pyramid than a stepped tower emerging from a vast mound of debris. It is now generally attributed to Sneferu, first king of the Fourth Dynasty, whose name appears in texts at the site, although earlier scholars credited his predecessor Huni. Building began as a seven-step pyramid, was enlarged to eight steps, and was finally converted into a smooth-sided true pyramid about 92 metres high, after Sneferu had already built his Bent and Red Pyramids at Dahshur. Over the centuries its outer casing was stripped and eroded, leaving the core exposed; study of the debris shows that the damage was gradual rather than a sudden collapse. The entrance, high on the north face, leads down a long sloping passage to a burial chamber roofed with corbelled stone, the earliest known use of this technique in a pyramid. A small mortuary temple stands against the east face, and the surrounding cemetery of officials produced masterpieces such as the statues of Rahotep and Nofret and the painted Meidum geese, both now in the Egyptian Museum in Cairo.",
+  "ar": "يقف هرم ميدوم منفردًا على حافة الصحراء قرب الواسطى، ويبدو أقرب إلى برج مدرج يبرز من كومة هائلة من الركام منه إلى هرم. ويُنسب اليوم في الغالب إلى سنفرو، أول ملوك الأسرة الرابعة، إذ ورد اسمه في نصوص بالموقع، وإن كان الباحثون قديمًا ينسبونه إلى سلفه حوني. بدأ بناؤه هرمًا مدرجًا من سبع درجات، ثم وُسع إلى ثماني درجات، وأخيرًا حُول إلى هرم كامل أملس الجوانب يبلغ ارتفاعه نحو 92 مترًا، بعد أن كان سنفرو قد شيد هرميه المنحني والأحمر في دهشور. وعلى مر القرون نُزع كساؤه الخارجي وتآكل، فانكشف لبه، وتبين دراسة الركام أن التلف حدث تدريجيًا لا في انهيار مفاجئ. ويقع المدخل عاليًا في الواجهة الشمالية، ويؤدي ممر هابط طويل إلى حجرة دفن سقفها مصمم بالأحجار المتداخلة، وهو أقدم استخدام معروف لهذه التقنية في هرم. ويلاصق الواجهة الشرقية معبد جنائزي صغير، كما خرجت من جبانة كبار الموظفين المحيطة روائع مثل تمثالي رع حتب ونفرت ولوحة أوز ميدوم الملونة، وكلاهما محفوظ اليوم في المتحف المصري بالقاهرة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "The pyramid core",
+    "ar": "لب الهرم"
+   },
+   "desc": {
+    "en": "A three-stepped tower of masonry rising from a skirt of debris.",
+    "ar": "برج من البناء بثلاث درجات يعلو تلًا من الركام."
+   }
+  },
+  {
+   "title": {
+    "en": "Corbelled burial chamber",
+    "ar": "حجرة الدفن ذات السقف المتداخل"
+   },
+   "desc": {
+    "en": "The earliest known corbelled roof inside a pyramid.",
+    "ar": "أقدم سقف معروف بالأحجار المتداخلة داخل هرم."
+   }
+  },
+  {
+   "title": {
+    "en": "Descending passage",
+    "ar": "الممر الهابط"
+   },
+   "desc": {
+    "en": "A long, low corridor from the high north entrance into the bedrock.",
+    "ar": "دهليز طويل منخفض يهبط من المدخل الشمالي المرتفع إلى الصخر."
+   }
+  },
+  {
+   "title": {
+    "en": "Mortuary temple",
+    "ar": "المعبد الجنائزي"
+   },
+   "desc": {
+    "en": "A small offering temple against the pyramid's east face.",
+    "ar": "معبد صغير للقرابين ملاصق للواجهة الشرقية للهرم."
+   }
+  },
+  {
+   "title": {
+    "en": "Cemetery of officials",
+    "ar": "جبانة كبار الموظفين"
+   },
+   "desc": {
+    "en": "Mastabas that yielded Rahotep and Nofret and the Meidum geese, now in Cairo.",
+    "ar": "مصاطب خرج منها تمثالا رع حتب ونفرت ولوحة أوز ميدوم، المعروضة اليوم في القاهرة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/ThePyramidsofMeidum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning, as a day trip from Cairo or combined with Faiyum.",
+   "ar": "الصباح، في رحلة يوم من القاهرة أو مع زيارة الفيوم."
+  },
+  "crowdNotes": {
+   "en": "Usually very quiet. Reaching the interior means climbing to the entrance, then a long, steep and low passage with a ladder; ask at the ticket office whether the interior is open.",
+   "ar": "هادئ جدًا عادة. يتطلب دخول الهرم الصعود إلى المدخل ثم السير في ممر طويل شديد الانحدار ومنخفض مع سلم معدني، لذا يُستحسن السؤال عند شباك التذاكر عن إتاحة الدخول."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Meidoum03.jpg",
+   "author": "Kurohito",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meidoum03.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Meidum_Pyramid_2.jpg",
+   "author": "Zezinho68",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meidum_Pyramid_2.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/MeidumNorthSide.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MeidumNorthSide.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/the-pyramid-of-meidum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Meidum_Pyramid",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%87%D8%B1%D9%85_%D9%85%D9%8A%D8%AF%D9%88%D9%85",
+  "osm": "way/89034641"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q13444093",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-pyramid-of-meidum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description,highlights",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-pyramid-of-meidum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry, Ramadan),prices,freeGroups,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/ThePyramidsofMeidum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan closing),address,highlights (Meidum geese in Tahrir)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%87%D8%B1%D9%85-%D9%85%D9%8A%D8%AF%D9%88%D9%85/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Meidum_Pyramid",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Portal, MoTA guide and booking page agree. Whether the pyramid interior is currently open to visitors is not stated by any official page. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

@@ -1,0 +1,318 @@
+{
+ "id": "agricultural-museum",
+ "kind": "museum",
+ "wikidataId": "Q2420309",
+ "name": {
+  "en": "Agricultural Museum",
+  "ar": "المتحف الزراعي المصري"
+ },
+ "aliases": [
+  "Agriculture Museum of Ancient Egypt",
+  "متحف الزراعة المصرية القديمة",
+  "Museum of Heritage Collections",
+  "متحف المقتنيات التراثية",
+  "قصر الأميرة فاطمة إسماعيل",
+  "Palace of Princess Fatma Ismail",
+  "Museum of the Chinese Egyptian Friendship",
+  "متحف الصداقة المصرية الصينية",
+  "Cotton Museum",
+  "متحف القطن",
+  "Museum of Scientific Collections",
+  "متحف المجموعات العلمية"
+ ],
+ "category": "specialised",
+ "operator": "agriculture",
+ "governorate": "giza",
+ "city": {
+  "en": "Giza",
+  "ar": "الجيزة"
+ },
+ "area": {
+  "en": "Dokki",
+  "ar": "الدقي"
+ },
+ "address": {
+  "en": "Dokki, Giza — beside the Ministry of Agriculture",
+  "ar": "الدقي، الجيزة — بجوار وزارة الزراعة"
+ },
+ "lat": 30.046667,
+ "lng": 31.208889,
+ "status": "open",
+ "statusNote": {
+  "en": "Reopened after a long development programme (trial opening from August 2025). The museum halls close at 15:00, while the gardens and flower exhibitions stay open into the evening.",
+  "ar": "أعيد افتتاحه بعد برنامج تطوير طويل (تشغيل تجريبي منذ أغسطس 2025). وتغلق قاعات المتحف في الثالثة عصرًا، بينما تظل الحدائق ومعارض الزهور مفتوحة حتى المساء."
+ },
+ "summary": {
+  "en": "One of the world's oldest agricultural museums, set in a former palace and gardens in Dokki, with halls on farming from the pharaohs to the cotton era.",
+  "ar": "من أقدم المتاحف الزراعية في العالم، يشغل قصرًا وحدائق في الدقي، وتروي قاعاته قصة الزراعة المصرية من عصر الفراعنة إلى عصر القطن."
+ },
+ "description": {
+  "en": "The Agricultural Museum grew out of the palace of Princess Fatma, daughter of Khedive Ismail, which was remodelled from 1930 with advice from the director of Hungary's agricultural museum and opened to the public in 1938. It was among the very first museums of its kind anywhere. Rather than a single building, it is a campus of several museums set in large gardens with old trees, greenhouses and lawns. The Museum of Ancient Egyptian Agriculture shows how farmers of the pharaonic age ploughed, harvested and stored grain, with tools, seeds and offerings. Other halls cover scientific collections and dioramas of village life, the plant wealth of Egypt, a Greco-Roman, Coptic and Islamic section, a Syrian hall, an Egyptian–Chinese friendship hall and a heritage collection. The Cotton Museum tells the story of the crop that shaped Egypt's modern economy, from seed varieties to gins and looms. After years of closure for development, the museum reopened on a trial basis in August 2025, and its grounds now host popular flower exhibitions.",
+  "ar": "نشأ المتحف الزراعي في قصر الأميرة فاطمة ابنة الخديوي إسماعيل، الذي أعيد تأهيله منذ عام 1930 بمشورة مدير المتحف الزراعي المجري، وافتُتح للجمهور عام 1938. وكان من أوائل المتاحف من نوعه في العالم. ولا يقتصر على مبنى واحد، بل هو مجمع من عدة متاحف تحيط بها حدائق واسعة تضم أشجارًا معمرة وصوبًا زراعية ومسطحات خضراء. ويعرض متحف الزراعة المصرية القديمة كيف كان الفلاح في العصر الفرعوني يحرث ويحصد ويخزن الحبوب، من خلال الأدوات والبذور والقرابين. وتتناول قاعات أخرى المجموعات العلمية ومجسمات الحياة الريفية، والثروة النباتية في مصر، إلى جانب قسم للعصور اليونانية الرومانية والقبطية والإسلامية، وقاعة سورية، وقاعة للصداقة المصرية الصينية، ومجموعة للمقتنيات التراثية. أما متحف القطن فيروي قصة المحصول الذي شكّل اقتصاد مصر الحديث، من أصناف البذور إلى المحالج والأنوال. وبعد سنوات من الإغلاق للتطوير، أعيد فتح المتحف تجريبيًا في أغسطس 2025، وصارت حدائقه تستضيف معارض زهور تلقى إقبالًا كبيرًا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Museum of Ancient Egyptian Agriculture",
+    "ar": "متحف الزراعة المصرية القديمة"
+   },
+   "desc": {
+    "en": "Pharaonic farming tools, seeds and offerings showing the agricultural year.",
+    "ar": "أدوات زراعية وبذور وقرابين من العصر الفرعوني تشرح دورة العام الزراعي."
+   }
+  },
+  {
+   "title": {
+    "en": "Cotton Museum",
+    "ar": "متحف القطن"
+   },
+   "desc": {
+    "en": "The history of Egyptian cotton, with varieties, gins and looms.",
+    "ar": "تاريخ القطن المصري بأصنافه ومحالجه وأنواله."
+   }
+  },
+  {
+   "title": {
+    "en": "Scientific collections",
+    "ar": "المجموعات العلمية"
+   },
+   "desc": {
+    "en": "Models and dioramas of rural life, crops and livestock.",
+    "ar": "نماذج ومجسمات للحياة الريفية والمحاصيل والثروة الحيوانية."
+   }
+  },
+  {
+   "title": {
+    "en": "Heritage collections",
+    "ar": "المقتنيات التراثية"
+   },
+   "desc": {
+    "en": "Objects from several periods displayed in the former palace.",
+    "ar": "قطع من عصور مختلفة معروضة في القصر القديم."
+   }
+  },
+  {
+   "title": {
+    "en": "Gardens and greenhouses",
+    "ar": "الحدائق والصوب"
+   },
+   "desc": {
+    "en": "Historic gardens with mature trees that host seasonal flower shows.",
+    "ar": "حدائق تاريخية بأشجار معمرة تستضيف معارض الزهور الموسمية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Parking",
+     "ar": "انتظار السيارات"
+    },
+    "amount": 25
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 120,
+  "deepMinutes": 180,
+  "bestTime": {
+   "en": "Weekday mornings, since the museum halls close at 15:00; stay on in the gardens afterwards.",
+   "ar": "صباح أيام الأسبوع لأن قاعات المتحف تغلق في الثالثة عصرًا، ثم يمكن البقاء في الحدائق بعد ذلك."
+  },
+  "crowdNotes": {
+   "en": "Very busy with families during flower exhibitions and on holidays; the halls are spread across several buildings, so expect some walking.",
+   "ar": "يزدحم بالعائلات خلال معارض الزهور وفي العطلات، والقاعات موزعة على عدة مبانٍ، فاستعد لبعض المشي."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Egyptian_Agricultural_Museum_%2831949%29.jpg",
+   "author": "Amr F.Nagy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egyptian_Agricultural_Museum_(31949).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Egyptian_Agricultural_Museum_%2823357%29.jpg",
+   "author": "Amr F.Nagy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egyptian_Agricultural_Museum_(23357).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Cotton_Museum%2C_Egypt_%2814725%29.jpg",
+   "author": "Amr F.Nagy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cotton_Museum,_Egypt_(14725).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Agricultural_Museum,_Egypt",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A",
+  "osm": "way/28829955"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2420309",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q22689512",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q136054979",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q136295517",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q136304780",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q136333389",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q136335162",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q141085359",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (trial opening from 16 Aug 2025, Ministry of Agriculture)",
+   "url": "https://www.youm7.com/story/2025/8/10/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%89-%D9%84%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%89-%D9%85%D8%AC%D8%A7%D9%86%D8%A7-%D9%84%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1/7084075",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (EGP 20 per visitor incl. museum halls),hours (halls until 15:00), Oct 2026",
+   "url": "https://www.vetogate.com/5742225",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (Oct 2026)",
+   "url": "https://www.dostor.org/5724084",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (grounds 09:00-21:00 daily, Jul 2026)",
+   "url": "https://www.youm7.com/story/2026/7/11/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%89-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8%D9%87-%D9%85%D9%86-9-%D8%B5%D8%A8%D8%A7%D8%AD%D8%A7-%D8%AD%D8%AA%D9%89/7475019",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices.extras (parking EGP 25, Apr 2026)",
+   "url": "https://www.youm7.com/story/2026/4/16/%D9%82%D8%A8%D9%84-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%83-%D9%84%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%B3%D8%B9%D8%B1-%D8%AA%D8%B0%D9%83%D8%B1%D8%A9-%D9%85%D8%B9%D8%B1%D8%B6-%D8%B2%D9%87%D9%88%D8%B1/7379228",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (halls open since the trial opening)",
+   "url": "https://greenfue.com/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (no official inauguration date yet, Sept 2025)",
+   "url": "https://www.dostor.org/5202735",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Agricultural_Museum,_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Egyptian_Agricultural_Museum_(31949).jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Egyptian_Agricultural_Museum_(23357).jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Cotton_Museum,_Egypt_(14725).jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "low",
+ "curationNote": "Ministry of Agriculture, not SCA. Price: EGP 20 'per visitor' set by the Ministry for the Flowers of Egypt exhibition, explicitly including the museum halls (vetogate/dostor, 1 Oct 2026) - recorded as the Egyptian adult tier only; the foreign price conflicts (EGP 150 in 2025 pages vs 'USD 3' quoted by an assistant minister, dostor Sept 2025), so no foreign tier. Recheck once the exhibition ends. Hours: halls until 15:00 (Oct 2026); opening time 09:00 taken from the grounds' hours; no closed day confirmed (an aggregator says Friday) - all days listed. Address is general; Wikidata P856 (agrimuseum.gov.eg) and phones not verified, so no contacts. Photos: 1930s museum buildings, an ancient stone figure and a cotton-gin display; modern garden sculptures not used. Licence for Amr F.Nagy files: file pages carry {{self|cc-by-sa-4.0}} although extmetadata shows 'Public domain'."
+}

@@ -1,0 +1,238 @@
+{
+ "id": "abdeen-palace-museum",
+ "kind": "museum",
+ "wikidataId": "Q113163254",
+ "name": {
+  "en": "Abdeen Palace Museum",
+  "ar": "متحف قصر عابدين"
+ },
+ "aliases": [
+  "متاحف قصر عابدين",
+  "Abdeen Palace",
+  "قصر عابدين",
+  "Palais Abidine"
+ ],
+ "category": "royal-palace",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Abdeen, Downtown",
+  "ar": "عابدين، وسط البلد"
+ },
+ "address": {
+  "en": "Al-Gomhuriya Square, Abdeen, Downtown Cairo",
+  "ar": "ميدان الجمهورية، عابدين، وسط القاهرة"
+ },
+ "lat": 30.0417,
+ "lng": 31.2483,
+ "status": "open",
+ "statusNote": {
+  "en": "Open Saturday to Thursday; closed on Fridays. Abdeen remains a presidential palace, so only the museum wing is open and security checks apply.",
+  "ar": "مفتوح من السبت إلى الخميس ومغلق يوم الجمعة. ولا يزال عابدين قصرًا رئاسيًا، فلا يُتاح إلا جناح المتاحف مع إجراءات تفتيش أمنية."
+ },
+ "summary": {
+  "en": "Khedive Ismail's palace in central Cairo, where museums of arms, silver, royal heirlooms and presidential gifts fill the ground floor.",
+  "ar": "قصر الخديوي إسماعيل في قلب القاهرة، يضم طابقه الأرضي متاحف للأسلحة والفضيات ومقتنيات الأسرة المالكة وهدايا الرؤساء."
+ },
+ "description": {
+  "en": "Abdeen Palace was commissioned by Khedive Ismail as the new seat of government, moving the centre of power from the medieval Citadel to the modern quarter he was laying out. Begun in 1863 on the site of a mansion that had belonged to Abdeen Bey, it was designed by the French architect Léon Rousseau and decorated by European and Egyptian craftsmen, with lavish salons, gilded ceilings and hundreds of rooms. Inaugurated in 1874, it was the main royal residence until the 1952 revolution, after which it became one of the presidential palaces. In February 1942 its forecourt was the scene of the famous incident in which British tanks surrounded the palace to force King Farouk to appoint a new government. Part of the complex now operates as a group of museums: an arms museum with swords, firearms and ceremonial weapons from many countries, a silver museum of royal tableware and trophies, a museum of gifts presented to Egypt's presidents, a royal family museum, and a historical documents museum opened in 2005. The palace gardens, laid out in the 1920s, frame the visit.",
+  "ar": "أمر الخديوي إسماعيل ببناء قصر عابدين ليكون مقرًا جديدًا للحكم، فانتقل مركز السلطة من القلعة إلى الحي الحديث الذي كان يخطط له. بدأ البناء عام 1863 على أرض قصر كان مملوكًا لعابدين بك، ووضع تصميمه المعماري الفرنسي ليون روسو، وتولى زخرفته حرفيون أوروبيون ومصريون، فجاء بصالونات فاخرة وأسقف مذهبة ومئات الغرف. افتُتح عام 1874، وظل المقر الملكي الرئيسي حتى ثورة 1952، ثم صار أحد القصور الرئاسية. وفي فبراير 1942 شهد فناؤه الحادثة الشهيرة حين حاصرت الدبابات البريطانية القصر لإجبار الملك فاروق على تكليف حكومة جديدة. ويضم جزء من المجمع اليوم مجموعة من المتاحف: متحف للأسلحة يعرض سيوفًا وأسلحة نارية وأسلحة تشريفية من دول عديدة، ومتحف للفضيات يضم أدوات المائدة الملكية والكؤوس، ومتحف للهدايا التي تلقاها رؤساء مصر، ومتحف للأسرة المالكة، ومتحف للوثائق التاريخية افتُتح عام 2005. وتحيط بالزيارة حدائق القصر التي أُنشئت في العشرينيات."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Arms Museum",
+    "ar": "متحف الأسلحة"
+   },
+   "desc": {
+    "en": "Swords, firearms and ceremonial weapons from Egypt and abroad.",
+    "ar": "سيوف وأسلحة نارية وأسلحة تشريفية من مصر وخارجها."
+   }
+  },
+  {
+   "title": {
+    "en": "Silver Museum",
+    "ar": "متحف الفضيات"
+   },
+   "desc": {
+    "en": "Royal tableware, trophies and decorative silver.",
+    "ar": "أدوات المائدة الملكية والكؤوس والمشغولات الفضية."
+   }
+  },
+  {
+   "title": {
+    "en": "Presidential Gifts Museum",
+    "ar": "متحف هدايا الرؤساء"
+   },
+   "desc": {
+    "en": "Gifts presented to Egypt's presidents by foreign leaders.",
+    "ar": "هدايا قدمها قادة العالم لرؤساء مصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Royal Family Museum",
+    "ar": "متحف الأسرة المالكة"
+   },
+   "desc": {
+    "en": "Personal belongings and portraits of the Muhammad Ali dynasty.",
+    "ar": "مقتنيات شخصية وصور لأسرة محمد علي."
+   }
+  },
+  {
+   "title": {
+    "en": "Historical Documents Museum",
+    "ar": "متحف الوثائق التاريخية"
+   },
+   "desc": {
+    "en": "Decrees and documents of modern Egypt, opened in 2005.",
+    "ar": "مراسيم ووثائق من تاريخ مصر الحديث، افتُتح عام 2005."
+   }
+  },
+  {
+   "title": {
+    "en": "Palace gardens",
+    "ar": "حدائق القصر"
+   },
+   "desc": {
+    "en": "Gardens added in the 1920s around the museum wing.",
+    "ar": "حدائق أُضيفت في العشرينيات حول جناح المتاحف."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "A weekday morning; the museums close at 15:00.",
+   "ar": "صباح أحد أيام الأسبوع، إذ تغلق المتاحف في الثالثة عصرًا."
+  },
+  "crowdNotes": {
+   "en": "Expect an airport-style security check and bring ID. A separate photography ticket has been required in the past.",
+   "ar": "يُتوقع تفتيش أمني دقيق، ويُستحسن حمل إثبات الهوية. وقد طُلبت في السابق تذكرة منفصلة للتصوير."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Abdeen_Palace.jpg",
+   "author": "The original uploader was ThutmoseIII at English Wikipedia.",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abdeen_Palace.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Abdeen_Palace_Cairo_%2852891275732%29.jpg",
+   "author": "Gary Bembridge from London, UK",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abdeen_Palace_Cairo_(52891275732).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Abdeen_Palace_Cairo_%2852892014274%29.jpg",
+   "author": "Gary Bembridge from London, UK",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abdeen_Palace_Cairo_(52892014274).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Abdeen_Palace",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86",
+  "osm": "way/24942979"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q113163254",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q307747",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Sat-Thu 09:00-15:00, citing the Cairo Governorate portal; Apr 2026)",
+   "url": "https://www.elwatannews.com/news/details/8260093",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Dec 2022 announcement by the General Administration of Presidential Museums; not used, see curationNote)",
+   "url": "https://news.travelyalla.com/13034/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%88%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D9%82%D8%B5%D8%B1-%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D9%84%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%88%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D9%88%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Abdeen_Palace",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "low",
+ "curationNote": "Run by the Presidency's museums administration; no official page found. Hours from elwatannews (6 Apr 2026) citing the Cairo Governorate portal (09:00-15:00, closed Friday); a Dec 2022 announcement said open all week. Prices conflict and are old: Dec 2022 announcement = Egyptians/Arabs 20, students 10, foreigners 100, foreign students 50, plus mobile-photo 5/10; Apr 2026 article = 20 adults / 5 students (audience unclear). prices.status set to 'unconfirmed'. Confirm by phone (02 2391 6909, from the 2022 announcement)."
+}

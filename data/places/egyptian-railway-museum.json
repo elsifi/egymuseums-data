@@ -1,0 +1,260 @@
+{
+ "id": "egyptian-railway-museum",
+ "kind": "museum",
+ "wikidataId": "Q254086",
+ "name": {
+  "en": "Egyptian Railway Museum",
+  "ar": "متحف السكة الحديد"
+ },
+ "category": "specialised",
+ "operator": "transport",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Ramses Square, Misr Station",
+  "ar": "ميدان رمسيس، محطة مصر"
+ },
+ "address": {
+  "en": "Ramses (Misr) Railway Station, Ramses Square, Cairo — entrance beside the main station building",
+  "ar": "محطة مصر للسكك الحديدية، ميدان رمسيس، القاهرة — المدخل بجوار مبنى المحطة الرئيسي"
+ },
+ "lat": 30.063528,
+ "lng": 31.249067,
+ "status": "open",
+ "statusNote": {
+  "en": "Open in the mornings only. It is run by Egyptian National Railways, which occasionally opens it free of charge for anniversaries and Museum Day.",
+  "ar": "مفتوح في الفترة الصباحية فقط، وتديره الهيئة القومية لسكك حديد مصر التي تفتحه مجانًا أحيانًا في المناسبات ويوم المتاحف."
+ },
+ "summary": {
+  "en": "One of the world's oldest railway museums, opened in 1933 beside Cairo's main station, with Khedive Said's royal locomotive as its star.",
+  "ar": "من أقدم متاحف السكك الحديدية في العالم، افتُتح عام 1933 بجوار محطة القاهرة الرئيسية، ودرّته القاطرة الملكية للخديوي سعيد."
+ },
+ "description": {
+  "en": "Egypt built the first railway in Africa and the Middle East: the line from Alexandria toward Cairo opened in the 1850s, and in 2026 Egyptian National Railways marked 175 years since its founding. The railway museum opened on 15 January 1933 in a building attached to Cairo's main station at Ramses Square, making it one of the oldest museums of its kind anywhere. After a long period of decline it was renovated and reopened in March 2016. Its centrepiece is the royal locomotive built for Khedive Said, a richly finished engine with its own saloon, which visitors can enter for a small extra fee. Nearby stands a full-size steam locomotive cut in half to reveal its boiler, firebox and moving parts. Around them are some seven hundred scale models tracing the evolution of Egyptian locomotives and rolling stock from early steam to diesel, along with stations, bridges and workshops, manual signalling equipment, tickets, maps and historic documents. A library holds rare books and bound volumes on the history of railways in Egypt and abroad. The museum is especially popular with families and school groups and makes a short, unusual stop for anyone passing through Ramses Station.",
+  "ar": "أنشأت مصر أول خط للسكك الحديدية في إفريقيا والشرق الأوسط، إذ افتُتح الخط من الإسكندرية باتجاه القاهرة في خمسينيات القرن التاسع عشر، واحتفلت الهيئة القومية لسكك حديد مصر عام 2026 بمرور 175 عامًا على تأسيسها. وقد افتُتح متحف السكة الحديد في 15 يناير 1933 في مبنى ملحق بمحطة القاهرة الرئيسية في ميدان رمسيس، فصار من أقدم المتاحف من نوعه في العالم. وبعد سنوات من التراجع جرى تطويره وإعادة افتتاحه في مارس 2016. ودرة معروضاته القاطرة الملكية التي صُنعت للخديوي سعيد، وهي قاطرة فاخرة التشطيب بصالون خاص، يمكن للزائر دخولها مقابل رسم إضافي بسيط. وإلى جوارها قاطرة بخارية بالحجم الطبيعي مقسومة إلى نصفين تكشف عن الغلاية وصندوق الاحتراق والأجزاء المتحركة. وتحيط بهما نحو سبعمئة من النماذج المصغرة تتتبع تطور القاطرات والعربات المصرية من البخار إلى الديزل، إلى جانب نماذج للمحطات والكباري والورش، ومعدات الإشارات اليدوية والتذاكر والخرائط والوثائق التاريخية. وتضم مكتبة المتحف كتبًا ومجلدات نادرة عن تاريخ السكك الحديدية في مصر والعالم. ويحظى المتحف بإقبال العائلات والرحلات المدرسية، ويمثل محطة قصيرة وطريفة لكل من يمر بمحطة رمسيس."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Khedive Said's royal locomotive",
+    "ar": "القاطرة الملكية للخديوي سعيد"
+   },
+   "desc": {
+    "en": "The museum's treasure, a luxurious nineteenth-century engine with a private saloon (entry for a small fee).",
+    "ar": "درة المتحف، قاطرة فاخرة من القرن التاسع عشر بصالون خاص (الدخول برسم بسيط)."
+   }
+  },
+  {
+   "title": {
+    "en": "Half-cut steam locomotive",
+    "ar": "القاطرة البخارية المقسومة"
+   },
+   "desc": {
+    "en": "A full-size engine sliced in two to show how a steam locomotive works.",
+    "ar": "قاطرة بالحجم الطبيعي مقسومة إلى نصفين تشرح طريقة عمل القاطرة البخارية."
+   }
+  },
+  {
+   "title": {
+    "en": "Model collection",
+    "ar": "مجموعة النماذج"
+   },
+   "desc": {
+    "en": "About 700 scale models of locomotives, carriages, stations and bridges.",
+    "ar": "نحو 700 نموذج مصغر للقاطرات والعربات والمحطات والكباري."
+   }
+  },
+  {
+   "title": {
+    "en": "Signalling and operations",
+    "ar": "الإشارات والتشغيل"
+   },
+   "desc": {
+    "en": "Historic manual signalling equipment and operating systems.",
+    "ar": "معدات الإشارات اليدوية وأنظمة التشغيل القديمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Historic library",
+    "ar": "المكتبة التاريخية"
+   },
+   "desc": {
+    "en": "Rare books, maps and documents on railway history.",
+    "ar": "كتب وخرائط ووثائق نادرة عن تاريخ السكك الحديدية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "13:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "13:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "13:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "13:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "13:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "13:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Egyptian student groups (per student, with an official letter)",
+     "ar": "مجموعات الطلاب المصريين (للطالب، بخطاب معتمد)"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "label": {
+     "en": "International school groups (per student)",
+     "ar": "مجموعات المدارس الدولية (للطالب)"
+    },
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Photography by camera or mobile phone",
+     "ar": "التصوير بالكاميرا أو الهاتف المحمول"
+    },
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "Entry to Khedive Said's locomotive, with photography",
+     "ar": "الدخول إلى قاطرة الخديوي سعيد والتصوير بها"
+    },
+    "amount": 20
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Arrive early: the museum closes at midday.",
+   "ar": "احرص على الحضور مبكرًا، فالمتحف يغلق أبوابه عند الظهيرة."
+  },
+  "crowdNotes": {
+   "en": "Ramses Square and the station are very busy; allow extra time to find the entrance.",
+   "ar": "ميدان رمسيس والمحطة شديدا الزحام، فخصص وقتًا إضافيًا للوصول إلى المدخل."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Egypt_St._001.jpg",
+   "author": "لا روسا",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egypt_St._001.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/An_old_steam_locomotive%3B_one_of_the_oldest_steam_locomotive_in_the_world_which_can_be_found_in_Cairo._The_Egyptian_Railways_is_the_second_oldest_railways_in_the_world_after_England._%287880905974%29.jpg",
+   "author": "Muhammad Mansour from Cairo, Egypt",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_old_steam_locomotive;_one_of_the_oldest_steam_locomotive_in_the_world_which_can_be_found_in_Cairo._The_Egyptian_Railways_is_the_second_oldest_railways_in_the_world_after_England._(7880905974).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B3%D9%83%D8%A9_%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF_(%D9%85%D8%B5%D8%B1)",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q254086",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,prices.extras,hours (ENR 2024 announcement)",
+   "url": "https://www.elwatannews.com/news/details/7323586",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (09:00-13:00)",
+   "url": "https://www.youm7.com/story/2024/5/12/x/6573239",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,description,highlights (175th anniversary free week, July 2026)",
+   "url": "https://www.youm7.com/story/2026/7/10/x/7477162",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (free entry on International Museum Day 2026)",
+   "url": "https://www.youm7.com/story/2026/5/17/x/7418885",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "low",
+ "curationNote": "Prices and hours are the Egyptian National Railways 2024 announcement as reported by elwatannews and youm7 (2024-05-12); no 2025-2026 change found. Hours conflict: elwatan 09:00-14:00 vs youm7 09:00-13:00 (same day) - earlier close 13:00 used; no last entry published. Friday closure only from cairo360 (Dec 2024, non-official) - Friday set closed as the cautious choice. No Ramadan hours found, so no Ramadan exception. Status: open in 2026 (free entry 18 May and 11-16 Jul 2026). Seed has no English Wikipedia link."
+}

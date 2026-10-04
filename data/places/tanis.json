@@ -1,0 +1,407 @@
+{
+ "id": "tanis",
+ "kind": "site",
+ "wikidataId": "Q210598",
+ "name": {
+  "en": "Tanis (San al-Hagar)",
+  "ar": "تانيس (صان الحجر)"
+ },
+ "aliases": [
+  "تانيس",
+  "صان الحجر البحرية، الشرقية",
+  "صان الحجر القبلية، الشرقية",
+  "Tanis",
+  "صان الحجر القبلية"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "sharqia",
+ "city": {
+  "en": "Husseiniya",
+  "ar": "مركز الحسينية"
+ },
+ "area": {
+  "en": "San el-Hagar al-Qibliya village",
+  "ar": "قرية صان الحجر القبلية"
+ },
+ "address": {
+  "en": "San el-Hagar al-Qibliya, Husseiniya district, Sharqia Governorate",
+  "ar": "صان الحجر القبلية، مركز الحسينية، محافظة الشرقية"
+ },
+ "lat": 30.976944,
+ "lng": 31.88,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The royal tombs are under protective shelters and still being studied; the gold treasures found in them are displayed at the Egyptian Museum in Tahrir.",
+  "ar": "مفتوحة يوميًا. المقابر الملكية تحت مظلات واقية ولا تزال قيد الدراسة، أما كنوزها الذهبية فمعروضة في المتحف المصري بالتحرير."
+ },
+ "summary": {
+  "en": "The Delta capital of the Twenty-first and Twenty-second Dynasties, strewn with fallen obelisks and colossi of Ramesses II and home to the only intact royal tombs found in Egypt besides Tutankhamun's.",
+  "ar": "عاصمة الأسرتين الحادية والعشرين والثانية والعشرين في الدلتا، تتناثر فيها المسلات الساقطة وتماثيل رمسيس الثاني الضخمة، وفيها المقابر الملكية الوحيدة التي وُجدت سليمة في مصر بعد مقبرة توت عنخ آمون."
+ },
+ "description": {
+  "en": "Known to the ancient Egyptians as Djanet and to the Greeks as Tanis, San el-Hagar, \"San of the stones\", served as the royal capital during the Twenty-first and Twenty-second Dynasties, around 1070–720 BC. Its kings built a vast temple to Amun and filled it with statues, obelisks and blocks brought from older cities, above all from Ramesses II's capital Pi-Ramesses, which is why his name appears everywhere on the site. Today the great enclosure is a landscape of toppled obelisks, column drums and colossal statues lying in the sand, some of which have been raised again in recent conservation work. Smaller sanctuaries, a sacred lake and the outlines of temples to Mut, Khonsu and Horus complete the picture. In 1939 the French archaeologist Pierre Montet discovered the royal necropolis inside the temple precinct: the tombs of Psusennes I, Osorkon II and others, several still intact, with silver coffins, gold masks and jewellery now among the treasures of the Egyptian Museum in Cairo. Excavation continues; in 2025 the French mission found hundreds of funerary figurines of Shoshenq III in Osorkon II's tomb.",
+  "ar": "عرفها المصريون القدماء باسم «جعنت» والإغريق باسم «تانيس»، وسُميت «صان الحجر» لكثرة أحجارها، وكانت العاصمة الملكية في عصري الأسرتين الحادية والعشرين والثانية والعشرين، نحو 1070–720 ق.م. وشيد ملوكها معبدًا ضخمًا لآمون ملأوه بالتماثيل والمسلات وكتل حجرية جُلبت من مدن أقدم، ولا سيما من بر رعمسيس عاصمة رمسيس الثاني، ولذلك يتردد اسمه في أرجاء الموقع. ويبدو السور الكبير اليوم مشهدًا من المسلات المطروحة وأبدان الأعمدة والتماثيل الضخمة الراقدة في الرمال، وقد أعيد رفع بعضها في أعمال ترميم حديثة. وتكتمل الصورة بمعابد أصغر وبحيرة مقدسة ومخططات معابد موت وخونسو وحورس. وفي عام 1939 كشف عالم الآثار الفرنسي بيير مونتيه عن الجبانة الملكية داخل حرم المعبد: مقابر بسوسنس الأول وأوسركون الثاني وغيرهما، وكان بعضها سليمًا، بتوابيت فضية وأقنعة ذهبية وحلي صارت من كنوز المتحف المصري بالقاهرة. ولا تزال الحفائر مستمرة؛ ففي عام 2025 عثرت البعثة الفرنسية على مئات من تماثيل الأوشابتي للملك شيشنق الثالث داخل مقبرة أوسركون الثاني."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Temple of Amun",
+    "ar": "معبد آمون"
+   },
+   "desc": {
+    "en": "A vast precinct of fallen obelisks, columns and statues.",
+    "ar": "حرم واسع من المسلات والأعمدة والتماثيل الساقطة."
+   }
+  },
+  {
+   "title": {
+    "en": "Colossi of Ramesses II",
+    "ar": "تماثيل رمسيس الثاني الضخمة"
+   },
+   "desc": {
+    "en": "Giant statues brought from Pi-Ramesses, some re-erected.",
+    "ar": "تماثيل هائلة جُلبت من بر رعمسيس، وأعيد رفع بعضها."
+   }
+  },
+  {
+   "title": {
+    "en": "Royal necropolis",
+    "ar": "الجبانة الملكية"
+   },
+   "desc": {
+    "en": "Stone-built tombs of Psusennes I, Osorkon II and other kings.",
+    "ar": "مقابر حجرية لبسوسنس الأول وأوسركون الثاني وملوك آخرين."
+   }
+  },
+  {
+   "title": {
+    "en": "Re-erected obelisks",
+    "ar": "المسلات المعاد رفعها"
+   },
+   "desc": {
+    "en": "Obelisks set upright again during recent conservation.",
+    "ar": "مسلات أعيدت إلى وضعها القائم خلال أعمال الترميم الحديثة."
+   }
+  },
+  {
+   "title": {
+    "en": "Sacred lake",
+    "ar": "البحيرة المقدسة"
+   },
+   "desc": {
+    "en": "The stone-lined basin of the temple's sacred lake.",
+    "ar": "حوض البحيرة المقدسة للمعبد المكسو بالحجر."
+   }
+  },
+  {
+   "title": {
+    "en": "Inscribed blocks",
+    "ar": "الكتل المنقوشة"
+   },
+   "desc": {
+    "en": "Reused blocks bearing cartouches of many earlier kings.",
+    "ar": "كتل معاد استخدامها تحمل خراطيش ملوك أقدم كثيرين."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   },
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Tanis%28Sanal-Hagar%29",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Morning or late afternoon; there is little shade on the mound.",
+   "ar": "الصباح أو آخر النهار، فالظل قليل في الموقع."
+  },
+  "crowdNotes": {
+   "en": "One of the least-visited major sites in Egypt, a long drive from Cairo through the eastern Delta. Facilities on site are basic, so bring water and sun protection.",
+   "ar": "من أقل المواقع الكبرى زيارةً في مصر، ويبعد مسافة طويلة بالسيارة عن القاهرة عبر شرق الدلتا. والخدمات في الموقع محدودة، فاحمل الماء ووسائل الوقاية من الشمس."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tanis_025.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tanis_025.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Unguarded_Treasures.jpg",
+   "author": "Mannycairo21",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unguarded_Treasures.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Tanis_016.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tanis_016.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Tanis",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B5%D8%A7%D9%86_%D8%A7%D9%84%D8%AD%D8%AC%D8%B1_%D8%A7%D9%84%D9%82%D8%A8%D9%84%D9%8A%D8%A9",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q210598",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (winter 09:00-17:00, summer 09:00-18:00, Ramadan 09:00-16:00, last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/منطقة-آثار-صان-الحجر/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (last entry: summer 17:00, winter 16:00, Ramadan 15:00),tickets,freeGroups",
+   "url": "https://egymonuments.com/details/Tanis%28Sanal-Hagar%29",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (Nov 2024 cross-check)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (re-erected obelisks and colossi, visitor centre 2022)",
+   "url": "https://www.youm7.com/story/2022/12/10/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%B1%D9%83%D8%B2-%D8%B2%D9%88%D8%A7%D8%B1-%D8%B5%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%AC%D8%B1-%D8%A8%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/6005892",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (French mission ongoing, news 5 Mar 2026)",
+   "url": "https://www.youm7.com/story/2026/3/5/%D9%85%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%A8%D8%B5%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%AC%D8%B1-%D8%AA%D8%A7%D9%86%D9%8A%D8%B3-%D9%84%D8%A7-%D8%AA%D8%B2%D8%A7%D9%84-%D8%AA%D9%82%D8%AF%D9%85-%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81%D8%A7%D8%AA/7328701",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Tanis",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Tanis_025.JPG",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Unguarded_Treasures.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Tanis_016.JPG",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Weekly = winter hours. Summer exception dated 2026-04-24 to 2026-10-29: no official SCA season definition; inferred from the daylight-saving period (Law 24/2023; DST 2026 ends at midnight Thu 29 Oct per youm7). All summer exceptions (Karnak and the Luxor West Bank included) were aligned to 2026-10-29 on 2026-10-04 (batch-7 Q7a). MoTA guide (09:00-17:00 winter, 09:00-18:00 summer, Ramadan 09:00-16:00) and booking-platform last entries agree. Tomb interior access not confirmed; visitor centre (opened Dec 2022) status in 2026 uncertain (a 2026 report says no visitor facilities), so it is not listed. Some Tanis treasures are on tour (Psusennes I collar at the de Young, San Francisco, Aug 2026-Jan 2027), so highlights only say 'Egyptian Museum' in general terms. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

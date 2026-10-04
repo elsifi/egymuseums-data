@@ -1,0 +1,291 @@
+{
+ "id": "al-bagawat",
+ "kind": "site",
+ "wikidataId": "Q12244492",
+ "name": {
+  "en": "Al-Bagawat Necropolis",
+  "ar": "البجوات"
+ },
+ "aliases": [
+  "مقابر البجوات",
+  "Gabbanat el-Bagawat"
+ ],
+ "category": "coptic",
+ "operator": "mota-sca",
+ "governorate": "new-valley",
+ "city": {
+  "en": "Kharga",
+  "ar": "الخارجة"
+ },
+ "area": {
+  "en": "North of Kharga town, near the Temple of Hibis",
+  "ar": "شمال مدينة الخارجة، بالقرب من معبد هيبس"
+ },
+ "address": {
+  "en": "Al-Bagawat, Kharga Oasis, New Valley Governorate",
+  "ar": "جبانة البجوات، الواحات الخارجة، محافظة الوادي الجديد"
+ },
+ "lat": 25.485769,
+ "lng": 30.554939,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. A desert cemetery of mud-brick chapels; the painted Chapel of the Exodus and Chapel of Peace are the main sights.",
+  "ar": "مفتوحة يوميًا. جبانة صحراوية من المزارات المبنية بالطوب اللبن، وأبرز ما فيها مزار الخروج ومزار السلام بنقوشهما الملونة."
+ },
+ "summary": {
+  "en": "One of the oldest Christian cemeteries in the world: a hillside town of domed mud-brick chapels, two of them painted with early biblical scenes.",
+  "ar": "من أقدم الجبانات المسيحية في العالم: بلدة من المزارات الطينية ذات القباب على سفح تل، اثنان منها مزينان بمناظر توراتية مبكرة."
+ },
+ "description": {
+  "en": "Just north of Kharga, on a low ridge at the edge of the desert, some 263 mud-brick funerary chapels cluster along sandy streets like a silent village. Al-Bagawat was in use from the third or fourth century AD until around the eleventh, which makes it one of the earliest Christian cemeteries anywhere. It grew over an older Egyptian burial ground, and its builders blended the two traditions: coffins and grave goods continued, and mummification survived here long after it had faded in the Nile Valley. The chapels range from single rooms to elaborate family mausoleums with domes, arcades and false façades. Two stand out for their paintings. In the Chapel of the Exodus, bands of figures around the dome show Moses leading the Israelites as Pharaoh's army follows, together with Noah's Ark, Daniel among the lions, Jonah and other Old Testament episodes. The Chapel of Peace has Greek-labelled figures and biblical scenes in a more classical style. Walls throughout carry centuries of graffiti in Greek, Coptic and Arabic, and even notes left by Ottoman soldiers garrisoned here.",
+  "ar": "إلى الشمال مباشرة من الخارجة، على تل منخفض عند حافة الصحراء، يتجمع نحو 263 مزارًا جنائزيًا من الطوب اللبن على امتداد طرقات رملية كأنها قرية صامتة. استُخدمت جبانة البجوات منذ القرن الثالث أو الرابع الميلادي حتى نحو القرن الحادي عشر، فهي من أقدم الجبانات المسيحية في العالم. وقد نشأت فوق جبانة مصرية أقدم، فمزج بناتها بين التقليدين؛ إذ استمر الدفن في التوابيت مع الأثاث الجنائزي، وبقي التحنيط هنا زمنًا طويلًا بعد أن تراجع في وادي النيل. وتتنوع المزارات بين حجرات مفردة ومقابر عائلية فخمة ذات قباب وعقود وواجهات زخرفية. ويتميز منها اثنان بالتصوير؛ ففي مزار الخروج تلتف حول القبة صفوف من الشخوص تصور موسى يقود بني إسرائيل وجيش فرعون في أثرهم، إلى جانب سفينة نوح ودانيال بين الأسود ويونان وقصص أخرى من العهد القديم. أما مزار السلام فيضم شخوصًا مكتوبة أسماؤها باليونانية ومناظر توراتية بأسلوب أقرب إلى الفن الكلاسيكي. وتحمل الجدران كتابات تذكارية متراكمة عبر القرون باليونانية والقبطية والعربية، بل وخطها جنود عثمانيون كانوا مرابطين هنا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Chapel of the Exodus",
+    "ar": "مزار الخروج"
+   },
+   "desc": {
+    "en": "Dome painted with Moses, Pharaoh's army and other Old Testament scenes.",
+    "ar": "قبة مصورة بموسى وجيش فرعون وقصص أخرى من العهد القديم."
+   }
+  },
+  {
+   "title": {
+    "en": "Chapel of Peace",
+    "ar": "مزار السلام"
+   },
+   "desc": {
+    "en": "Classical-style figures labelled in Greek, including biblical scenes.",
+    "ar": "شخوص بأسلوب كلاسيكي تحمل أسماء يونانية، ومعها مناظر من الكتاب المقدس."
+   }
+  },
+  {
+   "title": {
+    "en": "Streets of chapels",
+    "ar": "طرقات المزارات"
+   },
+   "desc": {
+    "en": "Hundreds of domed mud-brick tombs laid out like a town.",
+    "ar": "مئات المقابر الطينية ذات القباب مصفوفة كأنها مدينة."
+   }
+  },
+  {
+   "title": {
+    "en": "Family mausoleums",
+    "ar": "المقابر العائلية"
+   },
+   "desc": {
+    "en": "Larger chapels with arcades, niches and decorative façades.",
+    "ar": "مزارات أكبر بعقود ومحاريب وواجهات زخرفية."
+   }
+  },
+  {
+   "title": {
+    "en": "Centuries of graffiti",
+    "ar": "كتابات القرون"
+   },
+   "desc": {
+    "en": "Greek, Coptic, Arabic and Ottoman-era inscriptions left by visitors.",
+    "ar": "كتابات يونانية وقبطية وعربية وأخرى من العصر العثماني خلّفها الزوار."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Early morning, before the heat builds on the open ridge; winter is the most comfortable season.",
+   "ar": "الصباح الباكر قبل أن تشتد الحرارة على التل المكشوف، والشتاء أنسب المواسم."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded. Guardians unlock the painted chapels, so ask at the entrance; photography inside may be restricted. Kharga town and the oasis roads are reached by road from Assiut or Luxor, or by flight when scheduled. Combine with the Temple of Hibis about a kilometre away.",
+   "ar": "نادرًا ما تزدحم. يفتح الحراس المزارات المصورة، فاسأل عند المدخل، وقد يكون التصوير بالداخل مقيدًا. ويُوصل إلى الخارجة برًا من أسيوط أو الأقصر، أو جوًا عند انتظام الرحلات. ويمكن الجمع بينها وبين معبد هيبس على بعد نحو كيلومتر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bagawat_%28I%29.jpg",
+   "author": "isawnyu",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bagawat_(I).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Adam_und_Zoe.jpg",
+   "author": "Ktiv",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adam_und_Zoe.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Chapel_of_Peace_at_Bagawat_%28V%29.jpg",
+   "author": "Institute for the Study of the Ancient World",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chapel_of_Peace_at_Bagawat_(V).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/bagawat-cemetery/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/El_Bagawat",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%AC%D9%88%D8%A7%D8%AA",
+  "osm": "way/98903429"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12244492",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/bagawat-cemetery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-16:00),prices,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/bagawat-cemetery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing),address",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/جبانة-البجوات/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (Nov 2024 cross-check: 120/60, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (checked: the 9 Jul 2026 SCA board decision raising prices from 1 Oct 2026 names only Bahariya Oasis sites; not applied here)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,highlights (Chapel of the Exodus visitable; news 8 Jan 2026)",
+   "url": "https://www.masrawy.com/news/news_regions/details/2026/1/8/2921835/%D8%B3%D8%A8%D9%82%D8%AA-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D9%8A%D9%83%D8%A7%D9%86-%D8%A8%D9%82%D8%B1%D9%88%D9%86-%D8%B1%D8%AD%D9%84%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%88%D8%AB%D9%82%D8%AA-%D9%85%D8%B9%D8%AC%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1-%D8%B5%D9%88%D8%B1-",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (news 16 Apr 2026)",
+   "url": "https://www.masrawy.com/news/news_regions/details/2026/4/16/2973298/%D8%A8%D9%8A%D9%86-%D8%AC%D8%A8%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A8%D8%AC%D9%88%D8%A7%D8%AA-%D9%88-%D9%83%D9%87%D9%81-%D9%85%D8%B1%D9%8A%D9%85-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D8%A3%D9%82%D8%A8%D8%A7%D8%B7-%D8%A7%D9%84%D8%A3%D9%88%D8%A7%D8%A6%D9%84-%D9%81%D9%8A-%D9%88%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D8%A9",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "visit.crowdNotes (travel advice: Kharga town and oasis roads exempt from warnings; updated 4 Aug 2026)",
+   "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/El_Bagawat",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Bagawat_(I).jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Adam_und_Zoe.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Chapel_of_Peace_at_Bagawat_(V).jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Hours conflict: egymonuments.gov.eg portal 09:00-16:00 vs MoTA open-sites guide and Nov 2024 PDF 08:00-17:00. Conservative window used (open 09:00, close 16:00, last entry 15:00 by MoTA's one-hour rule); batch-7 Q1a (narrowest window) applied 2026-10-04. Ramadan per MoTA guide 09:00-16:00 (last entry 15:00), which equals the chosen weekly hours. Prices 120/60, 10/5 from the portal (matches Nov 2024 PDF). Not on egymonuments.com, so no onlineUrl; freeGroups not stated on any official Bagawat page, so omitted. 9 Jul 2026 oasis price decision covers Bahariya only (MoTA statement): not applied. Distance to Hibis (~1 km) from coordinates. 'Photography may be restricted' and guardians opening chapels are general advice, not sourced. Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced.",
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ }
+}

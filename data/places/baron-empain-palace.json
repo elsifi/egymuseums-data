@@ -1,0 +1,362 @@
+{
+ "id": "baron-empain-palace",
+ "kind": "site",
+ "wikidataId": "Q808618",
+ "name": {
+  "en": "Baron Empain Palace",
+  "ar": "قصر البارون إمبان"
+ },
+ "aliases": [
+  "قصر البارون",
+  "قصر البارون أمبان",
+  "قصر البارون امبان",
+  "El Palais Hindou"
+ ],
+ "category": "royal-palace",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Heliopolis (Masr al-Gadida)",
+  "ar": "مصر الجديدة"
+ },
+ "address": {
+  "en": "Al-Orouba Street, Heliopolis, Cairo",
+  "ar": "شارع العروبة، مصر الجديدة، القاهرة"
+ },
+ "lat": 30.086667,
+ "lng": 31.330278,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily since its restoration. Access to the roof terrace needs an add-on ticket.",
+  "ar": "مفتوح يوميًا منذ ترميمه، ويتطلب الصعود إلى السطح تذكرة إضافية."
+ },
+ "summary": {
+  "en": "A fantastical villa inspired by Angkor Wat and Indian temples, built in 1907–1911 for the Belgian founder of Heliopolis.",
+  "ar": "قصر خيالي الطراز استُلهم من معابد أنغكور وات والمعابد الهندية، شُيّد بين عامي 1907 و1911 لمؤسس حي مصر الجديدة البلجيكي."
+ },
+ "description": {
+  "en": "Édouard Empain, a Belgian industrialist made a baron for his railway and tramway ventures, arrived in Egypt in 1904 and went on to create Heliopolis, a new garden city in the desert east of Cairo. For his own residence he turned to the French architect Alexandre Marcel, who produced one of the most unusual buildings in Egypt. Built between 1907 and 1911 in reinforced concrete, then a novelty, the palace borrows from the temples of Angkor in Cambodia and from Hindu temples in India. Its walls swarm with sculpted elephants, serpents, dancers and deities, and a slender tower rises beside the main block. Inside, a basement held the servants' rooms, the ground floor a reception room, dining room and billiard room, and the upper floor four bedrooms, each with its own balcony and bathroom; a spiral stair in the tower climbs to an open roof. After the baron's death in 1929 the house slowly fell into neglect and gathered ghost stories. The state acquired it in 2005, listed it as a monument in 2007 and, after a long restoration, opened it to visitors.",
+  "ar": "وصل إدوار إمبان، الصناعي البلجيكي الذي نال لقب البارون تقديرًا لمشروعاته في السكك الحديدية والترام، إلى مصر عام 1904، ثم أسس حي مصر الجديدة مدينةً حدائقية في الصحراء شرق القاهرة. ولبناء مسكنه الخاص استعان بالمعماري الفرنسي ألكسندر مارسيل، فجاء القصر من أغرب مباني مصر. شُيّد بين عامي 1907 و1911 بالخرسانة المسلحة التي كانت آنذاك تقنية حديثة، واستلهم عناصره من معابد أنغكور في كمبوديا والمعابد الهندوسية في الهند. وتزدحم جدرانه بمنحوتات الأفيال والثعابين والراقصات والآلهة، ويرتفع بجوار كتلته الرئيسية برج رشيق. وفي الداخل خُصص البدروم لمساكن الخدم، وضم الطابق الأرضي غرفة استقبال وغرفة طعام وأخرى للبلياردو، أما الطابق العلوي فأربع غرف نوم لكل منها شرفة وحمام، ويصعد درج حلزوني داخل البرج إلى سطح مكشوف. وبعد وفاة البارون عام 1929 أُهمل القصر تدريجيًا ونُسجت حوله حكايات الأشباح، حتى اشترته الدولة عام 2005 وسجلته أثرًا عام 2007، ثم فتحته للزوار بعد ترميم طويل."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Sculpted façades",
+    "ar": "الواجهات المنحوتة"
+   },
+   "desc": {
+    "en": "Elephants, serpents, dancers and Hindu deities cover the exterior walls.",
+    "ar": "أفيال وثعابين وراقصات وآلهة هندوسية تكسو الجدران الخارجية."
+   }
+  },
+  {
+   "title": {
+    "en": "The tower",
+    "ar": "البرج"
+   },
+   "desc": {
+    "en": "A slender tower with a spiral staircase rising beside the main block.",
+    "ar": "برج رشيق بداخله درج حلزوني يرتفع بجوار الكتلة الرئيسية."
+   }
+  },
+  {
+   "title": {
+    "en": "Roof terrace",
+    "ar": "السطح"
+   },
+   "desc": {
+    "en": "The open roof with views over Heliopolis (add-on ticket).",
+    "ar": "السطح المكشوف بإطلالته على مصر الجديدة (بتذكرة إضافية)."
+   }
+  },
+  {
+   "title": {
+    "en": "Ground-floor salons",
+    "ar": "قاعات الطابق الأرضي"
+   },
+   "desc": {
+    "en": "The reception, dining and billiard rooms of the baron's household.",
+    "ar": "غرف الاستقبال والطعام والبلياردو في بيت البارون."
+   }
+  },
+  {
+   "title": {
+    "en": "Upper-floor bedrooms",
+    "ar": "غرف الطابق العلوي"
+   },
+   "desc": {
+    "en": "Four bedrooms, each with its own balcony and bathroom.",
+    "ar": "أربع غرف نوم لكل منها شرفة وحمام خاص."
+   }
+  },
+  {
+   "title": {
+    "en": "Palace garden",
+    "ar": "حديقة القصر"
+   },
+   "desc": {
+    "en": "The garden that surrounds the palace on all sides.",
+    "ar": "الحديقة التي تحيط بالقصر من جميع الجهات."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 30
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Roof (panorama) add-on — foreign visitor",
+     "ar": "إضافة السطح (البانوراما) — زائر أجنبي"
+    },
+    "audience": "foreign",
+    "amount": 120
+   },
+   {
+    "label": {
+     "en": "Roof (panorama) add-on — Egyptian visitor",
+     "ar": "إضافة السطح (البانوراما) — زائر مصري"
+    },
+    "audience": "egyptian",
+    "amount": 30
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/BaronEmpainPalace",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Late afternoon, when low sun brings out the carved detail on the façades.",
+   "ar": "قبيل الغروب، حين تُبرز أشعة الشمس المائلة تفاصيل النحت على الواجهات."
+  },
+  "crowdNotes": {
+   "en": "Busiest on Fridays, Saturdays and holidays with families and photographers. The palace stands on a busy road junction; arriving by taxi is easier than looking for parking.",
+   "ar": "يزدحم أيام الجمعة والسبت والعطلات بالعائلات والمصورين. ويقع القصر عند تقاطع طرق مزدحم، فالوصول بسيارة أجرة أيسر من البحث عن مكان لانتظار السيارات."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/The_exterior_of_the_Baron_Empain_palace.jpg",
+   "author": "Bishoy Samuel",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_exterior_of_the_Baron_Empain_palace.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Baron_Empain_Palace_2025.jpg",
+   "author": "Nabbegat",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baron_Empain_Palace_2025.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D9%88%D9%86_%D8%A5%D9%85%D8%A8%D8%A7%D9%86_05.jpg",
+   "author": "Ahmedsamirhamadah",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:1%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D9%88%D9%86_%D8%A5%D9%85%D8%A8%D8%A7%D9%86_05.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/baron-empain-palace/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Baron_Empain_Palace",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D9%88%D9%86_%D8%A5%D9%85%D8%A8%D8%A7%D9%86",
+  "osm": "way/24886453"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q808618",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/baron-empain-palace/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/heliopolis/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,prices.extras (roof),hours (lastEntry, Ramadan),freeGroups (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/BaronEmpainPalace",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,prices.extras,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/28",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,prices.extras,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/baron-empain-palace/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/قصر-البارون/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Baron_Empain_Palace",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Ramadan: MoTA guide 09:00-16:00 (last entry 15:00 by its one-hour rule) vs egymonuments.com last entry 15:30; earlier time used. Roof add-on: 120 foreign / 30 Egyptian for both adults and students on both official pages."
+}

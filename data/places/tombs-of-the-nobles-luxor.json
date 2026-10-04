@@ -1,0 +1,681 @@
+{
+ "id": "tombs-of-the-nobles-luxor",
+ "kind": "site",
+ "wikidataId": "Q7818709",
+ "name": {
+  "en": "Tombs of the Nobles (Sheikh Abd el-Qurna)",
+  "ar": "مقابر النبلاء (الشيخ عبد القرنة)"
+ },
+ "aliases": [
+  "Valley of the Nobles",
+  "Sheikh Abd el-Qurna",
+  "شيخ عبد القرنة",
+  "شيخ عبدالقرنة",
+  "Sheikh Abdel Qurna",
+  "Sheikh Abd el-Qurna necropolis at Thebes",
+  "Tombs of the Nobles",
+  "مقابر النبلاء"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor (West Bank)",
+  "ar": "الأقصر (البر الغربي)"
+ },
+ "area": {
+  "en": "West Bank, Sheikh Abd el-Qurna and neighbouring hills (Qurna)",
+  "ar": "البر الغربي، الشيخ عبد القرنة والتلال المجاورة (القرنة)"
+ },
+ "address": {
+  "en": "Tombs of the Nobles, Sheikh Abd el-Qurna, Qurna, West Bank, Luxor",
+  "ar": "مقابر النبلاء، الشيخ عبد القرنة، القرنة، البر الغربي، الأقصر"
+ },
+ "lat": 25.7278,
+ "lng": 32.595,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. There is no single ticket: each group of tombs has its own ticket, most at EGP 120 for foreign adults and EGP 200 for the Nakht and Menna and the Ramose groups.",
+  "ar": "مفتوحة يوميًا. لا توجد تذكرة واحدة، بل لكل مجموعة من المقابر تذكرتها، ومعظمها بسعر 120 جنيهًا للبالغ الأجنبي، و200 جنيه لمجموعتي نخت ومنا ورع موسى."
+ },
+ "summary": {
+  "en": "Hillside tomb-chapels of New Kingdom officials whose paintings show daily life in ancient Thebes in vivid detail.",
+  "ar": "مقاصير مقابر كبار موظفي الدولة الحديثة في سفوح التلال، تصوّر رسومها الحياة اليومية في طيبة القديمة بتفاصيل نابضة."
+ },
+ "description": {
+  "en": "While the kings of the New Kingdom were buried in hidden valleys, the officials who ran their state cut tomb-chapels into the foothills facing the Nile. Hundreds of these tombs honeycomb the slopes of Sheikh Abd el-Qurna, el-Khokha, Dra Abu el-Naga and Qurnet Murai, and the most beautiful are open to visitors in small groups. Unlike the royal tombs, filled with texts about the sun's night journey, the nobles' chapels are full of everyday life: ploughing and harvest, vineyards and fishing, banquets with musicians and dancers, craftsmen at work and foreign envoys bringing tribute. The vizier Rekhmire's long hall is a catalogue of the trades of his day, while the burial chamber of Sennefer, mayor of Thebes, is roofed with painted grapevines. The small chapels of Nakht and Menna are famous for their fresh colours and lively farming scenes, and the tomb of the vizier Ramose, from the eve of the Amarna period, shows superb carved reliefs in two artistic styles. Tickets are sold by group of tombs, so it pays to choose two or three groups. The houses of the old village of Qurna, which once stood over the tombs, were cleared in the 2000s.",
+  "ar": "بينما دُفن ملوك الدولة الحديثة في أودية خفية، نحت كبار الموظفين الذين أداروا دولتهم مقاصير مقابرهم في سفوح التلال المطلة على النيل. وتتخلل مئات من هذه المقابر منحدرات الشيخ عبد القرنة والخوخة وذراع أبو النجا وقرنة مرعي، ويُفتح أجملها للزيارة في مجموعات صغيرة. وعلى خلاف المقابر الملكية المكتظة بنصوص رحلة الشمس الليلية، تفيض مقاصير النبلاء بمشاهد الحياة اليومية: الحرث والحصاد، والكروم والصيد، والولائم بموسيقييها وراقصاتها، والحرفيين في ورشهم، والوفود الأجنبية تحمل الجزية. فالصالة الطويلة في مقبرة الوزير رخميرع سجلّ لحرف عصره، بينما يتدلى من سقف حجرة دفن سن نفر، عمدة طيبة، عنبٌ ملون. وتشتهر مقصورتا نخت ومنا الصغيرتان بنضارة ألوانهما ومشاهدهما الريفية المفعمة بالحياة، أما مقبرة الوزير رع موسى، من عشية عصر العمارنة، فتضم نقوشًا بارزة رائعة بأسلوبين فنيين. وتُباع التذاكر لكل مجموعة على حدة، لذا يحسن اختيار مجموعتين أو ثلاث. وقد أزيلت بيوت قرية القرنة القديمة التي كانت قائمة فوق المقابر خلال العقد الأول من الألفية الثالثة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Rekhmire (TT100)",
+    "ar": "مقبرة رخميرع"
+   },
+   "desc": {
+    "en": "The vizier of Thutmose III; scenes of crafts, justice and foreign tribute.",
+    "ar": "وزير تحتمس الثالث؛ مناظر للحرف والقضاء والجزية الأجنبية."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Sennefer (TT96)",
+    "ar": "مقبرة سن نفر"
+   },
+   "desc": {
+    "en": "The “tomb of the vines”, its burial-chamber ceiling painted with grapes.",
+    "ar": "«مقبرة الكروم» التي زُيّن سقف حجرة دفنها بعناقيد العنب."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Nakht (TT52)",
+    "ar": "مقبرة نخت"
+   },
+   "desc": {
+    "en": "A small chapel with famous scenes of harvest and of musicians at a banquet.",
+    "ar": "مقصورة صغيرة تشتهر بمناظر الحصاد والموسيقيات في وليمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Menna (TT69)",
+    "ar": "مقبرة منا"
+   },
+   "desc": {
+    "en": "Fresh, lively paintings of a field scribe’s work in the countryside.",
+    "ar": "رسوم نضرة نابضة لعمل كاتب الحقول في الريف."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Ramose (TT55)",
+    "ar": "مقبرة رع موسى"
+   },
+   "desc": {
+    "en": "Exquisite raised reliefs from the reign of Amenhotep III and the start of Akhenaten’s.",
+    "ar": "نقوش بارزة بديعة من عهد أمنحتب الثالث وبدايات عهد إخناتون."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Tombs of Rekhmire and Sennefer — foreign adult",
+     "ar": "مقبرتا رخميرع وسن نفر — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "label": {
+     "en": "Tombs of Rekhmire and Sennefer — foreign student",
+     "ar": "مقبرتا رخميرع وسن نفر — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "label": {
+     "en": "Tombs of Rekhmire and Sennefer — Egyptian adult",
+     "ar": "مقبرتا رخميرع وسن نفر — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "Tombs of Rekhmire and Sennefer — Egyptian student",
+     "ar": "مقبرتا رخميرع وسن نفر — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "label": {
+     "en": "Tombs of Nakht and Menna — foreign adult",
+     "ar": "مقبرتا نخت ومنا — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "label": {
+     "en": "Tombs of Nakht and Menna — foreign student",
+     "ar": "مقبرتا نخت ومنا — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "label": {
+     "en": "Tombs of Nakht and Menna — Egyptian adult",
+     "ar": "مقبرتا نخت ومنا — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "label": {
+     "en": "Tombs of Nakht and Menna — Egyptian student",
+     "ar": "مقبرتا نخت ومنا — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "Tomb of Ramose — foreign adult",
+     "ar": "مقبرة رع موسى — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "label": {
+     "en": "Tomb of Ramose — foreign student",
+     "ar": "مقبرة رع موسى — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "label": {
+     "en": "Tomb of Ramose — Egyptian adult",
+     "ar": "مقبرة رع موسى — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "label": {
+     "en": "Tomb of Ramose — Egyptian student",
+     "ar": "مقبرة رع موسى — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "Tombs of Khonsu and Userhat — foreign adult",
+     "ar": "مقبرتا خونسو وأوسرحات — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "label": {
+     "en": "Tombs of Khonsu and Userhat — foreign student",
+     "ar": "مقبرتا خونسو وأوسرحات — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "label": {
+     "en": "Tombs of Khonsu and Userhat — Egyptian adult",
+     "ar": "مقبرتا خونسو وأوسرحات — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "Tombs of Khonsu and Userhat — Egyptian student",
+     "ar": "مقبرتا خونسو وأوسرحات — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "label": {
+     "en": "Tombs of el-Khokha — foreign adult",
+     "ar": "مقابر الخوخة — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "label": {
+     "en": "Tombs of el-Khokha — foreign student",
+     "ar": "مقابر الخوخة — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "label": {
+     "en": "Tombs of el-Khokha — Egyptian adult",
+     "ar": "مقابر الخوخة — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "Tombs of el-Khokha — Egyptian student",
+     "ar": "مقابر الخوخة — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "label": {
+     "en": "Tombs of Qurnet Murai — foreign adult",
+     "ar": "مقابر قرنة مرعي — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "label": {
+     "en": "Tombs of Qurnet Murai — foreign student",
+     "ar": "مقابر قرنة مرعي — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "label": {
+     "en": "Tombs of Qurnet Murai — Egyptian adult",
+     "ar": "مقابر قرنة مرعي — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "Tombs of Qurnet Murai — Egyptian student",
+     "ar": "مقابر قرنة مرعي — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "label": {
+     "en": "Dra Abu el-Naga (north) — foreign adult",
+     "ar": "ذراع أبو النجا (الشمالية) — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "label": {
+     "en": "Dra Abu el-Naga (north) — foreign student",
+     "ar": "ذراع أبو النجا (الشمالية) — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "label": {
+     "en": "Dra Abu el-Naga (north) — Egyptian adult",
+     "ar": "ذراع أبو النجا (الشمالية) — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "label": {
+     "en": "Dra Abu el-Naga (north) — Egyptian student",
+     "ar": "ذراع أبو النجا (الشمالية) — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "Dra Abu el-Naga (south) — foreign adult",
+     "ar": "ذراع أبو النجا (الجنوبية) — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Dra Abu el-Naga (south) — foreign student",
+     "ar": "ذراع أبو النجا (الجنوبية) — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Dra Abu el-Naga (south) — Egyptian adult",
+     "ar": "ذراع أبو النجا (الجنوبية) — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "label": {
+     "en": "Dra Abu el-Naga (south) — Egyptian student",
+     "ar": "ذراع أبو النجا (الجنوبية) — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "Parking: car or taxi",
+     "ar": "انتظار السيارات: ملاكي أو تاكسي"
+    },
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Parking: microbus",
+     "ar": "انتظار السيارات: ميكروباص"
+    },
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Parking: coaster",
+     "ar": "انتظار السيارات: كوستر"
+    },
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Parking: bus",
+     "ar": "انتظار السيارات: أتوبيس"
+    },
+    "amount": 100
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/TombsOfTheNobles",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 120,
+  "deepMinutes": 180,
+  "bestTime": {
+   "en": "Early morning, before the heat; the chapels face east and catch the morning light.",
+   "ar": "الصباح الباكر قبل اشتداد الحر، فالمقاصير مواجهة للشرق وتستقبل ضوء الصباح."
+  },
+  "crowdNotes": {
+   "en": "Far quieter than the royal valleys. Paths between the tombs are uneven and some entrances have steps; guardians unlock each tomb, and the inner chambers are small.",
+   "ar": "أهدأ كثيرًا من الأودية الملكية. والممرات بين المقابر غير ممهدة وبعض المداخل بها درجات، ويفتح الحراس كل مقبرة على حدة، والحجرات الداخلية صغيرة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/By_ovedc_-_Tomb_of_Menna_-_01.jpg",
+   "author": "Ovedc",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Tomb_of_Menna_-_01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/A_TT100_Rehmir%C3%A9_s%C3%ADrja.jpeg",
+   "author": "Kingtut at Hungarian Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_TT100_Rehmir%C3%A9_s%C3%ADrja.jpeg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%2BUserhat_war_der_Schreiber_der_Getreidespeicher._01.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%2BUserhat_war_der_Schreiber_der_Getreidespeicher._01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/amenhotep-rabuia-and-his-son-samut-tomb/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Sheikh_Abd_el-Qurna",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%A8%D8%B1_%D8%A7%D9%84%D9%86%D8%A8%D9%84%D8%A7%D8%A1_(%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1)",
+  "osm": "way/1365847883"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q7818709",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q241042",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/amenhotep-rabuia-and-his-son-samut-tomb/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry by season),tickets,freeGroups,tomb groups (official booking platform)",
+   "url": "https://egymonuments.com/details/TombsOfTheNobles",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras (per tomb group, parking) (booking page)",
+   "url": "https://egymonuments.com/book-date/24",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (tomb of Amenhotep-Rabuia and Samut)",
+   "url": "https://egymonuments.gov.eg/en/monuments/amenhotep-rabuia-and-his-son-samut-tomb/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list: group names and prices)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Sheikh_Abd_el-Qurna",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Tomb_of_Menna_-_01.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:A_TT100_Rehmir%C3%A9_s%C3%ADrja.jpeg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:%2BUserhat_war_der_Schreiber_der_Getreidespeicher._01.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "No single site ticket. tiers = the most common group price (EGP 120/60 foreign, 10/5 Egyptian: Rekhmire & Sennefer, Khonsu, el-Khokha, Qurnet Murai); every group is listed in extras. Booking page /book-date/24 prices: Nakht & Menna 200/100 (Eg 20/10), Ramose 200/100 (Eg 20/10), Dra Abu el-Naga north 120/60 and south 50/25 (Eg 20/10 each). Booking labels give one name per group; 'Khonsu and Userhat' follows the Nov 2024 list (Tombs of Userhat and Khonsu), and 'Ramose' may also cover Userhat (TT56) and Khaemhat (TT57), which are usually visited with it - verify. The south Dra Abu el-Naga foreign price (50) is unusually low; the Egyptian-tab order on the booking page lists north/south the other way round - recheck. The Seti I temple at Qurna appears on the same booking page but is a separate monument, so it is not listed here. A non-official Aug 2026 report paid 120 for Nakht & Menna (official 200). Winter (standard) hours 06:00-17:00 with last entry 16:00 (MoTA guide closing 17:00 + one-hour rule; booking platform winter last entry 16:00). Summer 2026: 06:00-18:00 for the Qurna (West Bank) zone per the 24 Apr 2026 announcement, last entry 17:00 per booking platform. City overridden from the seed's 'Qurnah District'. Seed links.egymonuments points to the Amenhotep-Rabuia tomb page (kept). Summer 2026 exception (2026-04-24 to 2026-10-29) follows the Luxor antiquities summer schedule (daylight-saving period, until the last Thursday of October); the winter 2026-27 schedule had not been announced on 2026-10-04 - recheck after 29 Oct 2026. Summer exception ends 2026-10-29, the last day of daylight-saving time (batch-7 Q7a, applied 2026-10-04 to every summer exception). Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
+}

@@ -1,0 +1,346 @@
+{
+ "id": "al-qasr-dakhla",
+ "kind": "site",
+ "wikidataId": "Q14218423",
+ "name": {
+  "en": "Al-Qasr Old Town (Dakhla)",
+  "ar": "مدينة القصر الإسلامية"
+ },
+ "aliases": [
+  "Qasr el-Dakhla",
+  "قصر الداخلة"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "new-valley",
+ "city": {
+  "en": "Dakhla Oasis",
+  "ar": "الواحات الداخلة"
+ },
+ "area": {
+  "en": "Al-Qasr village, north-west Dakhla",
+  "ar": "قرية القصر، شمال غرب الداخلة"
+ },
+ "address": {
+  "en": "Al-Qasr village, Dakhla Oasis, New Valley Governorate",
+  "ar": "قرية القصر، الواحات الداخلة، محافظة الوادي الجديد"
+ },
+ "lat": 25.695869,
+ "lng": 28.8837,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. A partly inhabited medieval mud-brick town; some houses are private, so keep to the visitor route.",
+  "ar": "مفتوحة يوميًا. مدينة طينية من العصور الوسطى لا يزال بعضها مأهولًا، وبعض بيوتها خاصة، فالتزم بمسار الزيارة."
+ },
+ "summary": {
+  "en": "A medieval Islamic town of mud-brick lanes, carved wooden lintels and a tall earthen minaret, once the capital of the Dakhla Oasis on the caravan routes.",
+  "ar": "مدينة إسلامية من العصور الوسطى بحارات من الطوب اللبن وأعتاب خشبية منقوشة ومئذنة طينية شاهقة، كانت عاصمة الواحات الداخلة على طرق القوافل."
+ },
+ "description": {
+  "en": "Al-Qasr sits at the north-western edge of the Dakhla Oasis, where the caravan tracks towards the Maghreb set off across the desert. Its site was already inhabited in antiquity, but the town that survives is an Islamic one, which grew into the capital of the oasis and took its name from the governor's palace, the qasr. Its houses, built of sun-dried mud brick and often several storeys high, line narrow covered lanes that kept out sun and sand. Each quarter was closed by gates at either end, and the alleys still open onto shaded benches, shops, grain mills and an olive press described as the oldest in the New Valley. Many doorways are crowned with acacia-wood lintels carved with Quranic phrases, names and dates. Above the roofs rises the slender mud-brick minaret of the old mosque, a landmark visible from the surrounding fields. Restoration work begun in the 2010s with international support has repaired a number of buildings, while families still live in parts of the town, giving Al-Qasr the feel of a living place rather than a museum.",
+  "ar": "تقع القصر عند الطرف الشمالي الغربي للواحات الداخلة، حيث كانت دروب القوافل المتجهة إلى بلاد المغرب تنطلق عبر الصحراء. وقد عرف موقعها السكن منذ العصور القديمة، غير أن المدينة الباقية إسلامية الطابع، نمت حتى صارت عاصمة الواحة، وأخذت اسمها من قصر الحاكم. وتصطف بيوتها المبنية بالطوب اللبن، وكثير منها من عدة طوابق، على حارات ضيقة مسقوفة تحجب الشمس والرمال. وكانت كل حارة تُغلق ببابين عند طرفيها، ولا تزال الأزقة تنفتح على مصاطب مظللة وحوانيت وطواحين للحبوب ومعصرة زيتون توصف بأنها الأقدم في الوادي الجديد. ويعلو كثيرًا من المداخل أعتاب من خشب السنط نُقشت عليها آيات قرآنية وأسماء وتواريخ. وفوق الأسطح ترتفع مئذنة المسجد العتيق الرشيقة المبنية بالطوب اللبن، معلمًا يُرى من الحقول المحيطة. وقد أصلحت أعمال ترميم بدأت في العقد الثاني من القرن الحادي والعشرين بدعم دولي عددًا من المباني، بينما لا تزال أسر تسكن أجزاء من المدينة، فتبدو القصر مكانًا حيًا لا متحفًا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Covered lanes and gates",
+    "ar": "الحارات المسقوفة وأبوابها"
+   },
+   "desc": {
+    "en": "Narrow shaded alleys closed by gates at each end of a quarter.",
+    "ar": "أزقة ضيقة مظللة تُغلق بأبواب عند طرفي كل حارة."
+   }
+  },
+  {
+   "title": {
+    "en": "Old mosque minaret",
+    "ar": "مئذنة المسجد العتيق"
+   },
+   "desc": {
+    "en": "A tall mud-brick minaret rising above the town.",
+    "ar": "مئذنة شاهقة من الطوب اللبن ترتفع فوق المدينة."
+   }
+  },
+  {
+   "title": {
+    "en": "Carved wooden lintels",
+    "ar": "الأعتاب الخشبية المنقوشة"
+   },
+   "desc": {
+    "en": "Acacia beams over doorways inscribed with verses, names and dates.",
+    "ar": "عوارض من خشب السنط فوق المداخل نُقشت عليها آيات وأسماء وتواريخ."
+   }
+  },
+  {
+   "title": {
+    "en": "Olive press",
+    "ar": "معصرة الزيتون"
+   },
+   "desc": {
+    "en": "Described as the oldest olive press in the New Valley.",
+    "ar": "توصف بأنها أقدم معصرة زيتون في الوادي الجديد."
+   }
+  },
+  {
+   "title": {
+    "en": "Grain mills",
+    "ar": "طواحين الحبوب"
+   },
+   "desc": {
+    "en": "Traditional mills that served the walled town.",
+    "ar": "طواحين تقليدية كانت تخدم المدينة المسوّرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Multi-storey houses",
+    "ar": "البيوت متعددة الطوابق"
+   },
+   "desc": {
+    "en": "Mud-brick homes of several floors, some restored.",
+    "ar": "بيوت من الطوب اللبن من عدة طوابق، رُمم بعضها."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning, when the lanes are cool and the light falls into the alleys.",
+   "ar": "الصباح، حين تكون الحارات باردة وينفذ الضوء إلى الأزقة."
+  },
+  "crowdNotes": {
+   "en": "Quiet most of the year. Local guides at the entrance know which houses can be entered; dress modestly, as families live in parts of the town. Dakhla is a long drive from the Nile Valley or Kharga, so plan an overnight stay.",
+   "ar": "هادئة معظم العام. يعرف المرشدون المحليون عند المدخل البيوت المتاح دخولها، والتزم بالملابس المحتشمة لأن أسرًا تسكن أجزاء من المدينة. والطريق إلى الداخلة طويل من وادي النيل أو الخارجة، فخطط للمبيت."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Al-Qasr_city_%28Dakhla_Oasis%29.jpg",
+   "author": "VascoPlanet",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Qasr_city_(Dakhla_Oasis).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dakhla%2C_Al-Qasr_Mosque%2C_Egypt.jpg",
+   "author": "Vyacheslav Argenberg from Rostov-on-Don, Russian Federation",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dakhla,_Al-Qasr_Mosque,_Egypt.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Al-Qasr_street_view_2007.jpg",
+   "author": "Vyacheslav Argenberg",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Qasr_street_view_2007.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D8%A9",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q14218423",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مدينة-القصر/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: 100/50, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (checked: the 9 Jul 2026 SCA board decision raising prices from 1 Oct 2026 names only Bahariya Oasis sites; not applied here)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (news 14 Jan 2026)",
+   "url": "https://www.youm7.com/story/2026/1/14/%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%82%D8%B5%D8%B1-%D8%AA%D8%AD%D9%81%D8%A9-%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D9%81%D8%B1%D9%8A%D8%AF%D8%A9-%D8%AC%D9%88%D9%84%D8%A9-%D9%81%D9%89-%D8%A3%D9%82%D8%AF%D9%85-%D9%85%D8%B2%D8%A7%D8%B1/7268149",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (restoration phase 1 completed, news 9 Dec 2017)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2017/12/9/1216865/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AA%D8%B1%D9%85%D9%8A%D9%85-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%89-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "visit.crowdNotes (travel advice: Dakhla and oasis roads exempt from warnings; updated 4 Aug 2026)",
+   "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D8%A9",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Al-Qasr_city_(Dakhla_Oasis).jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Dakhla,_Al-Qasr_Mosque,_Egypt.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Al-Qasr_street_view_2007.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Prices come only from the MoTA Nov 2024 list (no live official price page: no egymonuments.gov.eg page, not on egymonuments.com, MoTA guide lists hours only); kept as 'confirmed' because no later change was found, batch-7 Q4a applied 2026-10-04: recheck when MoTA publishes a new ticket list. 9 Jul 2026 oasis decision covers Bahariya only: not applied. Restoration detail (Japanese grant, 2015 start) seen only in search summaries, so prose says 'begun in the 2010s with international support'. Nasr el-Din mosque name and the ethnographic house are not mentioned (not verified). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced.",
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ }
+}

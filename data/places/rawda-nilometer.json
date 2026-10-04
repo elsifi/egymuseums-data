@@ -1,0 +1,345 @@
+{
+ "id": "rawda-nilometer",
+ "kind": "site",
+ "wikidataId": "Q1992209",
+ "name": {
+  "en": "Rawda Island Nilometer",
+  "ar": "مقياس النيل بالروضة"
+ },
+ "aliases": [
+  "مقياس النيل بجزيرة الروضة",
+  "Nilometer at Roda",
+  "Nilometer on Rawda Island",
+  "Roda Island Nilometer",
+  "Nilometer in Rhoda Island"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Southern tip of Rawda (Roda) Island, Manial",
+  "ar": "الطرف الجنوبي لجزيرة الروضة، المنيل"
+ },
+ "address": {
+  "en": "Al-Malek al-Saleh Street, southern tip of Rawda Island, beside the Manasterly Palace, Manial, Cairo",
+  "ar": "شارع الملك الصالح، الطرف الجنوبي لجزيرة الروضة، بجوار قصر المانسترلي، المنيل، القاهرة"
+ },
+ "lat": 30.006903,
+ "lng": 31.225011,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A ninth-century well and marble column that measured the Nile flood, one of the oldest Islamic-era structures in Egypt.",
+  "ar": "بئر وعمود رخامي من القرن التاسع الميلادي كانا يقيسان فيضان النيل، وهو من أقدم المنشآت الإسلامية الباقية في مصر."
+ },
+ "description": {
+  "en": "For thousands of years Egypt's harvest, and with it the tax bill, depended on how high the Nile rose each summer. Nilometers recorded that rise, and the one on the southern tip of Rawda Island is among the oldest still standing. It was built in 861 on the orders of the Abbasid caliph al-Mutawakkil and is regarded as the oldest structure from the Islamic period in Egypt to survive in its original form. At its heart is an octagonal marble column, marked in cubits, standing in a deep stone-lined well that is rectangular at the top and round at the bottom. Tunnels at different levels once let river water in, and a stair winds down the walls so that officials could read the level. Kufic inscriptions with Quranic verses about water and plenty run around the shaft. When the flood reached the target mark, the sultan presided over days of public celebration. The pointed conical roof over the well is a twentieth-century reconstruction, and the garden around it looks out over the river towards Old Cairo.",
+  "ar": "على مدى آلاف السنين ارتبط حصاد مصر، ومعه مقدار الخراج، بمدى ارتفاع النيل في موسم الفيضان. وكانت المقاييس تسجّل هذا الارتفاع، ومقياس الطرف الجنوبي لجزيرة الروضة من أقدم ما بقي منها. بُني عام 861م بأمر من الخليفة العباسي المتوكل على الله، ويُعد أقدم منشأة من العصر الإسلامي في مصر ما زالت قائمة بهيئتها الأصلية. يتوسطه عمود رخامي مثمن مدرّج بالأذرع، يقوم داخل بئر عميقة مكسوة بالحجر، مستطيلة من أعلى ومستديرة من أسفل. وكانت أنفاق على مستويات مختلفة تُدخل مياه النهر إلى البئر، بينما يلتف حول جدرانها سلم يهبط إليه الموظفون لقراءة المنسوب. وتحيط بالبئر نقوش كوفية لآيات قرآنية عن الماء والخير والنماء. وحين كان الفيضان يبلغ العلامة المنشودة، كان السلطان يترأس احتفالات عامة تمتد أيامًا. أما السقف المخروطي الذي يعلو البئر فأعيد بناؤه في القرن العشرين، وتطل الحديقة المحيطة به على النيل وعلى مصر القديمة في الضفة المقابلة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Marble measuring column",
+    "ar": "العمود الرخامي للقياس"
+   },
+   "desc": {
+    "en": "The octagonal column marked in cubits that showed the height of the flood.",
+    "ar": "العمود المثمن المدرّج بالأذرع الذي كان يحدد ارتفاع الفيضان."
+   }
+  },
+  {
+   "title": {
+    "en": "Stone-lined well",
+    "ar": "البئر الحجرية"
+   },
+   "desc": {
+    "en": "A deep shaft, rectangular above and round below, with a stair spiralling down its walls.",
+    "ar": "بئر عميقة مستطيلة من أعلى ومستديرة من أسفل، يلتف حول جدرانها سلم حلزوني."
+   }
+  },
+  {
+   "title": {
+    "en": "Kufic inscriptions",
+    "ar": "النقوش الكوفية"
+   },
+   "desc": {
+    "en": "Quranic verses about water and plenty carved around the well.",
+    "ar": "آيات قرآنية عن الماء والخير منقوشة حول البئر."
+   }
+  },
+  {
+   "title": {
+    "en": "Inlet tunnels",
+    "ar": "أنفاق دخول المياه"
+   },
+   "desc": {
+    "en": "Openings at different levels that once let the Nile into the well.",
+    "ar": "فتحات على مستويات مختلفة كانت تُدخل مياه النيل إلى البئر."
+   }
+  },
+  {
+   "title": {
+    "en": "Nile-side setting",
+    "ar": "الموقع على النيل"
+   },
+   "desc": {
+    "en": "Gardens at the tip of the island with views across the river to Old Cairo.",
+    "ar": "حدائق عند طرف الجزيرة تطل على النيل وعلى مصر القديمة في الضفة المقابلة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/RawdaIslandNilometer",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Any morning; combine it with the Umm Kulthum Museum next door.",
+   "ar": "أي صباح، ويمكن الجمع بينه وبين متحف أم كلثوم المجاور."
+  },
+  "crowdNotes": {
+   "en": "Usually quiet. The stair down into the well is steep and narrow, so take care; the shaft can also be viewed from the top.",
+   "ar": "هادئ عادة. والسلم المؤدي إلى داخل البئر شديد الانحدار وضيق، فانتبه أثناء النزول، ويمكن أيضًا مشاهدة البئر من أعلى."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cairo_Roda_Nilometer_panorama.jpg",
+   "author": "Willyman",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo_Roda_Nilometer_panorama.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kufic_inscription_at_the_Nilometer%2C_Cairo%3B_built_in_861_during_reign_of_Abbasid_Caliph_al-Mutawakkil_%281%29.jpg",
+   "author": "Prof. Mortel",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kufic_inscription_at_the_Nilometer,_Cairo;_built_in_861_during_reign_of_Abbasid_Caliph_al-Mutawakkil_(1).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/CairoRodaNilometerColumn.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoRodaNilometerColumn.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/rawda-island-nilometer/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D9%8A%D8%A7%D8%B3_%D8%A7%D9%84%D9%86%D9%8A%D9%84_(%D8%A7%D9%84%D8%B1%D9%88%D8%B6%D8%A9)",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1992209",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/rawda-island-nilometer/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/rawda-island-nilometer/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/RawdaIslandNilometer",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (booking page)",
+   "url": "https://egymonuments.com/book-date/240",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close 16:00),address",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مقياس-النيل/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (facts cross-checked; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D9%8A%D8%A7%D8%B3_%D8%A7%D9%84%D9%86%D9%8A%D9%84_(%D8%A7%D9%84%D8%B1%D9%88%D8%B6%D8%A9)",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Cairo_Roda_Nilometer_panorama.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Kufic_inscription_at_the_Nilometer,_Cairo;_built_in_861_during_reign_of_Abbasid_Caliph_al-Mutawakkil_(1).jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:CairoRodaNilometerColumn.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Hours and prices agree across portal, booking platform and MoTA guide. Manasterly Palace next door: the MoTA Nov 2024 list says 'within Nilometer ticket', but no current source confirms it, so it is not claimed. City overridden from the seed's 'Rhoda Island' to 'Cairo' (the island goes in area). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

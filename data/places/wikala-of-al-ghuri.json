@@ -1,0 +1,371 @@
+{
+ "id": "wikala-of-al-ghuri",
+ "kind": "site",
+ "wikidataId": "Q3570251",
+ "name": {
+  "en": "Wikala of al-Ghuri",
+  "ar": "وكالة الغوري"
+ },
+ "aliases": [
+  "وكالة الخوري",
+  "Wakala Al-Ghawri",
+  "Wakâla Al-Ghawri",
+  "Wikala al-Ghuri",
+  "Wikalet Al-Ghouri",
+  "Wikalat al-Ghuri",
+  "وكالة القطن",
+  "Wikālat al-Ghawrī",
+  "Wikālat al-Ghūrī",
+  "Wikalat al-Qutn",
+  "Wikalet Al-Ghuri"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Al-Azhar, Islamic Cairo (al-Tablita Street, off al-Azhar Street)",
+  "ar": "الأزهر، القاهرة التاريخية (شارع التبليطة، متفرع من شارع الأزهر)"
+ },
+ "address": {
+  "en": "Al-Tablita Street, al-Azhar, Cairo — near al-Azhar Mosque",
+  "ar": "شارع التبليطة، الأزهر، القاهرة — بالقرب من الجامع الأزهر"
+ },
+ "lat": 30.045675,
+ "lng": 31.260859,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوحة يوميًا."
+ },
+ "summary": {
+  "en": "Sultan al-Ghuri's early sixteenth-century merchants' inn near al-Azhar, one of the best-preserved caravanserais in Cairo.",
+  "ar": "وكالة السلطان الغوري من أوائل القرن السادس عشر قرب الجامع الأزهر، من أفضل الوكالات التجارية المحفوظة في القاهرة."
+ },
+ "description": {
+  "en": "A wikala was the medieval Cairene answer to a trade centre and hotel combined: merchants arriving with caravans stored and sold their goods on the lower floors and lodged in rooms above. Sultan Qansuh al-Ghuri, one of the last Mamluk rulers, built this one in 1504–1505 as an income-producing part of his great religious complex nearby, and it is now one of the finest surviving examples in the city. Five storeys rise around a rectangular open courtyard. The two lower levels held vaulted storerooms and shops, while the upper floors formed a rab, a block of self-contained apartments rented out to traders and city residents. The street façade shows the alternating light and dark masonry favoured by the Mamluks and carries the sultan's blazon, and the upper windows are screened by wooden mashrabiya. Restored by the Committee for the Conservation of Arab Monuments in the mid-twentieth century and again in recent decades, the building has served as a venue for crafts and performances. Today it is a peaceful stop between al-Azhar and the busy Ghuriya market street.",
+  "ar": "كانت الوكالة في القاهرة المملوكية مركزًا تجاريًا وفندقًا في آن واحد؛ يخزّن فيها التجار القادمون مع القوافل بضائعهم ويبيعونها في الطوابق السفلى، ويقيمون في الغرف العلوية. أنشأ السلطان قنصوه الغوري، أحد آخر سلاطين المماليك، هذه الوكالة بين عامي 1504 و1505 لتدرّ دخلًا على مجموعته الدينية القريبة، وهي اليوم من أروع الوكالات الباقية في المدينة. ترتفع الوكالة خمسة طوابق حول فناء مستطيل مكشوف؛ ضم الطابقان السفليان حواصل مقببة ومحال للتخزين والبيع، بينما شكّلت الطوابق العليا «ربعًا» من مساكن مستقلة تؤجَّر للتجار وأهل المدينة. وتُظهر الواجهة المطلة على الشارع أسلوب المداميك الحجرية المتناوبة الألوان الذي أحبه المماليك، وتحمل رنك السلطان، بينما تحجب المشربيات الخشبية نوافذها العلوية. رممتها لجنة حفظ الآثار العربية في منتصف القرن العشرين، ثم رُممت مجددًا في العقود الأخيرة، واستُخدمت مقرًا للحرف التراثية والعروض الفنية. وهي اليوم محطة هادئة بين الجامع الأزهر وشارع الغورية المزدحم بالأسواق."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Central courtyard",
+    "ar": "الفناء الأوسط"
+   },
+   "desc": {
+    "en": "Five storeys of galleries rising around an open rectangular court.",
+    "ar": "خمسة طوابق من الأروقة ترتفع حول فناء مستطيل مكشوف."
+   }
+  },
+  {
+   "title": {
+    "en": "Entrance portal",
+    "ar": "المدخل الرئيسي"
+   },
+   "desc": {
+    "en": "A tall stone portal on the north façade, decorated with carving and inlay.",
+    "ar": "بوابة حجرية شاهقة في الواجهة الشمالية مزدانة بالنقش والتطعيم."
+   }
+  },
+  {
+   "title": {
+    "en": "Mashrabiya windows",
+    "ar": "المشربيات"
+   },
+   "desc": {
+    "en": "Turned-wood screens on the upper apartments.",
+    "ar": "مشربيات من الخشب الخرط تحجب نوافذ المساكن العلوية."
+   }
+  },
+  {
+   "title": {
+    "en": "Storerooms and rab apartments",
+    "ar": "الحواصل والربع"
+   },
+   "desc": {
+    "en": "Vaulted merchants’ stores below and rented flats above, showing how the building worked.",
+    "ar": "حواصل مقببة للتجار في الأسفل ومساكن للإيجار في الأعلى، توضح طريقة عمل المبنى."
+   }
+  },
+  {
+   "title": {
+    "en": "Sultan al-Ghuri's blazon",
+    "ar": "رنك السلطان الغوري"
+   },
+   "desc": {
+    "en": "The sultan's emblem carved on the stone façade.",
+    "ar": "شعار السلطان منقوشًا على الواجهة الحجرية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/WikalaOfAl-Guri",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Late morning, combined with al-Azhar Mosque and the Ghuri complex across the street.",
+   "ar": "أواخر الصباح، مع زيارة الجامع الأزهر ومجموعة الغوري في الجهة المقابلة."
+  },
+  "crowdNotes": {
+   "en": "Quiet inside even when the surrounding market streets are packed. The Ministry of Culture’s Tanoura (whirling) show is now staged at the Ghuri Dome across the street on Wednesday and Saturday evenings, with a separate ticket; the dome itself is also a separate monument ticket.",
+   "ar": "هادئة من الداخل حتى حين تزدحم شوارع السوق حولها. ويُقدَّم عرض التنورة التابع لوزارة الثقافة حاليًا في قبة الغوري بالجهة المقابلة مساء الأربعاء والسبت بتذكرة منفصلة، كما أن للقبة نفسها تذكرة زيارة منفصلة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Wikala_al-Ghuri_portal.jpg",
+   "author": "Casual Builder",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wikala_al-Ghuri_portal.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cairo%2C_wikala_di_al-ghouri_01.JPG",
+   "author": "Sailko",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo,_wikala_di_al-ghouri_01.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Wikala_al-Ghuri_street_facade.jpg",
+   "author": "Casual Builder",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wikala_al-Ghuri_street_facade.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/al-ghuri-s-wikala/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Wikala_of_al-Ghuri",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%88%D9%83%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D8%BA%D9%88%D8%B1%D9%8A",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q3570251",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q23975642",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/al-ghuri-s-wikala/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/al-ghuri-s-wikala/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/WikalaOfAl-Guri",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (booking page)",
+   "url": "https://egymonuments.com/book-date/103",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close 16:00),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/وكالة-الغوري/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "visit.crowdNotes (Ghuri Dome separate ticket)",
+   "url": "https://egymonuments.com/details/AlGhuriDome",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "visit.crowdNotes (Tanoura show at the Ghuri Dome, Wed and Sat)",
+   "url": "https://www.cdf.gov.eg/?q=node/51",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "visit.crowdNotes (Tanoura show calendar, Oct 2026)",
+   "url": "https://www.cdf.gov.eg/?q=calendar-node-field-event-day/month1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Wikala_of_al-Ghuri",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Wikala_al-Ghuri_portal.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Cairo,_wikala_di_al-ghouri_01.JPG",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Wikala_al-Ghuri_street_facade.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Hours and prices agree across portal, booking platform, MoTA guide and Nov 2024 list. Tanoura show: CDF calendar lists it at the Ghuri Dome (Wed and Sat 19:30, EGP 15 Egyptians / 90 foreigners, price text possibly stale) - only the location and nights are used in crowdNotes. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

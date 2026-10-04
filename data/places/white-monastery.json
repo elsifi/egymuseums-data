@@ -1,0 +1,295 @@
+{
+ "id": "white-monastery",
+ "kind": "site",
+ "wikidataId": "Q202661",
+ "name": {
+  "en": "White Monastery",
+  "ar": "الدير الأبيض"
+ },
+ "aliases": [
+  "دير الأنبا شنودة رئيس المتوحدين",
+  "Dayr al-Abyaḍ",
+  "Monastery of Apa Shenoute"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "sohag",
+ "city": {
+  "en": "Sohag",
+  "ar": "سوهاج"
+ },
+ "area": {
+  "en": "Awlad Azzaz village, west of Sohag",
+  "ar": "قرية أولاد عزاز، غرب سوهاج"
+ },
+ "address": {
+  "en": "Awlad Azzaz village, west of Sohag city, Sohag Governorate",
+  "ar": "قرية أولاد عزاز، غرب مدينة سوهاج، محافظة سوهاج"
+ },
+ "lat": 26.534561,
+ "lng": 31.645669,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily and free of charge. An active Coptic monastery; the area is very crowded during the feast of St Shenoute in mid-July.",
+  "ar": "مفتوح يوميًا والدخول مجاني. وهو دير قبطي عامر، وتشتد الزحمة في محيطه خلال عيد الأنبا شنودة في منتصف يوليو."
+ },
+ "summary": {
+  "en": "The great fifth-century church of Abba Shenoute, built like a fortress of white limestone with blocks taken from pharaonic temples.",
+  "ar": "كنيسة الأنبا شنودة الكبرى من القرن الخامس، مبنية كالحصن من الحجر الجيري الأبيض بكتل مأخوذة من معابد فرعونية."
+ },
+ "description": {
+  "en": "Founded by Abba Shenoute, the most influential abbot of Coptic monasticism, in the first half of the fifth century, the White Monastery was once the heart of a federation of communities housing thousands of monks and nuns. Its name comes from the pale limestone of its walls, quarried in the western hills and supplemented by blocks reused from ancient Egyptian buildings, some still showing hieroglyphs and royal names. The church that survives is enormous for its age. From outside, its high, sloping walls topped by a cavetto cornice look almost like a pharaonic temple or a fortress. Inside, the long basilica nave is now open to the sky and serves as a courtyard, while worship continues in the eastern sanctuary, a trefoil of three apses with columns, niches and painted semi-domes, among them later medieval images of Christ and the Virgin. The monastery's library was once among the richest in Egypt; its Coptic manuscripts are now scattered among museums worldwide. Every July the feast of Shenoute draws large crowds of pilgrims, while on ordinary days the site is calm.",
+  "ar": "أسس الأنبا شنودة، أعظم رؤساء الأديرة تأثيرًا في الرهبنة القبطية، الدير الأبيض في النصف الأول من القرن الخامس، وكان يومًا قلب اتحاد من الأديرة ضم آلاف الرهبان والراهبات. ويرجع اسمه إلى الحجر الجيري الفاتح الذي بُنيت به جدرانه، وقد اقتُلع من التلال الغربية وأضيفت إليه كتل أعيد استخدامها من مبانٍ مصرية قديمة، لا يزال بعضها يحمل نقوشًا هيروغليفية وأسماء ملكية. والكنيسة الباقية ضخمة بمقاييس عصرها؛ فمن الخارج تبدو جدرانها العالية المائلة التي يتوجها كورنيش مقعّر أشبه بمعبد فرعوني أو بحصن. وفي الداخل صار صحن البازيليكا الطويل مكشوفًا للسماء ويُستخدم فناءً، بينما تستمر الصلاة في الهيكل الشرقي المكون من ثلاث حنيات بأعمدة ومحاريب وأنصاف قباب مرسومة، منها صور للسيد المسيح والعذراء من العصور الوسطى. وكانت مكتبة الدير من أغنى مكتبات مصر، وتتوزع مخطوطاتها القبطية اليوم بين متاحف العالم. وفي كل يوليو يجتذب عيد الأنبا شنودة حشودًا كبيرة من الزوار، بينما يسود الهدوء في الأيام العادية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Church of Abba Shenoute",
+    "ar": "كنيسة الأنبا شنودة"
+   },
+   "desc": {
+    "en": "Massive fifth-century limestone church with temple-like outer walls.",
+    "ar": "كنيسة ضخمة من الحجر الجيري من القرن الخامس بجدران خارجية تشبه المعابد."
+   }
+  },
+  {
+   "title": {
+    "en": "Reused pharaonic blocks",
+    "ar": "الكتل الفرعونية المعاد استخدامها"
+   },
+   "desc": {
+    "en": "Temple stones carved with hieroglyphs built into the walls.",
+    "ar": "أحجار معابد منقوشة بالهيروغليفية مدمجة في الجدران."
+   }
+  },
+  {
+   "title": {
+    "en": "Trefoil sanctuary",
+    "ar": "الهيكل ثلاثي الحنيات"
+   },
+   "desc": {
+    "en": "Three apses with columns, niches and painted semi-domes.",
+    "ar": "ثلاث حنيات بأعمدة ومحاريب وأنصاف قباب مرسومة."
+   }
+  },
+  {
+   "title": {
+    "en": "Medieval wall paintings",
+    "ar": "رسوم العصور الوسطى"
+   },
+   "desc": {
+    "en": "Images of Christ and the Virgin in the sanctuary.",
+    "ar": "صور السيد المسيح والعذراء في الهيكل."
+   }
+  },
+  {
+   "title": {
+    "en": "Open-air nave",
+    "ar": "الصحن المكشوف"
+   },
+   "desc": {
+    "en": "The roofless basilica nave, now a courtyard.",
+    "ar": "صحن البازيليكا بلا سقف، وقد صار فناءً."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "free"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Weekday mornings outside July.",
+   "ar": "صباح أيام الأسبوع خارج شهر يوليو."
+  },
+  "crowdNotes": {
+   "en": "The feast of St Shenoute (14 July) brings two weeks of celebrations and large crowds from mid to late July. Dress modestly and respect services. Combine with the Red Monastery three kilometres north.",
+   "ar": "يجلب عيد الأنبا شنودة (14 يوليو) احتفالات تمتد نحو أسبوعين وحشودًا كبيرة من منتصف يوليو حتى أواخره. التزم بالملابس المحتشمة واحترم الصلوات. ويمكن الجمع بينه وبين الدير الأحمر على بعد ثلاثة كيلومترات شمالًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/White_Monastery_06.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Monastery_06.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Coptic_Fresco_of_Theotokos_in_the_White_Monastery.jpg",
+   "author": "松照庵",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coptic_Fresco_of_Theotokos_in_the_White_Monastery.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/WhiteMonasterySouthSide.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:WhiteMonasterySouthSide.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/White_Monastery",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q202661",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/الدير-الأبيض/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Nov 2024 cross-check: 09:00-17:00, no price)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (free for Egyptians and foreigners, governor's statement; news 12 Jun 2025)",
+   "url": "https://www.dostor.org/5103575",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "visit.crowdNotes (feast of St Shenoute in July; news 19 Jul 2025)",
+   "url": "https://www.youm7.com/story/2025/7/19/%D8%A7%D9%84%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6-%D9%8A%D8%B6%D9%8A%D8%A1-%D8%B3%D9%88%D9%87%D8%A7%D8%AC-%D8%A3%D8%AC%D9%88%D8%A7%D8%A1-%D8%B1%D9%88%D8%AD%D9%8A%D8%A9-%D9%88%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%A8%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7-%D8%B4%D9%86%D9%88%D8%AF%D8%A9/7059787",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/White_Monastery",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:White_Monastery_06.JPG",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Coptic_Fresco_of_Theotokos_in_the_White_Monastery.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:WhiteMonasterySouthSide.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "prices.status 'free' from the Sohag governor's statement (dostor 12 Jun 2025: both monasteries open free all week); no MoTA page lists a ticket. Kept as free (batch-7 Q5a, 2026-10-04: a governor's statement counts as an official source). No egymonuments.gov.eg page. Feast date 7 Abib = 14 July (youm7 2025). Modern monastery gate photo ('White Monastery 01.JPG') rejected under no-FoP rule. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

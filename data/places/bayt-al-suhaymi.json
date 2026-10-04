@@ -1,0 +1,336 @@
+{
+ "id": "bayt-al-suhaymi",
+ "kind": "site",
+ "wikidataId": "Q3280142",
+ "name": {
+  "en": "Bayt al-Suhaymi",
+  "ar": "بيت السحيمي"
+ },
+ "aliases": [
+  "Al-Suhaymi House"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Al-Gamaliya, Historic Cairo",
+  "ar": "الجمالية، القاهرة التاريخية"
+ },
+ "address": {
+  "en": "Darb al-Asfar Lane, off al-Muizz Street, al-Gamaliya, Cairo",
+  "ar": "حارة الدرب الأصفر المتفرعة من شارع المعز، الجمالية، القاهرة"
+ },
+ "lat": 30.0522,
+ "lng": 31.2625,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily, with a shorter day on Friday. It has its own ticket, separate from the al-Muizz Street area ticket.",
+  "ar": "مفتوح يوميًا، ويكون يوم الجمعة أقصر. وله تذكرة مستقلة عن تذكرة منطقة شارع المعز."
+ },
+ "summary": {
+  "en": "A rambling Ottoman merchant's house of 1648 and 1796, with a shady garden courtyard, carved wooden screens and lavish reception halls.",
+  "ar": "بيت عثماني فسيح لأحد الوجهاء شُيّد على مرحلتين عامي 1648 و1796، بفناء تظلله الأشجار ومشربيات خشبية وقاعات استقبال فاخرة."
+ },
+ "description": {
+  "en": "Hidden down Darb al-Asfar, a lane leading off al-Muizz Street, Bayt al-Suhaymi is one of the finest surviving town houses of Ottoman Cairo. Shaykh Abd al-Wahhab al-Tablawi built the first part in 1648, and in 1796 Hajj Ismail Shalabi added a second wing and joined the two into a single residence. The house takes its name from its last owners, the family of Shaykh Muhammad Amin al-Suhaymi, a senior al-Azhar scholar, whose heirs sold it to the state's committee for Arab monuments in 1931. Its rooms are arranged around a large garden courtyard, so that daily life looked inward, away from the street. Wooden mashrabiya screens let the women of the household watch without being seen and kept the rooms cool, while a raised loggia caught the northern breeze for receiving guests in summer. The main reception halls have marble fountains, painted ceilings and walls of coloured tiles. Domestic details survive too: a private bath, a wooden birthing chair, wells, a waterwheel that irrigated the garden and a mill once turned by an ox. Restored in the late 1990s, the house is now a museum of Cairene domestic life.",
+  "ar": "في حارة الدرب الأصفر المتفرعة من شارع المعز يختبئ بيت السحيمي، أحد أجمل البيوت الباقية من القاهرة العثمانية. أنشأ الشيخ عبد الوهاب الطبلاوي الجزء الأول منه عام 1648م، ثم أضاف الحاج إسماعيل شلبي جناحًا ثانيًا عام 1796م وضمّ الجزأين في دار واحدة. ويحمل البيت اسم آخر من سكنه، وهي أسرة الشيخ محمد أمين السحيمي أحد كبار علماء الأزهر، التي باعه ورثتها عام 1931م إلى لجنة حفظ الآثار العربية. وتتوزع غرفه حول فناء واسع تتوسطه حديقة، بحيث تتجه الحياة اليومية إلى الداخل بعيدًا عن صخب الشارع. وكانت المشربيات الخشبية تتيح لنساء البيت أن يرين دون أن يُرين، وتلطّف حرارة الغرف، بينما يستقبل المقعد المرتفع نسيم الشمال لاستقبال الضيوف في الصيف. وتضم قاعات الاستقبال الرئيسية فساقي رخامية وأسقفًا ملونة وجدرانًا مكسوة بالبلاطات الخزفية. كما بقيت تفاصيل الحياة المنزلية: حمّام خاص، وكرسي خشبي للولادة، وآبار، وساقية كانت تروي الحديقة، وطاحونة كان يديرها ثور. وبعد ترميمه في أواخر التسعينيات صار البيت متحفًا لحياة البيت القاهري."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Garden courtyard",
+    "ar": "الفناء والحديقة"
+   },
+   "desc": {
+    "en": "A planted courtyard at the heart of the house, overlooked by its finest façades.",
+    "ar": "فناء مزروع في قلب البيت تطل عليه أجمل واجهاته."
+   }
+  },
+  {
+   "title": {
+    "en": "Mashrabiya windows",
+    "ar": "المشربيات"
+   },
+   "desc": {
+    "en": "Turned-wood screens that shaded the rooms and kept the household private.",
+    "ar": "حواجز من الخشب الخرط تظلل الغرف وتحفظ خصوصية أهل البيت."
+   }
+  },
+  {
+   "title": {
+    "en": "The maq'ad",
+    "ar": "المقعد"
+   },
+   "desc": {
+    "en": "An open loggia facing the north breeze, used to receive male guests.",
+    "ar": "شرفة مفتوحة تواجه نسيم الشمال كانت مخصصة لاستقبال الضيوف من الرجال."
+   }
+  },
+  {
+   "title": {
+    "en": "Main reception hall",
+    "ar": "القاعة الرئيسية"
+   },
+   "desc": {
+    "en": "A lofty qa'a with a marble fountain, painted ceiling and tiled walls.",
+    "ar": "قاعة مرتفعة بفسقية رخامية وسقف ملون وجدران مكسوة بالقاشاني."
+   }
+  },
+  {
+   "title": {
+    "en": "Bath and birthing chair",
+    "ar": "الحمّام وكرسي الولادة"
+   },
+   "desc": {
+    "en": "A private domed bath and a wooden birthing chair recall everyday family life.",
+    "ar": "حمّام خاص مقبب وكرسي خشبي للولادة يستحضران تفاصيل الحياة الأسرية."
+   }
+  },
+  {
+   "title": {
+    "en": "Waterwheel and mill",
+    "ar": "الساقية والطاحونة"
+   },
+   "desc": {
+    "en": "The garden's waterwheel gear and an animal-driven mill survive in the service yard.",
+    "ar": "بقيت تروس ساقية الحديقة وطاحونة كانت تديرها الدواب في فناء الخدمة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Houseofsuhaym",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Weekday mornings, when the courtyard is quiet and the light falls on the mashrabiya.",
+   "ar": "صباح أيام الأسبوع، حين يكون الفناء هادئًا والضوء يسقط على المشربيات."
+  },
+  "crowdNotes": {
+   "en": "Usually calm compared with al-Muizz Street outside. Stairs between floors are narrow and uneven.",
+   "ar": "هادئ عادة مقارنة بشارع المعز في الخارج. والسلالم بين الطوابق ضيقة وغير منتظمة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bayt_Al-Suhaymi.jpg",
+   "author": "Keladawy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayt_Al-Suhaymi.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/El_Cairo%2C_Bayt_al-Suhaymi_1999_06.jpg",
+   "author": "LBM1948",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Cairo,_Bayt_al-Suhaymi_1999_06.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Elsehimy_house_1.JPG",
+   "author": "Mohamed Ouda",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elsehimy_house_1.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/bayt-al-suhaymi-house-of-suhaymi/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Bayt_al-Suhaymi",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D8%B3%D8%AD%D9%8A%D9%85%D9%8A",
+  "osm": "relation/16794597"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q3280142",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/bayt-al-suhaymi-house-of-suhaymi/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),freeGroups (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/Houseofsuhaym",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/82",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Friday close),prices,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/bayt-al-suhaymi-house-of-suhaymi/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/بيت-السحيمي/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Bayt_al-Suhaymi",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Friday: egymonuments.gov.eg says 09:00-16:00 while the MoTA guide says 09:00-17:00 every day and egymonuments.com gives last entry 16:00 all days; the earlier Friday close (16:00, last entry 15:00) is used."
+}

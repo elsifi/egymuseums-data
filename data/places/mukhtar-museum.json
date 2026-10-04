@@ -1,0 +1,312 @@
+{
+ "id": "mukhtar-museum",
+ "kind": "museum",
+ "wikidataId": "Q6933506",
+ "name": {
+  "en": "Mukhtar Museum",
+  "ar": "متحف مختار"
+ },
+ "category": "modern-art",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Gezira (Hurriya Garden)",
+  "ar": "الجزيرة (حديقة الحرية)"
+ },
+ "address": {
+  "en": "25 Tahrir Street, Gezira, Cairo — in Hurriya Garden next to the Cairo Club, near the Opera House",
+  "ar": "25 شارع التحرير، الجزيرة، القاهرة — داخل حديقة الحرية بجوار نادي القاهرة وقرب دار الأوبرا"
+ },
+ "lat": 30.0405,
+ "lng": 31.2229,
+ "status": "open",
+ "statusNote": {
+  "en": "Open five days a week; closed on Mondays, Fridays and official holidays.",
+  "ar": "مفتوح خمسة أيام في الأسبوع، ويُغلق يومي الاثنين والجمعة والعطلات الرسمية."
+ },
+ "summary": {
+  "en": "The museum and resting place of Mahmoud Mukhtar, father of modern Egyptian sculpture and creator of \"Egypt's Renaissance\".",
+  "ar": "متحف محمود مختار ومثواه، رائد النحت المصري الحديث وصاحب تمثال «نهضة مصر»."
+ },
+ "description": {
+  "en": "Mahmoud Mukhtar (1891–1934) was the first Egyptian sculptor of the modern age to win international recognition, and his monumental \"Egypt's Renaissance\", a peasant woman lifting her veil beside a rising sphinx, became a symbol of the 1919 national movement. After his early death, intellectuals led by Huda Shaarawi campaigned to gather his scattered works, many of them still in Paris. In 1938 the education ministry decided to create a museum and a tomb for him, and after the war Taha Hussein helped bring the remaining pieces home; a first, temporary museum opened in 1952 in an annex of the modern art museum. The present building, a low modernist pavilion in Hurriya Garden on Gezira Island, was designed by the artist-architect Ramses Wissa Wassef and opened in July 1962. Mukhtar is buried within the museum. Its galleries hold his sculptures in granite, basalt, marble, limestone, bronze and plaster, from Parisian-period studies to the stylised peasant women of his maturity, together with his tools, documents and medals. A room honours Saad Zaghloul, whose portrait Mukhtar sculpted. The display was renewed in 2012 with new lighting and security.",
+  "ar": "كان محمود مختار (1891–1934) أول نحات مصري في العصر الحديث ينال شهرة عالمية، وصار تمثاله الضخم «نهضة مصر»، الذي يصوّر فلاحة ترفع نقابها إلى جوار أبي الهول وهو ينهض، رمزًا للحركة الوطنية في ثورة 1919. وبعد رحيله المبكر قاد مثقفون في مقدمتهم هدى شعراوي حملة لجمع أعماله المتفرقة، وكان كثير منها لا يزال في باريس. وفي عام 1938 قررت وزارة المعارف إنشاء متحف ومقبرة له، وبعد الحرب أسهم طه حسين في إعادة ما تبقى من أعماله، فافتُتح أول متحف مؤقت يحمل اسمه عام 1952 في ملحق متحف الفن الحديث. أما المبنى الحالي، وهو جناح حداثي منخفض في حديقة الحرية بجزيرة الزمالك، فقد صممه الفنان المعماري رمسيس ويصا واصف وافتُتح في يوليو 1962. ويرقد مختار داخل المتحف. وتضم قاعاته منحوتاته من الجرانيت والبازلت والرخام والحجر الجيري والبرونز والجص، من دراسات مرحلته الباريسية إلى تماثيل الفلاحات المحوّرة في مرحلة نضجه، إلى جانب أدواته ووثائقه وأوسمته. وتُخصص قاعة لسعد زغلول الذي نحت مختار رأسه. وقد جُدد العرض عام 2012 بنظم حديثة للإضاءة والتأمين."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "\"Egypt's Renaissance\" (Nahdet Masr)",
+    "ar": "نهضة مصر"
+   },
+   "desc": {
+    "en": "Mukhtar's version of his famous national monument of a peasant woman beside a rising sphinx.",
+    "ar": "نسخة مختار من تمثاله الوطني الشهير: فلاحة إلى جوار أبي الهول وهو ينهض."
+   }
+  },
+  {
+   "title": {
+    "en": "Head of Saad Zaghloul",
+    "ar": "رأس سعد زغلول"
+   },
+   "desc": {
+    "en": "A bronze portrait of the nationalist leader in a room dedicated to him.",
+    "ar": "رأس من البرونز لزعيم الأمة في قاعة مخصصة له."
+   }
+  },
+  {
+   "title": {
+    "en": "Women with water jars",
+    "ar": "حاملات الجرار"
+   },
+   "desc": {
+    "en": "Stylised peasant women carrying jars, a theme Mukhtar returned to again and again.",
+    "ar": "فلاحات محوّرات يحملن الجرار، وهو موضوع عاد إليه مختار مرارًا."
+   }
+  },
+  {
+   "title": {
+    "en": "\"Guardian of the Fields\" and \"On the Banks of the Nile\"",
+    "ar": "«حارس الحقول» و«على ضفاف النيل»"
+   },
+   "desc": {
+    "en": "Scenes of rural life carved with a modern simplicity.",
+    "ar": "مشاهد من الحياة الريفية منحوتة ببساطة حديثة."
+   }
+  },
+  {
+   "title": {
+    "en": "\"Grief\"",
+    "ar": "«الحزن»"
+   },
+   "desc": {
+    "en": "A mourning figure echoing ancient Egyptian funerary sculpture.",
+    "ar": "تمثال لامرأة حزينة يستلهم النحت الجنائزي المصري القديم."
+   }
+  },
+  {
+   "title": {
+    "en": "Mukhtar's tomb",
+    "ar": "مقبرة مختار"
+   },
+   "desc": {
+    "en": "The sculptor's burial place within the museum.",
+    "ar": "مدفن النحات داخل المتحف."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (Fine Arts Sector museums)",
+     "ar": "مواعيد شهر رمضان (متاحف قطاع الفنون التشكيلية)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "closed": true
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 5
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 3
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "People with special needs",
+   "Veterans",
+   "Seniors over 60",
+   "Children under 12",
+   "Members of artists' professional syndicates",
+   "Members of national museum committees"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Weekday mornings; combine with the Museum of Modern Egyptian Art at the Opera House nearby.",
+   "ar": "صباح أيام الأسبوع، مع الجمع بين الزيارة ومتحف الفن المصري الحديث في دار الأوبرا القريبة."
+  },
+  "crowdNotes": {
+   "en": "Usually quiet. The large \"Egypt's Renaissance\" monument itself stands in front of Cairo University in Giza.",
+   "ar": "هادئ عادة. أما تمثال «نهضة مصر» الكبير نفسه فيقف أمام جامعة القاهرة بالجيزة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mahmoud_Mukhtar_Museum_001.jpg",
+   "author": "Amr F.Nagy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahmoud_Mukhtar_Museum_001.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mahmoud_Mukhtar_Museum_005.jpg",
+   "author": "Amr F.Nagy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahmoud_Mukhtar_Museum_005.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mahmoud_Mukhtar_Museum_012.jpg",
+   "author": "Amr F.Nagy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahmoud_Mukhtar_Museum_012.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 2 2735 2519",
+  "website": "http://www.fineart.gov.eg/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mukhtar_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1",
+  "osm": "way/30065591"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6933506",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (summer 2026, closed days)",
+   "url": "https://www.youm7.com/story/2026/6/4/x/7437546",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,freeGroups,address,contacts (official Fine Arts Sector visitor page)",
+   "url": "http://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=29",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (history, works on display)",
+   "url": "https://www.dostor.org/5325153",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Mukhtar_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Hours: Fine Arts Sector head, youm7 2026-06-04: 09:00-16:00, closed Fri and Mon (sector page fineart.gov.eg says 10:00-16:00; dated 2026 statement used). No last entry published. Ramadan: sector-wide 10:00-14:00 (Ramadan 2026). Prices 5/3/10 and free groups from the undated official fineart.gov.eg visitor page (live official page, house rule); no 2025-2026 price decision found - page also shows outdated hours, so prices should be confirmed by phone. Work count conflicts (85 per en-wiki, ~175 per dostor 2025) so no number is given. Tomb location (basement vs garden) not given precisely. Photos show Mukhtar's own sculptures (PD in Egypt; he died 1934); the 1962 building is not a main subject."
+}

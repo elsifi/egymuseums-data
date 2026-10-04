@@ -1,0 +1,277 @@
+{
+ "id": "monastery-of-st-simeon",
+ "kind": "site",
+ "wikidataId": "Q1626365",
+ "name": {
+  "en": "Monastery of St. Simeon",
+  "ar": "دير الأنبا سمعان بأسوان"
+ },
+ "aliases": [
+  "Deir Anba Hadra",
+  "monastery of St Simeon",
+  "Monastery of Saint Simeon"
+ ],
+ "category": "coptic",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Aswan",
+  "ar": "أسوان"
+ },
+ "area": {
+  "en": "West bank, Aswan",
+  "ar": "البر الغربي، أسوان"
+ },
+ "address": {
+  "en": "Desert plateau on the west bank of Aswan, behind the Aga Khan Mausoleum and opposite Elephantine Island",
+  "ar": "هضبة صحراوية على البر الغربي لأسوان، خلف ضريح الأغاخان وقبالة جزيرة إلفنتين"
+ },
+ "lat": 24.094722,
+ "lng": 32.875778,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The monastery is a ruin with no resident community.",
+  "ar": "مفتوح يوميًا، والدير أطلال لا تقيم فيه جماعة رهبانية."
+ },
+ "summary": {
+  "en": "A fortified medieval monastery in the desert above Aswan's west bank, among the best-preserved in Egypt.",
+  "ar": "دير محصن من العصور الوسطى في الصحراء فوق البر الغربي لأسوان، من أفضل الأديرة القديمة حفظًا في مصر."
+ },
+ "description": {
+  "en": "Known locally as Deir Anba Hadra, after a local saint who lived as a monk around 400 AD and later became bishop of Aswan, this monastery stands alone on a desert terrace above the west bank, looking across to Elephantine Island. Why it is also called the Monastery of St Simeon remains unknown. Built of stone and mud brick, it was in use from about the sixth or seventh century until the early fourteenth, and its isolation and dry climate have preserved much of its original layout. A high enclosure wall with two gates surrounds two levels separated by a rocky step. On the lower level stand the church, whose walls and vaults keep traces of colourful paintings, and the cave chapel traditionally linked with Anba Hadra. The upper level is dominated by a two-storey residential block with rows of monks' cells, together with a refectory, storerooms, ovens, oil presses and workshops that allowed the community to live within its walls. Graffiti in Coptic and Arabic, left by monks and visitors, survive on many surfaces. A festival is still held at the site each year on 21 December.",
+  "ar": "يُعرف هذا الدير محليًا باسم دير الأنبا هدرا، نسبة إلى قديس محلي عاش راهبًا نحو عام 400 للميلاد ثم صار أسقفًا لأسوان، ويقف منفردًا على مصطبة صحراوية فوق البر الغربي مطلًا على جزيرة إلفنتين. ولا يزال سبب تسميته بدير الأنبا سمعان مجهولًا. بُني من الحجر والطوب اللبن، وظل مأهولًا منذ القرن السادس أو السابع تقريبًا حتى مطلع القرن الرابع عشر، وقد حفظت عزلته وجفاف مناخه كثيرًا من تخطيطه الأصلي. ويحيط به سور مرتفع ذو بوابتين يضم مستويين يفصل بينهما منحدر صخري. وفي المستوى السفلي تقوم الكنيسة التي تحتفظ جدرانها وأقبيتها ببقايا رسوم ملونة، والمغارة التي يربطها التقليد بالأنبا هدرا. أما المستوى العلوي فيهيمن عليه مبنى سكني من طابقين تصطف فيه قلالي الرهبان، إلى جانب المائدة والمخازن والأفران ومعاصر الزيت والورش التي مكنت الجماعة من العيش داخل أسوارها. ولا تزال كتابات تذكارية بالقبطية والعربية تركها الرهبان والزوار باقية على أسطح كثيرة. ويُقام في الموقع احتفال سنوي في 21 ديسمبر من كل عام."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Enclosure wall",
+    "ar": "السور الخارجي"
+   },
+   "desc": {
+    "en": "High walls and gates that gave the monastery its fortress-like look.",
+    "ar": "أسوار عالية وبوابات تمنح الدير مظهر الحصن."
+   }
+  },
+  {
+   "title": {
+    "en": "Church paintings",
+    "ar": "رسوم الكنيسة"
+   },
+   "desc": {
+    "en": "Traces of colourful wall paintings on the church walls and vaults.",
+    "ar": "بقايا رسوم جدارية ملونة على جدران الكنيسة وأقبيتها."
+   }
+  },
+  {
+   "title": {
+    "en": "Grotto of Anba Hadra",
+    "ar": "مغارة الأنبا هدرا"
+   },
+   "desc": {
+    "en": "A cave chapel traditionally associated with the monastery's saint.",
+    "ar": "مغارة يربطها التقليد بقديس الدير."
+   }
+  },
+  {
+   "title": {
+    "en": "Monks' residence",
+    "ar": "مسكن الرهبان"
+   },
+   "desc": {
+    "en": "A two-storey block of cells on the upper terrace.",
+    "ar": "مبنى من طابقين تصطف فيه القلالي على المصطبة العليا."
+   }
+  },
+  {
+   "title": {
+    "en": "Monastic workshops",
+    "ar": "مرافق الدير"
+   },
+   "desc": {
+    "en": "Refectory, ovens, oil presses and storerooms of a self-sufficient community.",
+    "ar": "المائدة والأفران ومعاصر الزيت والمخازن لجماعة مكتفية بذاتها."
+   }
+  },
+  {
+   "title": {
+    "en": "Coptic and Arabic graffiti",
+    "ar": "الكتابات القبطية والعربية"
+   },
+   "desc": {
+    "en": "Inscriptions left over centuries by monks and visitors.",
+    "ar": "نقوش تركها الرهبان والزوار عبر القرون."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/SamaanMonastery",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 105,
+  "bestTime": {
+   "en": "Early morning or late afternoon, avoiding the midday heat on the exposed plateau.",
+   "ar": "الصباح الباكر أو آخر العصر، تجنبًا لحر الظهيرة على الهضبة المكشوفة."
+  },
+  "crowdNotes": {
+   "en": "Reached by boat to the west bank, then a walk of roughly half an hour up a sandy slope or a camel ride; bring water and sun protection.",
+   "ar": "يُوصل إليه بالقارب إلى البر الغربي ثم سيرًا نحو نصف ساعة على منحدر رملي أو على ظهر جمل، ويُستحسن حمل الماء ووسائل الوقاية من الشمس."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Assuan_Simeonskloster_04.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Assuan_Simeonskloster_04.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Aswan_St_Simeon_R01.jpg",
+   "author": "Marc Ryckaert (MJJR)",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aswan_St_Simeon_R01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Monastery_of_St._Simeon_1.jpg",
+   "author": "upyernoz",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monastery_of_St._Simeon_1.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/monastery-of-st-simeon/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7_%D8%B3%D9%85%D8%B9%D8%A7%D9%86_%D8%A8%D8%A3%D8%B3%D9%88%D8%A7%D9%86",
+  "osm": "way/1080076880"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1626365",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/monastery-of-st-simeon/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,description,highlights (portal; portal foreign adult price 150 not used, see curationNote)",
+   "url": "https://egymonuments.gov.eg/en/monuments/monastery-of-st-simeon/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry),prices,freeGroups,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/SamaanMonastery",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7-%D8%B3%D9%85%D8%B9%D8%A7%D9%86/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (cross-check: foreign 100/50, Egyptian 10/5)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Price conflict: egymonuments.gov.eg says foreign adult 150 / student 50; the booking platform and MoTA's Nov 2024 list say 100 / 50. Decided 2026-10-04 (batch-4 Q1a, D4 pattern): amount = 100, the price on the booking platform and the Nov 2024 MoTA list; the portal's 150 is treated as outdated (it also breaks the half-price student rule, as its own student price is 50), so no onlineAmount. Booking page Ramadan row equals the normal schedule, so no exception. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

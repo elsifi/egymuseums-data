@@ -1,0 +1,350 @@
+{
+ "id": "tell-el-amarna",
+ "kind": "site",
+ "wikidataId": "Q5736",
+ "name": {
+  "en": "Tell el-Amarna",
+  "ar": "تل العمارنة"
+ },
+ "aliases": [
+  "العمارنة al-‘amārnah",
+  "Akhetaten",
+  "Akhetaton",
+  "El-Amarna",
+  "Tel el-Amarna",
+  "Amarna"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "minya",
+ "city": {
+  "en": "Deir Mawas",
+  "ar": "دير مواس"
+ },
+ "area": {
+  "en": "Beni Imran village, east bank of the Nile",
+  "ar": "قرية بني عمران، البر الشرقي للنيل"
+ },
+ "address": {
+  "en": "Beni Imran village, Deir Mawas, Minya Governorate (east bank, opposite Deir Mawas)",
+  "ar": "قرية بني عمران، دير مواس، محافظة المنيا (البر الشرقي في مواجهة دير مواس)"
+ },
+ "lat": 27.661667,
+ "lng": 30.905556,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The site is spread over several kilometres of desert plain; which tombs are open on a given day can vary, and the remote Royal Tomb has historically required a separate ticket.",
+  "ar": "مفتوح يوميًا. ينتشر الموقع على عدة كيلومترات من السهل الصحراوي، وقد تتغير المقابر المفتوحة من يوم لآخر، كما كانت المقبرة الملكية النائية تتطلب تذكرة منفصلة."
+ },
+ "summary": {
+  "en": "Akhenaten's short-lived capital of the sun disc, with officials' tombs carved with hymns to the Aten, palace and temple foundations, and boundary stelae on the cliffs.",
+  "ar": "عاصمة إخناتون قصيرة العمر المكرسة لقرص الشمس، بمقابر لكبار رجال الدولة نُقشت عليها أناشيد آتون، وأسس قصور ومعابد، ولوحات حدود على الجبال."
+ },
+ "description": {
+  "en": "Around 1346 BC the pharaoh Akhenaten left Thebes and founded a new capital on an empty bay of desert on the east bank of the Nile, naming it Akhetaten, \"Horizon of the Aten\". For about fifteen years it was the centre of his religious revolution, devoted to the sun disc alone. Fourteen boundary stelae carved into the surrounding cliffs mark the city's limits. After the king's death the court returned to Thebes and the mud-brick city was abandoned, which preserved its plan unusually well: royal palaces, temples to the Aten, workshops and whole residential quarters, including the house where the famous bust of Nefertiti was found. The site also yielded the Amarna Letters, cuneiform tablets that form the oldest diplomatic archive known. Today visitors cross the plain to the foundations of the Small Aten Temple and the palaces, and climb to two groups of rock-cut tombs prepared for courtiers. Their walls show the royal family under the rays of the Aten in the relaxed, expressive Amarna style, and the tomb of Ay preserves the longest copy of the Great Hymn to the Aten. The Royal Tomb lies far up a desert wadi.",
+  "ar": "نحو عام 1346 ق.م غادر الملك إخناتون طيبة وأسس عاصمة جديدة في سهل صحراوي خالٍ على البر الشرقي للنيل، وسماها «آخت آتون» أي «أفق آتون». وظلت قرابة خمسة عشر عامًا مركز ثورته الدينية المكرسة لقرص الشمس وحده. وتحدد أربع عشرة لوحة حدود منحوتة في الجبال المحيطة نطاق المدينة. وبعد وفاة الملك عاد البلاط إلى طيبة وهُجرت المدينة المبنية بالطوب اللبن، فحُفظ تخطيطها على نحو نادر: قصور ملكية ومعابد لآتون وورش وأحياء سكنية كاملة، منها البيت الذي عُثر فيه على تمثال نفرتيتي النصفي الشهير. وفي الموقع نفسه عُثر على رسائل تل العمارنة، وهي ألواح مسمارية تمثل أقدم أرشيف دبلوماسي معروف. ويعبر الزائر اليوم السهل إلى أسس معبد آتون الصغير والقصور، ثم يصعد إلى مجموعتين من المقابر المنحوتة في الصخر أُعدت لرجال البلاط. وتصور جدرانها الأسرة المالكة تحت أشعة آتون بأسلوب العمارنة المتحرر المعبّر، وتحتفظ مقبرة آي بأطول نسخة من النشيد الكبير لآتون. أما المقبرة الملكية فتقع بعيدًا في أعماق وادٍ صحراوي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Northern tombs",
+    "ar": "المقابر الشمالية"
+   },
+   "desc": {
+    "en": "Courtiers' tombs showing the royal family worshipping the Aten.",
+    "ar": "مقابر رجال البلاط تصور الأسرة المالكة تتعبد لآتون."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Ay",
+    "ar": "مقبرة آي"
+   },
+   "desc": {
+    "en": "Southern tomb with the longest copy of the Great Hymn to the Aten.",
+    "ar": "مقبرة جنوبية تضم أطول نسخة من النشيد الكبير لآتون."
+   }
+  },
+  {
+   "title": {
+    "en": "Small Aten Temple",
+    "ar": "معبد آتون الصغير"
+   },
+   "desc": {
+    "en": "Foundations and partly rebuilt columns at the heart of the city.",
+    "ar": "أسس وأعمدة أعيد بناء بعضها في قلب المدينة."
+   }
+  },
+  {
+   "title": {
+    "en": "Palaces of Akhetaten",
+    "ar": "قصور آخت آتون"
+   },
+   "desc": {
+    "en": "Outlines of the royal palaces, including the North Palace.",
+    "ar": "مخططات القصور الملكية، ومنها القصر الشمالي."
+   }
+  },
+  {
+   "title": {
+    "en": "Boundary stelae",
+    "ar": "لوحات الحدود"
+   },
+   "desc": {
+    "en": "Rock-cut decrees marking the limits of Akhenaten's city.",
+    "ar": "مراسيم منحوتة في الصخر تحدد نطاق مدينة إخناتون."
+   }
+  },
+  {
+   "title": {
+    "en": "Royal Tomb",
+    "ar": "المقبرة الملكية"
+   },
+   "desc": {
+    "en": "Akhenaten's tomb, far up a desert wadi east of the city.",
+    "ar": "مقبرة إخناتون في أعماق وادٍ صحراوي شرق المدينة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Amarna",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 120,
+  "standardMinutes": 180,
+  "deepMinutes": 300,
+  "bestTime": {
+   "en": "Start at opening: the site is large, exposed and hot by midday.",
+   "ar": "ابدأ مع الافتتاح؛ فالموقع واسع ومكشوف وشديد الحرارة عند الظهيرة."
+  },
+  "crowdNotes": {
+   "en": "Very quiet. Visitors usually reach the east bank by local ferry from the Deir Mawas side; distances between the tomb groups, the city ruins and the Royal Tomb are large, so arrange transport on site and carry water and a torch. Foreign visitors travelling by road in Minya governorate may be asked by police to register their route or travel with an escort; drivers usually arrange this a day ahead.",
+   "ar": "هادئ جدًا. يصل الزوار عادة إلى البر الشرقي بالمعدية المحلية من جهة دير مواس، والمسافات كبيرة بين مجموعات المقابر وأطلال المدينة والمقبرة الملكية، فرتب وسيلة انتقال داخل الموقع واحمل الماء ومصباحًا. وقد تطلب الشرطة من الزوار الأجانب المسافرين برًا في محافظة المنيا تسجيل خط سيرهم أو التحرك بمرافقة أمنية، ويرتب السائقون ذلك عادة قبل الزيارة بيوم."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Amarna_Nordgr%C3%A4ber_02.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amarna_Nordgr%C3%A4ber_02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Penthu%E2%80%99s_Amarna_Tomb_5_interior.jpg",
+   "author": "Aidan McRae Thomson",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Penthu%E2%80%99s_Amarna_Tomb_5_interior.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amarna_Kleiner_Aton-Tempel_01.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amarna_Kleiner_Aton-Tempel_01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Amarna",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84_%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D9%86%D8%A9",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q5736",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/تل-العمارنة/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (last entry 16:00; Ramadan 09:00, last entry 15:00),tickets,freeGroups",
+   "url": "https://egymonuments.com/details/Amarna",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Nov 2024 cross-check: foreign 200/100, Egyptian 20/10; Royal Tomb separate)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (site layout, news 23 Sep 2026)",
+   "url": "https://www.youm7.com/story/2026/9/23/%D9%87%D9%86%D8%A7-%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D9%85%D8%B5%D8%B1-%D9%81%D9%89-%D8%B9%D9%87%D8%AF-%D8%A5%D8%AE%D9%86%D8%A7%D8%AA%D9%88%D9%86-%D9%88%D9%86%D9%81%D8%B1%D8%AA%D9%8A%D8%AA%D9%89-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%AA%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D9%86%D8%A9/7554710",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (visited by tour groups, news 23 Sep 2026)",
+   "url": "https://www.youm7.com/story/2026/9/23/%D9%88%D9%81%D9%88%D8%AF-%D9%85%D9%86-4-%D8%AF%D9%88%D9%84-%D8%AA%D8%B2%D9%88%D8%B1-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%AA%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D9%86%D8%A9-%D9%88%D8%AA%D9%88%D9%86%D8%A7-%D8%A7%D9%84%D8%AC%D8%A8%D9%84/7555583",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Amarna",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Amarna_Nordgr%C3%A4ber_02.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Penthu%E2%80%99s_Amarna_Tomb_5_interior.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Amarna_Kleiner_Aton-Tempel_01.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Egyptian price: booking platform (only live official price page) 10/5; MoTA Nov 2024 PDF 20/10. No egymonuments.gov.eg page, so amount = booking platform price; batch-7 Q3a applied 2026-10-04. Royal Tomb: Nov 2024 PDF lists a separate ticket (foreign 120/60, Egyptian 20/10) but no 2025-26 source and no booking product, so no extra is given; statusNote says 'historically'. Which tombs are open is not confirmed (2026 news lists the layout only). Ferry and on-site transport are general advice. Booking platform has a typo for winter opening ('08:00 pm'). Minya escort note is anecdotal (travel forums). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

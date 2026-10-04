@@ -1,0 +1,278 @@
+{
+ "id": "kalabsha-temple",
+ "kind": "site",
+ "wikidataId": "Q11704302",
+ "name": {
+  "en": "Temple of Kalabsha",
+  "ar": "معبد كلابشة"
+ },
+ "aliases": [
+  "معبدكلابشة",
+  "New Kalabsha",
+  "كلابشة",
+  "Kalabsha"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "New Kalabsha",
+  "ar": "كلابشة"
+ },
+ "area": {
+  "en": "New Kalabsha, near the Aswan High Dam",
+  "ar": "كلابشة الجديدة، بالقرب من السد العالي"
+ },
+ "address": {
+  "en": "New Kalabsha, west bank of Lake Nasser just south of the High Dam, Aswan — reached by motorboat",
+  "ar": "كلابشة الجديدة، على الضفة الغربية لبحيرة ناصر جنوب السد العالي مباشرة، أسوان — يُوصل إليها بالقارب"
+ },
+ "lat": 23.9609,
+ "lng": 32.86734,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Access is by motorboat from the High Dam area; the boat fare is paid separately.",
+  "ar": "مفتوح يوميًا، والوصول بالقارب من منطقة السد العالي، وتُدفع أجرة القارب منفصلة."
+ },
+ "summary": {
+  "en": "The largest free-standing temple of Egyptian Nubia, rebuilt beside the High Dam together with smaller rescued monuments.",
+  "ar": "أكبر معبد قائم بذاته في النوبة المصرية، أعيد تشييده بجوار السد العالي مع آثار أصغر جرى إنقاذها."
+ },
+ "description": {
+  "en": "The Temple of Kalabsha was built in the reign of Augustus, the first Roman emperor, for Mandulis, a Nubian sun god, with Isis and Osiris also honoured here. It originally stood on Kalabsha Island, about fifty kilometres south of Aswan, and is the largest free-standing temple of Lower Nubia. When the waters behind the High Dam began to rise, the temple was cut into thousands of blocks and re-erected in the early 1960s on a promontory near the dam, now known as New Kalabsha. Its plan is classic: a monumental pylon, an open forecourt, a columned hall, two transverse offering rooms and the sanctuary. The reliefs combine traditional Egyptian scenes with later inscriptions in Meroitic and Greek, and crosses carved into the walls recall the building's reuse as a church. A partly rock-cut chapel to the Nubian god Dedwen and a small Ptolemaic chapel stand nearby. The same site gathers other rescued monuments, notably the rock temple of Beit el-Wali built by Ramesses II and the elegant kiosk of Qertassi, making it a rewarding and usually peaceful excursion.",
+  "ar": "شُيد معبد كلابشة في عهد أغسطس، أول أباطرة الرومان، للمعبود النوبي مندوليس رب الشمس، كما عُبدت فيه إيزيس وأوزير. وكان قائمًا في الأصل على جزيرة كلابشة على بعد نحو خمسين كيلومترًا جنوب أسوان، وهو أكبر معبد قائم بذاته في النوبة السفلى. وحين بدأت المياه ترتفع خلف السد العالي، قُطع المعبد إلى آلاف الكتل وأعيد تشييده في مطلع الستينيات على لسان من الأرض قرب السد يُعرف اليوم بكلابشة الجديدة. ويتبع تخطيطه النمط المعتاد: صرح ضخم، ففناء مكشوف، فصالة أعمدة، ثم حجرتان عرضيتان للقرابين، وأخيرًا قدس الأقداس. وتجمع نقوشه بين المشاهد المصرية التقليدية وكتابات لاحقة بالمروية واليونانية، كما تذكّر الصلبان المحفورة على جدرانه بتحويله إلى كنيسة. وعلى مقربة منه مقصورة منحوتة جزئيًا في الصخر للمعبود النوبي ددون، ومقصورة صغيرة من العصر البطلمي. ويضم الموقع نفسه آثارًا أخرى جرى إنقاذها، أبرزها معبد بيت الوالي المنحوت في الصخر للملك رمسيس الثاني، وكشك قرطاسي الأنيق، مما يجعله رحلة مجزية وهادئة في الغالب."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Temple of Mandulis",
+    "ar": "معبد مندوليس"
+   },
+   "desc": {
+    "en": "Pylon, forecourt, columned hall and sanctuary of the Augustan temple.",
+    "ar": "الصرح والفناء وصالة الأعمدة وقدس الأقداس في معبد عصر أغسطس."
+   }
+  },
+  {
+   "title": {
+    "en": "Multilingual inscriptions",
+    "ar": "النقوش متعددة اللغات"
+   },
+   "desc": {
+    "en": "Texts in Meroitic and Greek alongside the Egyptian reliefs.",
+    "ar": "كتابات بالمروية واليونانية إلى جانب النقوش المصرية."
+   }
+  },
+  {
+   "title": {
+    "en": "Christian crosses",
+    "ar": "الصلبان المسيحية"
+   },
+   "desc": {
+    "en": "Crosses cut into the walls when the temple served as a church.",
+    "ar": "صلبان محفورة في الجدران حين استُخدم المعبد كنيسة."
+   }
+  },
+  {
+   "title": {
+    "en": "Chapel of Dedwen",
+    "ar": "مقصورة ددون"
+   },
+   "desc": {
+    "en": "A partly rock-cut shrine to a Nubian god, south-west of the temple.",
+    "ar": "مقصورة منحوتة جزئيًا في الصخر لمعبود نوبي جنوب غرب المعبد."
+   }
+  },
+  {
+   "title": {
+    "en": "Beit el-Wali",
+    "ar": "بيت الوالي"
+   },
+   "desc": {
+    "en": "A small rock temple of Ramesses II with lively battle scenes.",
+    "ar": "معبد صخري صغير لرمسيس الثاني بمشاهد معارك نابضة بالحياة."
+   }
+  },
+  {
+   "title": {
+    "en": "Kiosk of Qertassi",
+    "ar": "كشك قرطاسي"
+   },
+   "desc": {
+    "en": "A graceful Roman-period kiosk with Hathor-headed columns.",
+    "ar": "كشك رشيق من العصر الروماني بأعمدة تعلوها رؤوس حتحور."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/TempleofKalabsha",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning, combined with the High Dam; light on the façade is best before midday.",
+   "ar": "الصباح مع زيارة السد العالي، وتكون الإضاءة على الواجهة أجمل قبل الظهر."
+  },
+  "crowdNotes": {
+   "en": "Usually quiet, as few large groups come. Boats wait at a landing near the High Dam; agree the fare and waiting time before leaving, and allow extra time when the lake is choppy.",
+   "ar": "هادئ عادة لقلة المجموعات الكبيرة. تنتظر القوارب عند مرسى قرب السد العالي، ويُستحسن الاتفاق على الأجرة ومدة الانتظار قبل الانطلاق، مع حساب وقت إضافي إذا اضطربت مياه البحيرة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kalabsha_temple_on_Lake_Nasser_%282828516333%29.jpg",
+   "author": "kmf164",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalabsha_temple_on_Lake_Nasser_(2828516333).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Temple_Reliefs_at_Kalabsha_%28VI%29.jpg",
+   "author": "isawnyu",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_Reliefs_at_Kalabsha_(VI).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kalabsha_Temple.jpg",
+   "author": "Zezinho68",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalabsha_Temple.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/kalabsha-temple/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Temple_of_Kalabsha",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D9%83%D9%84%D8%A7%D8%A8%D8%B4%D8%A9",
+  "osm": "relation/8354386"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q11704302",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q1721920",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/kalabsha-temple/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description,highlights",
+   "url": "https://egymonuments.gov.eg/en/monuments/kalabsha-temple/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry),prices,freeGroups,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/TempleofKalabsha",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Temple_of_Kalabsha",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Portal (07:00-16:00) and booking page (last entry 15:00) agree; Ramadan row equals normal schedule, so no exception. Not stated officially whether the ticket also covers Beit el-Wali and the Qertassi kiosk on the same site. Boat fare: no official price, so none given. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

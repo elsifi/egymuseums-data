@@ -1,0 +1,307 @@
+{
+ "id": "red-monastery",
+ "kind": "site",
+ "wikidataId": "Q7304611",
+ "name": {
+  "en": "Red Monastery",
+  "ar": "الدير الأحمر"
+ },
+ "aliases": [
+  "دير الأنبا بيشوي",
+  "al-Dayr al-Ahmar",
+  "Monastery of al-Anba Bishoi",
+  "Monastery of St. Pishoi",
+  "Monastery of St. Pshoi"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "sohag",
+ "city": {
+  "en": "Sohag",
+  "ar": "سوهاج"
+ },
+ "area": {
+  "en": "Adfa village, west of Sohag",
+  "ar": "قرية أدفا، غرب سوهاج"
+ },
+ "address": {
+  "en": "Adfa village, about 12 km west of Sohag city, Sohag Governorate",
+  "ar": "قرية أدفا، على بعد نحو 12 كم غرب مدينة سوهاج، محافظة سوهاج"
+ },
+ "lat": 26.554831,
+ "lng": 31.619761,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily and free of charge. The church is an active place of Coptic worship as well as a protected monument.",
+  "ar": "مفتوح يوميًا والدخول مجاني. والكنيسة مكان عبادة قبطي عامر إلى جانب كونها أثرًا محميًا."
+ },
+ "summary": {
+  "en": "A late-antique monastery church whose triple-apsed sanctuary is covered floor to dome in some of the finest early Christian paintings in Egypt.",
+  "ar": "كنيسة ديرية من أواخر العصور القديمة، يكسو هيكلها ثلاثي الحنيات من الأرض إلى القبة بعض أروع الرسوم المسيحية المبكرة في مصر."
+ },
+ "description": {
+  "en": "The Monastery of Saint Bishoy, known as the Red Monastery for the fired brick of its walls, stands on the desert edge west of Sohag, about three kilometres north of its larger neighbour, the White Monastery. It was founded in the fourth and fifth centuries by Bishoy, a companion of Shenoute and Pjol, and of the original complex only the main church, part of a fortified tower and traces of service buildings survive. The plain exterior hides an extraordinary interior. The sanctuary ends in three semicircular apses arranged as a trefoil, each lined with two tiers of columns and niches, and every surface is painted: saints and monastic founders, the Virgin, the evangelists and Christ enthroned in the semi-domes, set within architectural ornament in brilliant reds, ochres and blues. These paintings, laid down in several phases between roughly the sixth and eighth centuries, were hidden for centuries under soot and later overpainting. A long conservation programme led by the American Research Center in Egypt revealed them again and repaired the building, after which the church returned to use for worship.",
+  "ar": "يقع دير الأنبا بيشاي، المعروف بالدير الأحمر لطوبه المحروق الذي بُنيت به جدرانه، على حافة الصحراء غرب سوهاج، على بعد نحو ثلاثة كيلومترات شمال جاره الأكبر الدير الأبيض. أسسه في القرنين الرابع والخامس الأنبا بيشاي، رفيق الأنبا شنودة والأنبا بيجول، ولم يبق من المجمع الأصلي سوى الكنيسة الرئيسية وجزء من حصن وآثار مبانٍ خدمية. ويخفي المظهر الخارجي البسيط داخلًا استثنائيًا؛ إذ ينتهي الهيكل بثلاث حنيات نصف دائرية على هيئة ورقة البرسيم، تصطف في كل منها طبقتان من الأعمدة والمحاريب، وكل سطح فيها مرسوم: قديسون ومؤسسو الرهبنة، والسيدة العذراء، والإنجيليون، والسيد المسيح جالسًا على العرش في أنصاف القباب، داخل زخارف معمارية بالأحمر والمغرة والأزرق الزاهي. وقد رُسمت هذه اللوحات على مراحل بين القرنين السادس والثامن تقريبًا، وظلت قرونًا مختفية تحت السناج وطبقات الطلاء اللاحقة. ثم كشف عنها من جديد برنامج ترميم طويل قاده مركز البحوث الأمريكي بمصر، وأصلح المبنى، فعادت الكنيسة إلى إقامة الصلوات."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Painted triconch sanctuary",
+    "ar": "الهيكل ثلاثي الحنيات المرسوم"
+   },
+   "desc": {
+    "en": "Three apses covered with saints, columns and ornament in vivid colour.",
+    "ar": "ثلاث حنيات تكسوها صور القديسين والأعمدة والزخارف بألوان زاهية."
+   }
+  },
+  {
+   "title": {
+    "en": "Christ enthroned",
+    "ar": "السيد المسيح على العرش"
+   },
+   "desc": {
+    "en": "Semi-dome paintings of Christ and the Virgin above the apses.",
+    "ar": "رسوم أنصاف القباب للسيد المسيح والعذراء فوق الحنيات."
+   }
+  },
+  {
+   "title": {
+    "en": "Monastic founders",
+    "ar": "مؤسسو الرهبنة"
+   },
+   "desc": {
+    "en": "Niche portraits of Shenoute, Pjol and Bishoy in the north apse.",
+    "ar": "صور في المحاريب للأنبا شنودة والأنبا بيجول والأنبا بيشاي في الحنية الشمالية."
+   }
+  },
+  {
+   "title": {
+    "en": "Red-brick church walls",
+    "ar": "جدران الكنيسة بالطوب الأحمر"
+   },
+   "desc": {
+    "en": "The fired brick that gives the monastery its name.",
+    "ar": "الطوب المحروق الذي منح الدير اسمه."
+   }
+  },
+  {
+   "title": {
+    "en": "Exterior wall paintings",
+    "ar": "الرسوم على الجدار الخارجي"
+   },
+   "desc": {
+    "en": "Fragments of saints, crosses and inscriptions on the outer walls.",
+    "ar": "بقايا صور قديسين وصلبان ونقوش على الجدران الخارجية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "free"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Mid-morning, when daylight reaches the sanctuary and before services or groups.",
+   "ar": "منتصف الصباح، حين يبلغ ضوء النهار الهيكل وقبل الصلوات أو المجموعات."
+  },
+  "crowdNotes": {
+   "en": "Dress modestly and remove shoes where asked; services take priority over sightseeing. Security at the monastery may ask foreign visitors for passports. Combine with the White Monastery, three kilometres south.",
+   "ar": "التزم بالملابس المحتشمة واخلع حذاءك حيث يُطلب منك ذلك، فللصلوات الأولوية على الزيارة. وقد يطلب أمن الدير جوازات سفر الزوار الأجانب. ويمكن الجمع بينه وبين الدير الأبيض على بعد ثلاثة كيلومترات جنوبًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Red_Monastery_Sohag_Egypt_Sanctuary_North_apse.jpg",
+   "author": "Ctschroeder",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Monastery_Sohag_Egypt_Sanctuary_North_apse.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Theotokos_and_Prophets_on_the_North_Wall_of_the_Red_Monastery.jpg",
+   "author": "松照庵",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Theotokos_and_Prophets_on_the_North_Wall_of_the_Red_Monastery.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Cross_and_Deers_Wall_Painting_in_the_Red_Monastery.jpg",
+   "author": "松照庵",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cross_and_Deers_Wall_Painting_in_the_Red_Monastery.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/the-red-monastery/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Red_Monastery",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q7304611",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-red-monastery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/الدير-الأحمر/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-red-monastery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (free entry, 09:00-17:00, last entry 16:00; news 15 May 2026)",
+   "url": "https://www.elwatannews.com/news/details/8284902",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (free for Egyptians and foreigners, governor's statement; news 12 Jun 2025)",
+   "url": "https://www.dostor.org/5103575",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (ARCE conservation of paintings and architecture)",
+   "url": "https://arce.org/project/red-monastery-architectural-conservation/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Red_Monastery",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Red_Monastery_Sohag_Egypt_Sanctuary_North_apse.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Theotokos_and_Prophets_on_the_North_Wall_of_the_Red_Monastery.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Cross_and_Deers_Wall_Painting_in_the_Red_Monastery.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "prices.status 'free': entry stated free for Egyptians and foreigners by the Sohag governor (dostor 12 Jun 2025) and elwatannews (15 May 2026); MoTA pages list no ticket. These are news reports of an official statement, not an MoTA page: kept as free (batch-7 Q5a, 2026-10-04: a governor's statement counts as an official source). Operator 'other' kept from seed (church-run, SCA-supervised monument). Painting dates (c. 6th-8th c.) are a broad scholarly range. Dress code and passport checks are general advice (no official source). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

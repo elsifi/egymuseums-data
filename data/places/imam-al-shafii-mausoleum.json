@@ -1,0 +1,223 @@
+{
+ "id": "imam-al-shafii-mausoleum",
+ "kind": "site",
+ "wikidataId": "Q12242699",
+ "name": {
+  "en": "Mausoleum of Imam al-Shafi'i",
+  "ar": "قبة الإمام الشافعي"
+ },
+ "aliases": [
+  "مسجد الامام الشافعى"
+ ],
+ "category": "islamic",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Southern Cemetery (al-Qarafa al-Sughra), al-Imam al-Shafi'i district",
+  "ar": "القرافة الصغرى، حي الإمام الشافعي"
+ },
+ "address": {
+  "en": "Imam al-Shafi'i Street, al-Qarafa al-Sughra, Cairo",
+  "ar": "شارع الإمام الشافعي، القرافة الصغرى، القاهرة"
+ },
+ "lat": 30.0106,
+ "lng": 31.2579,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily after a major restoration completed in 2021. Entry is free; the adjoining mosque is in active use.",
+  "ar": "مفتوحة يوميًا بعد ترميم شامل اكتمل عام 2021. والدخول مجاني، والمسجد الملحق بها عامر بالمصلين."
+ },
+ "summary": {
+  "en": "The great wooden-domed mausoleum built in 1211 over the grave of Imam al-Shafi'i, founder of one of the four Sunni schools of law.",
+  "ar": "الضريح ذو القبة الخشبية الكبيرة الذي شُيّد عام 1211 فوق قبر الإمام الشافعي، مؤسس أحد المذاهب الفقهية السنية الأربعة."
+ },
+ "description": {
+  "en": "Muhammad ibn Idris al-Shafi'i, one of the most influential jurists in Islamic history, spent his last years teaching in Fustat and died in Egypt in 820. He was buried in the Southern Cemetery, and his grave became one of Cairo's most visited shrines. Saladin founded a madrasa beside it, and in 1178 a magnificent teak cenotaph was placed over the tomb, carved with geometric panels, Quranic verses and a biography of the imam in Kufic and naskh scripts, signed by its maker, Ubayd al-Najjar. In 1211 the Ayyubid sultan al-Kamil, who had just buried his mother nearby, raised the present square mausoleum and crowned it with a huge wooden dome, among the largest of its age. Later rulers kept embellishing it: Sultan Qaitbay rebuilt the dome in 1480, and the Mamluk strongman Ali Bey al-Kabir added painted decoration in 1772. A small metal boat on the dome's finial is a well-known landmark of the cemetery skyline. Between 2016 and 2021 a conservation project led by Egyptian specialists cleaned and consolidated the painted wood, marble and stucco, revealing vivid colours. The mausoleum now adjoins a nineteenth-century mosque.",
+  "ar": "قضى محمد بن إدريس الشافعي، أحد أعظم فقهاء الإسلام أثرًا، سنواته الأخيرة يدرّس في الفسطاط، وتوفي في مصر عام 820م، فدُفن في القرافة الصغرى وصار قبره من أكثر مزارات القاهرة قصدًا. وقد أسس صلاح الدين مدرسة بجواره، ووُضع فوق القبر عام 1178م تابوت خشبي بديع من خشب الساج، منقوش بحشوات هندسية وآيات قرآنية وترجمة لحياة الإمام بالخطين الكوفي والنسخ، ويحمل توقيع صانعه عبيد النجار. وفي عام 1211م شيّد السلطان الأيوبي الكامل، الذي كان قد دفن والدته في الجوار، الضريح المربع الحالي وتوّجه بقبة خشبية ضخمة من أكبر قباب عصرها. وتوالت بعد ذلك أعمال التجميل، فجدد السلطان قايتباي القبة عام 1480م، وأضاف علي بك الكبير زخارف ملونة عام 1772م. ويعتلي هلال القبة مركب معدني صغير صار من العلامات المميزة لأفق القرافة. وبين عامي 2016 و2021 نُفذ مشروع ترميم بقيادة متخصصين مصريين نظّف الأخشاب الملونة والرخام والجص وثبّتها، فعادت الألوان إلى بهائها. ويتصل الضريح اليوم بمسجد يعود إلى القرن التاسع عشر."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "The wooden dome",
+    "ar": "القبة الخشبية"
+   },
+   "desc": {
+    "en": "One of the largest wooden domes of its time, rebuilt under Sultan Qaitbay in 1480.",
+    "ar": "من أكبر القباب الخشبية في عصرها، وجددها السلطان قايتباي عام 1480م."
+   }
+  },
+  {
+   "title": {
+    "en": "Teak cenotaph of 1178",
+    "ar": "التابوت الخشبي (1178م)"
+   },
+   "desc": {
+    "en": "A carved teak cenotaph with Kufic and naskh inscriptions, signed by its maker.",
+    "ar": "تابوت من خشب الساج منقوش بالخطين الكوفي والنسخ، يحمل توقيع صانعه."
+   }
+  },
+  {
+   "title": {
+    "en": "Painted interior",
+    "ar": "الزخارف الملونة"
+   },
+   "desc": {
+    "en": "Painted wood, marble and muqarnas revealed in vivid colour by the 2016–2021 restoration.",
+    "ar": "أخشاب ملونة ورخام ومقرنصات استعادت ألوانها الزاهية بفضل ترميم 2016–2021."
+   }
+  },
+  {
+   "title": {
+    "en": "Boat finial",
+    "ar": "مركب القبة"
+   },
+   "desc": {
+    "en": "The small metal boat on top of the dome, a landmark of the Southern Cemetery.",
+    "ar": "المركب المعدني الصغير أعلى القبة، وهو من معالم القرافة الصغرى."
+   }
+  },
+  {
+   "title": {
+    "en": "Mihrabs",
+    "ar": "المحاريب"
+   },
+   "desc": {
+    "en": "Several prayer niches, one added by Qaitbay, in the mausoleum walls.",
+    "ar": "عدة محاريب في جدران الضريح، أضاف قايتباي أحدها."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "free"
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Weekday mornings; combine with the Citadel or other monuments of the Southern Cemetery.",
+   "ar": "صباح أيام الأسبوع، مع الجمع بين الزيارة والقلعة أو آثار القرافة المجاورة."
+  },
+  "crowdNotes": {
+   "en": "A shrine visited by many pilgrims: dress modestly (women should bring a headscarf), remove shoes and be discreet with photography during prayers. Visits are busiest on Thursdays and Fridays.",
+   "ar": "مزار يقصده كثير من الزوار، لذا يُرجى الاحتشام (ويُستحسن أن تصطحب النساء غطاء للرأس) وخلع الأحذية ومراعاة الآخرين عند التصوير أثناء الصلاة. وتشتد الزيارة يومي الخميس والجمعة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Schafi%27i-Mausoleum_in_Kairo.jpg",
+   "author": "PaFra",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schafi%27i-Mausoleum_in_Kairo.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Imam_al-Shaf%27ai_Qubba.jpg",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imam_al-Shaf%27ai_Qubba.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Imam_Shafii_Tomb.jpg",
+   "author": "Imam Khairul Annas",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imam_Shafii_Tomb.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/imam-al-shafi-i-mosque/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mausoleum_of_Imam_al-Shafi%27i",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85_%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%8A",
+  "osm": "way/1176141274"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12242699",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/imam-al-shafi-i-mosque/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (close 16:00),prices (free of charge)",
+   "url": "https://egymonuments.gov.eg/en/monuments/imam-al-shafi-i-mosque/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/قبة-الإمام-الشافعي/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (reopening after restoration)",
+   "url": "https://egymonuments.gov.eg/en/news/the-opening-of-the-dome-of-al-imam-al-shafei/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Imam_al-Shafi%27i",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Hours conflict: MoTA guide 09:00-17:00 vs egymonuments.gov.eg 09:00-16:00; earlier close used (last entry 15:00 by MoTA one-hour rule). prices.status free rests on egymonuments.gov.eg (\"It's free of charge\") on the Imam al-Shafi'i Mosque page that the seed links for this mausoleum. Operator left as seed (other); the dome is listed in the SCA open-sites guide, the mosque is Awqaf. Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
+}

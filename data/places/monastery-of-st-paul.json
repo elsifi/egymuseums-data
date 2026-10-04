@@ -1,0 +1,259 @@
+{
+ "id": "monastery-of-st-paul",
+ "kind": "site",
+ "wikidataId": "Q488773",
+ "name": {
+  "en": "Monastery of St. Paul the Anchorite",
+  "ar": "دير الأنبا بولا"
+ },
+ "aliases": [
+  "Monastery of St. Paul",
+  "Monastery of Saint Paul the Anchorite"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "red-sea",
+ "city": {
+  "en": "Zafarana area",
+  "ar": "منطقة الزعفرانة"
+ },
+ "area": {
+  "en": "South Galala plateau, Red Sea coast",
+  "ar": "هضبة الجلالة القبلية، ساحل البحر الأحمر"
+ },
+ "address": {
+  "en": "Off the Zafarana–Ras Gharib road, about 26 km south of Zafarana, Red Sea Governorate",
+  "ar": "على طريق الزعفرانة – رأس غارب، على بعد نحو 26 كم جنوب الزعفرانة، محافظة البحر الأحمر"
+ },
+ "lat": 28.847222,
+ "lng": 32.550556,
+ "status": "open",
+ "statusNote": {
+  "en": "Working Coptic Orthodox monastery. Visitors are received on Thursday, Friday and Saturday; it closes to visitors for the whole Nativity Fast (25 November to 6 January).",
+  "ar": "دير قبطي أرثوذكسي عامر، يستقبل الزوار أيام الخميس والجمعة والسبت، ويُغلق أمام الزيارة طوال صوم الميلاد (من 25 نوفمبر إلى 6 يناير)."
+ },
+ "summary": {
+  "en": "The desert monastery built around the cave of St Paul of Thebes, the first hermit, with a cave church painted in the early eighteenth century.",
+  "ar": "دير صحراوي شُيد حول مغارة الأنبا بولا أول السواح، وفيه كنيسة المغارة المرسومة في مطلع القرن الثامن عشر."
+ },
+ "description": {
+  "en": "According to tradition, Paul of Thebes fled persecution in the third century and lived for decades as a solitary in a cave in the Red Sea mountains, fed by a nearby spring and, in the legend, by a raven. Shortly before his death he was visited by Saint Anthony, whose own monastery lies on the other side of the plateau, and Anthony buried him in his cave. A community grew around the site, and the monastery that bears Paul's name has been inhabited, with breaks, ever since. Within its fortress-like walls stands a keep for refuge, a refectory, a mill and gardens fed by the spring. The heart of the monastery is the Cave Church of Saint Paul, built down into the rock around the hermit's cave and shrine. Its walls and domes are covered with paintings of saints, mounted martyrs, angels and the Virgin, produced in 1712–13 by a self-taught monk and later conserved with the support of the American Research Center in Egypt. Smaller and quieter than St Anthony's, the monastery sits in a stark valley that opens towards the Gulf of Suez.",
+  "ar": "تقول التقاليد إن بولا الطيبي فرّ من الاضطهاد في القرن الثالث، وعاش عقودًا متوحدًا في مغارة بجبال البحر الأحمر، يقتات من عين ماء قريبة، ومن غراب كان يأتيه بالخبز كما تروي القصة. وقبيل وفاته زاره الأنبا أنطونيوس، الذي يقع ديره على الجانب الآخر من الهضبة، فدفنه في مغارته. ونشأت حول الموضع جماعة رهبانية، وظل الدير الذي يحمل اسم الأنبا بولا مأهولًا منذ ذلك الحين مع فترات انقطاع. وداخل أسواره الشبيهة بالحصون يقوم حصن للاحتماء، ومائدة، وطاحونة، وحدائق ترويها العين. وقلب الدير كنيسة المغارة المكرسة للأنبا بولا، المبنية نزولًا في الصخر حول مغارة الناسك ومزاره. وتكسو جدرانها وقبابها رسوم لقديسين وشهداء فرسان وملائكة والسيدة العذراء، نفذها عامي 1712 و1713 راهب علّم نفسه بنفسه، ثم رُممت لاحقًا بدعم من مركز البحوث الأمريكي بمصر. والدير أصغر من دير الأنبا أنطونيوس وأكثر هدوءًا، ويقع في وادٍ قاحل ينفتح نحو خليج السويس."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Cave Church of St Paul",
+    "ar": "كنيسة مغارة الأنبا بولا"
+   },
+   "desc": {
+    "en": "A church built into the rock around the hermit's cave and shrine.",
+    "ar": "كنيسة مبنية في الصخر حول مغارة الناسك ومزاره."
+   }
+  },
+  {
+   "title": {
+    "en": "Eighteenth-century paintings",
+    "ar": "رسوم القرن الثامن عشر"
+   },
+   "desc": {
+    "en": "Saints, mounted martyrs and angels painted in 1712–13.",
+    "ar": "قديسون وشهداء فرسان وملائكة رُسموا عامي 1712 و1713."
+   }
+  },
+  {
+   "title": {
+    "en": "The keep",
+    "ar": "الحصن"
+   },
+   "desc": {
+    "en": "A tall refuge tower inside the walls.",
+    "ar": "برج احتماء مرتفع داخل الأسوار."
+   }
+  },
+  {
+   "title": {
+    "en": "Fortified walls",
+    "ar": "الأسوار الحصينة"
+   },
+   "desc": {
+    "en": "Massive enclosure walls in a stark mountain valley.",
+    "ar": "أسوار ضخمة في وادٍ جبلي قاحل."
+   }
+  },
+  {
+   "title": {
+    "en": "Spring of St Paul",
+    "ar": "عين الأنبا بولا"
+   },
+   "desc": {
+    "en": "The spring that sustained the hermit and the monastery.",
+    "ar": "عين الماء التي أعالت الناسك والدير."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "closed": true
+   },
+   {
+    "day": "wed",
+    "closed": true
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "18:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "18:00"
+   },
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "18:00"
+   },
+   {
+    "day": "sun",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Nativity Fast 2026 (expected): closed to visitors",
+     "ar": "صوم الميلاد 2026 (متوقع): مغلق أمام الزوار"
+    },
+    "rule": "Coptic Nativity Fast (25 November to 6 January)",
+    "from": "2026-11-25",
+    "to": "2027-01-06",
+    "weekly": [
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "closed": true
+     },
+     {
+      "day": "wed",
+      "closed": true
+     },
+     {
+      "day": "thu",
+      "closed": true
+     },
+     {
+      "day": "fri",
+      "closed": true
+     },
+     {
+      "day": "sat",
+      "closed": true
+     },
+     {
+      "day": "sun",
+      "closed": true
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 120,
+  "deepMinutes": 180,
+  "bestTime": {
+   "en": "Thursday or Saturday morning; Fridays are busier with church groups.",
+   "ar": "صباح الخميس أو السبت، فالجمعة أكثر ازدحامًا بالرحلات الكنسية."
+  },
+  "crowdNotes": {
+   "en": "Dress modestly and follow the monks' guidance inside the cave church. The monastery is reached by a 13 km side road from the coast highway, with no public transport. During Great Lent and Holy Week visiting rules change; check before travelling.",
+   "ar": "التزم بالملابس المحتشمة واتبع إرشادات الرهبان داخل كنيسة المغارة. ويُوصل إلى الدير عبر طريق فرعي طوله 13 كم من الطريق الساحلي، ولا توجد مواصلات عامة. وتتغير قواعد الزيارة في الصوم الكبير وأسبوع الآلام، فتحقق قبل السفر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/MonasteroPaolo4.jpg",
+   "author": "LorisRomito at Italian Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MonasteroPaolo4.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/MonasteroPaolo3.jpg",
+   "author": "LorisRomito at Italian Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MonasteroPaolo3.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Monastery_of_Saint_Paul_the_Anchorite.JPG",
+   "author": "Бученко Анатолій",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monastery_of_Saint_Paul_the_Anchorite.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Paul_the_Anchorite",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7_%D8%A8%D9%88%D9%84%D8%A7",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q488773",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Thu-Sat 08:00-18:00; closed for the Nativity Fast; Red Sea diocese, news 29 Oct 2023)",
+   "url": "https://www.elwatannews.com/news/details/6897676",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (fast-period rules of Red Sea monasteries, news 14 Mar 2025)",
+   "url": "https://www.youm7.com/story/2025/3/14/%D8%A8%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%86-%D9%85%D8%B9-%D8%A7%D9%84%D8%B5%D9%88%D9%85-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%AF%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B7%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AE%D9%84%D8%A7%D9%84/6917618",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Paul_the_Anchorite",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:MonasteroPaolo4.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:MonasteroPaolo3.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Monastery_of_Saint_Paul_the_Anchorite.JPG",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "low",
+ "curationNote": "Hours (Thu-Sat 08:00-18:00, closed for the whole Nativity Fast) come from Red Sea diocese officials quoted in Oct 2023 (elwatannews); travel blogs say daily 09:00-17:00. No 2025-26 confirmation found. Nativity Fast 2026 closure (25 Nov 2026 - 6 Jan 2027) projected from the 2023 rule; confirm. No official site, phone or entry-fee statement found: prices.status = unconfirmed. 13 km side road and 26 km south of Zafarana are from a travel guide (alternativeegypt). Painter of 1712-13 left unnamed in prose (attribution debated)."
+}

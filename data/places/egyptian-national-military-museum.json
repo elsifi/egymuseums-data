@@ -1,0 +1,296 @@
+{
+ "id": "egyptian-national-military-museum",
+ "kind": "museum",
+ "wikidataId": "Q6631337",
+ "name": {
+  "en": "Egyptian National Military Museum",
+  "ar": "المتحف الحربي المصري"
+ },
+ "category": "military",
+ "operator": "defense",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Cairo Citadel, El-Khalifa",
+  "ar": "قلعة صلاح الدين، الخليفة"
+ },
+ "address": {
+  "en": "Al-Haram Palace, northern enclosure of the Cairo Citadel, Salah Salem Street, Cairo",
+  "ar": "قصر الحرم، الجزء الشمالي من قلعة صلاح الدين، شارع صلاح سالم، القاهرة"
+ },
+ "lat": 30.0294,
+ "lng": 31.2614,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Entry is included in the Cairo Citadel ticket; there is no separate museum ticket.",
+  "ar": "مفتوح يوميًا، والدخول مشمول بتذكرة قلعة صلاح الدين دون تذكرة منفصلة للمتحف."
+ },
+ "summary": {
+  "en": "The Egyptian army's national museum, set in Muhammad Ali's al-Haram Palace on the Citadel, tracing warfare in Egypt from the pharaohs to 1973.",
+  "ar": "المتحف القومي للجيش المصري، ويشغل قصر الحرم الذي بناه محمد علي في القلعة، ويروي تاريخ الحروب في مصر من الفراعنة حتى حرب أكتوبر 1973."
+ },
+ "description": {
+  "en": "The idea of a national military museum took shape in 1937, when a first display opened in the old War Ministry building downtown; it moved to Garden City a year later and, in November 1949, settled in al-Haram Palace on the Cairo Citadel. The palace itself is part of the history on show. Muhammad Ali built it in the early nineteenth century as the residence of his household, a long, many-windowed building in the northern enclosure. The museum has been renovated several times, most recently in a long project begun in 2011, and is run by the Egyptian armed forces. Its halls follow Egypt's military story through the ages: pharaonic weapons and chariot models, Islamic-era arms and armour, the new army of Muhammad Ali and Ibrahim Pasha, and the wars of the twentieth century, from 1948 and 1956 to the crossing of the Suez Canal in 1973. Models, dioramas, uniforms and paintings accompany the objects, and in 2026 the antiquities ministry added more than a hundred ancient pieces from stores across Egypt. Outside, tanks, aircraft and missiles fill the courtyard.",
+  "ar": "تبلورت فكرة إنشاء متحف حربي قومي عام 1937، حين افتُتح أول عرض في مبنى وزارة الحربية القديم بوسط القاهرة، ثم انتقل إلى جاردن سيتي بعد عام، حتى استقر في نوفمبر 1949 بقصر الحرم في قلعة صلاح الدين. والقصر نفسه جزء من التاريخ المعروض، فقد بناه محمد علي في مطلع القرن التاسع عشر مقرًا لأسرته، وهو مبنى طويل كثير النوافذ في الجزء الشمالي من القلعة. وقد جُدد المتحف عدة مرات، آخرها مشروع طويل بدأ عام 2011، وتديره القوات المسلحة المصرية. وتتبع قاعاته مسيرة العسكرية المصرية عبر العصور: الأسلحة الفرعونية ونماذج العجلات الحربية، وأسلحة العصر الإسلامي ودروعه، والجيش الحديث الذي أسسه محمد علي وقاده إبراهيم باشا، ثم حروب القرن العشرين من 1948 و1956 حتى عبور قناة السويس عام 1973. وترافق المعروضات نماذج ومجسمات وأزياء عسكرية ولوحات، وفي عام 2026 زوّدت وزارة السياحة والآثار المتحف بأكثر من مئة قطعة أثرية من مخازن مختلفة. وفي الساحة الخارجية تصطف الدبابات والطائرات والصواريخ."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Al-Haram Palace",
+    "ar": "قصر الحرم"
+   },
+   "desc": {
+    "en": "Muhammad Ali's nineteenth-century palace on the Citadel, home of the museum since 1949.",
+    "ar": "قصر محمد علي في القلعة من القرن التاسع عشر، ومقر المتحف منذ عام 1949."
+   }
+  },
+  {
+   "title": {
+    "en": "Pharaonic warfare",
+    "ar": "العسكرية الفرعونية"
+   },
+   "desc": {
+    "en": "Weapons, chariot models and scenes of ancient Egyptian armies, joined in 2026 by original ancient pieces.",
+    "ar": "أسلحة ونماذج لعجلات حربية ومشاهد للجيوش المصرية القديمة، أُضيفت إليها قطع أثرية أصلية عام 2026."
+   }
+  },
+  {
+   "title": {
+    "en": "Muhammad Ali's army",
+    "ar": "جيش محمد علي"
+   },
+   "desc": {
+    "en": "Halls on the modern Egyptian army founded under Muhammad Ali and Ibrahim Pasha.",
+    "ar": "قاعات عن الجيش المصري الحديث الذي تأسس في عهد محمد علي وإبراهيم باشا."
+   }
+  },
+  {
+   "title": {
+    "en": "October 1973 War",
+    "ar": "حرب أكتوبر 1973"
+   },
+   "desc": {
+    "en": "Models and displays on the crossing of the Suez Canal and the Bar-Lev Line.",
+    "ar": "نماذج ومعروضات عن عبور قناة السويس وخط بارليف."
+   }
+  },
+  {
+   "title": {
+    "en": "Open-air display",
+    "ar": "العرض المكشوف"
+   },
+   "desc": {
+    "en": "Tanks, aircraft, artillery and missiles in the museum courtyard.",
+    "ar": "دبابات وطائرات ومدافع وصواريخ في ساحة المتحف."
+   }
+  },
+  {
+   "title": {
+    "en": "Statue of Ibrahim Pasha",
+    "ar": "تمثال إبراهيم باشا"
+   },
+   "desc": {
+    "en": "A statue of Muhammad Ali's son and army commander in front of the museum.",
+    "ar": "تمثال لابن محمد علي وقائد جيشه أمام المتحف."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 30
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 550
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 275
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/SalahEldinCitadel",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning, before the Citadel's midday crowds; allow time for the rest of the Citadel.",
+   "ar": "الصباح قبل زحام القلعة وقت الظهيرة، مع تخصيص وقت لبقية معالمها."
+  },
+  "crowdNotes": {
+   "en": "Popular with school groups and families, especially on weekends and national holidays such as 6 October.",
+   "ar": "يقصده طلاب المدارس والعائلات، خاصة في العطلات والمناسبات الوطنية مثل السادس من أكتوبر."
+  }
+ },
+ "accessibility": {
+  "rampedEntrance": true
+ },
+ "facilities": {
+  "cafe": true,
+  "parking": true,
+  "toilets": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Cytadela_w_Kairze.jpg",
+   "author": "Raf24",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cytadela_w_Kairze.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Flickr_-_Gaspa_-_Cairo%2C_museo_militare_%281%29.jpg",
+   "author": "Francesco Gasparetti from Senigallia, Italy",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_Gaspa_-_Cairo,_museo_militare_(1).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Krupp_7.5_field_gun_%28Cairo_Citadel%29.jpg",
+   "author": "Amr F.Nagy",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krupp_7.5_field_gun_(Cairo_Citadel).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/national-military-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Egyptian_National_Military_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6631337",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/national-military-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,facilities,freeGroups,description",
+   "url": "https://egymonuments.gov.eg/en/museums/national-military-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Citadel area ticket),hours (Citadel gate),tickets (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/SalahEldinCitadel",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page, Citadel)",
+   "url": "https://egymonuments.com/book-date/16",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Citadel area ticket 550/275, 60/30)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/cairo-citadel/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (halls)",
+   "url": "https://www.mod.gov.eg/modwebsite/MuseumDetailsAr.aspx?id=1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (history, 2026 additions)",
+   "url": "https://www.youm7.com/story/2026/8/8/x/7504921",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Egyptian_National_Military_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Hours: egymonuments.gov.eg says 08:00-16:00 and that the ticket window closes at 16:00 (no separate last entry; Citadel gate last entry is 16:00). No Ramadan hours found for the museum, so no Ramadan exception. Price: the museum page still shows the old Citadel area ticket (200/100, 60/30) plus a night ticket and camera fees; the current Citadel ticket (550/275, 60/30 on egymonuments.gov.eg Citadel page and egymonuments.com) is used and the stale extras are omitted. Operator: Ministry of Defense (mod.gov.eg lists the museum)."
+}

@@ -1,0 +1,282 @@
+{
+ "id": "museum-of-islamic-ceramics",
+ "kind": "museum",
+ "wikidataId": "Q6940902",
+ "name": {
+  "en": "Museum of Islamic Ceramics",
+  "ar": "متحف الخزف الإسلامي"
+ },
+ "aliases": [
+  "Islamic Ceramics Museum"
+ ],
+ "category": "islamic",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Zamalek, Gezira Island",
+  "ar": "الزمالك، جزيرة الجزيرة"
+ },
+ "address": {
+  "en": "1 El-Marsafy Street, Zamalek, Cairo — Prince Amr Ibrahim Palace (Gezira Art Center), opposite the Gezira Club",
+  "ar": "1 شارع المرصفي، الزمالك، القاهرة — قصر الأمير عمرو إبراهيم (مركز الجزيرة للفنون)، أمام نادي الجزيرة"
+ },
+ "lat": 30.0552,
+ "lng": 31.2257,
+ "status": "open",
+ "statusNote": {
+  "en": "Open again since October 2024 after a 14-year closure; closed on Fridays.",
+  "ar": "أُعيد فتحه في أكتوبر 2024 بعد إغلاق دام 14 عامًا، ويُغلق يوم الجمعة."
+ },
+ "summary": {
+  "en": "About 300 pieces of Islamic pottery and tilework from Egypt, Turkey, Iran and Syria, displayed in a 1920s neo-Islamic palace in Zamalek.",
+  "ar": "نحو 300 قطعة من الخزف والبلاطات الإسلامية من مصر وتركيا وإيران والشام، معروضة في قصر على الطراز الإسلامي المحدث يعود إلى عشرينيات القرن الماضي بالزمالك."
+ },
+ "description": {
+  "en": "The palace of Prince Amr Ibrahim, a member of the Muhammad Ali dynasty, was built in the early 1920s on Gezira Island as a residence for him and his wife, Necla Sultan, a granddaughter of the last Ottoman sultan. Its architecture blends Moorish, Ottoman and Andalusian motifs with European classical planning, and nearly every wall and ceiling carries carved or painted ornament. After the 1952 revolution the palace passed to the state, served for a time as a political club and then housed exhibitions of the Ministry of Culture, before being converted in 1998–1999 into Egypt's first museum dedicated to ceramics. Closed for some fourteen years, it reopened in October 2024. The collection of roughly three hundred pieces is arranged by region and period. A domed entrance hall with a marble fountain leads to a former dining room where Fatimid lustreware of the eleventh century, with its metallic sheen, is laid out on the palace's original marble table. Other rooms show Turkish wares and tiles of the sixteenth to eighteenth centuries, Egyptian pottery from the Umayyad to the Ottoman periods, Syrian pieces from Raqqa, and Iranian ceramics around the upper gallery beneath the dome.",
+  "ar": "شُيّد قصر الأمير عمرو إبراهيم، أحد أفراد أسرة محمد علي، في مطلع عشرينيات القرن الماضي بجزيرة الزمالك مقرًا له ولزوجته نجلاء سلطان حفيدة آخر سلاطين آل عثمان. وتمزج عمارته بين الزخارف المغربية والعثمانية والأندلسية والتخطيط الكلاسيكي الأوروبي، فلا يكاد يخلو جدار أو سقف فيه من نقش محفور أو ملون. وبعد ثورة 1952 آل القصر إلى الدولة، فاستُخدم فترة ناديًا سياسيًا، ثم احتضن معارض وزارة الثقافة، قبل أن يتحول عامي 1998 و1999 إلى أول متحف في مصر مخصص للخزف. وبعد إغلاق دام نحو أربعة عشر عامًا أُعيد افتتاحه في أكتوبر 2024. وتُعرض مجموعته التي تقارب ثلاثمئة قطعة وفق الإقليم والعصر؛ إذ تفضي قاعة المدخل ذات القبة والفسقية الرخامية إلى قاعة الطعام السابقة، حيث يُعرض الخزف الفاطمي ذو البريق المعدني من القرن الحادي عشر على مائدة القصر الرخامية الأصلية. وتعرض قاعات أخرى الخزف والبلاطات التركية من القرن السادس عشر إلى الثامن عشر، والفخار المصري من العصر الأموي حتى العثماني، وقطعًا شامية من الرقة، والخزف الإيراني في الرواق العلوي أسفل القبة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Fatimid lustreware",
+    "ar": "الخزف الفاطمي ذو البريق المعدني"
+   },
+   "desc": {
+    "en": "Eleventh-century bowls and plates with a metallic sheen, displayed on the palace's marble dining table.",
+    "ar": "أطباق وسلطانيات من القرن الحادي عشر ذات بريق معدني، معروضة على مائدة القصر الرخامية."
+   }
+  },
+  {
+   "title": {
+    "en": "Turkish hall",
+    "ar": "القاعة التركية"
+   },
+   "desc": {
+    "en": "Ottoman tiles and vessels of the sixteenth to eighteenth centuries, with a tiled conical fireplace.",
+    "ar": "بلاطات وأوانٍ عثمانية من القرن السادس عشر إلى الثامن عشر، ومدفأة مخروطية مكسوة بالبلاطات."
+   }
+  },
+  {
+   "title": {
+    "en": "Egyptian ceramics",
+    "ar": "الخزف المصري"
+   },
+   "desc": {
+    "en": "Pottery made in Egypt from the Umayyad through the Mamluk and Ottoman periods.",
+    "ar": "فخار صُنع في مصر من العصر الأموي حتى العصرين المملوكي والعثماني."
+   }
+  },
+  {
+   "title": {
+    "en": "Iranian and Syrian pieces",
+    "ar": "الخزف الإيراني والشامي"
+   },
+   "desc": {
+    "en": "Persian wares in the upper gallery and rare twelfth-century pieces from Raqqa.",
+    "ar": "قطع فارسية في الرواق العلوي وقطع نادرة من الرقة تعود إلى القرن الثاني عشر."
+   }
+  },
+  {
+   "title": {
+    "en": "Domed hall and fountain",
+    "ar": "القاعة ذات القبة والفسقية"
+   },
+   "desc": {
+    "en": "The entrance hall with a marble fountain beneath a dome of coloured glass.",
+    "ar": "قاعة المدخل بفسقيتها الرخامية أسفل قبة من الزجاج الملون."
+   }
+  },
+  {
+   "title": {
+    "en": "The palace itself",
+    "ar": "القصر نفسه"
+   },
+   "desc": {
+    "en": "Carved and painted walls and ceilings in a mix of Moorish, Ottoman and Andalusian styles.",
+    "ar": "جدران وأسقف منقوشة وملونة تمزج الطرز المغربية والعثمانية والأندلسية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:30",
+    "close": "13:30"
+   },
+   {
+    "day": "sun",
+    "open": "09:30",
+    "close": "13:30"
+   },
+   {
+    "day": "mon",
+    "open": "09:30",
+    "close": "13:30"
+   },
+   {
+    "day": "tue",
+    "open": "09:30",
+    "close": "13:30"
+   },
+   {
+    "day": "wed",
+    "open": "09:30",
+    "close": "13:30"
+   },
+   {
+    "day": "thu",
+    "open": "09:30",
+    "close": "13:30"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (Fine Arts Sector museums)",
+     "ar": "مواعيد شهر رمضان (متاحف قطاع الفنون التشكيلية)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "closed": true
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Weekday mornings; the museum opens only in the morning, so arrive early.",
+   "ar": "صباح أيام الأسبوع، فالمتحف لا يفتح إلا في الفترة الصباحية، لذا يُستحسن الحضور مبكرًا."
+  },
+  "crowdNotes": {
+   "en": "Quiet and rarely crowded. The palace garden, shared with the Gezira Art Center, displays modern sculpture.",
+   "ar": "هادئ ونادرًا ما يزدحم. وتعرض حديقة القصر، المشتركة مع مركز الجزيرة للفنون، منحوتات حديثة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Prince_Amr_Ibrahim_Palace_from_garden.jpg",
+   "author": "DrRachT",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prince_Amr_Ibrahim_Palace_from_garden.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ceramic_bowl_Fayoum_ware_Fatimid_12th_AD_Egypt.jpg",
+   "author": "DrRachT",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceramic_bowl_Fayoum_ware_Fatimid_12th_AD_Egypt.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Cupola_Palace_Prince_Amr_Ibrahim_Zamalek.jpg",
+   "author": "DrRachT",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cupola_Palace_Prince_Amr_Ibrahim_Zamalek.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Ceramics",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%AE%D8%B2%D9%81_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A",
+  "osm": "way/197961520"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6940902",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Feb 2025 sector decision: 09:00-21:00, Friday closed)",
+   "url": "https://www.youm7.com/story/2025/2/16/x/6884390",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:30-13:30, Friday closed),address,description",
+   "url": "https://www.maspero.eg/radio-and-tv-magazine-investigations/2026/01/28/924219/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (reopened Oct 2024),hours (at reopening)",
+   "url": "https://www.elwatannews.com/news/details/7623603",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "address (official Fine Arts Sector page; status text stale)",
+   "url": "http://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=30",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Ceramics",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "low",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. HOURS CONFLICT: Fine Arts Sector decision (youm7 2025-02-16): daily 09:00-21:00, Friday closed; maspero.eg (National Media Authority, 2026-01-28): 09:30-13:30, Friday closed; elwatannews at reopening (2024-10-17): 09:00-16:00. The shorter, more recent maspero hours are used (earlier-time rule). Ramadan: sector-wide 10:00-14:00. PRICES: no official price found; maspero lists 25 foreign / 15 resident / 15 foreign student (Egyptian figure missing) - not used. fineart.gov.eg page still says \"under development\" (stale). Construction date conflicts (1921 / 1923 / 1924-25), so \"early 1920s\"."
+}

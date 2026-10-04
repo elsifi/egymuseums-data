@@ -1,0 +1,259 @@
+{
+ "id": "umm-kulthum-museum",
+ "kind": "museum",
+ "wikidataId": "Q7881638",
+ "name": {
+  "en": "Umm Kulthum Museum",
+  "ar": "متحف أم كلثوم"
+ },
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Rawda Island, Manial (Manasterly Palace grounds)",
+  "ar": "جزيرة الروضة، المنيل (حديقة قصر المانسترلي)"
+ },
+ "address": {
+  "en": "Manasterly Palace, 1 Al-Malek al-Saleh Street, Rawda Island, Manial, Cairo — next to the Nilometer",
+  "ar": "قصر المانسترلي، 1 شارع الملك الصالح، جزيرة الروضة، المنيل، القاهرة — بجوار مقياس النيل"
+ },
+ "lat": 30.0072,
+ "lng": 31.2253,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily except Tuesday.",
+  "ar": "مفتوح يوميًا عدا الثلاثاء."
+ },
+ "summary": {
+  "en": "A small museum in the gardens of the Manasterly Palace devoted to Umm Kulthum, the Arab world's most celebrated singer.",
+  "ar": "متحف صغير في حديقة قصر المانسترلي مخصص لكوكب الشرق أم كلثوم، أشهر مطربة في العالم العربي."
+ },
+ "description": {
+  "en": "Umm Kulthum, known as the Star of the East, dominated Arabic music for half a century, and her monthly concerts once emptied the streets of cities across the region. This museum, opened in 2001 by the Ministry of Culture and run by its Cultural Development Fund, occupies a building in the riverside grounds of the 1851 Manasterly Palace at the tip of Rawda Island. Display cases hold her stage dresses, the dark glasses and the silk handkerchief that became her trademarks, letters, photographs and the medals and orders she received from Egypt and other countries. A small cinema screens a documentary on her life, from her childhood reciting the Quran in a Delta village to her vast funeral in 1975, and an audio-visual library lets visitors listen to her recordings. The visit is short but affecting, especially for anyone who grew up with her songs, and it combines naturally with the medieval Nilometer a few steps away.",
+  "ar": "هيمنت أم كلثوم، الملقبة بكوكب الشرق، على الغناء العربي نصف قرن، وكانت حفلاتها الشهرية تُفرغ شوارع المدن العربية من المارة. افتتحت وزارة الثقافة هذا المتحف عام 2001، ويتولى صندوق التنمية الثقافية إدارته، ويشغل مبنى في حديقة قصر المانسترلي المطل على النيل عند طرف جزيرة الروضة، والذي يعود إلى عام 1851. تضم خزانات العرض فساتينها التي غنّت بها، ونظارتها الداكنة ومنديلها الحريري اللذين صارا علامة مميزة لها، إلى جانب رسائل وصور، والأوسمة والنياشين التي نالتها من مصر ودول أخرى. وتعرض قاعة سينما صغيرة فيلمًا وثائقيًا عن مسيرتها، من طفولتها في قرية بالدلتا حيث كانت تنشد القرآن والتواشيح إلى جنازتها المهيبة عام 1975، كما تتيح مكتبة سمعية بصرية الاستماع إلى تسجيلاتها. الزيارة قصيرة لكنها مؤثرة، خاصة لمن نشأ على أغانيها، وتكتمل بزيارة مقياس النيل الأثري على بعد خطوات."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Stage dresses",
+    "ar": "فساتين الحفلات"
+   },
+   "desc": {
+    "en": "Gowns she wore in concert, displayed with her accessories.",
+    "ar": "فساتين ارتدتها في حفلاتها، معروضة مع إكسسواراتها."
+   }
+  },
+  {
+   "title": {
+    "en": "Glasses and handkerchief",
+    "ar": "النظارة والمنديل"
+   },
+   "desc": {
+    "en": "The dark glasses and silk handkerchief that became her signature on stage.",
+    "ar": "النظارة الداكنة والمنديل الحريري اللذان صارا علامتها المميزة على المسرح."
+   }
+  },
+  {
+   "title": {
+    "en": "Medals and decorations",
+    "ar": "الأوسمة والنياشين"
+   },
+   "desc": {
+    "en": "Honours awarded to her by Egypt and other countries.",
+    "ar": "أوسمة ونياشين منحتها إياها مصر ودول أخرى."
+   }
+  },
+  {
+   "title": {
+    "en": "Documentary cinema",
+    "ar": "قاعة العرض السينمائي"
+   },
+   "desc": {
+    "en": "A short film following her life and career.",
+    "ar": "فيلم وثائقي قصير يتتبع حياتها ومسيرتها الفنية."
+   }
+  },
+  {
+   "title": {
+    "en": "Audio-visual library",
+    "ar": "المكتبة السمعية البصرية"
+   },
+   "desc": {
+    "en": "Listening stations with her songs and recorded concerts.",
+    "ar": "أجهزة للاستماع إلى أغانيها وتسجيلات حفلاتها."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "tue",
+    "closed": true
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 5
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 2
+   }
+  ]
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Mornings, then walk over to the Nilometer next door.",
+   "ar": "الفترة الصباحية، ثم التوجه إلى مقياس النيل المجاور."
+  },
+  "crowdNotes": {
+   "en": "Small and usually calm. The museum offered free entry on International Museum Day (18 May) in 2026.",
+   "ar": "متحف صغير وهادئ عادة، وقد أتاح الدخول المجاني في اليوم العالمي للمتاحف (18 مايو) عام 2026."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/CairoRodaKalthumBelongings.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoRodaKalthumBelongings.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/CairoRodaKalthumDresses.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoRodaKalthumDresses.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/CairoRodaKalthumMedals.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoRodaKalthumMedals.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "https://www.cdf.gov.eg/?q=taxonomy%2Fterm%2F85",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Umm_Kulthum_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A3%D9%85_%D9%83%D9%84%D8%AB%D9%88%D9%85",
+  "osm": "node/670115369"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q7881638",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,closed day,contacts (official Cultural Development Fund page)",
+   "url": "https://www.cdf.gov.eg/?q=taxonomy%2Fterm%2F85",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,displays (Apr 2026)",
+   "url": "https://www.elwatannews.com/news/details/8261624",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,visit.crowdNotes (free entry 18 May 2026)",
+   "url": "https://www.maspero.eg/art-and-culture/2026/05/16/954667/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Umm_Kulthum_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:CairoRodaKalthumBelongings.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:CairoRodaKalthumDresses.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:CairoRodaKalthumMedals.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Ministry of Culture (Cultural Development Fund), not SCA: Arab-tier rule does not apply, and the CDF page has its own prices (Egyptian 5 / student 2, foreign 20 / student 10). The foreign student price is on the CDF page only. No lastEntry published. Wikidata P856 (umkalthoum.gov.eg) not used - the CDF page is the live official page. Photos: object shots (belongings, dresses, medals); the 2001 museum interior and the modern memorial sculpture nearby are not used.",
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ }
+}

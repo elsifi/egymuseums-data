@@ -1,0 +1,343 @@
+{
+ "id": "royal-jewelry-museum",
+ "kind": "museum",
+ "wikidataId": "Q1323293",
+ "name": {
+  "en": "Royal Jewelry Museum",
+  "ar": "متحف المجوهرات الملكية"
+ },
+ "aliases": [
+  "متحف المجوهرات الملكيه",
+  "The Royal Jewelry Museum"
+ ],
+ "category": "royal-palace",
+ "operator": "mota-sca",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Zizinia",
+  "ar": "زيزينيا"
+ },
+ "address": {
+  "en": "Zizinia, Ramleh district, eastern Alexandria",
+  "ar": "زيزينيا، حي الرمل، شرق الإسكندرية"
+ },
+ "lat": 31.2407,
+ "lng": 29.963,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "The jewels of Egypt's last royal dynasty, shown in a richly decorated palace of 1919 in Zizinia.",
+  "ar": "مجوهرات آخر أسرة حاكمة في مصر، معروضة في قصر بالغ الزخرفة شُيد عام 1919 في زيزينيا."
+ },
+ "description": {
+  "en": "This museum occupies the former summer palace of Princess Fatma al-Zahra, a descendant of Muhammad Ali, in the Zizinia district of eastern Alexandria. Her mother, Zaynab Fahmi, began the building in 1919; the princess later added a second wing linked to the first by a long corridor, and lived there until she ceded the palace to the state in 1964. In 1986 it became a museum for the jewellery and precious objects of the Muhammad Ali dynasty, which ruled Egypt from 1805 to 1952, and it reopened in 2010 after a long restoration. The setting is as striking as the showcases: painted ceilings, carved woodwork and stained-glass windows that tell European romantic tales in sequences of scenes. Among thousands of pieces are a gold chess set studded with diamonds presented to King Farouk, gold binoculars and cups set with precious stones, a collar inlaid with diamonds and emeralds associated with Muhammad Ali, and tiaras and jewellery sets made by leading European houses for queens and princesses. Even the bathrooms, lined with painted tiles, are part of the tour.",
+  "ar": "يشغل هذا المتحف القصر الصيفي السابق للأميرة فاطمة الزهراء، من سلالة محمد علي، في حي زيزينيا شرق الإسكندرية. بدأت والدتها زينب فهمي بناءه عام 1919، ثم أضافت الأميرة جناحًا ثانيًا يتصل بالأول عبر ممر طويل، وظلت تقيم فيه حتى تنازلت عنه للدولة عام 1964. وفي عام 1986 تحول إلى متحف لمجوهرات أسرة محمد علي التي حكمت مصر من 1805 حتى 1952 ومقتنياتها الثمينة، ثم أعيد افتتاحه عام 2010 بعد ترميم طويل. ولا يقل المبنى إبهارًا عن الفتارين: أسقف ملونة وأعمال خشبية منحوتة ونوافذ من الزجاج المعشق تروي حكايات رومانسية أوروبية في مشاهد متتابعة. ومن بين آلاف القطع رقعة شطرنج ذهبية مرصعة بالماس أُهديت إلى الملك فاروق، ومنظار وكؤوس من الذهب مطعمة بالأحجار الكريمة، وقلادة مرصعة بالماس والزمرد تُنسب إلى محمد علي، وتيجان وأطقم حلي صنعتها كبرى دور المجوهرات الأوروبية للملكات والأميرات. وحتى الحمامات المكسوة بالبلاطات الملونة جزء من الجولة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Gold chess set",
+    "ar": "طقم الشطرنج الذهبي"
+   },
+   "desc": {
+    "en": "Gold and diamond chess pieces given as a gift to King Farouk.",
+    "ar": "قطع شطرنج من الذهب والماس أُهديت إلى الملك فاروق."
+   }
+  },
+  {
+   "title": {
+    "en": "Muhammad Ali's collar",
+    "ar": "قلادة محمد علي"
+   },
+   "desc": {
+    "en": "A collar inlaid with diamonds and emeralds linked to the dynasty's founder.",
+    "ar": "قلادة مرصعة بالماس والزمرد تُنسب إلى مؤسس الأسرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Royal tiaras",
+    "ar": "التيجان الملكية"
+   },
+   "desc": {
+    "en": "Crowns and jewellery sets made in Europe for Egypt's queens and princesses.",
+    "ar": "تيجان وأطقم حلي صُنعت في أوروبا لملكات مصر وأميراتها."
+   }
+  },
+  {
+   "title": {
+    "en": "Stained-glass corridor",
+    "ar": "ممر الزجاج المعشق"
+   },
+   "desc": {
+    "en": "Windows that unfold a European love story scene by scene.",
+    "ar": "نوافذ تروي قصة حب أوروبية مشهدًا بعد مشهد."
+   }
+  },
+  {
+   "title": {
+    "en": "Painted ceilings",
+    "ar": "الأسقف الملونة"
+   },
+   "desc": {
+    "en": "Oil-painted ceilings and gilded decoration throughout the palace rooms.",
+    "ar": "أسقف مرسومة بالألوان الزيتية وزخارف مذهبة في قاعات القصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Palace bathrooms",
+    "ar": "حمامات القصر"
+   },
+   "desc": {
+    "en": "Tiled bathrooms decorated with painted scenes.",
+    "ar": "حمامات مكسوة ببلاطات تزينها مشاهد مرسومة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/RoyalJewelleryMuseum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Weekday mornings, before school and tour groups arrive.",
+   "ar": "صباح أيام الأسبوع قبل وصول الرحلات المدرسية والمجموعات السياحية."
+  },
+  "crowdNotes": {
+   "en": "Bags are checked at the entrance; flash photography is not allowed. Mobile-phone photography is free.",
+   "ar": "تُفتش الحقائب عند المدخل، ولا يُسمح بالتصوير بالفلاش. التصوير بالهاتف المحمول مجاني."
+  }
+ },
+ "facilities": {
+  "giftShop": true,
+  "cafe": true,
+  "parking": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Jewelery_museum_57.jpg",
+   "author": "Asmaaly8",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jewelery_museum_57.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Jewelery_museum_14.jpg",
+   "author": "Asmaaly8",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jewelery_museum_14.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Jewelery_museum_8.jpg",
+   "author": "Asmaaly8",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jewelery_museum_8.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/royal-jewelry-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Royal_Jewelry_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D8%AC%D9%88%D9%87%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9",
+  "osm": "way/397424296"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1323293",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/royal-jewelry-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan),prices,freeGroups,facilities,description,highlights",
+   "url": "https://egymonuments.gov.eg/en/museums/royal-jewelry-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry),prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/RoyalJewelleryMuseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Royal_Jewelry_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Portal and booking platform agree on hours, Ramadan last entry (14:00) and prices. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

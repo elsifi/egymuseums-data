@@ -1,0 +1,317 @@
+{
+ "id": "kom-el-dikka",
+ "kind": "site",
+ "wikidataId": "Q12236559",
+ "name": {
+  "en": "Kom el-Dikka (Roman Amphitheatre)",
+  "ar": "كوم الدكة"
+ },
+ "aliases": [
+  "كوم الدكه",
+  "Kom El-Deka",
+  "Kom El-Dikka"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Kom el-Dikka, Attarin",
+  "ar": "كوم الدكة، العطارين"
+ },
+ "address": {
+  "en": "Kom el-Dikka, near Misr railway station, Attarin, Alexandria",
+  "ar": "كوم الدكة، بالقرب من محطة مصر، العطارين، الإسكندرية"
+ },
+ "lat": 31.194612,
+ "lng": 29.904097,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "Egypt's only Roman theatre of its kind, at the heart of an excavated late-Roman quarter of baths, lecture halls and mosaic villas.",
+  "ar": "المسرح الروماني الفريد من نوعه في مصر، في قلب حي روماني متأخر كُشف عنه بما فيه من حمامات وقاعات دراسة وفيلات مزينة بالفسيفساء."
+ },
+ "description": {
+  "en": "Kom el-Dikka, a mound in the middle of modern Alexandria, was cleared in the mid-twentieth century and has since been excavated for decades by a Polish–Egyptian mission. It preserves part of the Roman and Byzantine city, from roughly the second to the sixth centuries AD. The centrepiece is a small horseshoe-shaped theatre with tiers of marble seating, the only example of its kind in Egypt. Built around the early fourth century, it probably served as a hall for music and recitals and was later adapted, with fewer rows and added columns, as a meeting place for the city council. Beside it runs a row of lecture halls interpreted as part of a higher-education complex, a rare glimpse of the city's intellectual life in late antiquity. Visitors can also follow the remains of a large public bath with brick cisterns and underfloor heating, and the Villa of the Birds, whose floor mosaics show colourful birds within geometric frames. An open-air area displays statues and architectural pieces recovered from the sea. The site is compact and easy to combine with the Graeco-Roman Museum.",
+  "ar": "كوم الدكة تل يتوسط الإسكندرية الحديثة، أُزيل ما عليه في منتصف القرن العشرين، وتعمل فيه منذ عقود بعثة مصرية بولندية. ويحفظ جزءًا من المدينة في العصرين الروماني والبيزنطي، من القرن الثاني تقريبًا حتى القرن السادس الميلادي. وأبرز ما فيه مسرح صغير على هيئة حدوة الفرس بمدرجات من الرخام، وهو الوحيد من نوعه في مصر. شُيد في مطلع القرن الرابع تقريبًا، ويرجح أنه استُخدم قاعة للموسيقى والإلقاء، ثم عُدل لاحقًا فقلّت صفوفه وأضيفت إليه أعمدة ليصبح مقرًا لاجتماعات مجلس المدينة. وإلى جواره صف من قاعات المحاضرات يُعتقد أنها جزء من مجمع للتعليم العالي، وهي نافذة نادرة على الحياة الفكرية في المدينة أواخر العصور القديمة. ويمكن للزائر أيضًا تتبع بقايا حمام عام كبير بصهاريجه المبنية من الطوب ونظام التدفئة أسفل أرضياته، وفيلا الطيور التي تزين أرضياتها لوحات فسيفساء لطيور ملونة داخل أطر هندسية. كما تعرض ساحة مكشوفة تماثيل وعناصر معمارية انتُشلت من البحر. والموقع صغير المساحة ويسهل الجمع بينه وبين المتحف اليوناني الروماني."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Roman theatre",
+    "ar": "المسرح الروماني"
+   },
+   "desc": {
+    "en": "Horseshoe-shaped tiers of marble seating, unique in Egypt.",
+    "ar": "مدرجات رخامية على هيئة حدوة الفرس، فريدة في مصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Lecture halls",
+    "ar": "قاعات المحاضرات"
+   },
+   "desc": {
+    "en": "A row of auditoria believed to belong to a late-antique school.",
+    "ar": "صف من قاعات الدرس يُعتقد أنها تتبع مدرسة من أواخر العصور القديمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Villa of the Birds",
+    "ar": "فيلا الطيور"
+   },
+   "desc": {
+    "en": "Floor mosaics of colourful birds set in geometric panels.",
+    "ar": "أرضيات فسيفساء لطيور ملونة داخل لوحات هندسية."
+   }
+  },
+  {
+   "title": {
+    "en": "Roman baths",
+    "ar": "الحمامات الرومانية"
+   },
+   "desc": {
+    "en": "Brick cisterns and an underfloor heating system.",
+    "ar": "صهاريج من الطوب ونظام تدفئة أسفل الأرضيات."
+   }
+  },
+  {
+   "title": {
+    "en": "Underwater finds",
+    "ar": "الآثار المنتشلة من البحر"
+   },
+   "desc": {
+    "en": "Statues and architectural pieces raised from the sea off Alexandria.",
+    "ar": "تماثيل وعناصر معمارية انتُشلت من البحر قبالة الإسكندرية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/RomanAmphitheatre",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning or late afternoon, when the open site is cooler.",
+   "ar": "الصباح أو آخر العصر حين يكون الموقع المكشوف ألطف حرارة."
+  },
+  "crowdNotes": {
+   "en": "Mostly open-air with little shade. The Villa of the Birds is covered by a protective shelter.",
+   "ar": "الموقع مكشوف في معظمه وقليل الظل، وتغطي فيلا الطيور مظلة واقية."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Alexandria%2C_Kom_el-Dikka%2C_Theatre.JPG",
+   "author": "Cmroueche",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexandria,_Kom_el-Dikka,_Theatre.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/The_Odeon_at_Kom_el_Dikka_%28IV%29_%286761938177%29.jpg",
+   "author": "Institute for the Study of the Ancient World from New York, United States of America",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Odeon_at_Kom_el_Dikka_(IV)_(6761938177).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Baths_at_Kom_el_Dikka_%28X%29_%286761893987%29.jpg",
+   "author": "Institute for the Study of the Ancient World from New York, United States of America",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baths_at_Kom_el_Dikka_(X)_(6761893987).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/kom-el-dikka/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Kom_El_Deka",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%85_%D8%A7%D9%84%D8%AF%D9%83%D8%A9",
+  "osm": "way/28817193"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12236559",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/kom-el-dikka/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description,highlights",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/kom-el-dikka/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry, Ramadan lastEntry),prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/RomanAmphitheatre",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan closing),address",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D8%AD-%D8%A7%D9%84%D8%B1%D9%88%D9%85%D8%A7%D9%86%D9%8A/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Kom_El_Deka",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "The booking page for this site shows no free-entry list, so freeGroups is omitted. Whether the Villa of the Birds needs a separate ticket (it did in the past) is not stated by any current official page. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

@@ -1,0 +1,337 @@
+{
+ "id": "tuna-el-gebel",
+ "kind": "site",
+ "wikidataId": "Q734370",
+ "name": {
+  "en": "Tuna el-Gebel",
+  "ar": "تونة الجبل"
+ },
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "minya",
+ "city": {
+  "en": "Mallawi",
+  "ar": "ملوي"
+ },
+ "area": {
+  "en": "Tuna el-Gebel village, western desert edge",
+  "ar": "قرية تونا الجبل، حافة الصحراء الغربية"
+ },
+ "address": {
+  "en": "Tuna el-Gebel village, Mallawi, Minya Governorate",
+  "ar": "قرية تونا الجبل، ملوي، محافظة المنيا"
+ },
+ "lat": 27.738333,
+ "lng": 30.704444,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The ticket covers the necropolis, including the tomb of Petosiris, the Isadora tomb and the animal catacombs.",
+  "ar": "مفتوحة يوميًا. تشمل التذكرة الجبانة، ومنها مقبرة بيتوزيريس ومقبرة إيزادورا وسراديب الحيوانات المقدسة."
+ },
+ "summary": {
+  "en": "The desert necropolis of Hermopolis, where Egyptian and Greek art meet in the tomb of Petosiris and long catacombs hold mummified ibises and baboons sacred to Thoth.",
+  "ar": "جبانة الأشمونين في الصحراء، حيث يلتقي الفن المصري والإغريقي في مقبرة بيتوزيريس، وتحتضن السراديب الطويلة طيور أبي منجل والقردة المحنطة المقدسة لجحوتي."
+ },
+ "description": {
+  "en": "On the edge of the western desert near Mallawi lies the cemetery of ancient Hermopolis, the city of Thoth, god of writing and wisdom. Its name comes from the Egyptian ta-hnt, \"the lake\", recalling a pool once left by the Nile flood. One of Akhenaten's boundary stelae, carved into the cliff, marks the earliest chapter of its history, but the site flourished in the Late and Graeco-Roman periods. Its best-known monument is the tomb-chapel of Petosiris, high priest of Thoth around 300 BC, built like a small temple. Its reliefs mix traditional Egyptian scenes with Greek dress, poses and details, a vivid record of two cultures meeting after Alexander's conquest. Nearby, streets of house-like tombs form a Roman-era city of the dead, among them the tomb of Isadora, a young woman who drowned in the Nile and whose Greek epitaph mourns her. Beneath the sand run long galleries where countless mummified ibises and baboons, animals sacred to Thoth, were buried in jars and niches. A Roman waterwheel and deep well once supplied the necropolis with water.",
+  "ar": "على حافة الصحراء الغربية قرب ملوي تقع جبانة الأشمونين القديمة، مدينة جحوتي معبود الكتابة والحكمة. ويرجع اسمها إلى الكلمة المصرية «تا حنت» أي البحيرة، إشارة إلى بحيرة كان يخلّفها فيضان النيل. وتؤرخ لوحة من لوحات حدود إخناتون منحوتة في الجبل لأقدم فصول تاريخها، غير أن الموقع ازدهر في العصر المتأخر والعصرين اليوناني والروماني. وأشهر آثاره المقصورة الجنائزية لبيتوزيريس، كبير كهنة جحوتي نحو عام 300 ق.م، وقد شُيدت على هيئة معبد صغير. وتمزج نقوشها بين المناظر المصرية التقليدية والأزياء والأوضاع والتفاصيل الإغريقية، في سجل حي للقاء الثقافتين بعد فتح الإسكندر. وعلى مقربة منها تشكل مقابر على هيئة البيوت مدينة للموتى من العصر الروماني، منها مقبرة إيزادورا، الفتاة التي غرقت في النيل ويرثيها نقش يوناني. وتحت الرمال تمتد سراديب طويلة دُفنت فيها في جرار وكوات أعداد هائلة من طيور أبي منجل والقردة المحنطة، وهي الحيوانات المقدسة لجحوتي. وكانت ساقية رومانية وبئر عميقة تمد الجبانة بالماء."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Petosiris",
+    "ar": "مقبرة بيتوزيريس"
+   },
+   "desc": {
+    "en": "Temple-like tomb whose reliefs blend Egyptian and Greek styles.",
+    "ar": "مقبرة على هيئة معبد تمزج نقوشها بين الطرازين المصري والإغريقي."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Isadora",
+    "ar": "مقبرة إيزادورا"
+   },
+   "desc": {
+    "en": "Roman-era tomb of a young woman drowned in the Nile, with a Greek elegy.",
+    "ar": "مقبرة من العصر الروماني لفتاة غرقت في النيل، يرثيها نقش يوناني."
+   }
+  },
+  {
+   "title": {
+    "en": "Ibis and baboon catacombs",
+    "ar": "سراديب أبي منجل والقردة"
+   },
+   "desc": {
+    "en": "Underground galleries of mummified animals sacred to Thoth.",
+    "ar": "دهاليز تحت الأرض لحيوانات محنطة مقدسة لجحوتي."
+   }
+  },
+  {
+   "title": {
+    "en": "Boundary stela of Akhenaten",
+    "ar": "لوحة حدود إخناتون"
+   },
+   "desc": {
+    "en": "A cliff-carved stela marking the western limit of Akhetaten's territory.",
+    "ar": "لوحة منحوتة في الجبل تحدد الطرف الغربي لأراضي آخت آتون."
+   }
+  },
+  {
+   "title": {
+    "en": "Roman waterwheel",
+    "ar": "الساقية الرومانية"
+   },
+   "desc": {
+    "en": "A deep well and wheel that watered the necropolis.",
+    "ar": "بئر عميقة وساقية كانت تروي الجبانة."
+   }
+  },
+  {
+   "title": {
+    "en": "Funerary houses",
+    "ar": "المقابر البيوت"
+   },
+   "desc": {
+    "en": "Streets of Graeco-Roman tombs built like small houses.",
+    "ar": "شوارع من مقابر يونانية رومانية مبنية كالبيوت الصغيرة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Tunael-Gebel",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 120,
+  "deepMinutes": 180,
+  "bestTime": {
+   "en": "Morning; the catacombs are cool but the open necropolis is not.",
+   "ar": "الصباح؛ فالسراديب باردة لكن الجبانة المكشوفة ليست كذلك."
+  },
+  "crowdNotes": {
+   "en": "Quiet most days. Often combined with the ruins of Hermopolis (al-Ashmunein) and the Mallawi Museum, which have their own tickets. Foreign visitors travelling by road in Minya governorate may be asked by police to register their route or travel with an escort; drivers usually arrange this a day ahead.",
+   "ar": "هادئة في معظم الأيام، وكثيرًا ما تُجمع زيارتها مع أطلال الأشمونين ومتحف ملوي، ولكل منهما تذكرته. وقد تطلب الشرطة من الزوار الأجانب المسافرين برًا في محافظة المنيا تسجيل خط سيرهم أو التحرك بمرافقة أمنية، ويرتب السائقون ذلك عادة قبل الزيارة بيوم."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/TunaGebelPetTomb.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:TunaGebelPetTomb.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/TunaGebelPetPronaos.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:TunaGebelPetPronaos.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Tomb_of_Petosiris.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomb_of_Petosiris.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Tuna_el-Gebel",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%86%D8%A9_%D8%A7%D9%84%D8%AC%D8%A8%D9%84",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q734370",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing),address,highlights",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/تونا-الجبل/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (last entry 16:00; Ramadan 09:00, last entry 15:00),tickets,freeGroups",
+   "url": "https://egymonuments.com/details/Tunael-Gebel",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Nov 2024 cross-check: foreign 200/100, Egyptian 20/10)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights,status (news 10 Sep 2026)",
+   "url": "https://www.youm7.com/story/2026/9/10/%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82-%D8%A5%D9%84%D9%89-%D8%AA%D9%88%D9%86%D8%A7-%D8%A7%D9%84%D8%AC%D8%A8%D9%84-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%B3%D8%B1%D8%A7%D8%AF%D9%8A%D8%A8-%D8%A7%D9%84%D8%BA%D9%85%D9%88%D8%B6-%D9%88%D8%A7%D9%84%D8%B3%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%89/7502615",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Tuna_el-Gebel",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:TunaGebelPetTomb.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:TunaGebelPetPronaos.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Tomb_of_Petosiris.JPG",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Egyptian price: booking platform (only live official price page) 10/5 vs Nov 2024 PDF 20/10; amount = booking price (no portal page); batch-7 Q3a applied 2026-10-04. Isadora tomb included per the MoTA guide's description of the site (no separate ticket anywhere), stated in statusNote: moderately confident. Whether Isadora's mummy is still displayed is not stated. Minya escort note anecdotal. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

@@ -1,0 +1,328 @@
+{
+ "id": "bab-zuwayla",
+ "kind": "site",
+ "wikidataId": "Q2041270",
+ "name": {
+  "en": "Bab Zuwayla",
+  "ar": "باب زويلة"
+ },
+ "aliases": [
+  "باب زويله",
+  "Bab al-Zuwayla",
+  "Bab Zuweila"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Al-Darb al-Ahmar, Historic Cairo",
+  "ar": "الدرب الأحمر، القاهرة التاريخية"
+ },
+ "address": {
+  "en": "Taht al-Rab' Street, Al-Darb al-Ahmar, Cairo — at the southern end of al-Muizz Street, beside the Mosque of al-Mu'ayyad Shaykh",
+  "ar": "شارع تحت الربع، الدرب الأحمر، القاهرة — عند الطرف الجنوبي لشارع المعز بجوار جامع المؤيد شيخ"
+ },
+ "lat": 30.0428,
+ "lng": 31.2578,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The ticket covers the gate's interior halls, the roof platform and the climb up the twin minarets; the gate passage itself is a public street.",
+  "ar": "مفتوح يوميًا. تشمل التذكرة القاعات الداخلية للبوابة وسطحها والصعود إلى المئذنتين التوأمين، أما ممر البوابة نفسه فشارع عام."
+ },
+ "summary": {
+  "en": "The last standing gate of Fatimid Cairo's southern wall, crowned by two Mamluk minarets that you can climb for one of the best views over the old city.",
+  "ar": "آخر بوابة قائمة من السور الجنوبي للقاهرة الفاطمية، تعلوها مئذنتان مملوكيتان يمكن صعودهما للاستمتاع بواحدة من أجمل الإطلالات على المدينة القديمة."
+ },
+ "description": {
+  "en": "Bab Zuwayla marked the southern limit of the walled Fatimid capital. The vizier Badr al-Jamali rebuilt it in stone in 1092, a few years after the northern gates of Bab al-Nasr and Bab al-Futuh, giving it two massive rounded towers that flank a vaulted passage. Its name recalls the Zuwayla, a North African contingent of the Fatimid army that was quartered nearby. In the early fifteenth century Sultan al-Mu'ayyad Shaykh built his great mosque against the inner face of the gate and set its two slender minarets on top of the towers, creating the silhouette that has defined this corner of Cairo ever since. The gate also has a darker history: public executions were carried out here, most famously that of Tumanbay, the last Mamluk sultan, hanged by the Ottomans in 1517. A long conservation project with the American Research Center in Egypt, completed in the early 2000s, opened the interior to visitors. Today a staircase leads through the vaulted rooms inside the towers to the roof and up the minarets, which look out over al-Muizz Street, the tentmakers' market and the domes of Historic Cairo.",
+  "ar": "كان باب زويلة الحد الجنوبي للعاصمة الفاطمية المسوّرة، وقد أعاد الوزير بدر الجمالي بناءه بالحجر عام 1092م، بعد سنوات قليلة من بناء البابين الشماليين: باب النصر وباب الفتوح، فجاء ببرجين ضخمين مستديرين يحيطان بممر معقود. ويرتبط اسمه بقبيلة زويلة، وهي فرقة من جند الفاطميين قدمت من شمال إفريقيا ونزلت بجواره. وفي مطلع القرن الخامس عشر شيّد السلطان المؤيد شيخ جامعه الكبير ملاصقًا للواجهة الداخلية للبوابة، وأقام مئذنتيه الرشيقتين فوق البرجين، فاكتملت الصورة التي ميّزت هذا الركن من القاهرة منذ ذلك الحين. وللبوابة تاريخ قاتم أيضًا، إذ كانت موضعًا لتنفيذ الإعدام علنًا، وأشهر من أُعدم عندها طومان باي آخر سلاطين المماليك، الذي شنقه العثمانيون عام 1517م. وقد أتاح مشروع ترميم طويل نُفذ بالتعاون مع مركز البحوث الأمريكي بمصر واكتمل في مطلع الألفية الثالثة فتحَ الأجزاء الداخلية للزوار. واليوم يقود درج عبر القاعات المعقودة داخل البرجين إلى السطح ثم إلى أعلى المئذنتين، حيث تنكشف الإطلالة على شارع المعز وسوق الخيامية وقباب القاهرة التاريخية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Twin minarets of al-Mu'ayyad",
+    "ar": "مئذنتا المؤيد شيخ"
+   },
+   "desc": {
+    "en": "Two fifteenth-century minarets set on the gate towers; the climb ends with a sweeping view of Historic Cairo.",
+    "ar": "مئذنتان من القرن الخامس عشر تقومان فوق برجي البوابة، وينتهي الصعود إليهما بإطلالة واسعة على القاهرة التاريخية."
+   }
+  },
+  {
+   "title": {
+    "en": "Fatimid towers and passage",
+    "ar": "البرجان والممر الفاطمي"
+   },
+   "desc": {
+    "en": "Badr al-Jamali's rounded stone towers of 1092 flanking a domed gateway.",
+    "ar": "برجا بدر الجمالي الحجريان المستديران من عام 1092م يحيطان بممر البوابة المغطى بقبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Roof platform",
+    "ar": "سطح البوابة"
+   },
+   "desc": {
+    "en": "An open terrace above the passage overlooking al-Muizz Street and the tentmakers' market.",
+    "ar": "شرفة مكشوفة فوق الممر تطل على شارع المعز وسوق الخيامية."
+   }
+  },
+  {
+   "title": {
+    "en": "Vaulted interior halls",
+    "ar": "القاعات المعقودة الداخلية"
+   },
+   "desc": {
+    "en": "Rooms inside the towers, opened after the restoration, that lead visitors up through the structure.",
+    "ar": "قاعات داخل البرجين فُتحت بعد الترميم، يصعد الزائر عبرها داخل البناء."
+   }
+  },
+  {
+   "title": {
+    "en": "Site of Tumanbay's execution",
+    "ar": "موضع إعدام طومان باي"
+   },
+   "desc": {
+    "en": "Where the last Mamluk sultan was hanged in 1517, ending Mamluk rule in Egypt.",
+    "ar": "حيث شُنق آخر سلاطين المماليك عام 1517م، فانتهى بذلك حكم المماليك في مصر."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/BabZuweila",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Late morning or mid-afternoon on a clear day, for the view from the minarets.",
+   "ar": "أواخر الصباح أو منتصف العصر في يوم صافٍ، للاستمتاع بالإطلالة من المئذنتين."
+  },
+  "crowdNotes": {
+   "en": "The minaret stairs are steep and narrow, so allow time and wear sturdy shoes. The street below is busy with traffic and market stalls, especially in the evening.",
+   "ar": "سلالم المئذنتين شديدة الانحدار وضيقة، فخصص وقتًا كافيًا وارتدِ حذاءً مريحًا. والشارع أسفل البوابة مزدحم بالمارة والباعة خاصة في المساء."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bab_Zuweila_2019-11-02a.jpg",
+   "author": "Djehouty",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bab_Zuweila_2019-11-02a.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Cairo%2C_bab_zuweila_01.JPG",
+   "author": "Sailko",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo,_bab_zuweila_01.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bab_Zuwayla_DSCF9993.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bab_Zuwayla_DSCF9993.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/bab-zuwayla/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Bab_Zuwayla",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8_%D8%B2%D9%88%D9%8A%D9%84%D8%A9_(%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)",
+  "osm": "way/775853319"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2041270",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/bab-zuwayla/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),freeGroups (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/BabZuweila",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/79",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/bab-zuwayla/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close),address",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/باب-زويلة/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Bab_Zuwayla",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Ramadan close 16:00 from MoTA guide; last entry 15:00 matches egymonuments.com."
+}

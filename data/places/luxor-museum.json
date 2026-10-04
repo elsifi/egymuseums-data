@@ -191,7 +191,7 @@
      "en": "Summer: last entry 12:00 (morning session) and 19:00 (evening session)",
      "ar": "الصيف: آخر دخول 12:00 للفترة الصباحية و19:00 للفترة المسائية"
     },
-    "rule": "summer (season dates not published)",
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
     "weekly": [
      {
       "day": "mon",
@@ -263,7 +263,9 @@
       "open": "17:00",
       "lastEntry": "19:00"
      }
-    ]
+    ],
+    "from": "2026-04-24",
+    "to": "2026-10-29"
    },
    {
     "label": {
@@ -373,7 +375,7 @@
    }
   ],
   "freeGroups": [
-   "children under 6",
+   "Children under 6",
    "Egyptians with special needs",
    "Egyptians aged 60+"
   ]
@@ -398,19 +400,19 @@
  },
  "photos": [
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Luxor_Museum_Amenophis_III._Statue_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Luxor_Museum_Amenophis_III._Statue_05.jpg",
    "author": "Olaf Tausch",
    "license": "CC BY 3.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luxor_Museum_Amenophis_III._Statue_05.jpg"
   },
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Luxor_Museum_Relief_Talatat_05a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Luxor_Museum_Relief_Talatat_05a.jpg",
    "author": "Olaf Tausch",
    "license": "CC BY 3.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luxor_Museum_Relief_Talatat_05a.jpg"
   },
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Statue_of_the_Thutmosis_III_CG_42054-JE_36927_-_greywacke_-_Luxor_Museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Statue_of_the_Thutmosis_III_CG_42054-JE_36927_-_greywacke_-_Luxor_Museum_01.jpg",
    "author": "Marsupium",
    "license": "CC BY 4.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_the_Thutmosis_III_CG_42054-JE_36927_-_greywacke_-_Luxor_Museum_01.jpg"
@@ -478,9 +480,19 @@
    "field": "photos (license, author)",
    "url": "https://commons.wikimedia.org/wiki/File:Statue_of_the_Thutmosis_III_CG_42054-JE_36927_-_greywacke_-_Luxor_Museum_01.jpg",
    "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours(summer 2026, Luxor antiquities announcement from 24 Apr 2026)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-04"
   }
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.egyptindependent.com); needs an official 2025-2026 source. Summer closing times are not published (booking platform gives last entries only). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+ "curationNote": "cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.egyptindependent.com); needs an official 2025-2026 source. Summer closing times are not published (booking platform gives last entries only). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Summer exception dated 2026-04-24 to 2026-10-29 on 2026-10-04 (it had no dates): the Luxor antiquities 2026 summer schedule started 24 Apr, and the season ends with daylight-saving time on 29 Oct (batch-7 Q7a); recheck the winter 2026-27 schedule after 29 Oct 2026."
 }

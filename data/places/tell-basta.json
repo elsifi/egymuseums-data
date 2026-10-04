@@ -1,0 +1,404 @@
+{
+ "id": "tell-basta",
+ "kind": "site",
+ "wikidataId": "Q603841",
+ "name": {
+  "en": "Tell Basta (Bubastis)",
+  "ar": "تل بسطة"
+ },
+ "aliases": [
+  "بوباستيس",
+  "تل بسطه",
+  "Per Bast",
+  "Tell-Basta",
+  "Bubastis"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "sharqia",
+ "city": {
+  "en": "Zagazig",
+  "ar": "الزقازيق"
+ },
+ "area": {
+  "en": "Al-Nahal village, south-east edge of Zagazig",
+  "ar": "قرية النحال، الطرف الجنوبي الشرقي للزقازيق"
+ },
+ "address": {
+  "en": "Tell Basta, Al-Nahal village, Zagazig, Sharqia Governorate",
+  "ar": "تل بسطا، قرية النحال، الزقازيق، محافظة الشرقية"
+ },
+ "lat": 30.572778,
+ "lng": 31.51,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The site includes the Tell Basta Museum; tickets are sold at the gate.",
+  "ar": "مفتوحة يوميًا. يضم الموقع متحف تل بسطا، وتُباع التذاكر عند البوابة."
+ },
+ "summary": {
+  "en": "Ancient Bubastis, cult centre of the cat goddess Bastet, with red-granite temple ruins, a colossal statue of Queen Meritamun and a site museum on the edge of Zagazig.",
+  "ar": "بوباستيس القديمة، مركز عبادة الإلهة القطة باستت، بأطلال معبد من الجرانيت الأحمر وتمثال ضخم للملكة ميريت آمون ومتحف للموقع عند أطراف الزقازيق."
+ },
+ "description": {
+  "en": "Tell Basta preserves the remains of Per-Bastet, \"the house of Bastet\", which the Greeks called Bubastis. The lioness and later cat goddess Bastet, protector of the home and of fertility, made the city one of the great religious centres of the Delta, and Herodotus described its festival as among the liveliest in Egypt. Bubastis was the capital of the eighteenth Lower Egyptian province in the New Kingdom and became the seat of the Twenty-second Dynasty, whose Libyan kings enlarged the temple of Bastet with red-granite halls and gateways. Today the temple lies as a field of carved blocks, columns and Hathor capitals. Around it are remains spanning two thousand years: the pillars of a Sixth-Dynasty temple of Pepi I, a large palace of the Twelfth-Dynasty king Amenemhat III, a well of the Roman period, and a colossal statue of Queen Meritamun, daughter and wife of Ramesses II. Christian tradition counts Bubastis among the stops of the Holy Family in Egypt. A small museum opened on the site in 2018 presents finds from the excavations, including a hall devoted to Bastet.",
+  "ar": "يحفظ تل بسطا بقايا «بر باستت» أي بيت باستت، التي سماها الإغريق بوباستيس. وقد جعلت الإلهة باستت، اللبؤة ثم القطة، حامية البيت والخصوبة، من المدينة أحد أكبر المراكز الدينية في الدلتا، ووصف هيرودوت عيدها بأنه من أكثر أعياد مصر بهجة. وكانت بوباستيس عاصمة الإقليم الثامن عشر من أقاليم مصر السفلى في الدولة الحديثة، ثم صارت مقر الأسرة الثانية والعشرين التي وسّع ملوكها الليبيون معبد باستت بقاعات وبوابات من الجرانيت الأحمر. ويبدو المعبد اليوم حقلًا من الكتل المنقوشة والأعمدة والتيجان الحتحورية. وحوله آثار تمتد ألفي عام: أعمدة معبد للملك ببي الأول من الأسرة السادسة، وقصر كبير للملك أمنمحات الثالث من الأسرة الثانية عشرة، وبئر من العصر الروماني، وتمثال ضخم للملكة ميريت آمون ابنة رمسيس الثاني وزوجته. وتعد التقاليد المسيحية بوباستيس من محطات العائلة المقدسة في مصر. وقد افتُتح في الموقع عام 2018 متحف صغير يعرض مكتشفات الحفائر، ومنها قاعة مخصصة لباستت."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Temple of Bastet",
+    "ar": "معبد باستت"
+   },
+   "desc": {
+    "en": "Red-granite blocks, columns and Hathor capitals of the goddess's temple.",
+    "ar": "كتل وأعمدة وتيجان حتحورية من الجرانيت الأحمر من معبد الإلهة."
+   }
+  },
+  {
+   "title": {
+    "en": "Statue of Queen Meritamun",
+    "ar": "تمثال الملكة ميريت آمون"
+   },
+   "desc": {
+    "en": "Colossal statue of Ramesses II's daughter and queen.",
+    "ar": "تمثال ضخم لابنة رمسيس الثاني وزوجته."
+   }
+  },
+  {
+   "title": {
+    "en": "Palace of Amenemhat III",
+    "ar": "قصر أمنمحات الثالث"
+   },
+   "desc": {
+    "en": "Foundations of a Middle Kingdom royal palace.",
+    "ar": "أسس قصر ملكي من الدولة الوسطى."
+   }
+  },
+  {
+   "title": {
+    "en": "Temple of Pepi I",
+    "ar": "معبد ببي الأول"
+   },
+   "desc": {
+    "en": "Pillars of an Old Kingdom ka-temple.",
+    "ar": "أعمدة معبد «كا» من الدولة القديمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Roman well",
+    "ar": "البئر الرومانية"
+   },
+   "desc": {
+    "en": "A well linked by tradition to the Holy Family's journey.",
+    "ar": "بئر يربطها التقليد برحلة العائلة المقدسة."
+   }
+  },
+  {
+   "title": {
+    "en": "Tell Basta Museum",
+    "ar": "متحف تل بسطا"
+   },
+   "desc": {
+    "en": "Site museum of excavated finds with a hall for Bastet.",
+    "ar": "متحف الموقع لمكتشفات الحفائر، وفيه قاعة لباستت."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Parking: car or taxi",
+     "ar": "انتظار السيارات: ملاكي أو تاكسي"
+    },
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Parking: microbus",
+     "ar": "انتظار السيارات: ميكروباص"
+    },
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Parking: coaster",
+     "ar": "انتظار السيارات: كوستر"
+    },
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Parking: bus",
+     "ar": "انتظار السيارات: أتوبيس"
+    },
+    "amount": 100
+   }
+  ]
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning, to see the museum and the open-air site before the heat.",
+   "ar": "الصباح، لزيارة المتحف والموقع المكشوف قبل اشتداد الحر."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded except for school trips; easy to reach from Zagazig city. Check museum opening times at the gate, as they may be shorter than the site's.",
+   "ar": "نادرًا ما يزدحم إلا بالرحلات المدرسية، ويسهل الوصول إليه من مدينة الزقازيق. تحقق عند البوابة من مواعيد المتحف، فقد تكون أقصر من مواعيد الموقع."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bubastis_011.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bubastis_011.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bubastis_016.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bubastis_016.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bubastis_005.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bubastis_005.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/tal-basta/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Bubastis",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84_%D8%A8%D8%B3%D8%B7%D8%A9",
+  "osm": "relation/15616353"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q603841",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/tal-basta/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/open-air-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/palace-of-king-amenemhat-iii/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-roman-well/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/statue-of-queen-meritamun/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-temple-of-bastet/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (daily 09:00-17:00),prices,prices.extras (parking),description",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/tal-basta/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (winter 09:00-17:00, summer 09:00-18:00, Ramadan 09:00-16:00, last entry 1 h before closing),address",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/منطقة-آثار-تل-بسطا/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (Nov 2024 cross-check; museum within site ticket)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (Tell Basta Museum open, prices; news 15 May 2026)",
+   "url": "https://www.elwatannews.com/news/details/8284894",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (Holy Family site development, official news)",
+   "url": "https://egymonuments.gov.eg/news/inaugurating-the-development-project-of-tel-basta-site-in-sharkia/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Bubastis",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Bubastis_011.JPG",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Bubastis_016.JPG",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Bubastis_005.JPG",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Summer closing conflict: egymonuments.gov.eg says 09:00-17:00 all year; the MoTA guide says summer 09:00-18:00 (winter 17:00). The earlier closing (17:00, last entry 16:00) is used all year, so no summer exception. Ramadan per MoTA guide. Not on egymonuments.com (no onlineUrl). Museum: Nov 2024 PDF says 09:00-15:00 'within Tell Basta ticket'; elwatannews 2026 quotes longer seasonal hours and the same prices; museum inclusion in the site ticket not re-confirmed for 2026. Parking extras from the live portal (Nov 2024 PDF: car 25 / minibus 75 / bus 100). freeGroups not listed on any official Tell Basta page, so omitted. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced.",
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ }
+}

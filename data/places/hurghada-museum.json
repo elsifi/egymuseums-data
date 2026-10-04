@@ -1,0 +1,445 @@
+{
+ "id": "hurghada-museum",
+ "kind": "museum",
+ "wikidataId": "Q88975334",
+ "name": {
+  "en": "Hurghada Museum",
+  "ar": "متحف الغردقة"
+ },
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "red-sea",
+ "city": {
+  "en": "Hurghada",
+  "ar": "الغردقة"
+ },
+ "area": {
+  "en": "Tourist promenade (Al Mamsha)",
+  "ar": "الممشى السياحي"
+ },
+ "address": {
+  "en": "Tourist promenade (Al Mamsha), Hurghada, Red Sea Governorate",
+  "ar": "الممشى السياحي، الغردقة، محافظة البحر الأحمر"
+ },
+ "lat": 27.159978,
+ "lng": 33.82136,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily in two sessions, morning and evening, including holidays.",
+  "ar": "مفتوح يوميًا على فترتين صباحية ومسائية، بما في ذلك أيام العطلات."
+ },
+ "summary": {
+  "en": "The Red Sea's first antiquities museum, telling Egypt's story from the pharaohs to the royal family of the twentieth century through the theme of beauty and luxury.",
+  "ar": "أول متحف للآثار في البحر الأحمر، يروي قصة مصر من الفراعنة حتى الأسرة العلوية في القرن العشرين من خلال موضوع الجمال والرفاهية."
+ },
+ "description": {
+  "en": "Opened in 2020 as the first antiquities museum in the Red Sea Governorate, the Hurghada Museum was built in partnership between the Ministry of Tourism and Antiquities, the governorate and private investors, a first for Egypt. Its two floors gather objects drawn from the national collections around a single idea: beauty and luxury in Egyptian life across the ages. The display moves from pharaonic Egypt through the Greek and Roman periods to Coptic, Islamic and modern times. The centrepiece is a fine statue of Queen Meritamun, daughter of Ramesses II. Other ancient works include an Old Kingdom pair statue of Nemtynefer and his wife from Saqqara, reliefs and royal statuary, cosmetic vessels, jewellery and mummies. Later galleries show a Coptic textile of the Virgin and Child, an illuminated Ottoman-era Quran and other manuscripts, and finds from a sunken ship. The visit ends with jewellery, watches and decorative objects from the family of Muhammad Ali, among them pieces linked to Princess Fatma Ismail. Evening opening makes the museum an easy addition to a beach holiday.",
+  "ar": "افتُتح متحف الغردقة عام 2020 أول متحف للآثار في محافظة البحر الأحمر، وشُيد بشراكة بين وزارة السياحة والآثار والمحافظة ومستثمرين من القطاع الخاص، في سابقة هي الأولى من نوعها في مصر. ويجمع طابقاه قطعًا مختارة من المجموعات القومية حول فكرة واحدة: الجمال والرفاهية في حياة المصريين عبر العصور. ويتنقل العرض من مصر الفرعونية عبر العصرين اليوناني والروماني إلى العصور القبطية والإسلامية والحديثة. ويتصدره تمثال بديع للملكة ميريت آمون ابنة رمسيس الثاني. ومن القطع القديمة الأخرى تمثال مزدوج من الدولة القديمة لنمتي نفر وزوجته من سقارة، ونقوش وتماثيل ملكية، وأوانٍ للزينة، وحلي، ومومياوات. وتعرض القاعات اللاحقة نسيجًا قبطيًا للسيدة العذراء والطفل، ومصحفًا مزخرفًا من العصر العثماني ومخطوطات أخرى، ومكتشفات من سفينة غارقة. وتختتم الزيارة بمجوهرات وساعات وتحف من مقتنيات أسرة محمد علي، منها قطع ترتبط بالأميرة فاطمة إسماعيل. وتجعل الفترة المسائية من المتحف إضافة سهلة إلى العطلة الشاطئية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Statue of Queen Meritamun",
+    "ar": "تمثال الملكة ميريت آمون"
+   },
+   "desc": {
+    "en": "The museum's centrepiece, a statue of Ramesses II's daughter.",
+    "ar": "درة المتحف، تمثال لابنة رمسيس الثاني."
+   }
+  },
+  {
+   "title": {
+    "en": "Nemtynefer and his wife",
+    "ar": "نمتي نفر وزوجته"
+   },
+   "desc": {
+    "en": "An Old Kingdom pair statue from Saqqara.",
+    "ar": "تمثال مزدوج من الدولة القديمة من سقارة."
+   }
+  },
+  {
+   "title": {
+    "en": "Beauty and adornment",
+    "ar": "أدوات الزينة والتجميل"
+   },
+   "desc": {
+    "en": "Cosmetic vessels, mirrors and jewellery from ancient Egypt.",
+    "ar": "أوانٍ للزينة ومرايا وحلي من مصر القديمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Coptic and Islamic galleries",
+    "ar": "القاعات القبطية والإسلامية"
+   },
+   "desc": {
+    "en": "Textiles, an Ottoman-era Quran and decorative arts.",
+    "ar": "منسوجات ومصحف من العصر العثماني وفنون زخرفية."
+   }
+  },
+  {
+   "title": {
+    "en": "Sunken-ship finds",
+    "ar": "مكتشفات السفينة الغارقة"
+   },
+   "desc": {
+    "en": "Remains recovered from a shipwreck.",
+    "ar": "بقايا انتُشلت من سفينة غارقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Muhammad Ali family jewellery",
+    "ar": "مجوهرات أسرة محمد علي"
+   },
+   "desc": {
+    "en": "Royal jewels, watches and objects in the final gallery.",
+    "ar": "مجوهرات وساعات وتحف ملكية في القاعة الأخيرة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "mon",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   },
+   {
+    "day": "tue",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "tue",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   },
+   {
+    "day": "wed",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "wed",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   },
+   {
+    "day": "thu",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "thu",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   },
+   {
+    "day": "fri",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "fri",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   },
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "sat",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   },
+   {
+    "day": "sun",
+    "open": "10:00",
+    "close": "13:00",
+    "lastEntry": "12:00"
+   },
+   {
+    "day": "sun",
+    "open": "17:00",
+    "close": "23:00",
+    "lastEntry": "22:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan: 10:00–12:00 (last entry 11:00) and 20:00–23:00 (last entry 22:00)",
+     "ar": "رمضان: 10:00–12:00 (آخر دخول 11:00) و20:00–23:00 (آخر دخول 22:00)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "mon",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "tue",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "wed",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "thu",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "fri",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "fri",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "sat",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "12:00",
+      "lastEntry": "11:00"
+     },
+     {
+      "day": "sun",
+      "open": "20:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 300
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 150
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 80
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 40
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Audio guide — foreign visitor",
+     "ar": "الدليل الصوتي — زائر أجنبي"
+    },
+    "audience": "foreign",
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Audio guide — Egyptian visitor",
+     "ar": "الدليل الصوتي — زائر مصري"
+    },
+    "audience": "egyptian",
+    "amount": 30
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/HurghadaMuseum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "The evening session, after a day at the beach, or at 10:00 on weekdays.",
+   "ar": "الفترة المسائية بعد يوم على الشاطئ، أو في العاشرة صباحًا في أيام الأسبوع."
+  },
+  "crowdNotes": {
+   "en": "Note the midday closure between 13:00 and 17:00. Hotel excursion groups tend to arrive in the evening. Large bags must be left in the cloakroom; flash and tripods are not allowed.",
+   "ar": "انتبه إلى الإغلاق وقت الظهيرة بين 13:00 و17:00. وتصل مجموعات الرحلات الفندقية غالبًا في المساء. ويجب ترك الحقائب الكبيرة في غرفة الأمانات، ولا يُسمح بالفلاش أو الحوامل."
+  }
+ },
+ "facilities": {
+  "elevator": true,
+  "giftShop": true,
+  "cloakroom": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Statue_of_Meritamen_in_the_Hurghada_Museum.jpg",
+   "author": "Photographer: Mosbatho",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Meritamen_in_the_Hurghada_Museum.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/hurghada-museum/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%BA%D8%B1%D8%AF%D9%82%D8%A9",
+  "osm": "way/99756106"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q88975334",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/hurghada-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (10:00-13:00, ticket window to 12:00; 17:00-23:00, to 22:00; Ramadan 10:00-12:00 and 20:00-23:00),prices,extras (audio guide),freeGroups,facilities",
+   "url": "https://egymonuments.gov.eg/en/museums/hurghada-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan 10:00-14:00 and 20:00-23:00),address,highlights",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-الغردقة/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (last entry 12:00 and 22:00; Ramadan last entry 13:00 and 22:00),tickets",
+   "url": "https://egymonuments.com/details/HurghadaMuseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (ticket window 12:30 and 22:30; open on holidays; news 26 May 2026)",
+   "url": "https://www.youm7.com/story/2026/5/26/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D9%85%D8%AA%D8%AD%D9%81-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%B1%D8%AF%D9%82%D8%A9-%D9%81%D9%89-%D8%A3%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B9%D8%B7%D9%84%D8%A7%D8%AA/7429141",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (Nemtynefer and wife pair statue, news 19 Jun 2026)",
+   "url": "https://www.youm7.com/story/2026/6/19/%D8%B4%D8%A7%D9%87%D8%AF-%D8%AA%D9%85%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D9%82%D8%A7%D9%86-%D8%A8%D9%85%D8%AA%D8%AD%D9%81-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%B1%D8%AF%D9%82%D8%A9-%C2%AB%D9%86%D9%85%D8%AA%D9%89-%D9%86%D9%81%D8%B1%C2%BB-%D9%88%D8%B2%D9%88%D8%AC%D8%AA%D9%87/7443170",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (Muhammad Ali family jewellery, news 17 Jul 2026)",
+   "url": "https://www.youm7.com/story/2026/7/17/%D8%B4%D8%A7%D9%87%D8%AF-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D9%86%D8%A7%D8%AF%D8%B1%D8%A9-%D9%88%D9%85%D8%AC%D9%88%D9%87%D8%B1%D8%A7%D8%AA-%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A8%D9%85%D8%AA%D8%AD%D9%81-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%B1%D8%AF%D9%82%D8%A9-%D8%B5%D9%88%D8%B1/7480474",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%BA%D8%B1%D8%AF%D9%82%D8%A9",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Statue_of_Meritamen_in_the_Hurghada_Museum.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Ramadan conflict: portal 10:00-12:00 (window 11:00) and 20:00-23:00 (window 22:00); MoTA guide morning to 14:00; booking platform Ramadan last entry 13:00. Earlier times used (close 12:00, last entry 11:00). Normal last entry: portal and booking 12:00/22:00 vs youm7 May 2026 12:30/22:30; earlier kept. Object count differs by source (2,000 official vs ~1,400 in news), so no count given. Wikidata phone (+20-111-1118891) and Facebook page not verified as official: contacts omitted. Only one photo used: Commons has a single CC artefact photo for this museum (Meritamun statue); the others show the modern building (excluded, no freedom of panorama). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

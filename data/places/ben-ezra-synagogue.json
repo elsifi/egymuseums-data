@@ -1,0 +1,232 @@
+{
+ "id": "ben-ezra-synagogue",
+ "kind": "site",
+ "wikidataId": "Q2474653",
+ "name": {
+  "en": "Ben Ezra Synagogue",
+  "ar": "كنيس بن عزرا"
+ },
+ "aliases": [
+  "كنيس بن عيزرا",
+  "معبد بن عزرا",
+  "El-Geniza Synagogue",
+  "Synagogue of the Levantines",
+  "Synagogue of the Palestinians"
+ ],
+ "category": "jewish",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Coptic Cairo (Fustat), Old Cairo",
+  "ar": "القاهرة القبطية (الفسطاط)، مصر القديمة"
+ },
+ "address": {
+  "en": "Religions Compound, Fustat, Old Cairo — near Mar Girgis metro station",
+  "ar": "مجمع الأديان، الفسطاط، مصر القديمة — بالقرب من محطة مترو مار جرجس"
+ },
+ "lat": 30.005794,
+ "lng": 31.231022,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily to visitors as a historic monument; it is no longer used for regular worship.",
+  "ar": "مفتوح يوميًا للزوار بوصفه أثرًا تاريخيًا، ولم يعد يُستخدم للصلاة بانتظام."
+ },
+ "summary": {
+  "en": "Cairo's most famous synagogue, whose storeroom held the Cairo Geniza, a treasure of medieval documents that transformed the study of Jewish and Mediterranean history.",
+  "ar": "أشهر معابد القاهرة اليهودية، وقد احتفظت حجرة الجنيزة فيه بكنز من الوثائق الوسيطة غيّر فهمنا لتاريخ اليهود وحوض المتوسط."
+ },
+ "description": {
+  "en": "Ben Ezra stands among the churches of Coptic Cairo, in old Fustat. Its origins are older than the present building: documents show a congregation here before 882, and tradition says the land was once a church sold to the Jewish community. The synagogue was destroyed under the Fatimid caliph al-Hakim in the early eleventh century, rebuilt soon afterwards, and reconstructed again in the 1890s; the building visitors see today dates from that last phase and was restored in the late twentieth century. Its interior follows a basilica plan with an upper gallery for women, a central reading platform, the bimah, and a richly decorated ark niche, the hekhal, inlaid with mother-of-pearl and inscribed with the Ten Commandments in Hebrew. The synagogue is named after the scholar Abraham ibn Ezra, and the philosopher Maimonides worshipped here while he lived in Fustat. Its fame rests on the geniza, a storeroom where for centuries worn texts bearing the name of God were kept rather than destroyed. Studied by European scholars from the late 1880s, its hundreds of thousands of fragments are now in libraries abroad, chiefly Cambridge. Local legend also links a well behind the building to the infant Moses.",
+  "ar": "يقع معبد بن عزرا بين كنائس القاهرة القبطية داخل منطقة الحصن الروماني في الفسطاط. وأصوله أقدم من مبناه الحالي، إذ تشير الوثائق إلى وجود طائفة تتعبد هنا قبل عام 882م، وتقول الرواية إن الأرض كانت في الأصل كنيسة بيعت للطائفة اليهودية. وقد هُدم المعبد في عهد الخليفة الفاطمي الحاكم بأمر الله مطلع القرن الحادي عشر، ثم أُعيد بناؤه بعد فترة قصيرة، وجُدّد مرة أخرى في تسعينيات القرن التاسع عشر، والمبنى القائم اليوم يعود إلى تلك المرحلة الأخيرة، وقد رُمّم في أواخر القرن العشرين. ويتبع تخطيطه الداخلي الطراز البازيليكي بشرفة علوية للنساء، ومنبر للقراءة في الوسط يُعرف بالبيما، وهيكل غني بالزخارف يحدد اتجاه الصلاة، مطعّم بالصدف ومنقوشة عليه الوصايا العشر بالعبرية. ويحمل المعبد اسم العالم إبراهيم بن عزرا، وقد تعبّد فيه الفيلسوف موسى بن ميمون أثناء إقامته في الفسطاط. وترجع شهرته إلى الجنيزة، وهي حجرة حُفظت فيها على مدى قرون النصوص البالية التي تحمل اسم الله بدلًا من إتلافها. وقد بدأ الباحثون الأوروبيون دراستها منذ أواخر ثمانينيات القرن التاسع عشر، وتوجد مئات الآلاف من قصاصاتها اليوم في مكتبات خارج مصر، أغلبها في كامبريدج. كما تربط الحكايات المحلية بئرًا خلف المبنى بقصة النبي موسى رضيعًا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "The hekhal",
+    "ar": "الهيكل"
+   },
+   "desc": {
+    "en": "The ark niche facing the direction of prayer, inlaid with mother-of-pearl and inscribed with the Ten Commandments.",
+    "ar": "الحنية التي تحدد اتجاه الصلاة، مطعّمة بالصدف ومنقوشة عليها الوصايا العشر."
+   }
+  },
+  {
+   "title": {
+    "en": "The bimah",
+    "ar": "البيما"
+   },
+   "desc": {
+    "en": "The central reading platform from which the Torah was read.",
+    "ar": "منصة القراءة في وسط المعبد حيث كانت تُتلى التوراة."
+   }
+  },
+  {
+   "title": {
+    "en": "Women's gallery",
+    "ar": "شرفة النساء"
+   },
+   "desc": {
+    "en": "The upper gallery running along the sides of the basilica hall.",
+    "ar": "الشرفة العلوية الممتدة على جانبي القاعة البازيليكية."
+   }
+  },
+  {
+   "title": {
+    "en": "The geniza",
+    "ar": "الجنيزة"
+   },
+   "desc": {
+    "en": "The storeroom that preserved the Cairo Geniza; its documents are now in libraries abroad.",
+    "ar": "الحجرة التي حفظت جنيزة القاهرة، وتوجد وثائقها اليوم في مكتبات خارج مصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Well of Moses",
+    "ar": "بئر موسى"
+   },
+   "desc": {
+    "en": "A well behind the building tied by local legend to the infant Moses.",
+    "ar": "بئر خلف المبنى تربطها الحكايات المحلية بالنبي موسى رضيعًا."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 30,
+  "deepMinutes": 45,
+  "bestTime": {
+   "en": "Weekday mornings, combined with the Hanging Church, the Coptic Museum and the churches of Coptic Cairo.",
+   "ar": "صباح أيام الأسبوع، مع الجمع بين الزيارة والكنيسة المعلقة والمتحف القبطي وكنائس القاهرة القبطية."
+  },
+  "crowdNotes": {
+   "en": "The synagogue is small and fills quickly when tour groups arrive. Mar Girgis metro station (Line 1) is a short walk away.",
+   "ar": "المعبد صغير ويمتلئ سريعًا عند وصول المجموعات السياحية. وتقع محطة مترو مار جرجس (الخط الأول) على بعد خطوات."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Kairo_Ben-Esra-Synagoge_01.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kairo_Ben-Esra-Synagoge_01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ben_Ezra_Synagogue_Interior.jpg",
+   "author": "Schlanger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ben_Ezra_Synagogue_Interior.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/CairoBenEzra.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoBenEzra.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/ben-ezra-synagogue/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Ben_Ezra_Synagogue",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%83%D9%86%D9%8A%D8%B3_%D8%A8%D9%86_%D8%B9%D8%B2%D8%B1%D8%A7",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2474653",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/ben-ezra-synagogue/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/ben-ezra-synagogue/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (incl. Ramadan),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-بن-عزرا/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (no ticket listed; status unconfirmed)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-بن-عزرا/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Ben_Ezra_Synagogue",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Price not confirmed: no ticket is listed by the MoTA guide, egymonuments.gov.eg or egymonuments.com; prices.status unconfirmed (same treatment as hanging-church, decision D9). Photography rules not found. Confirm via MoTA hotline 19654. Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
+}

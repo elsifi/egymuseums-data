@@ -1,0 +1,386 @@
+{
+ "id": "royal-carriages-museum",
+ "kind": "museum",
+ "wikidataId": "Q101775771",
+ "name": {
+  "en": "Royal Carriages Museum (Bulaq)",
+  "ar": "متحف المركبات الملكية"
+ },
+ "aliases": [
+  "إسطبل الملك",
+  "Museum of Vehicles",
+  "Royal Chariots museum",
+  "Royal Carriage Museum (Boulaq)",
+  "متحف المركبات الملكية ببولاق",
+  "Royal Carriages Museum at Cairo Citadel",
+  "Royal Carriages museum"
+ ],
+ "category": "royal-palace",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Bulaq Abu al-Ela, 26th of July Street",
+  "ar": "بولاق أبو العلا، شارع 26 يوليو"
+ },
+ "address": {
+  "en": "26th of July Street, Bulaq Abu al-Ela, Cairo",
+  "ar": "شارع 26 يوليو، بولاق أبو العلا، القاهرة"
+ },
+ "lat": 30.055537,
+ "lng": 31.231095,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "The former khedivial stables in Bulaq, now a museum of the royal carriages, harness and liveries of Egypt's Muhammad Ali dynasty.",
+  "ar": "إسطبلات الخديوي السابقة في بولاق، وقد صارت متحفًا لعربات أسرة محمد علي وأطقم خيولها وأزياء العاملين في الركائب الملكية."
+ },
+ "description": {
+  "en": "Khedive Ismail built this complex in the 1860s and 1870s to house the horses and state carriages of his court, and under King Fuad it became the Royal Stables Department. After 1952 it was turned into a museum, but it closed in the 1980s and only reopened in 2020 after a long restoration of the building and its collection. The halls trace how the palace travelled in style. Gilded state coaches stand beside carriages of many sizes and types, alongside saddles, harness, bridles and horse ornaments. Glass cases hold the uniforms of coachmen, grooms and footmen, together with medals, decorations and small personal objects of the royal family, and oil portraits of kings and princesses hang on the walls. The most celebrated piece is the great ceremonial carriage given by Napoleon III and Empress Eugénie to Ismail for the opening of the Suez Canal in 1869, later used by King Farouk. The museum makes a compact visit in downtown Cairo, a short walk from the Nile corniche.",
+  "ar": "شيّد الخديوي إسماعيل هذا المبنى في ستينيات القرن التاسع عشر وسبعينياته ليضم خيول البلاط وعرباته الرسمية، وفي عهد الملك فؤاد أصبح «مصلحة الركائب الملكية». وبعد عام 1952 تحوّل إلى متحف، لكنه أُغلق في ثمانينيات القرن الماضي ولم يُعد افتتاحه إلا عام 2020 بعد ترميم طويل للمبنى ومقتنياته. تروي القاعات كيف كان القصر يتنقل في أبهة؛ فإلى جانب عربات المواكب المذهّبة تقف عربات متنوعة الأحجام والطرازات، ومعها السروج والأطقم واللجامات وحلي الخيول. وتعرض الخزانات الزجاجية أزياء الحوذية والسيّاس والخدم، إلى جانب أوسمة ونياشين ومقتنيات شخصية صغيرة لأفراد الأسرة المالكة، بينما تزيّن الجدران لوحات زيتية للملوك والأميرات. وأشهر القطع عربة الآلاي الكبرى التي أهداها نابليون الثالث والإمبراطورة أوجيني للخديوي إسماعيل في افتتاح قناة السويس عام 1869، واستخدمها الملك فاروق لاحقًا. ويُعد المتحف زيارة قصيرة ممتعة في وسط القاهرة، على مسافة قريبة من كورنيش النيل."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Grand ceremonial carriage",
+    "ar": "عربة الآلاي الكبرى"
+   },
+   "desc": {
+    "en": "The gilded state coach given to Khedive Ismail by Napoleon III and Empress Eugénie in 1869.",
+    "ar": "عربة المواكب المذهّبة التي أهداها نابليون الثالث والإمبراطورة أوجيني للخديوي إسماعيل عام 1869."
+   }
+  },
+  {
+   "title": {
+    "en": "Royal carriages",
+    "ar": "العربات الملكية"
+   },
+   "desc": {
+    "en": "Carriages of many sizes and types used by the Muhammad Ali dynasty.",
+    "ar": "عربات متنوعة الأحجام والطرازات استخدمتها أسرة محمد علي."
+   }
+  },
+  {
+   "title": {
+    "en": "Harness and saddlery",
+    "ar": "أطقم الخيول والسروج"
+   },
+   "desc": {
+    "en": "Saddles, bridles and ornaments made for the royal horses.",
+    "ar": "سروج ولجامات وحلي صُنعت لخيول القصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Liveries",
+    "ar": "أزياء الركائب"
+   },
+   "desc": {
+    "en": "Uniforms of the coachmen, grooms and footmen of the royal stables.",
+    "ar": "أزياء الحوذية والسيّاس والخدم العاملين في الركائب الملكية."
+   }
+  },
+  {
+   "title": {
+    "en": "Medals and royal keepsakes",
+    "ar": "الأوسمة والمقتنيات الملكية"
+   },
+   "desc": {
+    "en": "Decorations, miniatures and small personal objects of the royal family.",
+    "ar": "أوسمة وصور مصغّرة ومقتنيات شخصية صغيرة لأفراد الأسرة المالكة."
+   }
+  },
+  {
+   "title": {
+    "en": "Royal portraits",
+    "ar": "اللوحات الملكية"
+   },
+   "desc": {
+    "en": "Oil paintings of kings and princesses of the same period.",
+    "ar": "لوحات زيتية للملوك والأميرات من الحقبة نفسها."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "19:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     },
+     {
+      "day": "sun",
+      "open": "19:00",
+      "close": "23:00",
+      "lastEntry": "22:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 300
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 150
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/RoyalChariotsMuseum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 40,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Weekday mornings; easy to pair with a walk along the Nile corniche or downtown Cairo.",
+   "ar": "صباح أيام الأسبوع، ويسهل الجمع بينه وبين نزهة على كورنيش النيل أو في وسط البلد."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded except for school trips. Most halls are on one level around the restored courtyard.",
+   "ar": "نادرًا ما يزدحم إلا مع الرحلات المدرسية، ومعظم القاعات في مستوى واحد حول الفناء المرمم."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Royal_Carriages_Museum_-_Bulaq_005.jpg",
+   "author": "Amr F.Nagy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Carriages_Museum_-_Bulaq_005.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Royal_Carriages_Museum_-_Bulaq_002.jpg",
+   "author": "Amr F.Nagy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Carriages_Museum_-_Bulaq_002.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Royal_Carriages_Museum_-_Bulaq_004.jpg",
+   "author": "Amr F.Nagy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Carriages_Museum_-_Bulaq_004.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 2 25774437",
+  "website": null,
+  "social": []
+ },
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/the-royal-carriages-museum/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9_%D8%A8%D8%A8%D9%88%D9%84%D8%A7%D9%82_%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D8%B9%D9%84%D8%A7",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q101775771",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q133872943",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/the-royal-carriages-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,lastEntry,freeGroups,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/museums/the-royal-carriages-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (Ramadan lastEntry),tickets (official booking platform)",
+   "url": "https://egymonuments.com/details/RoyalChariotsMuseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (booking page)",
+   "url": "https://egymonuments.com/book-date/50",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan incl. Fri/Sun evening session),address,description (reopened 2020)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-المركبات-الملكية/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "contacts (phone, Wikidata P1329)",
+   "url": "https://www.wikidata.org/wiki/Q101775771",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Royal_Carriages_Museum_-_Bulaq_005.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Royal_Carriages_Museum_-_Bulaq_002.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Royal_Carriages_Museum_-_Bulaq_004.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Hours and prices agree across portal, booking platform and MoTA guide. Ramadan: MoTA guide gives 09:00-15:00 daily plus 19:00-23:00 on Friday and Sunday (undated, probably the 2026 pattern); booking platform gives Ramadan last entry 14:00; evening lastEntry 22:00 from the guide's one-hour rule. Phone from Wikidata (unverified with the museum). Photos: Bulaq gallery shots of carriage model, liveries and medals; the courtyard shot under the modern glass roof was not used. Licence note: Amr F.Nagy uploads show 'Public domain' in Commons extmetadata for some files, but the file pages carry {{self|cc-by-sa-4.0}}; CC BY-SA 4.0 recorded. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

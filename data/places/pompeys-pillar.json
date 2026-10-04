@@ -1,0 +1,303 @@
+{
+ "id": "pompeys-pillar",
+ "kind": "site",
+ "wikidataId": "Q492487",
+ "name": {
+  "en": "Pompey's Pillar and the Serapeum of Alexandria",
+  "ar": "عمود السواري"
+ },
+ "aliases": [
+  "عامود السواري",
+  "عامود الصواري",
+  "عمود الصواري",
+  "Pompey's Pillar"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Karmouz",
+  "ar": "كرموز"
+ },
+ "address": {
+  "en": "Amoud el-Sawari, Kafr el-Ghattas, Karmouz, Alexandria",
+  "ar": "عمود السواري، كفر الغاطس، كرموز، الإسكندرية"
+ },
+ "lat": 31.1825,
+ "lng": 29.896389,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A soaring granite column raised for Emperor Diocletian above the ruins of Alexandria's great Serapeum temple.",
+  "ar": "عمود شاهق من الجرانيت أُقيم تكريمًا للإمبراطور دقلديانوس فوق أطلال معبد السرابيوم الكبير بالإسكندرية."
+ },
+ "description": {
+  "en": "On a rocky hill in the Karmouz district stands the tallest ancient monument still upright in Alexandria: a single shaft of red Aswan granite which, with its base and capital, reaches almost 27 metres. Despite its popular English name, it has nothing to do with the Roman general Pompey; later travellers wrongly linked it to him, while the Arabic name, Amoud al-Sawari, evokes the masts of ships. The column was erected in honour of Emperor Diocletian after he suppressed a revolt in the city at the end of the third century AD. The hill was once crowned by the Serapeum, the most important temple of Graeco-Roman Alexandria, dedicated to the god Serapis and home to an offshoot of the famous library. The sanctuary was destroyed in 391, but visitors can still walk among its foundations, granite sphinxes and scattered columns, and descend into rock-cut underground galleries beneath the precinct, whose wall niches may once have held cult objects or scrolls. The visit is short and pairs naturally with the catacombs of Kom el-Shoqafa nearby.",
+  "ar": "على تل صخري في حي كرموز يقف أعلى أثر قديم لا يزال قائمًا في الإسكندرية: عمود من قطعة واحدة من جرانيت أسوان الأحمر يقارب ارتفاعه، مع قاعدته وتاجه، 27 مترًا. ورغم اسمه الشائع في اللغات الأوروبية، لا علاقة له بالقائد الروماني بومبي، إذ نسبه إليه الرحالة لاحقًا خطأً، أما اسمه العربي «عمود السواري» فيستحضر صواري السفن لشدة ارتفاعه. أُقيم العمود تكريمًا للإمبراطور دقلديانوس بعد أن أخمد ثورة في المدينة أواخر القرن الثالث الميلادي. وكان التل يعلوه معبد السرابيوم، أهم معابد الإسكندرية في العصر اليوناني الروماني، المكرس للمعبود سرابيس والذي ضم فرعًا للمكتبة الشهيرة. وقد دُمر المعبد عام 391، لكن الزائر لا يزال يتجول بين أساساته وتماثيل أبي الهول الجرانيتية والأعمدة المتناثرة، وينزل إلى دهاليز منحوتة في الصخر أسفل ساحة المعبد، ربما احتوت كواتها يومًا أدوات العبادة أو اللفائف. والزيارة قصيرة، ويسهل الجمع بينها وبين مقابر كوم الشقافة القريبة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Diocletian's column",
+    "ar": "عمود دقلديانوس"
+   },
+   "desc": {
+    "en": "A single granite shaft, the tallest ancient monument standing in Alexandria.",
+    "ar": "عمود جرانيتي من قطعة واحدة، أعلى أثر قديم قائم في الإسكندرية."
+   }
+  },
+  {
+   "title": {
+    "en": "Granite sphinxes",
+    "ar": "تماثيل أبي الهول الجرانيتية"
+   },
+   "desc": {
+    "en": "Sphinxes set among the ruins of the temple precinct.",
+    "ar": "تماثيل لأبي الهول تتوزع بين أطلال ساحة المعبد."
+   }
+  },
+  {
+   "title": {
+    "en": "Underground galleries",
+    "ar": "الدهاليز السفلية"
+   },
+   "desc": {
+    "en": "Rock-cut passages with wall niches beneath the Serapeum.",
+    "ar": "ممرات منحوتة في الصخر بجدرانها كوات أسفل السرابيوم."
+   }
+  },
+  {
+   "title": {
+    "en": "Serapeum ruins",
+    "ar": "أطلال السرابيوم"
+   },
+   "desc": {
+    "en": "Foundations of Alexandria's greatest temple, dedicated to Serapis.",
+    "ar": "أساسات أعظم معابد الإسكندرية، المكرس للمعبود سرابيس."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/SerapeumofAlexandria",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Morning; combine with Kom el-Shoqafa, about ten minutes' walk away.",
+   "ar": "الصباح، مع ضم زيارة مقابر كوم الشقافة على بعد نحو عشر دقائق سيرًا."
+  },
+  "crowdNotes": {
+   "en": "An open hilltop with little shade; the underground galleries have uneven floors and low light.",
+   "ar": "تل مكشوف قليل الظل، وأرضيات الدهاليز السفلية غير مستوية وإضاءتها خافتة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Alexandria_-_Pompey%27s_Pillar_with_sphinx.JPG",
+   "author": "Daniel Mayer",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexandria_-_Pompey%27s_Pillar_with_sphinx.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Roman_Pompey%27s_Pillar%2C_Alexandria_-_panoramio.jpg",
+   "author": "Maris Teteris",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roman_Pompey%27s_Pillar,_Alexandria_-_panoramio.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Alexandria_-_Pompey%27s_Pillar_-_view_of_ruins.JPG",
+   "author": "Daniel Mayer",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexandria_-_Pompey%27s_Pillar_-_view_of_ruins.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Pompey%27s_Pillar",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D9%88%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D8%A7%D8%B1%D9%8A",
+  "osm": "way/28817044"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q492487",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan closing),address,description",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D8%B9%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%A7%D8%B1%D9%8A/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry, Ramadan lastEntry),prices,freeGroups,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/SerapeumofAlexandria",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Pompey%27s_Pillar",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "No egymonuments.gov.eg portal page for this site; hours from MoTA's open-sites guide plus the booking platform (they agree). cashAccepted not set: no official 2025-2026 statement on cash or card payment was found. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

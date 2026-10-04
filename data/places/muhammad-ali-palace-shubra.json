@@ -1,0 +1,187 @@
+{
+ "id": "muhammad-ali-palace-shubra",
+ "kind": "site",
+ "wikidataId": "Q12233065",
+ "name": {
+  "en": "Muhammad Ali Palace (Shubra al-Kheima)",
+  "ar": "قصر محمد علي بشبرا الخيمة"
+ },
+ "aliases": [
+  "Palace of Muhammad Ali"
+ ],
+ "category": "royal-palace",
+ "operator": "mota-sca",
+ "governorate": "qalyubia",
+ "city": {
+  "en": "Shubra el-Kheima",
+  "ar": "شبرا الخيمة"
+ },
+ "area": {
+  "en": "East bank of the Nile, north of Cairo",
+  "ar": "البر الشرقي للنيل، شمال القاهرة"
+ },
+ "address": {
+  "en": "Corniche el-Nil, Shubra el-Kheima, Qalyubia Governorate",
+  "ar": "كورنيش النيل، شبرا الخيمة، محافظة القليوبية"
+ },
+ "lat": 30.1158,
+ "lng": 31.2457,
+ "status": "closed",
+ "statusNote": {
+  "en": "Restored but not open for regular public visits: no official opening hours or ticket prices are published, and the palace is used mainly for official events.",
+  "ar": "رُمم القصر لكنه غير مفتوح للزيارة العامة المنتظمة؛ فلا توجد مواعيد زيارة أو أسعار تذاكر رسمية منشورة، ويُستخدم أساسًا للمناسبات الرسمية."
+ },
+ "summary": {
+  "en": "Muhammad Ali's riverside pleasure palace of the 1820s, centred on a marble fountain pavilion around a lake, restored after years of closure.",
+  "ar": "قصر النزهة الذي شيده محمد علي على ضفة النيل في عشرينيات القرن التاسع عشر، وقلبه سراي الفسقية الرخامية حول بحيرة، وقد رُمم بعد سنوات من الإغلاق."
+ },
+ "description": {
+  "en": "In 1808 Muhammad Ali, the founder of modern Egypt, began laying out a vast garden estate at Shubra, then a country retreat on the east bank of the Nile north of Cairo, and the palace complex was completed around 1821. Set within some fifty acres of gardens, it once included a residential palace, a hilltop kiosk known as the Gabalaya, a bird tower, a boat harbour, stables and a waterwheel that irrigated the grounds. Its style borrowed from Italian and French architecture of the period while keeping Islamic elements, and it was reportedly the first building in Egypt fitted with modern lighting. The surviving jewel is the Fountain Pavilion, the Saray al-Fasqiyya: a colonnaded marble gallery enclosing a large ornamental lake, with corner rooms whose painted ceilings and furnishings evoke court life. A first restoration reopened the palace in 2005, but it closed after 2011. Work resumed in 2018 with the Armed Forces Engineering Authority, renewing floors, walls, decoration and the lake and adding a Nile landing. Although restored, the palace has so far served mainly as a venue for official events rather than as a regular visitor attraction.",
+  "ar": "في عام 1808 بدأ محمد علي، مؤسس مصر الحديثة، في تخطيط ضيعة واسعة من الحدائق في شبرا، التي كانت آنذاك منتزهًا ريفيًا على البر الشرقي للنيل شمال القاهرة، واكتمل مجمع القصر نحو عام 1821. وكان يضم، وسط نحو خمسين فدانًا من الحدائق، سراي للإقامة، وكشكًا على مرتفع يُعرف بالجبلاية، وبرجًا للطيور، ومرسى للقوارب، وإسطبلات، وساقية تروي الأرض. واستلهم طرازه العمارة الإيطالية والفرنسية في ذلك العصر مع الاحتفاظ بعناصر إسلامية، ويقال إنه أول مبنى في مصر زُوّد بنظام إضاءة حديث. والجوهرة الباقية هي سراي الفسقية: رواق رخامي ذو أعمدة يحيط ببحيرة زخرفية كبيرة، تتصل به حجرات في الأركان تستحضر أسقفها المرسومة وأثاثها حياة البلاط. وقد أعاد ترميم أول افتتاح القصر عام 2005، لكنه أُغلق بعد 2011. ثم استؤنف العمل عام 2018 مع الهيئة الهندسية للقوات المسلحة، فجُددت الأرضيات والجدران والزخارف والبحيرة وأضيف مرسى على النيل. ورغم اكتمال ترميمه، ظل القصر حتى الآن مقرًا للمناسبات الرسمية أكثر منه مزارًا منتظمًا للجمهور."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Fountain Pavilion",
+    "ar": "سراي الفسقية"
+   },
+   "desc": {
+    "en": "A marble colonnade enclosing a large ornamental lake.",
+    "ar": "رواق رخامي ذو أعمدة يحيط ببحيرة زخرفية كبيرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Painted ceilings",
+    "ar": "الأسقف المرسومة"
+   },
+   "desc": {
+    "en": "European-style decoration in the corner salons.",
+    "ar": "زخارف على الطراز الأوروبي في قاعات الأركان."
+   }
+  },
+  {
+   "title": {
+    "en": "Gabalaya kiosk",
+    "ar": "كشك الجبلاية"
+   },
+   "desc": {
+    "en": "A hilltop pavilion with stained-glass windows.",
+    "ar": "جوسق فوق مرتفع بنوافذ من الزجاج المعشق."
+   }
+  },
+  {
+   "title": {
+    "en": "Royal halls",
+    "ar": "القاعات الملكية"
+   },
+   "desc": {
+    "en": "Restored throne, billiards and dining rooms.",
+    "ar": "قاعات العرش والبلياردو والطعام بعد ترميمها."
+   }
+  },
+  {
+   "title": {
+    "en": "Nile gardens",
+    "ar": "حدائق النيل"
+   },
+   "desc": {
+    "en": "Remnants of the great riverside garden estate.",
+    "ar": "بقايا ضيعة الحدائق الكبرى على ضفة النهر."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Only when an official open day or event is announced.",
+   "ar": "عند الإعلان عن يوم مفتوح أو فعالية رسمية فقط."
+  },
+  "crowdNotes": {
+   "en": "Access is by event or special arrangement; follow Ministry of Tourism and Antiquities announcements for any public opening.",
+   "ar": "يقتصر الدخول على المناسبات أو الترتيبات الخاصة، فتابع إعلانات وزارة السياحة والآثار بشأن أي افتتاح للجمهور."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%D9%82%D8%B5%D8%B1_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_%D8%A8%D8%B4%D8%A8%D8%B1%D8%A7_%D8%A7%D9%84%D8%AE%D9%8A%D9%85%D8%A9%D8%8C_%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D9%81%D8%B3%D9%82%D9%8A%D8%A9.jpg",
+   "author": "Ahmedwaleedsamy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%82%D8%B5%D8%B1_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_%D8%A8%D8%B4%D8%A8%D8%B1%D8%A7_%D8%A7%D9%84%D8%AE%D9%8A%D9%85%D8%A9%D8%8C_%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D9%81%D8%B3%D9%82%D9%8A%D8%A9.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Choubrah_Palace.jpg",
+   "author": "Pascal Coste",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Choubrah_Palace.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Le_Caire%2C_galeries_int._du_palais_de_Choubra_-_Bonfils._LCCN2004668071.jpg",
+   "author": "Maison Bonfils (Beirut, Lebanon), photographer",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Caire,_galeries_int._du_palais_de_Choubra_-_Bonfils._LCCN2004668071.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/muhammad-ali-palace-in-shubra/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mohamed_Ali_Palace",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_%D8%A8%D8%B4%D8%A8%D8%B1%D8%A7_%D8%A7%D9%84%D8%AE%D9%8A%D9%85%D8%A9",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12233065",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/muhammad-ali-palace-in-shubra/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,status (closed after 2011; restoration with the Armed Forces Engineering Authority from 2018; no hours or prices listed)",
+   "url": "https://egymonuments.gov.eg/en/monuments/muhammad-ali-palace-in-shubra/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (restoration finished, opening announced for Feb 2022; news 3 Jan 2022)",
+   "url": "https://www.elwatannews.com/news/details/5889583",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,highlights (halls restored, 'ahead of imminent opening'; news 7 Nov 2024)",
+   "url": "https://www.youm7.com/story/2024/11/7/%D8%AA%D8%B1%D8%A7%D8%AB-%D9%85%D8%B5%D8%B1-%D9%82%D8%B5%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A8%D8%B4%D8%A8%D8%B1%D8%A7-%D8%A7%D9%84%D8%AE%D9%8A%D9%85%D8%A9/6767158",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Mohamed_Ali_Palace",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:%D9%82%D8%B5%D8%B1_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_%D8%A8%D8%B4%D8%A8%D8%B1%D8%A7_%D8%A7%D9%84%D8%AE%D9%8A%D9%85%D8%A9%D8%8C_%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D9%81%D8%B3%D9%82%D9%8A%D8%A9.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Choubrah_Palace.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Le_Caire,_galeries_int._du_palais_de_Choubra_-_Bonfils._LCCN2004668071.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "low",
+ "curationNote": "Status 'closed' to regular visitors: the official page lists no hours or prices; news reports promised an opening in Feb 2022 and again called it 'imminent' in Nov 2024, but no formal public opening was found as of Oct 2026. In Feb 2026 it hosted a government ceremony (5G licences), and a venue listing says it is hired out for events with MoTA. A 60/30 EGP Egyptian ticket reported 'before the official opening' (akhbarelyom, c. 2022) is not used. The egymonuments page labels the location 'Cairo'; seed governorate (qalyubia) kept, as Shubra el-Kheima is in Qalyubia. Address 'Corniche el-Nil' is general (palace on the Nile bank). Highlights 'royal halls' from youm7 Nov 2024."
+}

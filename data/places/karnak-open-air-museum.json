@@ -1,0 +1,346 @@
+{
+ "id": "karnak-open-air-museum",
+ "kind": "museum",
+ "wikidataId": "Q13218762",
+ "name": {
+  "en": "Karnak Open Air Museum",
+  "ar": "المتحف المفتوح بالكرنك"
+ },
+ "aliases": [
+  "OAM"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor",
+  "ar": "الأقصر"
+ },
+ "area": {
+  "en": "East Bank, Karnak — north-west corner of the Amun precinct",
+  "ar": "البر الشرقي، الكرنك — الركن الشمالي الغربي من حرم آمون"
+ },
+ "address": {
+  "en": "Inside the Karnak Temple complex, Karnak, East Bank, Luxor",
+  "ar": "داخل معابد الكرنك، الكرنك، البر الشرقي، الأقصر"
+ },
+ "lat": 25.7195,
+ "lng": 32.6574,
+ "status": "open",
+ "statusNote": {
+  "en": "Inside the Karnak Temple complex. Entry is included in the main Karnak ticket; there is no separate ticket.",
+  "ar": "يقع داخل معابد الكرنك، والدخول مشمول في التذكرة الرئيسية للكرنك، ولا توجد تذكرة منفصلة."
+ },
+ "summary": {
+  "en": "A quiet enclosure inside Karnak where chapels rebuilt from blocks hidden in the pylons, including the White and Red Chapels, can be seen up close.",
+  "ar": "ركن هادئ داخل الكرنك تُعرض فيه مقاصير أعيد بناؤها من كتل كانت مخبأة في الصروح، ومنها المقصورتان البيضاء والحمراء."
+ },
+ "description": {
+  "en": "As each pharaoh enlarged Karnak, older monuments were often dismantled and their blocks reused as filling inside new pylons. When archaeologists took the pylons apart for consolidation during the twentieth century, they found thousands of these hidden blocks, many still sharply carved and some with their colour. The Open-Air Museum, set in the north-western corner of the Amun precinct, is where several of the buildings have been put back together. The finest is the White Chapel of Senusret I, a small limestone jubilee kiosk of the Middle Kingdom whose pillars are covered in crisp reliefs and whose base lists the provinces of Egypt. Nearby stands the Red Chapel of Hatshepsut, a barque shrine of red quartzite and black granite, along with calcite chapels of Amenhotep I and other New Kingdom kings. Around them, long rows of decorated blocks and statue fragments are laid out like a library of stone. Entry is covered by the main Karnak ticket, yet many visitors miss it, so it is usually one of the calmest corners of the complex.",
+  "ar": "كان كل فرعون يوسّع الكرنك يفكك في الغالب آثار أسلافه ويعيد استخدام كتلها حشوًا داخل الصروح الجديدة. وحين فكك الأثريون هذه الصروح لتدعيمها خلال القرن العشرين، عثروا على آلاف الكتل المخبأة، وكثير منها لا يزال حاد النقش وبعضها يحتفظ بألوانه. وفي الركن الشمالي الغربي من حرم آمون يقع المتحف المفتوح، حيث أعيد تجميع عدد من تلك المباني. وأروعها المقصورة البيضاء للملك سنوسرت الأول، وهي جوسق صغير من الحجر الجيري أقيم للاحتفال بعيد السد في الدولة الوسطى، تغطي أعمدتَه نقوشٌ بارزة دقيقة وتسجّل قاعدتُه أقاليم مصر. وبالقرب منها تقوم المقصورة الحمراء للملكة حتشبسوت، وهي مقصورة للمركب المقدس من الكوارتزيت الأحمر والجرانيت الأسود، إلى جانب مقاصير من الألباستر للملك أمنحتب الأول وملوك آخرين من الدولة الحديثة. ومن حولها تمتد صفوف طويلة من الكتل المنقوشة وأجزاء التماثيل كأنها مكتبة من الحجر. والدخول مشمول في التذكرة الرئيسية للكرنك، ومع ذلك يفوته كثير من الزوار، لذا يظل عادة من أهدأ أركان المجمع."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "White Chapel of Senusret I",
+    "ar": "المقصورة البيضاء لسنوسرت الأول"
+   },
+   "desc": {
+    "en": "A Middle Kingdom jubilee kiosk with crisp reliefs and a list of Egypt’s provinces.",
+    "ar": "جوسق من الدولة الوسطى بنقوش دقيقة وقائمة بأقاليم مصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Red Chapel of Hatshepsut",
+    "ar": "المقصورة الحمراء لحتشبسوت"
+   },
+   "desc": {
+    "en": "A barque shrine of red quartzite and black granite, reassembled block by block.",
+    "ar": "مقصورة للمركب المقدس من الكوارتزيت الأحمر والجرانيت الأسود، أعيد تجميعها كتلة كتلة."
+   }
+  },
+  {
+   "title": {
+    "en": "Alabaster chapel of Amenhotep I",
+    "ar": "مقصورة أمنحتب الأول الألباستر"
+   },
+   "desc": {
+    "en": "A calcite shrine from the early New Kingdom.",
+    "ar": "مقصورة من الألباستر من بدايات الدولة الحديثة."
+   }
+  },
+  {
+   "title": {
+    "en": "Chapel of Thutmose IV",
+    "ar": "مقصورة تحتمس الرابع"
+   },
+   "desc": {
+    "en": "A rebuilt shrine with fine reliefs of the king before the gods.",
+    "ar": "مقصورة أعيد بناؤها بنقوش رقيقة للملك أمام المعبودات."
+   }
+  },
+  {
+   "title": {
+    "en": "Block fields",
+    "ar": "حقول الكتل الحجرية"
+   },
+   "desc": {
+    "en": "Rows of carved blocks and fragments recovered from inside the pylons.",
+    "ar": "صفوف من الكتل المنقوشة والأجزاء المستخرجة من داخل الصروح."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 600
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 300
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/KarnakTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Late in a Karnak visit, when the main halls are crowded; the enclosure is on the north side, left of the first court.",
+   "ar": "في أواخر زيارة الكرنك حين تزدحم القاعات الرئيسية، ويقع المتحف في الجهة الشمالية على يسار الفناء الأول."
+  },
+  "crowdNotes": {
+   "en": "Usually very quiet. There is little shade between the chapels, so bring water in the warmer months.",
+   "ar": "هادئ جدًا في العادة، والظل قليل بين المقاصير، فاحمل الماء في الشهور الحارة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/White_Chapel_of_Senusret_I_in_Karnak_Open_Air_Museum_01.jpg",
+   "author": "Marsupium",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Chapel_of_Senusret_I_in_Karnak_Open_Air_Museum_01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Karnak_Musee_08.jpg",
+   "author": "Neithsabes",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karnak_Musee_08.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Karnak_Freilichtmuseum_06.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karnak_Freilichtmuseum_06.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Karnak_Open_Air_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD_%D8%A8%D8%A7%D9%84%D9%83%D8%B1%D9%86%D9%83",
+  "osm": "way/115784229"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q13218762",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (inclusive Karnak + Open Museum ticket),hours (official portal)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/karnak/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,lastEntry,tickets,freeGroups (Karnak booking page)",
+   "url": "https://egymonuments.com/details/KarnakTemple",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Karnak booking page)",
+   "url": "https://egymonuments.com/book-date/7",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address (Karnak entry in MoTA guide)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معابد-الكرنك/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Karnak_Open_Air_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:White_Chapel_of_Senusret_I_in_Karnak_Open_Air_Museum_01.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Karnak_Musee_08.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Karnak_Freilichtmuseum_06.JPG",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Modelled as its own place, but entry is through the main Karnak ticket (portal: 'inclusive tickets allowing entry into Karnak Temple and Open Museum in Karnak'); tiers repeat the Karnak ticket so the app can show what a visitor pays. Hours mirror karnak.json (D3: summer last entry 16:00 per booking platform). egymonuments.gov.eg '/monuments/open-air-museum/' is the Tell Basta open-air museum, not this one - do not link it. Location wording ('left of the first court') is general guidance; verify on site. Summer 2026 exception (2026-04-24 to 2026-10-29) follows the Luxor antiquities summer schedule (daylight-saving period, until the last Thursday of October); the winter 2026-27 schedule had not been announced on 2026-10-04 - recheck after 29 Oct 2026. Summer exception ends 2026-10-29, the last day of daylight-saving time (batch-7 Q7a, applied 2026-10-04 to every summer exception). Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
+}

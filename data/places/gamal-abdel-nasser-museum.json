@@ -1,0 +1,309 @@
+{
+ "id": "gamal-abdel-nasser-museum",
+ "kind": "museum",
+ "wikidataId": "Q5519554",
+ "name": {
+  "en": "Gamal Abdel Nasser Museum",
+  "ar": "متحف جمال عبد الناصر"
+ },
+ "aliases": [
+  "متحف جمال عبدالناصر"
+ ],
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Manshiyet El-Bakry, Heliopolis",
+  "ar": "منشية البكري، مصر الجديدة"
+ },
+ "address": {
+  "en": "1 Manshiyet El-Tayaran Street, Manshiyet El-Bakry, Heliopolis, Cairo",
+  "ar": "1 شارع منشية الطيران، منشية البكري، مصر الجديدة، القاهرة"
+ },
+ "lat": 30.08652,
+ "lng": 31.310653,
+ "status": "open",
+ "statusNote": {
+  "en": "Open five days a week; closed on Mondays and Fridays. The house lies inside a guarded compound, so expect a security check.",
+  "ar": "مفتوح خمسة أيام في الأسبوع، ويُغلق يومي الاثنين والجمعة. ويقع البيت داخل منطقة مؤمّنة، فتوقّع إجراءات تفتيش عند الدخول."
+ },
+ "summary": {
+  "en": "The family home of President Gamal Abdel Nasser, preserved as he left it and opened as a museum of his life and era in 2016.",
+  "ar": "بيت أسرة الرئيس جمال عبد الناصر، محفوظ كما تركه، وافتُتح متحفًا لحياته وعصره عام 2016."
+ },
+ "description": {
+  "en": "Gamal Abdel Nasser lived in this modest villa in Manshiyet El-Bakry with his wife Tahia and their children throughout his years in power, from the revolution of 1952 until his death in 1970, and many of the era's decisive meetings took place within its walls. After Tahia Kazem died in 1990 the house returned to the state, and the Ministry of Culture spent years preparing it as a museum. President Abdel Fattah el-Sisi inaugurated it on 28 September 2016, the anniversary of Nasser's death. The visit follows three routes. The first is the house itself, kept as the family knew it: the offices on both floors where Nasser worked and received guests, the salons, the bedroom and the living and dining rooms, with his books and personal belongings. A second route, called \"A People's Story\", uses documents, photographs, film and multimedia to tell the history of Egypt during his rule, from the 1952 revolution, the nationalisation of the Suez Canal and the building of the High Dam to the wars of 1956 and 1967 and the War of Attrition, ending with his funeral. A third hall displays medals, decorations and official gifts, along with his cameras, clothes and car.",
+  "ar": "عاش جمال عبد الناصر في هذه الفيلا المتواضعة بمنشية البكري مع زوجته تحية وأبنائهما طوال سنوات حكمه، منذ ثورة 1952 حتى وفاته عام 1970، وشهدت جدرانها كثيرًا من اللقاءات الحاسمة في تلك الحقبة. وبعد رحيل تحية كاظم عام 1990 عاد البيت إلى الدولة، وظلت وزارة الثقافة سنوات تُعدّه ليكون متحفًا، حتى افتتحه الرئيس عبد الفتاح السيسي في 28 سبتمبر 2016، في ذكرى رحيل ناصر. وتسير الزيارة في ثلاثة مسارات: أولها البيت نفسه كما عرفته الأسرة، بمكتبيه في الطابقين حيث كان يعمل ويستقبل ضيوفه، والصالونات وغرفة النوم وغرفتي المعيشة والطعام، مع كتبه ومتعلقاته الشخصية. والمسار الثاني بعنوان «حكاية شعب»، ويستعين بالوثائق والصور والأفلام ووسائل العرض الحديثة ليروي تاريخ مصر في عهده، من ثورة 1952 وتأميم قناة السويس وبناء السد العالي إلى حربي 1956 و1967 وحرب الاستنزاف، وينتهي بجنازته. أما القاعة الثالثة فتعرض الأوسمة والنياشين والهدايا الرسمية، إلى جانب كاميراته وملابسه وسيارته."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Nasser's offices",
+    "ar": "مكتبا عبد الناصر"
+   },
+   "desc": {
+    "en": "The two studies where he worked and received visitors, kept with their original furniture.",
+    "ar": "المكتبان اللذان كان يعمل فيهما ويستقبل زواره، محفوظان بأثاثهما الأصلي."
+   }
+  },
+  {
+   "title": {
+    "en": "Family rooms",
+    "ar": "غرف الأسرة"
+   },
+   "desc": {
+    "en": "Salons, bedroom, living and dining rooms preserved as the family used them.",
+    "ar": "الصالونات وغرفة النوم وغرفتا المعيشة والطعام كما استخدمتها الأسرة."
+   }
+  },
+  {
+   "title": {
+    "en": "\"A People's Story\"",
+    "ar": "«حكاية شعب»"
+   },
+   "desc": {
+    "en": "A multimedia journey through Egypt from 1952 to 1970.",
+    "ar": "رحلة بالوسائط المتعددة عبر تاريخ مصر من 1952 إلى 1970."
+   }
+  },
+  {
+   "title": {
+    "en": "Medals and gifts",
+    "ar": "الأوسمة والهدايا"
+   },
+   "desc": {
+    "en": "Decorations, sashes and official gifts from heads of state around the world.",
+    "ar": "أوسمة ونياشين وهدايا رسمية من رؤساء دول العالم."
+   }
+  },
+  {
+   "title": {
+    "en": "Personal belongings",
+    "ar": "المقتنيات الشخصية"
+   },
+   "desc": {
+    "en": "His cameras, clothes, chess set and car.",
+    "ar": "كاميراته وملابسه ورقعة الشطرنج وسيارته."
+   }
+  },
+  {
+   "title": {
+    "en": "Specialist library",
+    "ar": "المكتبة المتخصصة"
+   },
+   "desc": {
+    "en": "Books, studies and audiovisual material on Nasser and his era.",
+    "ar": "كتب ودراسات ومواد سمعية وبصرية عن عبد الناصر وعصره."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "10:00",
+    "close": "15:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "10:00",
+    "close": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "10:00",
+    "close": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "10:00",
+    "close": "15:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (Fine Arts Sector museums)",
+     "ar": "مواعيد شهر رمضان (متاحف قطاع الفنون التشكيلية)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "closed": true
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 20
+   }
+  ],
+  "freeGroups": [
+   "People with special needs",
+   "Veterans",
+   "Seniors over 60",
+   "Children under 12",
+   "Members of artists' professional syndicates",
+   "Members of national museum committees"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Weekday mornings; busiest around 23 July and 28 September anniversaries.",
+   "ar": "صباح أيام الأسبوع، ويزدحم في ذكرى 23 يوليو و28 سبتمبر."
+  },
+  "crowdNotes": {
+   "en": "Bring an ID for the security check at the entrance. Popular with school groups.",
+   "ar": "اصطحب بطاقة الهوية لإجراءات التفتيش عند المدخل. ويقصده طلاب المدارس كثيرًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nasser_with_Syrian_Delegation.jpg",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nasser_with_Syrian_Delegation.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Boumedienne-Atassi-Nasser-1963-Cairo.jpg",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boumedienne-Atassi-Nasser-1963-Cairo.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%AC%D9%85%D8%A7%D9%84_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q5519554",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "operator,prices,freeGroups,hours,address (official Fine Arts Sector visitor page)",
+   "url": "http://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=37",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (10:00-15:00, closed Fri and Mon),description",
+   "url": "https://www.elwatannews.com/news/details/5598688",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices (Ministry of Culture prices)",
+   "url": "https://www.elwatannews.com/news/details/5716801",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,description,highlights (2026 feature)",
+   "url": "https://www.youm7.com/story/2026/6/6/x/7437849",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "low",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Operator confirmed as Ministry of Culture (Fine Arts Sector page IDs=37; no Bibliotheca Alexandrina link found). Hours conflict: fineart.gov.eg 10:00-16:00 vs elwatannews 2021 (10:00-15:00 public; 09:00-15:00) - earlier close 15:00 used, opening 10:00; closed Mon and Fri everywhere. Ramadan: sector-wide 10:00-14:00 assumed to apply (not museum-specific). Prices 10/5/20 from undated official fineart.gov.eg page and elwatannews 2021; no newer price found. \"Bring an ID\" is general advice for a guarded compound (youm7 2026-06-06 says it sits inside a Republican Guard compound), not an official rule. PHOTOS: Commons has no image of the house or galleries; two public-domain historical photos of Nasser are used instead - kept for now (batch-5 Q7a, 2026-10-04); replace with a free photo of the house when one exists."
+}

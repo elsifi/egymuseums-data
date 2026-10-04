@@ -1,0 +1,247 @@
+{
+ "id": "el-alamein-military-museum",
+ "kind": "museum",
+ "wikidataId": "Q12238614",
+ "name": {
+  "en": "El Alamein Military Museum",
+  "ar": "متحف العلمين العسكري"
+ },
+ "aliases": [
+  "متحف العلمين الحربي",
+  "Military museum El Alamein"
+ ],
+ "category": "military",
+ "operator": "defense",
+ "governorate": "matrouh",
+ "city": {
+  "en": "El Alamein",
+  "ar": "العلمين"
+ },
+ "area": {
+  "en": "Km 105, Alexandria–Marsa Matrouh road",
+  "ar": "الكيلو 105 بطريق الإسكندرية – مطروح"
+ },
+ "address": {
+  "en": "Km 105 on the Alexandria–Marsa Matrouh road, south of the coastal road, El Alamein, Matrouh Governorate",
+  "ar": "عند الكيلو 105 من طريق الإسكندرية – مطروح، جنوب الطريق الساحلي، العلمين، محافظة مطروح"
+ },
+ "lat": 30.841111,
+ "lng": 28.943056,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Run by the Egyptian Armed Forces rather than the antiquities authority; entry is free from 3 to 6 October 2026 for the October War anniversary.",
+  "ar": "مفتوح يوميًا، وتديره القوات المسلحة المصرية لا هيئة الآثار؛ والدخول مجاني من 3 إلى 6 أكتوبر 2026 احتفالًا بذكرى انتصارات أكتوبر."
+ },
+ "summary": {
+  "en": "The Armed Forces' museum of the 1942 Battle of El Alamein, with national halls for Egypt, Britain, Germany and Italy and an open-air yard of tanks, guns and aircraft.",
+  "ar": "متحف القوات المسلحة لمعركة العلمين عام 1942، يضم قاعات لمصر وبريطانيا وألمانيا وإيطاليا وساحة مكشوفة للدبابات والمدافع والطائرات."
+ },
+ "description": {
+  "en": "In the autumn of 1942 the desert west of Alexandria became the turning point of the North African campaign, when Montgomery's Eighth Army halted and then pushed back Rommel's German and Italian forces at El Alamein. The military museum on the coastal road tells that story. It was founded in December 1965, renovated for the battle's fiftieth anniversary in October 1992, and reopened with a redesigned display on 21 October 2014. Inside, separate halls present the armies of Egypt, Britain, Germany and Italy through uniforms, weapons, ammunition and personal belongings, including items that belonged to Rommel himself, while a joint hall covers the shared hardships of desert warfare, from fuel supply to field medicine. Large maps trace the movements of the front. Outside, an open-air yard gathers armoured vehicles, artillery such as the German 88 mm gun, transport trucks and aircraft including a Spitfire and a Kittyhawk. The Commonwealth, German and Italian war cemeteries and memorials nearby make the museum a natural starting point for exploring the battlefield.",
+  "ar": "في خريف عام 1942 أصبحت الصحراء الواقعة غرب الإسكندرية نقطة التحول في حملة شمال أفريقيا، حين أوقف الجيش الثامن بقيادة مونتجومري القوات الألمانية والإيطالية بقيادة روميل عند العلمين ثم دحرها. ويروي المتحف الحربي القائم على الطريق الساحلي تلك القصة؛ إذ أُنشئ في ديسمبر 1965، وطُوِّر في الذكرى الخمسين للمعركة في أكتوبر 1992، ثم أعيد افتتاحه بعرض متحفي جديد في 21 أكتوبر 2014. وفي الداخل تعرض قاعات مستقلة جيوش مصر وبريطانيا وألمانيا وإيطاليا من خلال الأزياء العسكرية والأسلحة والذخائر والمتعلقات الشخصية، ومنها مقتنيات خاصة بروميل نفسه، بينما تتناول قاعة مشتركة المعاناة التي جمعت الجميع في حرب الصحراء، من التزود بالوقود إلى الإسعاف الميداني. وترسم خرائط كبيرة تحركات خطوط القتال. وفي الخارج تضم ساحة العرض المكشوف مدرعات ومدافع، منها المدفع الألماني عيار 88 مم، وعربات إمداد وطائرات من بينها سبيتفاير وكيتي هوك. وتجعل مقابر ونُصب الكومنولث والألمان والإيطاليين القريبة من المتحف نقطة انطلاق طبيعية لاستكشاف ميدان المعركة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Open-air display",
+    "ar": "ساحة العرض المكشوف"
+   },
+   "desc": {
+    "en": "Tanks, artillery and supply trucks from both sides of the desert war.",
+    "ar": "دبابات ومدافع وعربات إمداد من طرفي حرب الصحراء."
+   }
+  },
+  {
+   "title": {
+    "en": "Spitfire and Kittyhawk",
+    "ar": "طائرتا سبيتفاير وكيتي هوك"
+   },
+   "desc": {
+    "en": "Two Allied fighter aircraft shown in the outdoor yard.",
+    "ar": "طائرتان مقاتلتان من طائرات الحلفاء معروضتان في الساحة الخارجية."
+   }
+  },
+  {
+   "title": {
+    "en": "German 88 mm gun",
+    "ar": "المدفع الألماني عيار 88 مم"
+   },
+   "desc": {
+    "en": "The anti-aircraft gun that also served as a feared anti-tank weapon.",
+    "ar": "مدفع مضاد للطائرات اشتهر أيضًا سلاحًا فتاكًا ضد الدبابات."
+   }
+  },
+  {
+   "title": {
+    "en": "German hall",
+    "ar": "قاعة ألمانيا"
+   },
+   "desc": {
+    "en": "Weapons and equipment, with personal belongings of Rommel.",
+    "ar": "أسلحة ومعدات، ومعها متعلقات شخصية للقائد روميل."
+   }
+  },
+  {
+   "title": {
+    "en": "National halls",
+    "ar": "القاعات الوطنية"
+   },
+   "desc": {
+    "en": "Separate rooms for the Egyptian, British and Italian forces.",
+    "ar": "قاعات مستقلة للقوات المصرية والبريطانية والإيطالية."
+   }
+  },
+  {
+   "title": {
+    "en": "Joint hall",
+    "ar": "القاعة المشتركة"
+   },
+   "desc": {
+    "en": "Life at the front, from hand-pumped fuel to field hospitals.",
+    "ar": "الحياة على الجبهة، من التزود بالوقود بالمضخات اليدوية إلى المستشفيات الميدانية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning, before the midday heat makes the open-air yard uncomfortable.",
+   "ar": "الصباح، قبل أن تجعل حرارة الظهيرة ساحة العرض المكشوف مرهقة."
+  },
+  "crowdNotes": {
+   "en": "Busiest on summer weekends, when holidaymakers from the North Coast resorts drop in. The Commonwealth, German and Italian war cemeteries lie a short drive away and pair well with the museum; bring water and sun protection.",
+   "ar": "يزدحم في عطلات الصيف بزوار منتجعات الساحل الشمالي. وتقع مقابر الكومنولث والألمان والإيطاليين على مسافة قصيرة بالسيارة، وتصلح لزيارة مشتركة مع المتحف؛ احرص على الماء والوقاية من الشمس."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/El_Alamein7.jpg",
+   "author": "Cotton",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Alamein7.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/M13-40ElAlameinMuseum.jpg",
+   "author": "Ian Rose",
+   "license": "CC BY 2.5",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:M13-40ElAlameinMuseum.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/El_Alamein10.jpg",
+   "author": "Cotton",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Alamein10.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 46 4100031",
+  "website": "https://www.mod.gov.eg/modwebsite/MuseumDetailsAr.aspx?id=3",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D9%86_%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A",
+  "osm": "way/199298087"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12238614",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,contacts,description,highlights (official Armed Forces museum page)",
+   "url": "https://www.mod.gov.eg/modwebsite/MuseumDetailsAr.aspx?id=3",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (news, 2025: 'nominal fee', amount not given)",
+   "url": "https://www.youm7.com/story/2025/5/15/%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%89-%D8%A8%D8%A7%D9%86%D9%88%D8%B1%D8%A7%D9%85%D8%A7-%D8%AA%D9%88%D8%AB%D9%82-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%B5%D9%88%D8%B1/6977879",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,prices (news, 19 May 2026: open, nominal fee)",
+   "url": "https://www.youm7.com/story/2026/5/19/%D8%AA%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D9%88%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D9%85%D8%B7%D8%B1%D9%88%D8%AD-%D9%88%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%84-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%89-%D9%8A%D8%B2%D9%8A%D8%AF-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%86%D8%B2%D9%87-%D9%85%D8%AA%D8%AD%D9%81/7419053",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (Armed Forces free entry 3-6 Oct 2026, news of 3 Oct 2026)",
+   "url": "https://www.egypttelegraph.com/article/283696",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D9%86_%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:El_Alamein7.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:M13-40ElAlameinMuseum.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:El_Alamein10.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Operator is the Ministry of Defence, not the SCA: no SCA tier rules apply. Hours (daily 09:00-16:00, no last entry or Ramadan schedule published) come from the MoD museum page. Price: news reports (youm7 May 2025, May 2026) mention only a 'nominal fee'; no official amount found, so prices.status = unconfirmed. statusNote mentions free entry 3-6 Oct 2026 (Armed Forces announcement reported by egypttelegraph 3 Oct 2026): remove that sentence after 6 Oct 2026. No egymonuments page or online ticketing. Photos show WWII vehicles and guns as objects; the 1960s/2014 museum building is deliberately not shown (no freedom of panorama). TIME-LIMITED: the free-entry sentence in statusNote (EN and AR) expires after 2026-10-06; still valid on 2026-10-04."
+}

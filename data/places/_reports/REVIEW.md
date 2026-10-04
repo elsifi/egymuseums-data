@@ -182,3 +182,79 @@ The validator now also checks:
 - Slashes removed from `area`: Egyptian Museum "Tahrir Square, Downtown", Coptic Museum, Giza, Hanging Church, NMEC, Qaitbay, Medinet Habu.
 - Slashes also removed from extras labels (GEM, NMEC, parking "car or taxi"), free-group strings, best-time text, Saqqara `statusNote` and the summer `rule` strings.
 - "Not verified/confirmed" remarks in `statusNote` were reworded as visitor advice: Citadel, Dahshur, Kom el-Shoqafa, Valley of the Kings.
+
+## Batches 4–7: applied decisions (2026-10-04)
+
+78 new places (batch reports `batch-4.md` to `batch-7.md`) were reviewed together with the 30 earlier ones. After the changes below, `python3 tools/validate_all.py` reports 0 errors (108 place files + 274 seed records), and `v1/` was rebuilt: 274 places, 108 of them enriched.
+
+**Rule used:** every multiple-choice question in the four reports takes its recommended answer, except where a rule above wins or Mo gave a specific instruction (Imhotep, portal vs booking prices, label errors, time-limited notes).
+
+### Decisions applied
+
+| Report | Question | Applied |
+|---|---|---|
+| batch-4 | 1 St Simeon | Foreign adult 100 / student 50, no `onlineAmount`. This is the D4 pattern: the booking site matches the Nov 2024 list, and the portal's 150 is treated as outdated (its own student price of 50 is not half of 150). |
+| batch-4 | 2–9, 11–12 | Recommended answers kept as recorded: Elephantine 15:00; Crocodile Museum keeps its own Ramadan hours; Mahmoud Said Feb 2025 hours and prices; Abdeen `unconfirmed`; Rosetta Qaitbay fort unpriced; Rosetta 08:30–16:00; worship sites `unconfirmed`; Muharraq Lent in `statusNote`; Rashid kept as `renovation`; Qubbet el-Hawa has no last entry. |
+| batch-4 | 10 BA museum coordinates | Kept. Wikidata was not edited (D17 wins over the "add P625" half of the answer). |
+| batch-4 | 13 Same-hours Ramadan rows | No exception when the Ramadan row equals the normal week (same opening and last entry; Ramadan rows without a closing time count as the same). Removed from 20 records: al-bagawat, amr-ibn-al-as, ben-ezra, imam-al-shafii, deir-el-medina, karnak-open-air-museum, ramesseum, tombs-of-the-nobles-luxor, valley-of-the-queens, and, from the first 30, abu-simbel, kom-ombo, dendera, edfu, philae, hanging-church, karnak, luxor-temple, temple-of-hatshepsut, valley-of-the-kings, medinet-habu. Each `curationNote` records it. |
+| batch-5 | 1–5, 7–10 | Recommended answers kept as recorded (Fine Arts prices confirmed; Ceramics 09:30–13:30; Modern Art summer split; Geological empty; al-Shafi'i free; Nasser photos kept; Railway closed Fri; seed operators; Military Museum 16:00 with no Ramadan exception). |
+| batch-5 | 6 Modern Art Arabic name | Fixed locally in our record only: `name.ar` "متحف الفن المصري الحديث". The wrong aliases ("Gezira Center for Modern Art", the old name duplicate) were dropped. The seed and Wikidata are unchanged. |
+| batch-6 | 1 Imhotep Museum | The newest dated source wins (elwatannews, 27 Apr 2026: open daily). imhotep-museum stays `open`. `saqqara.json` changes, in both languages: <ul><li>`statusNote`: the museum is included in the site ticket</li><li>description: the "closed for restoration" clause is gone</li><li>all-inclusive extra label: lists the museum</li><li>new "Imhotep Museum" highlight</li><li>3 sources added</li><li>`curationNote` records the conflict</li></ul> |
+| batch-6 | 2–14 | Recommended answers kept as recorded. |
+| batch-7 | 1–6, 8–10 | Recommended answers kept as recorded. Beni Hasan keeps `amount` 20/10 with `onlineAmount` 10/5 (portal and list agree, booking differs). Amarna and Tuna keep 10/5 (no portal page; the only live official price, as for Pompey's Pillar). |
+| batch-7 | 7 Summer end date | Every summer exception now ends on **2026-10-29**, the last day of daylight-saving time. The rule text reads "until the last Thursday of October". <ul><li>The 10 Luxor-area records moved from 30 Oct.</li><li>The undated summer exceptions at luxor-museum, medinet-habu and qaitbay-citadel are now dated 2026-04-24 to 2026-10-29, so REVIEW footnote ² no longer applies.</li></ul> |
+| Mo | Time-limited notes | All are still valid on 2026-10-04 and kept. Each `curationNote` has a `TIME-LIMITED` line with the expiry: <ul><li>Alamein and October War Panorama free entry: expires after 2026-10-06</li><li>Sharm "Stone and Ink" exhibition: about 2026-11-29</li></ul> |
+
+### Consistency pass (all 108 files)
+
+- **Prose:** removed source talk from user text:
+  - Mursi `statusNote` ("was reported")
+  - Railway `crowdNotes` ("some sources report…"; Friday is already closed in `weekly`)
+  - Islamic Ceramics `bestTime` ("times vary between sources")
+- **`freeGroups`:** wording normalised in 66 lists:
+  - sentence case
+  - "Egyptians aged 60+"
+  - "Mobile-phone photography is free"
+  - a single Rehla-platform wording
+  - the slash in an NMEC entry removed
+- **`city`:** amr-ibn-al-as is "Cairo" (Old Cairo stays in `area`). temple-of-hibis is "Kharga", matching al-bagawat.
+- **`tickets`:**
+  - `{onlineUrl: null, platform: "onsite"}` added for priced places with no online booking: al-bagawat, temple-of-hibis, al-qasr-dakhla, tell-basta, umm-kulthum-museum.
+  - `timedEntry: null` filled where it was missing.
+- **`prices`:** saint-catherines-monastery now has `{status: "unconfirmed"}` (D9). It previously had no `prices` object.
+- **Photos:**
+  - `utm_*` tracking parameters stripped from 140 Commons URLs.
+  - Every place has 2 or more photos except hurghada-museum (1). Commons has only 4 files in its category, and the other 3 show the 2020 building, which the no-FoP rule excludes.
+- **Labels:** time ranges in the Hurghada and Sharm Ramadan labels now use en dashes.
+- **Open-question remarks:** curationNote remarks such as "see batch-7 question" and "pending a decision" were replaced with the decision applied.
+- **Checked, no change needed:**
+  - Every remaining Ramadan exception (60) runs 2027-02-08 to 2027-03-08.
+  - Mirrored "included-in" records match their parent's tiers: Karnak Open-Air Museum, Crocodile Museum, Military and Police museums, al-Rifai, Imhotep.
+  - `onlineAmount` is used only at Abu Simbel and Beni Hasan.
+  - No exception holds visit tips.
+
+### Questions for Mo (recommended answer in **bold**)
+
+1. **Places that cannot be visited right now** (Shubra palace `closed`; al-Gawhara and Rashid museum `renovation`):
+   **(a) Keep them in the app with a clear "Closed" badge, and leave them out of "open now" and itinerary suggestions.**
+   (b) Hide them until they reopen.
+   (c) Show them like any other place.
+2. **Low-confidence records** (11 places, e.g. Abdeen, Railway Museum, St Anthony, St Paul, Islamic Ceramics, whose hours rest on old or conflicting reports):
+   **(a) Show a small "Details may be out of date. Check before you go" notice on these places.**
+   (b) Hide low-confidence places until they are verified.
+   (c) No notice; treat them like the rest.
+3. **Places covered by another place's ticket** (Karnak Open-Air Museum, Crocodile Museum, Imhotep Museum, Military and Police museums, al-Rifai):
+   **(a) Keep them as separate places that say "Included in the X ticket" (current data).**
+   (b) Fold them into the parent place as highlights.
+4. **21 places show "Price not confirmed"**, mostly working mosques, churches and monasteries, plus 6 Fine Arts museums with stale prices:
+   **(a) Do one phone-verification round before launch (MoTA hotline 19654 and the venues), then update the data.**
+   (b) Launch with "Price not confirmed" and fix prices as reports come in.
+   (c) Add an in-app "Report a price" link and rely on visitors.
+
+### Scheduled rechecks added
+
+- **After 6 Oct 2026:** remove the Alamein and Panorama free-entry sentences.
+- **After 29 Oct 2026:** winter 2026–27 hours for every place that had a summer exception (14 records).
+- **Mid-Nov 2026:** confirm the Nativity Fast rules at St Anthony and St Paul.
+- **End of Nov 2026:** remove the Sharm exhibition sentence.
+- **Early 2027:** the Mursi square works; Ramadan 2027 announcements, including the 20 records whose same-hours Ramadan exceptions were removed.

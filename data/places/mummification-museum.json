@@ -1,0 +1,506 @@
+{
+ "id": "mummification-museum",
+ "kind": "museum",
+ "wikidataId": "Q3330049",
+ "name": {
+  "en": "Mummification Museum",
+  "ar": "متحف التحنيط"
+ },
+ "aliases": [
+  "متحف التحنيط بالأقصر"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor",
+  "ar": "الأقصر"
+ },
+ "area": {
+  "en": "East Bank, Corniche (north of Luxor Temple)",
+  "ar": "البر الشرقي، الكورنيش (شمال معبد الأقصر)"
+ },
+ "address": {
+  "en": "Corniche El Nil, East Bank, Luxor — between Luxor Temple and Luxor Museum",
+  "ar": "كورنيش النيل، البر الشرقي، الأقصر — بين معبد الأقصر ومتحف الأقصر"
+ },
+ "lat": 25.708056,
+ "lng": 32.644444,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily in two sessions (morning and evening).",
+  "ar": "مفتوح يوميًا على فترتين صباحية ومسائية."
+ },
+ "summary": {
+  "en": "A small museum on the Luxor corniche explaining how and why the ancient Egyptians mummified people and animals.",
+  "ar": "متحف صغير على كورنيش الأقصر يشرح كيف حنّط المصريون القدماء البشر والحيوانات ولماذا."
+ },
+ "description": {
+  "en": "Opened in 1997 in a former visitor centre on the Nile corniche, this compact museum is devoted to a single subject: the ancient Egyptian art of mummification. A sloping corridor lined with scenes copied from famous funerary papyri sets the mood, leading down into a dimly lit gallery designed to recall a burial chamber. Some sixty objects in well-lit cases follow the process step by step. Visitors see the tools used to remove the organs, the natron salt that dried the body over about forty days, the resins and linen used in wrapping, and canopic jars that held the preserved organs. Amulets, shabti figures, statues of Anubis and other gods of embalming, painted coffins and a human mummy show the beliefs that gave the work meaning. A whole section is given to animal mummies, from cats and fish to a large crocodile, reflecting the sacred animals worshipped across Egypt. Explanations are clear, and the visit takes less than an hour, which makes it easy to combine with Luxor Temple a short walk away.",
+  "ar": "افتُتح هذا المتحف الصغير عام 1997 في مركز زوار سابق على كورنيش النيل، وخُصص لموضوع واحد هو فن التحنيط عند المصريين القدماء. يمهّد للزيارة ممر منحدر تزيّنه مناظر منقولة عن برديات جنائزية شهيرة، ويقود إلى قاعة خافتة الإضاءة صُممت لتحاكي حجرة الدفن. ويتتبع نحو ستين قطعة في خزانات جيدة الإضاءة مراحل العملية خطوة بخطوة. فيشاهد الزائر الأدوات التي استُخدمت لاستخراج الأحشاء، وملح النطرون الذي كان يجفف الجسد نحو أربعين يومًا، والراتنجات والكتان المستخدمة في اللف، والأواني الكانوبية التي حُفظت فيها الأحشاء. وتكشف التمائم وتماثيل الأوشابتي وتماثيل أنوبيس وغيره من معبودات التحنيط، والتوابيت الملونة ومومياء بشرية، عن المعتقدات التي منحت هذا العمل معناه. ويُخصص قسم كامل لمومياوات الحيوانات، من القطط والأسماك إلى تمساح كبير، تعبيرًا عن الحيوانات المقدسة التي عُبدت في أنحاء مصر. الشروح واضحة، والزيارة تستغرق أقل من ساعة، فيسهل الجمع بينها وبين معبد الأقصر القريب سيرًا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Crocodile mummy",
+    "ar": "مومياء التمساح"
+   },
+   "desc": {
+    "en": "A large mummified crocodile, sacred to the god Sobek.",
+    "ar": "تمساح كبير محنط كان مقدسًا للمعبود سوبك."
+   }
+  },
+  {
+   "title": {
+    "en": "Animal mummies",
+    "ar": "مومياوات الحيوانات"
+   },
+   "desc": {
+    "en": "Cats, fish and other creatures preserved as offerings or sacred animals.",
+    "ar": "قطط وأسماك وكائنات أخرى حُنّطت قرابين أو بوصفها حيوانات مقدسة."
+   }
+  },
+  {
+   "title": {
+    "en": "Embalming tools and materials",
+    "ar": "أدوات التحنيط وموادّه"
+   },
+   "desc": {
+    "en": "Instruments, natron, resins and linen used to prepare the body.",
+    "ar": "أدوات ونطرون وراتنجات وكتان استُخدمت لتجهيز الجسد."
+   }
+  },
+  {
+   "title": {
+    "en": "Canopic jars",
+    "ar": "الأواني الكانوبية"
+   },
+   "desc": {
+    "en": "Vessels that held the preserved organs under the protection of the four sons of Horus.",
+    "ar": "أوانٍ حُفظت فيها الأحشاء في حماية أبناء حورس الأربعة."
+   }
+  },
+  {
+   "title": {
+    "en": "Coffin and human mummy",
+    "ar": "التابوت والمومياء البشرية"
+   },
+   "desc": {
+    "en": "A painted coffin and mummy displayed in the main gallery.",
+    "ar": "تابوت ملون ومومياء معروضان في القاعة الرئيسية."
+   }
+  },
+  {
+   "title": {
+    "en": "Amulets and ankh",
+    "ar": "التمائم وعلامة العنخ"
+   },
+   "desc": {
+    "en": "Protective charms placed in the wrappings, and a wooden ankh, the sign of life.",
+    "ar": "تمائم حامية كانت توضع بين اللفائف، وعلامة عنخ خشبية رمز الحياة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "mon",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "tue",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "wed",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "thu",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "fri",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "sat",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "sun",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "19:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer 2026: last entry 12:00 (morning) and 19:00 (evening)",
+     "ar": "صيف 2026: آخر دخول 12:00 للفترة الصباحية و19:00 للمسائية"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "mon",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "tue",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "wed",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "thu",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "fri",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "sat",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "sun",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     }
+    ]
+   },
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "13:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/MummificationMuseumLuxor",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "The evening session, after a day on the West Bank, or just before Luxor Temple lights up at dusk.",
+   "ar": "الفترة المسائية بعد يوم في البر الغربي، أو قبيل إضاءة معبد الأقصر مع الغروب."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded. The museum closes between the morning and evening sessions, so check the time before walking over. The entrance is down a flight of steps from the corniche.",
+   "ar": "نادرًا ما يزدحم. ويغلق المتحف بين الفترتين الصباحية والمسائية، فتأكد من الموعد قبل التوجه إليه. ويُنزل إلى المدخل عبر درج من الكورنيش."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mus%C3%A9e_Momification_-_Louxor_%28EG%29_-_2025-12-10_-_7.jpg",
+   "author": "Chabe01",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Momification_-_Louxor_(EG)_-_2025-12-10_-_7.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Mus%C3%A9e_Momification_-_Louxor_%28EG%29_-_2025-12-10_-_14.jpg",
+   "author": "Chabe01",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Momification_-_Louxor_(EG)_-_2025-12-10_-_14.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mus%C3%A9e_Momification_-_Louxor_%28EG%29_-_2025-12-10_-_21.jpg",
+   "author": "Chabe01",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Momification_-_Louxor_(EG)_-_2025-12-10_-_21.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/mummification-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mummification_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%AA%D8%AD%D9%86%D9%8A%D8%B7",
+  "osm": "node/5267589822"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q3330049",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/mummification-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-14:00, 17:00-21:00, ticket window),prices,freeGroups,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/museums/mummification-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry by season, Ramadan),tickets (official booking platform)",
+   "url": "https://egymonuments.com/details/MummificationMuseumLuxor",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (booking page)",
+   "url": "https://egymonuments.com/book-date/20",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (incl. Ramadan 09:00-15:00),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-التحنيط/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (objects on display, Dec 2025 photos)",
+   "url": "https://commons.wikimedia.org/wiki/Category:Mummification_Museum,_Luxor",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Mummification_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Momification_-_Louxor_(EG)_-_2025-12-10_-_7.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Momification_-_Louxor_(EG)_-_2025-12-10_-_14.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Momification_-_Louxor_(EG)_-_2025-12-10_-_21.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Evening last entry conflict: portal 20:00 (ticket window) vs booking platform 19:00 - 19:00 used (D3). Summer: booking platform gives last entries 12:00 and 19:00 only (no closing times), dated to the Luxor daylight-saving summer 2026. Ramadan conflict: MoTA guide says 09:00-15:00 (single session); booking platform shows two sessions (last entry 13:00 and 19:00). The guide's single session with the earlier 13:00 last entry is used; the evening Ramadan session is not shown - verify for Ramadan 2027. Highlights kept generic where the current display could not be confirmed (e.g. the Masaharta mummy and Padiamun coffin named on Wikipedia are not named). The address line 'between Luxor Temple and Luxor Museum' follows the corniche layout (Wikipedia: opposite the Mina Palace hotel). Summer 2026 exception (2026-04-24 to 2026-10-29) follows the Luxor antiquities summer schedule (daylight-saving period, until the last Thursday of October); the winter 2026-27 schedule had not been announced on 2026-10-04 - recheck after 29 Oct 2026. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Summer exception ends 2026-10-29, the last day of daylight-saving time (batch-7 Q7a, applied 2026-10-04 to every summer exception)."
+}

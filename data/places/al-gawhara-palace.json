@@ -1,0 +1,154 @@
+{
+ "id": "al-gawhara-palace",
+ "kind": "museum",
+ "wikidataId": "Q4116059",
+ "name": {
+  "en": "Al-Gawhara Palace",
+  "ar": "قصر الجوهرة"
+ },
+ "aliases": [
+  "قصر الجوهره"
+ ],
+ "category": "royal-palace",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Cairo Citadel, El-Khalifa",
+  "ar": "قلعة صلاح الدين، الخليفة"
+ },
+ "address": {
+  "en": "Southern enclosure of the Cairo Citadel, south of the Mosque of Muhammad Ali, Salah Salem Street, Cairo",
+  "ar": "الجزء الجنوبي من قلعة صلاح الدين، جنوب جامع محمد علي، شارع صلاح سالم، القاهرة"
+ },
+ "lat": 30.0281,
+ "lng": 31.2594,
+ "status": "renovation",
+ "statusNote": {
+  "en": "Closed to visitors while a major restoration is under way (works in progress in 2026; no reopening date announced). The rest of the Citadel stays open.",
+  "ar": "مغلق أمام الزوار لحين انتهاء أعمال ترميم كبرى ما زالت جارية في 2026 دون إعلان موعد لإعادة الافتتاح، بينما تظل بقية القلعة مفتوحة."
+ },
+ "summary": {
+  "en": "Muhammad Ali's 1814 palace on the Citadel, a European-influenced Ottoman pavilion with a grand audience hall and views across Cairo, now under restoration.",
+  "ar": "قصر محمد علي باشا في القلعة الذي شُيّد عام 1814، وهو جوسق عثماني بلمسات أوروبية يضم قاعة استقبال فخمة ويطل على القاهرة، ويخضع حاليًا للترميم."
+ },
+ "description": {
+  "en": "When Muhammad Ali consolidated his rule over Egypt, he rebuilt the Citadel as the seat of a modernising state, and in 1814 he began a palace for himself on its southern side. Known as al-Gawhara, the Jewel, or by its French name, the Bijou Palace, it was raised by craftsmen from across the Ottoman world in the form of a two-storey Turkish kiosk, with Western-style windows that announced the new tastes of the court. Fire gutted the wooden structure in 1822 and an explosion of gunpowder damaged it again two years later, after which the pasha rebuilt it more grandly, importing Italian marble for halls and staircases and adding terraces and gardens with views toward the Nile and the pyramids. The audience hall, where Muhammad Ali received envoys, was hung with a massive chandelier sent by King Louis-Philippe of France, and the palace also housed a throne presented by the King of Italy. Later converted into a museum of nineteenth-century court life, with furniture, paintings and costumes, it is currently closed while the Supreme Council of Antiquities carries out structural consolidation and conservation of its decorated interiors.",
+  "ar": "حين أحكم محمد علي قبضته على حكم مصر أعاد بناء القلعة لتكون مقرًا لدولته الحديثة، وفي عام 1814 بدأ تشييد قصر لنفسه في جزئها الجنوبي. وعُرف القصر باسم الجوهرة، أو بالاسم الفرنسي «قصر بيجو»، وقد بناه حرفيون من أرجاء العالم العثماني على هيئة جوسق تركي من طابقين، بنوافذ على الطراز الغربي تعلن عن الذوق الجديد للبلاط. وقد التهم حريق هيكله الخشبي عام 1822، ثم ألحق به انفجار للبارود أضرارًا جديدة بعد عامين، فأعاد الباشا بناءه على نحو أفخم، واستورد الرخام الإيطالي للقاعات والسلالم، وأضاف شرفات وحدائق تطل على النيل والأهرام. وفي قاعة الاستقبال التي كان محمد علي يستقبل فيها السفراء عُلّقت ثريا ضخمة أهداها إليه ملك فرنسا لويس فيليب، كما ضم القصر عرشًا أهداه ملك إيطاليا. وقد تحوّل القصر لاحقًا إلى متحف لحياة البلاط في القرن التاسع عشر بما فيه من أثاث ولوحات وأزياء، وهو مغلق حاليًا بينما ينفذ المجلس الأعلى للآثار أعمال تدعيم إنشائي وترميم لزخارفه الداخلية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Audience hall",
+    "ar": "قاعة الاستقبال"
+   },
+   "desc": {
+    "en": "Muhammad Ali's reception hall, lit by a huge chandelier from King Louis-Philippe of France.",
+    "ar": "قاعة استقبال محمد علي، تضيئها ثريا ضخمة أهداها ملك فرنسا لويس فيليب."
+   }
+  },
+  {
+   "title": {
+    "en": "Throne of Muhammad Ali",
+    "ar": "عرش محمد علي"
+   },
+   "desc": {
+    "en": "A ceremonial throne presented by the King of Italy.",
+    "ar": "عرش احتفالي أهداه ملك إيطاليا."
+   }
+  },
+  {
+   "title": {
+    "en": "Ottoman kiosk architecture",
+    "ar": "عمارة الجوسق العثماني"
+   },
+   "desc": {
+    "en": "A two-storey Turkish-style pavilion with Western windows and Italian marble halls.",
+    "ar": "جوسق من طابقين على الطراز التركي بنوافذ غربية وقاعات من الرخام الإيطالي."
+   }
+  },
+  {
+   "title": {
+    "en": "Citadel terraces",
+    "ar": "شرفات القلعة"
+   },
+   "desc": {
+    "en": "Terraces on the Citadel's southern edge looking out over Cairo.",
+    "ar": "شرفات على الحافة الجنوبية للقلعة تطل على القاهرة."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Kairo_Zitadelle_Al-Gawhara_01.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kairo_Zitadelle_Al-Gawhara_01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Kairo_Zitadelle_Al-Gawhara_02.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kairo_Zitadelle_Al-Gawhara_02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Jawhara_Palace_20190604_134048.jpg",
+   "author": "Ashashyou",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jawhara_Palace_20190604_134048.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Al-Gawhara_Palace",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%AC%D9%88%D9%87%D8%B1%D8%A9",
+  "osm": "relation/16886994"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q4116059",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (restoration in progress, March 2026)",
+   "url": "https://www.dostor.org/5462469",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote (Citadel museums listed)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/cairo-citadel/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Al-Gawhara_Palace",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Status renovation: SCA secretary-general inspected the ongoing al-Gawhara restoration on 2026-03-17 (dostor 5462469): studies done, fixed and movable artefacts wrapped, structural consolidation and crack injection done, roof insulation in progress; no reopening date. No source explicitly says \"closed\", but wrapped artefacts imply it. No egymonuments.gov.eg page (the al-jawhara-palace slug shows Wasila House content). When reopened it is expected to be covered by the Citadel ticket (third-party guides only) - re-add hours/prices then."
+}

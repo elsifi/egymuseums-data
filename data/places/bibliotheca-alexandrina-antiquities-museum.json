@@ -1,0 +1,346 @@
+{
+ "id": "bibliotheca-alexandrina-antiquities-museum",
+ "kind": "museum",
+ "wikidataId": "Q113289726",
+ "name": {
+  "en": "Bibliotheca Alexandrina Antiquities Museum",
+  "ar": "متحف الآثار بمكتبة الإسكندرية"
+ },
+ "category": "mixed",
+ "operator": "other",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Chatby",
+  "ar": "الشاطبي"
+ },
+ "address": {
+  "en": "Bibliotheca Alexandrina, Chatby, Alexandria — museum entrance and ticket booth on level B1",
+  "ar": "مكتبة الإسكندرية، الشاطبي، الإسكندرية — مدخل المتحف وشباك التذاكر في المستوى B1"
+ },
+ "lat": 31.208889,
+ "lng": 29.909167,
+ "status": "open",
+ "statusNote": {
+  "en": "Open Sunday to Thursday and on Saturday mornings; closed on Fridays. Children under 4 are not admitted and backpacks are not allowed.",
+  "ar": "مفتوح من الأحد إلى الخميس وصباح السبت، ومغلق يوم الجمعة. لا يُسمح بدخول الأطفال دون الرابعة ولا بحقائب الظهر."
+ },
+ "summary": {
+  "en": "A carefully curated museum beneath the Bibliotheca Alexandrina, built around mosaics and finds uncovered on the library's own site.",
+  "ar": "متحف منسق بعناية في الطابق السفلي لمكتبة الإسكندرية، قوامه لوحات فسيفساء ولقى عُثر عليها في موقع المكتبة نفسه."
+ },
+ "description": {
+  "en": "When the foundations of the new Bibliotheca Alexandrina were dug in the 1990s, archaeologists uncovered remains of the ancient royal quarter of the city, including fine floor mosaics. These finds became the heart of the Antiquities Museum, which opened on the library's lower level when the Bibliotheca was inaugurated in 2002. The galleries follow Egypt's story from the pharaonic period through Graeco-Roman, Byzantine and Islamic times, with dedicated sections on beliefs about the afterlife, on objects recovered from the sea off Alexandria and Abu Qir, and on discoveries made during the library's construction. The two star pieces are Ptolemaic mosaics: a dog seated beside a toppled vessel, rendered in tiny stone tesserae, and a lively scene of two young wrestlers. Alongside them are Late Period coffins, statuary of kings and officials, Coptic and Islamic objects, and a gallery of underwater finds. Displays are clearly labelled and the rooms are usually quiet, so the museum rewards an unhurried visit. It can be combined with the library's other museums on a single inclusive ticket.",
+  "ar": "حين حُفرت أساسات مكتبة الإسكندرية الجديدة في تسعينيات القرن العشرين، كشف الأثريون عن بقايا الحي الملكي القديم في المدينة، ومنها أرضيات بديعة من الفسيفساء. وأصبحت هذه اللقى نواة متحف الآثار الذي افتُتح في المستوى السفلي للمكتبة عند افتتاحها عام 2002. وتتتبع القاعات قصة مصر من العصر الفرعوني مرورًا بالعصرين اليوناني الروماني والبيزنطي حتى العصر الإسلامي، مع أقسام خاصة بمعتقدات العالم الآخر، وبالقطع المنتشلة من البحر قبالة الإسكندرية وأبي قير، وبالاكتشافات التي ظهرت أثناء بناء المكتبة. وأبرز المعروضات لوحتان من الفسيفساء من العصر البطلمي: كلب جالس بجوار إناء مقلوب صيغ من قطع حجرية دقيقة، ومشهد حي لصبيين يتصارعان. وإلى جانبهما توابيت من العصر المتأخر، وتماثيل لملوك وكبار موظفين، وقطع قبطية وإسلامية، وقاعة للآثار الغارقة. والبطاقات التعريفية واضحة والقاعات هادئة في الغالب، فيستحق المتحف زيارة متأنية. ويمكن الجمع بينه وبين متاحف المكتبة الأخرى بتذكرة شاملة واحدة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Dog mosaic",
+    "ar": "فسيفساء الكلب"
+   },
+   "desc": {
+    "en": "A Ptolemaic floor mosaic of a seated dog beside a vessel, found on the library site.",
+    "ar": "أرضية فسيفساء بطلمية لكلب جالس بجوار إناء، عُثر عليها في موقع المكتبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Wrestlers mosaic",
+    "ar": "فسيفساء المصارعين"
+   },
+   "desc": {
+    "en": "Two boys locked in a wrestling bout, another find from the ancient royal quarter.",
+    "ar": "صبيان في نزال مصارعة، من لقى الحي الملكي القديم أيضًا."
+   }
+  },
+  {
+   "title": {
+    "en": "In the Afterlife",
+    "ar": "في العالم الآخر"
+   },
+   "desc": {
+    "en": "A section on burial customs, with coffins and funerary objects.",
+    "ar": "قسم عن عادات الدفن يضم توابيت وأدوات جنائزية."
+   }
+  },
+  {
+   "title": {
+    "en": "Submerged antiquities",
+    "ar": "الآثار الغارقة"
+   },
+   "desc": {
+    "en": "Objects raised from the seabed off Alexandria and Abu Qir.",
+    "ar": "قطع انتُشلت من قاع البحر قبالة الإسكندرية وأبي قير."
+   }
+  },
+  {
+   "title": {
+    "en": "Finds from the library site",
+    "ar": "آثار موقع المكتبة"
+   },
+   "desc": {
+    "en": "Discoveries made while the Bibliotheca was being built.",
+    "ar": "اكتشافات ظهرت أثناء بناء المكتبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Byzantine and Islamic galleries",
+    "ar": "القاعتان البيزنطية والإسلامية"
+   },
+   "desc": {
+    "en": "Later objects that carry the story of Alexandria into the medieval period.",
+    "ar": "قطع من العصور اللاحقة تمد قصة الإسكندرية حتى العصور الوسطى."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sun",
+    "open": "09:30",
+    "close": "16:45",
+    "lastEntry": "16:30"
+   },
+   {
+    "day": "mon",
+    "open": "09:30",
+    "close": "16:45",
+    "lastEntry": "16:30"
+   },
+   {
+    "day": "tue",
+    "open": "09:30",
+    "close": "16:45",
+    "lastEntry": "16:30"
+   },
+   {
+    "day": "wed",
+    "open": "09:30",
+    "close": "16:45",
+    "lastEntry": "16:30"
+   },
+   {
+    "day": "thu",
+    "open": "09:30",
+    "close": "16:45",
+    "lastEntry": "16:30"
+   },
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "13:45",
+    "lastEntry": "13:30"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "senior",
+    "amount": 10
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Inclusive ticket (Main Library, Antiquities Museum, Manuscripts Museum and free museums) — foreign adult",
+     "ar": "التذكرة الشاملة (المكتبة الرئيسية ومتحف الآثار ومتحف المخطوطات والمتاحف المجانية) — زائر أجنبي"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 300
+   },
+   {
+    "label": {
+     "en": "Inclusive ticket — foreign student",
+     "ar": "التذكرة الشاملة — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 120
+   },
+   {
+    "label": {
+     "en": "Inclusive ticket — Egyptian adult",
+     "ar": "التذكرة الشاملة — زائر مصري"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Inclusive ticket — Egyptian student",
+     "ar": "التذكرة الشاملة — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Inclusive ticket — Egyptian senior (60+)",
+     "ar": "التذكرة الشاملة — مصري فوق 60 عامًا"
+    },
+    "audience": "egyptian",
+    "group": "senior",
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Professional camera, photos — foreign visitor",
+     "ar": "كاميرا احترافية للصور — زائر أجنبي"
+    },
+    "audience": "foreign",
+    "amount": 250
+   },
+   {
+    "label": {
+     "en": "Professional camera, photos — Egyptian visitor",
+     "ar": "كاميرا احترافية للصور — زائر مصري"
+    },
+    "audience": "egyptian",
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Video camera (non-commercial) — foreign visitor",
+     "ar": "كاميرا فيديو (لغير الأغراض التجارية) — زائر أجنبي"
+    },
+    "audience": "foreign",
+    "amount": 400
+   },
+   {
+    "label": {
+     "en": "Video camera (non-commercial) — Egyptian visitor",
+     "ar": "كاميرا فيديو (لغير الأغراض التجارية) — زائر مصري"
+    },
+    "audience": "egyptian",
+    "amount": 150
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "A weekday afternoon after visiting the library's main reading hall; on Saturday the museum closes early.",
+   "ar": "عصر أحد أيام الأسبوع بعد زيارة قاعة الاطلاع الرئيسية بالمكتبة، علمًا بأن المتحف يغلق مبكرًا يوم السبت."
+  },
+  "crowdNotes": {
+   "en": "Usually quiet. The ticket booth closes 15 minutes before the museum. Sketching and painting are not permitted, and a separate ticket is needed for professional cameras.",
+   "ar": "هادئ في الغالب. يُغلق شباك التذاكر قبل إغلاق المتحف بربع ساعة. لا يُسمح بالرسم داخل القاعات، وتلزم تذكرة منفصلة للكاميرات الاحترافية."
+  }
+ },
+ "accessibility": {
+  "wheelchair": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mosaic_depicting_a_sitting_dog%2C_Ptolemaic_Period%2C_2nd_century_BC%2C_Bibliotheca_Alexandrina_Antiquities_Museum.jpg",
+   "author": "Carole Raddato",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosaic_depicting_a_sitting_dog,_Ptolemaic_Period,_2nd_century_BC,_Bibliotheca_Alexandrina_Antiquities_Museum.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/AlexAlexandrinaMosaic1.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:AlexAlexandrinaMosaic1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flickr_-_dlisbona_-_Anthroproid_coffin_%28mummy%29_of_Aba_600BCE.jpg",
+   "author": "David Lisbona from Haifa, Israel",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_dlisbona_-_Anthroproid_coffin_(mummy)_of_Aba_600BCE.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 3 483 9999",
+  "website": "https://antiquities.bibalex.org/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q113289726",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "coordinates (Bibliotheca Alexandrina building, Q501851; museum item has none)",
+   "url": "https://www.wikidata.org/wiki/Q501851",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,extras,freeGroups,accessibility,contacts (official museum site)",
+   "url": "https://antiquities.bibalex.org/Antiquities/Admission.aspx?lang=en",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras (official BA admission page)",
+   "url": "https://www.bibalex.org/en/Page/BA_Visiting",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (museum sections)",
+   "url": "https://antiquities.bibalex.org/Antiquities/Admission.aspx?lang=en",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Run by the Bibliotheca Alexandrina, not MoTA. The museum's own admission page and the BA admission page agree on all prices. The BA inclusive-ticket note also says Egyptians over 70 enter free; it is not clear whether that applies to the museum-only ticket, so it is not listed. No Ramadan schedule published. The BA online-ticketing site sells event tickets only, so onlineUrl is null. Coordinates taken from the BA building (Q501851) because Q113289726 has none. No photos of the modern BA building are used (no freedom of panorama). Batch-4 Q10a applied 2026-10-04: borrowed coordinates kept; Wikidata is not edited (D17: fix locally only), so P625 on Q113289726 is left for a later manual edit."
+}

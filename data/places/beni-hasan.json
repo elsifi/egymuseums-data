@@ -1,0 +1,367 @@
+{
+ "id": "beni-hasan",
+ "kind": "site",
+ "wikidataId": "Q817286",
+ "name": {
+  "en": "Beni Hasan Tombs",
+  "ar": "مقابر بني حسن"
+ },
+ "aliases": [
+  "Beni-Hassan",
+  "Beni Hasan"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "minya",
+ "city": {
+  "en": "Abu Qurqas",
+  "ar": "أبو قرقاص"
+ },
+ "area": {
+  "en": "Beni Hasan al-Shuruq, east bank of the Nile",
+  "ar": "بني حسن الشروق، البر الشرقي للنيل"
+ },
+ "address": {
+  "en": "Beni Hasan al-Shuruq village, Abu Qurqas, Minya Governorate",
+  "ar": "قرية بني حسن الشروق، أبو قرقاص، محافظة المنيا"
+ },
+ "lat": 27.931389,
+ "lng": 30.875281,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Four decorated tombs of the upper cemetery are set up for visitors: Khety, Baqet III, Khnumhotep II and Amenemhat.",
+  "ar": "مفتوحة يوميًا. أربع مقابر مزخرفة في الجبانة العلوية مهيأة للزيارة: خيتي وباقت الثالث وخنوم حتب الثاني وأمنمحات."
+ },
+ "summary": {
+  "en": "A cliff-top row of Middle Kingdom rock tombs whose painted walls show farming, crafts, wrestling and the arrival of foreign traders.",
+  "ar": "صف من مقابر الدولة الوسطى المنحوتة في أعلى الجبل، تصور جدرانها الملونة الزراعة والحرف والمصارعة ووصول التجار الأجانب."
+ },
+ "description": {
+  "en": "High on the eastern cliffs above the Nile, south of Minya, the governors of the sixteenth Upper Egyptian province, the Oryx nome, cut their tombs into the limestone during the Eleventh and Twelfth Dynasties, around 2000 BC. The upper cemetery holds 39 rock-cut tombs, twelve of them decorated with paintings that rank among the liveliest records of daily life in the Middle Kingdom. Below them lie hundreds of simpler shaft tombs of lesser officials. Visitors climb a stairway to a terrace with sweeping views over the valley, then enter the chapels. In the tombs of Baqet III and Khety, long sequences of wrestlers grapple in hundreds of poses, alongside scenes of hunting, games and military campaigns. The tomb of Amenemhat, entered through a portico with fluted columns that recall later Greek architecture, shows farming, crafts and offerings in clear, bright colour. The tomb of Khnumhotep II is famous for its procession of Asiatic traders bringing goods, one of the earliest detailed portrayals of foreigners in Egyptian art. Names such as Khnumhotep, Baqet and Khety recur across generations, revealing a local dynasty of officials.",
+  "ar": "عاليًا على الجبل الشرقي المطل على النيل جنوب المنيا، نحت حكام الإقليم السادس عشر من أقاليم مصر العليا، إقليم الوعل، مقابرهم في الحجر الجيري خلال الأسرتين الحادية عشرة والثانية عشرة، نحو عام 2000 ق.م. وتضم الجبانة العلوية 39 مقبرة منحوتة في الصخر، زُينت اثنتا عشرة منها بنقوش ملونة تُعد من أكثر سجلات الحياة اليومية حيوية في الدولة الوسطى. وأسفلها مئات المقابر البئرية البسيطة لصغار الموظفين. ويصعد الزائر درجًا إلى مصطبة تطل على الوادي إطلالة واسعة، ثم يدخل المقاصير. ففي مقبرتي باقت الثالث وخيتي تتوالى مناظر المصارعين في مئات الأوضاع، إلى جانب مشاهد الصيد والألعاب والحملات العسكرية. أما مقبرة أمنمحات، التي يُدخل إليها عبر رواق بأعمدة مضلعة تذكّر بالعمارة الإغريقية اللاحقة، فتصور الزراعة والحرف والقرابين بألوان صافية زاهية. وتشتهر مقبرة خنوم حتب الثاني بموكب التجار الآسيويين الحاملين بضائعهم، وهو من أقدم التصويرات المفصلة للأجانب في الفن المصري. وتتكرر أسماء مثل خنوم حتب وباقت وخيتي عبر الأجيال، كاشفة عن أسرة محلية من كبار الموظفين."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Khnumhotep II",
+    "ar": "مقبرة خنوم حتب الثاني"
+   },
+   "desc": {
+    "en": "The famous procession of Asiatic traders arriving with their goods.",
+    "ar": "موكب التجار الآسيويين الشهير وهم يصلون ببضائعهم."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Amenemhat",
+    "ar": "مقبرة أمنمحات"
+   },
+   "desc": {
+    "en": "Fluted portico columns and bright scenes of farming and crafts.",
+    "ar": "رواق بأعمدة مضلعة ومناظر زاهية للزراعة والحرف."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Baqet III",
+    "ar": "مقبرة باقت الثالث"
+   },
+   "desc": {
+    "en": "Rows of wrestlers shown in hundreds of holds and throws.",
+    "ar": "صفوف من المصارعين في مئات الحركات والمسكات."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Khety",
+    "ar": "مقبرة خيتي"
+   },
+   "desc": {
+    "en": "Wrestling, games and hunting scenes in a columned chapel.",
+    "ar": "مناظر المصارعة والألعاب والصيد في مقصورة ذات أعمدة."
+   }
+  },
+  {
+   "title": {
+    "en": "Cliff terrace",
+    "ar": "المصطبة الجبلية"
+   },
+   "desc": {
+    "en": "A walkway along the tomb façades with wide views of the Nile Valley.",
+    "ar": "ممر بمحاذاة واجهات المقابر بإطلالة واسعة على وادي النيل."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20,
+    "onlineAmount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10,
+    "onlineAmount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/BeniHassanTomb",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Morning, before the sun heats the cliff stairway.",
+   "ar": "الصباح، قبل أن تحمى الشمس درج الجبل."
+  },
+  "crowdNotes": {
+   "en": "Usually quiet; the climb to the tombs is a long stairway with no shade, so bring water. Photography rules inside the tombs may differ from outdoors. Foreign visitors travelling by road in Minya governorate may be asked by police to register their route or travel with an escort; drivers usually arrange this a day ahead.",
+   "ar": "هادئة عادة؛ والصعود إلى المقابر درج طويل بلا ظل، فاحمل الماء معك. وقد تختلف قواعد التصوير داخل المقابر عن خارجها. وقد تطلب الشرطة من الزوار الأجانب المسافرين برًا في محافظة المنيا تسجيل خط سيرهم أو التحرك بمرافقة أمنية، ويرتب السائقون ذلك عادة قبل الزيارة بيوم."
+  }
+ },
+ "accessibility": {
+  "wheelchair": false,
+  "stairs": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/BeniHasanTombs2.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BeniHasanTombs2.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Beni_Hassan_24.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beni_Hassan_24.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Beni_Hassan_25.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beni_Hassan_25.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/beni-hasan/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Beni_Hasan",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%A8%D8%B1_%D8%A8%D9%86%D9%8A_%D8%AD%D8%B3%D9%86",
+  "osm": "node/2710024050"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q817286",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/beni-hasan/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-khety/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-baqet-iii/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-khnumhotep-ii/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-amenemhat/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices (portal: Egyptian 20/10, foreign 200/100),description",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/beni-hasan/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan 09:00-16:00; last entry 1 h before closing),address",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مقابر-بني-حسن/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (last entry 16:00),tickets,freeGroups,prices.onlineAmount (booking platform: Egyptian 10/5)",
+   "url": "https://egymonuments.com/details/BeniHassanTomb",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Nov 2024 cross-check: 20/10, 200/100)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights,status (open tombs: Khety, Baqet III, Khnumhotep II, Amenemhat; news 10 Jul 2026)",
+   "url": "https://www.youm7.com/story/2026/7/10/%D9%85%D9%82%D8%A8%D8%B1%D8%A9-%D8%A3%D9%85%D9%86%D9%85%D8%AD%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7-%D8%AA%D8%AD%D9%83%D9%89-%D9%85%D8%B8%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%A9-%D8%A8%D9%85%D8%B5%D8%B1-%D9%81%D9%89-%D8%B9%D8%B5%D8%B1/7458372",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Beni_Hasan",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:BeniHasanTombs2.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Beni_Hassan_24.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Beni_Hassan_25.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Egyptian price conflict: egymonuments.gov.eg and the Nov 2024 PDF give 20/10; the egymonuments.com booking platform charges 10/5. Per house rule, amount = portal price and onlineAmount = booking price (lower online is unusual; batch-7 Q2a applied 2026-10-04: confirm with MoTA hotline 19654). Ramadan conflict: MoTA guide 09:00-16:00 vs booking platform 08:00 / last entry 16:00; the earlier last entry (15:00) and the guide's 09:00 opening are used. Minya escort note is anecdotal (travel forums, no official 2025-26 source) and worded as 'may'. Accessibility is general advice. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

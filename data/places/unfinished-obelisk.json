@@ -1,0 +1,255 @@
+{
+ "id": "unfinished-obelisk",
+ "kind": "site",
+ "wikidataId": "Q735438",
+ "name": {
+  "en": "The Unfinished Obelisk",
+  "ar": "المسلة الناقصة"
+ },
+ "aliases": [
+  "unfinished obelisk"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Aswan",
+  "ar": "أسوان"
+ },
+ "area": {
+  "en": "Northern quarries, east bank",
+  "ar": "المحاجر الشمالية، البر الشرقي"
+ },
+ "address": {
+  "en": "Northern granite quarries, east bank of Aswan, next to the Fatimid Cemetery",
+  "ar": "محاجر الجرانيت الشمالية، البر الشرقي لأسوان، بجوار الجبانة الفاطمية"
+ },
+ "lat": 24.07689,
+ "lng": 32.89544,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A giant obelisk abandoned in an ancient granite quarry, revealing how Egypt's monoliths were carved.",
+  "ar": "مسلة عملاقة تُركت في محجر جرانيت قديم، تكشف كيف نُحتت المسلات المصرية."
+ },
+ "description": {
+  "en": "In the northern granite quarries of Aswan lies the largest obelisk the ancient Egyptians are known to have attempted, still attached to the bedrock where it was being cut. It was probably commissioned in the reign of Hatshepsut in the fifteenth century BC, perhaps for the temple of Amun at Karnak. Had it been finished, it would have stood about 42 metres high and weighed around 1,168 tonnes, far more than any obelisk ever raised. Work stopped when cracks appeared in the stone, and the half-finished shaft was simply abandoned. Covered by sand for thousands of years, it was rediscovered in the early twentieth century and is now viewed from walkways around the quarry. Its real value lies in what it reveals about ancient technique: the trenches cut around the shaft, the marks left by workers pounding the granite with balls of hard dolerite, and the outline of the tapering tip all show the stages of production. Aswan's quarries supplied granite for temples, statues and obelisks across Egypt, and the visit, though short, pairs well with other sites on the east bank.",
+  "ar": "في محاجر الجرانيت الشمالية بأسوان ترقد أكبر مسلة يُعرف أن المصريين القدماء شرعوا في نحتها، ولا تزال متصلة بالصخر الأم حيث كان العمل جاريًا. ويُرجح أنها نُحتت بأمر من الملكة حتشبسوت في القرن الخامس عشر قبل الميلاد، وربما كانت مخصصة لمعبد آمون في الكرنك. ولو اكتمل نحتها لبلغ ارتفاعها نحو 42 مترًا ووزنها قرابة 1168 طنًا، وهو ما يفوق أي مسلة أقيمت على الإطلاق. لكن العمل توقف حين ظهرت شقوق في الحجر، فتُركت المسلة نصف منجزة في مكانها. وبعد أن غطتها الرمال آلاف السنين، أعيد اكتشافها في مطلع القرن العشرين، ويشاهدها الزوار اليوم من ممرات تحيط بالمحجر. وتكمن قيمتها الحقيقية فيما تكشفه عن التقنيات القديمة: الخنادق المحفورة حول جسم المسلة، وآثار دق الجرانيت بكرات من حجر الدولريت الصلب، وملامح قمتها المدببة، وكلها تبين مراحل العمل. وقد زودت محاجر أسوان معابد مصر وتماثيلها ومسلاتها بالجرانيت، والزيارة قصيرة لكنها تتكامل جيدًا مع مواقع البر الشرقي الأخرى."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "The obelisk",
+    "ar": "المسلة"
+   },
+   "desc": {
+    "en": "A 42-metre shaft still joined to the bedrock, abandoned after it cracked.",
+    "ar": "جسم بطول 42 مترًا لا يزال متصلًا بالصخر، تُرك بعد أن تشقق."
+   }
+  },
+  {
+   "title": {
+    "en": "Quarry trenches",
+    "ar": "خنادق المحجر"
+   },
+   "desc": {
+    "en": "Channels cut around the shaft to free it from the rock.",
+    "ar": "قنوات حُفرت حول المسلة لفصلها عن الصخر."
+   }
+  },
+  {
+   "title": {
+    "en": "Pounding marks",
+    "ar": "آثار الدق"
+   },
+   "desc": {
+    "en": "Scars left by dolerite pounders used to shape the granite.",
+    "ar": "آثار كرات الدولريت التي استُخدمت في تشكيل الجرانيت."
+   }
+  },
+  {
+   "title": {
+    "en": "Ancient quarry",
+    "ar": "المحجر القديم"
+   },
+   "desc": {
+    "en": "Part of the granite quarries that supplied monuments across Egypt.",
+    "ar": "جزء من محاجر الجرانيت التي زودت آثار مصر كلها."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/UnfinishedObelisk",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Early morning; the quarry is a sun trap by midday.",
+   "ar": "الصباح الباكر، إذ يشتد الحر في المحجر عند الظهر."
+  },
+  "crowdNotes": {
+   "en": "Tour groups often stop here between Philae and the High Dam in mid-morning; the walkways and steps have little shade.",
+   "ar": "كثيرًا ما تتوقف المجموعات السياحية هنا في منتصف الصباح بين فيلة والسد العالي، والممرات والدرجات قليلة الظل."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Obelisco_inacabado%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_152.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Obelisco_inacabado,_Asu%C3%A1n,_Egipto,_2022-04-01,_DD_152.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Assuan_Unvollendeter_Obelisk_34.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Assuan_Unvollendeter_Obelisk_34.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Cantera_del_obelisco_inacabado%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_150.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cantera_del_obelisco_inacabado,_Asu%C3%A1n,_Egipto,_2022-04-01,_DD_150.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/the-unfinished-obelisk/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Unfinished_obelisk",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%A9_%D8%A7%D9%84%D9%86%D8%A7%D9%82%D8%B5%D8%A9",
+  "osm": "way/243566979"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q735438",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-unfinished-obelisk/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-unfinished-obelisk/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry),prices,freeGroups,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/UnfinishedObelisk",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D8%B5%D8%A9/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Unfinished_obelisk",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Portal, MoTA guide (07:00-16:00) and booking page (last entry 15:00) agree; Ramadan row equals normal schedule, so no exception. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

@@ -1,0 +1,224 @@
+{
+ "id": "wadi-al-hitan",
+ "kind": "site",
+ "wikidataId": "Q501833",
+ "name": {
+  "en": "Wadi Al-Hitan (Valley of the Whales)",
+  "ar": "وادي الحيتان"
+ },
+ "aliases": [
+  "Whale Valley",
+  "محمية وادي الحيتان",
+  "Wadi Al-Hitan"
+ ],
+ "category": "science-natural",
+ "operator": "other",
+ "governorate": "faiyum",
+ "city": {
+  "en": "Faiyum",
+  "ar": "الفيوم"
+ },
+ "area": {
+  "en": "Wadi El Rayan Protected Area, Youssef El Seddik district",
+  "ar": "محمية وادي الريان، مركز يوسف الصديق"
+ },
+ "address": {
+  "en": "Wadi Al-Hitan, inside Wadi El Rayan Protected Area, south-west Faiyum (about 150 km south-west of Cairo)",
+  "ar": "وادي الحيتان، داخل محمية وادي الريان، جنوب غرب الفيوم (نحو 150 كم جنوب غرب القاهرة)"
+ },
+ "lat": 29.270833,
+ "lng": 30.043889,
+ "status": "open",
+ "statusNote": {
+  "en": "Open-air fossil site inside a desert protected area. Foreign visitors pay a fee set in US dollars and charged in Egyptian pounds at the Central Bank daily rate.",
+  "ar": "موقع حفريات مفتوح داخل محمية صحراوية. ويدفع الزائر الأجنبي رسمًا محددًا بالدولار الأمريكي يُحصَّل بالجنيه المصري وفق السعر اليومي للبنك المركزي."
+ },
+ "summary": {
+  "en": "A UNESCO-listed desert valley in Faiyum strewn with fossil skeletons of early whales that still had hind legs, some 40 million years old.",
+  "ar": "وادٍ صحراوي في الفيوم مسجل على قائمة التراث العالمي، تنتشر فيه هياكل متحجرة لحيتان بدائية كانت لا تزال تحمل أطرافًا خلفية، يعود عمرها إلى نحو 40 مليون عام."
+ },
+ "description": {
+  "en": "Some 40 million years ago this stretch of the Western Desert lay at the edge of the Tethys Sea, a warm shallow ocean fringed by mangroves. Whales that had only recently made the move from land to water swam here, and when they died their bodies were buried in sand and mud. Today wind erosion is slowly uncovering them, and Wadi Al-Hitan, the Valley of the Whales, holds hundreds of fossil skeletons, chiefly of the archaeocetes Basilosaurus and Dorudon. Some still show small hind limbs, vivid evidence of the transition from land mammals to ocean giants, and the site was inscribed on the UNESCO World Heritage List in 2005. A marked trail leads between skeletons lying where they were found, past fossil mangrove roots, bones of other sea creatures and wind-carved sandstone formations. Near the entrance, the Fossils and Climate Change Museum displays a complete Basilosaurus skeleton and explains the region's geological story. The valley lies inside Wadi El Rayan Protected Area, reached by a long desert track, and its silence and dark skies also make it a favourite for overnight camping.",
+  "ar": "قبل نحو 40 مليون عام كانت هذه البقعة من الصحراء الغربية تقع على حافة بحر تيثس، وهو محيط دافئ ضحل تحفّه غابات المانجروف. وكانت تسبح فيه حيتان لم يمضِ وقت طويل على انتقال أسلافها من اليابسة إلى الماء، فلما نفقت دُفنت أجسادها في الرمال والطين. واليوم تكشف عوامل التعرية هذه الهياكل شيئًا فشيئًا، فيضم وادي الحيتان مئات الهياكل المتحجرة، معظمها لحيتان بدائية من نوعي باسيلوصورس ودورودون. ولا يزال بعضها يحتفظ بأطراف خلفية صغيرة، في شاهد حي على تحوّل الثدييات البرية إلى عمالقة المحيطات، ولذلك سُجل الموقع على قائمة التراث العالمي لليونسكو عام 2005. ويقود مسار محدد بين الهياكل الراقدة في أماكن اكتشافها، مرورًا بجذور مانجروف متحجرة وبقايا كائنات بحرية أخرى وتكوينات صخرية نحتتها الرياح. وبالقرب من المدخل يعرض متحف الحفريات والتغيرات المناخية هيكلًا كاملًا لحوت باسيلوصورس ويشرح التاريخ الجيولوجي للمنطقة. ويقع الوادي داخل محمية وادي الريان، ويُبلغ عبر طريق صحراوي طويل، كما يجعله سكونه وسماؤه الصافية مقصدًا محببًا للتخييم ليلًا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Whale skeletons on the trail",
+    "ar": "هياكل الحيتان على المسار"
+   },
+   "desc": {
+    "en": "Basilosaurus and Dorudon fossils lying where they emerged from the rock.",
+    "ar": "حفريات باسيلوصورس ودورودون راقدة في أماكن ظهورها من الصخر."
+   }
+  },
+  {
+   "title": {
+    "en": "Fossils and Climate Change Museum",
+    "ar": "متحف الحفريات والتغيرات المناخية"
+   },
+   "desc": {
+    "en": "A complete Basilosaurus skeleton and displays on the ancient Tethys Sea.",
+    "ar": "هيكل كامل لحوت باسيلوصورس وعروض عن بحر تيثس القديم."
+   }
+  },
+  {
+   "title": {
+    "en": "Fossil mangrove roots",
+    "ar": "جذور المانجروف المتحجرة"
+   },
+   "desc": {
+    "en": "Remains of the coastal swamps that once lined the sea.",
+    "ar": "بقايا المستنقعات الساحلية التي كانت تحف البحر."
+   }
+  },
+  {
+   "title": {
+    "en": "Wind-carved rock formations",
+    "ar": "تكوينات صخرية نحتتها الرياح"
+   },
+   "desc": {
+    "en": "Sculpted sandstone outcrops along the walking route.",
+    "ar": "كتل من الحجر الرملي شكّلتها الرياح على امتداد مسار المشي."
+   }
+  },
+  {
+   "title": {
+    "en": "Desert camping and night sky",
+    "ar": "التخييم والسماء الليلية"
+   },
+   "desc": {
+    "en": "Designated camping with exceptionally dark skies for stargazing.",
+    "ar": "تخييم في أماكن مخصصة تحت سماء شديدة الصفاء لرصد النجوم."
+   }
+  }
+ ],
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 50
+   }
+  ],
+  "usdPegged": true,
+  "usdAmount": 15,
+  "extras": [
+   {
+    "label": {
+     "en": "Overnight camping — Egyptian visitor",
+     "ar": "التخييم ليلًا — زائر مصري"
+    },
+    "audience": "egyptian",
+    "amount": 250
+   }
+  ],
+  "freeGroups": [
+   "Egyptian children under 12 with a guardian",
+   "Egyptians aged 60+",
+   "People with disabilities"
+  ],
+  "effectiveFrom": "2025-12-15"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 120,
+  "standardMinutes": 180,
+  "deepMinutes": 360,
+  "bestTime": {
+   "en": "October to April; start early or come for the late afternoon and sunset, as there is almost no shade.",
+   "ar": "من أكتوبر إلى أبريل، ويُفضّل البدء مبكرًا أو المجيء آخر النهار وقت الغروب، فالظل شبه معدوم."
+  },
+  "crowdNotes": {
+   "en": "The last stretch is a long unpaved desert track, so most visitors come with a four-wheel-drive and a local driver. Carry plenty of water and food; services are minimal. Camping for foreign visitors is charged at USD 25 per person. The road passes through Wadi El Rayan, which has its own protected-area fee.",
+   "ar": "الجزء الأخير من الطريق مدق صحراوي طويل غير ممهد، لذا يأتي معظم الزوار بسيارة دفع رباعي مع سائق محلي. احمل كمية وافرة من الماء والطعام، فالخدمات محدودة جدًا. ويبلغ رسم التخييم للزائر الأجنبي 25 دولارًا للفرد. ويمر الطريق بمحمية وادي الريان التي لها رسم دخول خاص بها."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Emergent_Whale_Skeleton_in_Wadi_Al-Hitan.jpg",
+   "author": "Tom Horton from Shanghai, China",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emergent_Whale_Skeleton_in_Wadi_Al-Hitan.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Fossil_Mangrove_Roots%2C_Wadi_Hitan.jpg",
+   "author": "Tom Horton from Shanghai, China",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fossil_Mangrove_Roots,_Wadi_Hitan.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rockforms_at_Wadi_Hitan.jpg",
+   "author": "Tom Horton from Shanghai, China",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rockforms_at_Wadi_Hitan.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Wadi_al_Hitan",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%88%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%AD%D9%8A%D8%AA%D8%A7%D9%86",
+  "osm": "way/219496480"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q501833",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,freeGroups,effectiveFrom (Ministerial Decision 360 of 2025, effective 2025-12-15)",
+   "url": "https://www.eeaa.gov.eg/Uploads/Topics/Files/20260706105114456.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (EEAA protected-area fees page; HTML table still shows pre-decree figures)",
+   "url": "https://www.eeaa.gov.eg/Topics/85/36/66/Details",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (report of the Dec 2025 decree)",
+   "url": "https://www.elbalad.news/6804192",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (report of the Dec 2025 decree)",
+   "url": "https://www.alnaharegypt.com/1156524",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,status (World Heritage listing)",
+   "url": "https://whc.unesco.org/en/list/1186",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Wadi_al_Hitan",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Emergent_Whale_Skeleton_in_Wadi_Al-Hitan.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Fossil_Mangrove_Roots,_Wadi_Hitan.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Rockforms_at_Wadi_Hitan.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Run by the Ministry of Environment (EEAA, Nature Conservation Sector); operator kept as 'other' (no environment value in the enum). Fees from Ministerial Decision 360 of 2025 (issued 2025-12-02, effective 2025-12-15): Egyptians EGP 50, foreigners USD 15 charged in EGP at the CBE daily rate (modelled as usdPegged + usdAmount with no foreign EGP tier), camping EGP 250 / USD 25. The EEAA HTML fee table still shows the older 25 EGP / USD 10 - decree followed. Whether the Wadi El Rayan fee (EGP 25 / USD 10, car EGP 20) is also charged on the way is stated only by third parties - kept as general advice without amounts. No official opening hours found (older non-official sites say 08:00-17:00), so hours are omitted. The museum's separate fee (if any) not found. Photos: fossils and landscape only; the 2016 museum building is not used."
+}

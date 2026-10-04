@@ -1,0 +1,174 @@
+{
+ "id": "egyptian-geological-museum",
+ "kind": "museum",
+ "wikidataId": "Q5348411",
+ "name": {
+  "en": "Egyptian Geological Museum",
+  "ar": "المتحف الجيولوجي المصري"
+ },
+ "category": "science-natural",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Athar El-Nabi, Maadi Corniche",
+  "ar": "أثر النبي، كورنيش المعادي"
+ },
+ "address": {
+  "en": "Nile Corniche, Athar El-Nabi, Maadi, Cairo — near Al-Zahraa metro station (Line 1)",
+  "ar": "كورنيش النيل، أثر النبي، المعادي، القاهرة — بالقرب من محطة مترو الزهراء (الخط الأول)"
+ },
+ "lat": 29.9963,
+ "lng": 31.2286,
+ "status": "open",
+ "statusNote": {
+  "en": "Run by the Egyptian Mineral Resources Authority. Opening days and hours are not published officially, so call ahead or check locally before visiting.",
+  "ar": "تديره الهيئة المصرية العامة للثروة المعدنية. ولا تُنشر أيام العمل ومواعيده رسميًا، لذا يُنصح بالاستفسار قبل الزيارة."
+ },
+ "summary": {
+  "en": "Africa's first geological museum, founded in 1901, with Fayum fossil mammals, early whales, dinosaur bones, gemstones and a meteorite from Mars.",
+  "ar": "أول متحف جيولوجي في إفريقيا، أُسس عام 1901، ويضم حفريات ثدييات الفيوم والحيتان البدائية وعظام الديناصورات والأحجار الكريمة ونيزكًا قادمًا من المريخ."
+ },
+ "description": {
+  "en": "Founded in 1901 as part of the Geological Survey of Egypt, this was the first museum of its kind in the Middle East and Africa. It first opened to the public in 1904 in a Greco-Roman style building in the gardens of the Ministry of Public Works downtown, designed by Marcel Dourgnon, the architect of the Egyptian Museum. When that building was demolished in 1982 to make way for the Cairo Metro, the collections moved to the present site on the Nile Corniche at Athar El-Nabi, near Maadi. The museum is run today by the Egyptian Mineral Resources Authority and also serves researchers, with a library whose references go back to 1778 and laboratories for minerals, rocks and fossils. Its best-known treasures are the fossil vertebrates of the Fayum, collected from 1898 onward north of Lake Qarun, including the horned Arsinoitherium, early elephant relatives and primitive whales from Wadi al-Hitan. Other galleries show dinosaur bones from the Bahariya Oasis, minerals and ores from across Egypt, gemstones and amber once owned by the royal family, and meteorites, among them fragments of Gebel Kamil and the famous Nakhla meteorite, one of the few known rocks from Mars.",
+  "ar": "أُسس هذا المتحف عام 1901 تابعًا لمصلحة المساحة الجيولوجية المصرية، فكان الأول من نوعه في الشرق الأوسط وإفريقيا. وقد فتح أبوابه للجمهور أول مرة عام 1904 في مبنى على الطراز اليوناني الروماني بحديقة وزارة الأشغال العمومية في وسط القاهرة، من تصميم مارسيل دورنون معماري المتحف المصري. وحين هُدم ذلك المبنى عام 1982 لإفساح الطريق لمترو الأنفاق، نُقلت المجموعات إلى الموقع الحالي على كورنيش النيل في أثر النبي بالقرب من المعادي. وتديره اليوم الهيئة المصرية العامة للثروة المعدنية، ويخدم الباحثين أيضًا بمكتبة تعود مراجعها إلى عام 1778 ومعامل لدراسة المعادن والصخور والحفريات. وأشهر كنوزه حفريات الفقاريات من الفيوم، التي جُمعت منذ عام 1898 شمال بحيرة قارون، ومنها حيوان الأرسينوثيريوم ذو القرنين وأسلاف الفيلة والحيتان البدائية من وادي الحيتان. وتعرض قاعات أخرى عظام ديناصورات من الواحات البحرية، ومعادن وخامات من أنحاء مصر، وأحجارًا كريمة وكهرمانًا كانت مملوكة للأسرة المالكة، إضافة إلى النيازك، ومنها شظايا نيزك جبل كامل ونيزك النخيلة الشهير، وهو من الصخور القليلة المعروفة القادمة من المريخ."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Fayum fossil mammals",
+    "ar": "ثدييات الفيوم المتحجرة"
+   },
+   "desc": {
+    "en": "Arsinoitherium, early relatives of the elephant and other mammals from north of Lake Qarun.",
+    "ar": "حيوان الأرسينوثيريوم وأسلاف الفيلة وثدييات أخرى من شمال بحيرة قارون."
+   }
+  },
+  {
+   "title": {
+    "en": "Early whales",
+    "ar": "الحيتان البدائية"
+   },
+   "desc": {
+    "en": "Fossil skulls and skeletons of early whales from the Fayum, including Basilosaurus.",
+    "ar": "جماجم وهياكل متحجرة لحيتان بدائية من الفيوم، منها الباسيلوسورس."
+   }
+  },
+  {
+   "title": {
+    "en": "Bahariya dinosaurs",
+    "ar": "ديناصورات الواحات البحرية"
+   },
+   "desc": {
+    "en": "Bones of Paralititan, a giant plant-eating dinosaur from the Bahariya Oasis.",
+    "ar": "عظام البارالايتيتان، الديناصور العملاق آكل الأعشاب من الواحات البحرية."
+   }
+  },
+  {
+   "title": {
+    "en": "Martian meteorite",
+    "ar": "نيزك المريخ"
+   },
+   "desc": {
+    "en": "Fragments of the Nakhla meteorite, one of the few rocks known to come from Mars.",
+    "ar": "شظايا نيزك النخيلة، من الصخور القليلة المعروفة القادمة من المريخ."
+   }
+  },
+  {
+   "title": {
+    "en": "Minerals and gems hall",
+    "ar": "قاعة المعادن والأحجار الكريمة"
+   },
+   "desc": {
+    "en": "Egyptian minerals and ores, plus gemstones and amber from the former royal collection.",
+    "ar": "معادن وخامات مصرية، إلى جانب أحجار كريمة وكهرمان من مقتنيات الأسرة المالكة السابقة."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Weekday mornings; the metro to Al-Zahraa station is the easiest way to arrive.",
+   "ar": "صباح أيام الأسبوع، والمترو إلى محطة الزهراء أيسر وسيلة للوصول."
+  },
+  "crowdNotes": {
+   "en": "Usually quiet apart from school and university groups.",
+   "ar": "هادئ عادة باستثناء رحلات المدارس والجامعات."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Arsinoitherium_by_Hatem_Moushir_1.JPG",
+   "author": "Hatem Moushir",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arsinoitherium_by_Hatem_Moushir_1.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Basilosaurus_isis_by_Hatem_Moushir_1.JPG",
+   "author": "Hatem Moushir",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilosaurus_isis_by_Hatem_Moushir_1.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Paralititan_stromeri_by_Hatem_Moushir_1.JPG",
+   "author": "Hatem Moushir",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paralititan_stromeri_by_Hatem_Moushir_1.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Egyptian_Geological_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%AC%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A",
+  "osm": "node/432875456"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q5348411",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights,operator (Egyptian Mineral Resources Authority museum page)",
+   "url": "https://emra.gov.eg/about-the-museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (Nile-front asset inventory, no tender yet)",
+   "url": "https://www.elbalad.news/7124445",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Egyptian_Geological_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "low",
+ "curationNote": "No official hours or prices found (EMRA page has none). Third-party listing (cairo360, Aug 2025) gives 09:00-15:00, closed Fri and Sat, EGP 25 - not used. Status assumed open: EMRA live page describes the museum in the present tense; no closure found. The riverside plot is on the Urban Development Fund's inventory of Nile-front state assets (Dec 2025; fund said 2026-09-29 that no offering or tender has started) - keep watching for relocation. Nakhla fall year conflicts (EMRA 1908 vs Wikipedia 1911), so no year is given. Address \"Zahraa El Maadi\" on the EMRA page; coordinates and EMRA history text place it at Athar El-Nabi on the Corniche."
+}

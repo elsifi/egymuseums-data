@@ -1,0 +1,337 @@
+{
+ "id": "rosetta-historic-houses",
+ "kind": "site",
+ "wikidataId": "Q243699",
+ "name": {
+  "en": "Rosetta (Rashid) Islamic monuments",
+  "ar": "آثار مدينة رشيد"
+ },
+ "aliases": [
+  "Rashid",
+  "تصنيف:رشيد",
+  "مدينة رشيد",
+  "Bolbitine",
+  "Bolbythia",
+  "Rosetta, Egypt",
+  "Rosetta",
+  "رشيد"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "beheira",
+ "city": {
+  "en": "Rosetta (Rashid)",
+  "ar": "رشيد"
+ },
+ "area": {
+  "en": "Historic centre (Dahliz al-Mulk and Sheikh Qandil streets)",
+  "ar": "وسط المدينة التاريخي (شارعا دهليز الملك والشيخ قنديل)"
+ },
+ "address": {
+  "en": "Historic centre of Rosetta (Rashid), Beheira Governorate; the Amasyali House is on Othman Agha Street",
+  "ar": "وسط مدينة رشيد التاريخي، محافظة البحيرة؛ ويقع منزل الأمصيلي في شارع عثمان أغا"
+ },
+ "lat": 31.401389,
+ "lng": 30.419444,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. A national restoration and street-improvement programme was under way in 2026, so individual houses may close temporarily.",
+  "ar": "مفتوح يوميًا. وكان مشروع قومي للترميم وتطوير الشوارع جاريًا في عام 2026، لذا قد تُغلق بعض المنازل مؤقتًا."
+ },
+ "summary": {
+  "en": "Egypt's largest group of Islamic-era monuments outside Cairo: Ottoman brick houses, mosques and a mill in the Nile port of Rosetta.",
+  "ar": "أكبر تجمع للآثار الإسلامية في مصر بعد القاهرة: منازل عثمانية من الطوب ومساجد وطاحونة في ميناء رشيد النيلي."
+ },
+ "description": {
+  "en": "Rosetta, Rashid in Arabic, lies where the western branch of the Nile meets the Mediterranean and flourished as a port in Ottoman times, before Alexandria revived under Muhammad Ali. Its merchants left an exceptional townscape: around twenty historic houses together with mosques, baths and a mill, concentrated along Dahliz al-Mulk and Sheikh Qandil streets. The houses are built of thin red and black bricks laid in decorative bands, with overhanging upper floors, carved wooden mashrabiyas and inscribed lintels. The best known, the Amasyali House of 1808, has richly panelled reception rooms, a private bath with coloured-glass skylights and a revolving cupboard set into the wall through which servants passed food between rooms. It adjoins the Abu Shahin mill, where animals turned great wooden gears to grind grain. The Zaghloul Mosque, one of the town's oldest and largest, is where local resistance to the British Fraser expedition of 1807 began. About six kilometres north stands the Qaitbay fort, near which the Rosetta Stone was found in 1799. A programme launched in 2026 is restoring houses and turning the historic core into a pedestrian open-air museum.",
+  "ar": "تقع رشيد حيث يلتقي فرع النيل الغربي بالبحر المتوسط، وقد ازدهرت ميناءً في العصر العثماني قبل أن تنهض الإسكندرية من جديد في عهد محمد علي. وترك تجارها نسيجًا عمرانيًا استثنائيًا: نحو عشرين منزلًا أثريًا إلى جانب مساجد وحمامات وطاحونة، تتركز في شارعي دهليز الملك والشيخ قنديل. بُنيت المنازل بطوب رقيق أحمر وأسود مرصوص في أشرطة زخرفية، بطوابق علوية بارزة ومشربيات خشبية منحوتة وأعتاب تحمل كتابات. وأشهرها منزل الأمصيلي الذي شُيد عام 1808، وفيه قاعات استقبال مكسوة بالخشب الفاخر، وحمام خاص تعلوه فتحات بزجاج ملون، ودولاب دوّار مثبت في الجدار كان الخدم يمررون عبره الطعام بين الغرف. ويتصل به طاحونة أبو شاهين حيث كانت الدواب تدير تروسًا خشبية ضخمة لطحن الغلال. أما مسجد زغلول، من أقدم مساجد المدينة وأكبرها، فمنه انطلقت المقاومة الشعبية ضد حملة فريزر الإنجليزية عام 1807. وعلى بعد نحو ستة كيلومترات شمالًا تقوم قلعة قايتباي التي عُثر بقربها على حجر رشيد عام 1799. ويعمل مشروع انطلق في عام 2026 على ترميم المنازل وتحويل قلب المدينة التاريخي إلى متحف مفتوح مخصص للمشاة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Amasyali House",
+    "ar": "منزل الأمصيلي"
+   },
+   "desc": {
+    "en": "An 1808 merchant house with panelled rooms, a private bath and a revolving serving cupboard.",
+    "ar": "منزل تاجر من عام 1808 بقاعات مكسوة بالخشب وحمام خاص ودولاب دوّار لتقديم الطعام."
+   }
+  },
+  {
+   "title": {
+    "en": "Abu Shahin mill",
+    "ar": "طاحونة أبو شاهين"
+   },
+   "desc": {
+    "en": "An animal-powered grain mill with its great wooden gears intact.",
+    "ar": "طاحونة غلال كانت تديرها الدواب، ولا تزال تروسها الخشبية الضخمة قائمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Rashidi brick façades",
+    "ar": "واجهات الطوب الرشيدي"
+   },
+   "desc": {
+    "en": "Red and black brickwork, overhanging storeys and wooden mashrabiyas.",
+    "ar": "طوب أحمر وأسود وطوابق بارزة ومشربيات خشبية."
+   }
+  },
+  {
+   "title": {
+    "en": "Zaghloul Mosque",
+    "ar": "مسجد زغلول"
+   },
+   "desc": {
+    "en": "One of the town's largest mosques, where the 1807 resistance began.",
+    "ar": "من أكبر مساجد المدينة، ومنه انطلقت مقاومة عام 1807."
+   }
+  },
+  {
+   "title": {
+    "en": "Qaitbay fort",
+    "ar": "قلعة قايتباي"
+   },
+   "desc": {
+    "en": "A 15th-century Mamluk fort north of town, near where the Rosetta Stone was found.",
+    "ar": "قلعة مملوكية من القرن الخامس عشر شمال المدينة، عُثر بقربها على حجر رشيد."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/RosettaCityMonuments",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 90,
+  "standardMinutes": 180,
+  "deepMinutes": 300,
+  "bestTime": {
+   "en": "A full morning; start early, as the houses close in mid-afternoon.",
+   "ar": "صباح كامل، مع البدء مبكرًا لأن المنازل تغلق في منتصف العصر."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded. The houses are scattered through busy market streets, some of which are being repaved in 2026. The Qaitbay fort lies about 6 km north of town and may need a separate ticket.",
+   "ar": "نادرًا ما يزدحم. تتوزع المنازل بين شوارع أسواق مزدحمة يُعاد رصف بعضها في 2026. وتقع قلعة قايتباي على بعد نحو 6 كم شمال المدينة وقد تتطلب تذكرة منفصلة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/RashidAmsil.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:RashidAmsil.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/RashidAbuShahinMill.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:RashidAbuShahinMill.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Citadel_of_Qaitbay%2C_Rosetta%2C_Egypt_46.jpg",
+   "author": "لا روسا",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Citadel_of_Qaitbay,_Rosetta,_Egypt_46.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Rosetta",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B1%D8%B4%D9%8A%D8%AF",
+  "osm": null
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q243699",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry, Ramadan),prices,freeGroups,tickets (official MoTA booking page 'Rosetta City Monuments')",
+   "url": "https://egymonuments.com/details/RosettaCityMonuments",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices (cross-check: Rosetta City Monuments 08:30-16:00, 120/60, 10/5; Qaitbay Citadel in Rosetta listed separately)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Amasyali House 09:00-17:00),description,highlights",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D9%86%D8%B2%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%B5%D9%8A%D9%84%D9%8A-%D9%88%D8%B7%D8%A7%D8%AD%D9%88%D9%86%D8%A9-%D8%A3%D8%A8%D9%88-%D8%B4%D8%A7%D9%87%D9%8A%D9%86/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (Zaghloul Mosque)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D8%B3%D8%AC%D8%AF-%D8%B2%D8%BA%D9%84%D9%88%D9%84/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (Qaitbay fort, Rosetta)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%82%D9%84%D8%B9%D8%A9-%D9%82%D8%A7%D9%8A%D8%AA%D8%A8%D8%A7%D9%8A-%D8%A8%D8%B1%D8%B4%D9%8A%D8%AF/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "statusNote,description (2026 revival programme, pedestrian streets)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2026/6/13/3002207/%D9%85%D8%AF%D8%A8%D9%88%D9%84%D9%8A-%D9%8A%D8%AA%D9%81%D9%82%D8%AF-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%82%D9%84%D8%A8-%D8%B1%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%88%D8%A5%D8%AD%D9%8A%D8%A7%D8%A1-%D9%85%D9%86%D8%B2%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D8%B5%D9%8A%D9%84%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB%D9%8A",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Rosetta",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Hours: booking page and Nov 2024 list give 08:30 opening and 16:00 closing (last entry 15:00); MoTA's guide gives the Amasyali House 09:00-17:00. The earlier closing was kept (D3). Which houses the 'Rosetta City Monuments' ticket covers is not stated officially. The Qaitbay fort in Rosetta had its own ticket on the Nov 2024 list (no 2025-26 source), so it is not priced here. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

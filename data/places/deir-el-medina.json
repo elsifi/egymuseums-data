@@ -1,0 +1,418 @@
+{
+ "id": "deir-el-medina",
+ "kind": "site",
+ "wikidataId": "Q750212",
+ "name": {
+  "en": "Deir el-Medina",
+  "ar": "دير المدينة"
+ },
+ "aliases": [
+  "Set Maat",
+  "Valley of the Artisans"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor (West Bank)",
+  "ar": "الأقصر (البر الغربي)"
+ },
+ "area": {
+  "en": "West Bank, Qurna (between the Ramesseum and the Valley of the Queens)",
+  "ar": "البر الغربي، القرنة (بين الرامسيوم ووادي الملكات)"
+ },
+ "address": {
+  "en": "Deir el-Medina, Qurna, West Bank, Luxor",
+  "ar": "دير المدينة، القرنة، البر الغربي، الأقصر"
+ },
+ "lat": 25.728333,
+ "lng": 32.601389,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The main ticket covers the village, the Hathor temple and the open workmen’s tombs; the tomb of Pashedu needs an extra ticket.",
+  "ar": "مفتوح يوميًا. تشمل التذكرة الرئيسية القرية ومعبد حتحور ومقابر العمال المفتوحة، أما مقبرة باشدو فتتطلب تذكرة إضافية."
+ },
+ "summary": {
+  "en": "The village of the craftsmen who cut and painted the royal tombs, with their own small, brilliantly coloured tombs on the hillside.",
+  "ar": "قرية الحرفيين الذين نحتوا المقابر الملكية وزيّنوها، وعلى سفح التل مقابرهم الصغيرة ذات الألوان الزاهية."
+ },
+ "description": {
+  "en": "For about four centuries of the New Kingdom, the men who carved and painted the tombs in the Valley of the Kings lived with their families in this walled village tucked into a desert hollow. The ancient Egyptians called it Set Maat, the Place of Truth. The stone footings of some seventy houses still line its single main street, and the thousands of inscribed potsherds and papyri found here record wages, loans, court cases, love poems and even the first known labour strike, in the reign of Ramesses III, making it one of the best-documented communities of the ancient world. On the slope above, the workmen built tombs for themselves, topped by small pyramids, and decorated them with the same skill they used for their kings. The burial chambers are small, but their colours are astonishingly fresh, with scenes of the afterlife, family portraits and the fields of paradise. Several tombs open in rotation; the tomb of Pashedu has its own ticket. At the north end stands a well-preserved Ptolemaic temple of Hathor, later used as a monastery, which gave the site its Arabic name.",
+  "ar": "على مدى نحو أربعة قرون من عصر الدولة الحديثة، عاش الرجال الذين نحتوا مقابر وادي الملوك ولوّنوها مع أسرهم في هذه القرية المسوّرة القابعة في تجويف صحراوي. وقد سماها المصريون القدماء «ست ماعت» أي مكان الحق. ولا تزال أساسات نحو سبعين بيتًا من الحجر تصطف على جانبي شارعها الرئيسي الوحيد، بينما سجّلت آلاف الكسرات الفخارية والبرديات المكتوبة التي عُثر عليها هنا الأجور والديون والقضايا وقصائد الحب، بل أول إضراب عمالي معروف في عهد رمسيس الثالث، فصارت من أوفر مجتمعات العالم القديم توثيقًا. وعلى المنحدر المطل بنى العمال مقابرهم الخاصة تعلوها أهرامات صغيرة، وزيّنوها بالمهارة نفسها التي أبدعوا بها مقابر ملوكهم. حجرات الدفن صغيرة، لكن ألوانها نضرة على نحو مدهش، بمناظر للعالم الآخر وصور عائلية وحقول الجنة. وتُفتح عدة مقابر بالتناوب، ولمقبرة باشدو تذكرة خاصة. وفي الطرف الشمالي يقوم معبد بطلمي لحتحور في حالة جيدة، تحوّل لاحقًا إلى دير، ومنه اشتُق اسم الموقع العربي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Workmen's village",
+    "ar": "قرية العمال"
+   },
+   "desc": {
+    "en": "Stone footings of about seventy houses along a single street.",
+    "ar": "أساسات نحو سبعين بيتًا من الحجر على امتداد شارع واحد."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Pashedu (TT3)",
+    "ar": "مقبرة باشدو"
+   },
+   "desc": {
+    "en": "A small painted burial chamber with a famous scene of Pashedu drinking beneath a palm (extra ticket).",
+    "ar": "حجرة دفن صغيرة ملونة يشتهر فيها منظر باشدو يشرب تحت نخلة (بتذكرة إضافية)."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Inherkhau (TT359)",
+    "ar": "مقبرة إن حر خاو"
+   },
+   "desc": {
+    "en": "Vivid Ramesside scenes of the afterlife painted for a foreman of the royal tomb-builders.",
+    "ar": "مناظر رعمسيسية زاهية للعالم الآخر رُسمت لرئيس عمال المقابر الملكية."
+   }
+  },
+  {
+   "title": {
+    "en": "Ptolemaic temple of Hathor",
+    "ar": "معبد حتحور البطلمي"
+   },
+   "desc": {
+    "en": "A compact, well-preserved temple later used as a Coptic monastery.",
+    "ar": "معبد صغير محفوظ جيدًا استُخدم لاحقًا ديرًا قبطيًا."
+   }
+  },
+  {
+   "title": {
+    "en": "Pyramid-topped tomb chapels",
+    "ar": "مقاصير المقابر الهرمية"
+   },
+   "desc": {
+    "en": "Small mud-brick pyramids that once crowned the workmen’s tombs.",
+    "ar": "أهرامات صغيرة من الطوب اللبن كانت تعلو مقابر العمال."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Tomb of Pashedu (TT3) — foreign adult",
+     "ar": "مقبرة باشدو — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "label": {
+     "en": "Tomb of Pashedu (TT3) — foreign student",
+     "ar": "مقبرة باشدو — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "label": {
+     "en": "Tomb of Pashedu (TT3) — Egyptian adult",
+     "ar": "مقبرة باشدو — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "Tomb of Pashedu (TT3) — Egyptian student",
+     "ar": "مقبرة باشدو — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "label": {
+     "en": "Parking: car or taxi",
+     "ar": "انتظار السيارات: ملاكي أو تاكسي"
+    },
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Parking: microbus",
+     "ar": "انتظار السيارات: ميكروباص"
+    },
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Parking: coaster",
+     "ar": "انتظار السيارات: كوستر"
+    },
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Parking: bus",
+     "ar": "انتظار السيارات: أتوبيس"
+    },
+    "amount": 100
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/DeirElMadinaTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Early morning or mid-afternoon, combined with the Valley of the Queens or Medinet Habu nearby.",
+   "ar": "الصباح الباكر أو منتصف العصر، مع زيارة وادي الملكات أو مدينة هابو القريبين."
+  },
+  "crowdNotes": {
+   "en": "Much quieter than the Valley of the Kings. The tombs are reached by steep, narrow stairs and some passages are low; only small numbers can enter a chamber at once.",
+   "ar": "أهدأ كثيرًا من وادي الملوك. ويُنزل إلى المقابر عبر سلالم ضيقة شديدة الانحدار وبعض الممرات منخفضة، ولا تتسع الحجرة إلا لعدد قليل من الزوار في المرة الواحدة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Deir_el-Medina_01.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deir_el-Medina_01.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Temple_of_Deir_el-Medina_04.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_Deir_el-Medina_04.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Tomb_of_Pashedu_DSCF3642.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomb_of_Pashedu_DSCF3642.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Deir_el-Medina",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9",
+  "osm": "way/89828313"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q750212",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry, seasons),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/DeirElMadinaTemple",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras (Pashedu, parking) (booking page)",
+   "url": "https://egymonuments.com/book-date/12",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (06:00-17:00),address,description (Sennedjem, Pashedu, Hathor temple)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/دير-المدينة/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (open tombs: Inherkhau, Amennakht family, Pashedu; Aug 2026, non-official)",
+   "url": "https://monkeystale.ca/africa/egypt/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (facts cross-checked; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Deir_el-Medina",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Deir_el-Medina_01.JPG",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Temple_of_Deir_el-Medina_04.JPG",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Tomb_of_Pashedu_DSCF3642.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Winter (standard) hours 06:00-17:00 with last entry 16:00 (MoTA guide closing 17:00 + one-hour rule; booking platform winter last entry 16:00). Summer 2026: 06:00-18:00 for the Qurna (West Bank) zone per the 24 Apr 2026 announcement, last entry 17:00 per booking platform. Conflict: the booking platform shows last entry 17:00 in every season (winter and Ramadan included), which equals the MoTA closing time; the earlier 16:00 is used for winter and Ramadan (D3 rule). Open tombs rotate: a non-official Aug 2026 report lists Inherkhau (TT359), the Amennakht family tomb (TT218-220) and Pashedu (TT3); Sennedjem (TT1), named in the MoTA guide, was not confirmed open, so it is not a highlight. City overridden from the seed's 'Qurnah District' to 'Luxor (West Bank)'. Summer 2026 exception (2026-04-24 to 2026-10-29) follows the Luxor antiquities summer schedule (daylight-saving period, until the last Thursday of October); the winter 2026-27 schedule had not been announced on 2026-10-04 - recheck after 29 Oct 2026. Summer exception ends 2026-10-29, the last day of daylight-saving time (batch-7 Q7a, applied 2026-10-04 to every summer exception). Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
+}

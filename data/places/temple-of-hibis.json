@@ -1,0 +1,346 @@
+{
+ "id": "temple-of-hibis",
+ "kind": "site",
+ "wikidataId": "Q4115642",
+ "name": {
+  "en": "Temple of Hibis",
+  "ar": "معبد هيبس"
+ },
+ "aliases": [
+  "معبدهيبس",
+  "Temple of Hibis, Kharga"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "new-valley",
+ "city": {
+  "en": "Kharga",
+  "ar": "الخارجة"
+ },
+ "area": {
+  "en": "About 3 km north of Kharga town",
+  "ar": "على بعد نحو 3 كم شمال مدينة الخارجة"
+ },
+ "address": {
+  "en": "Hibis, north of Kharga town, Kharga Oasis, New Valley Governorate",
+  "ar": "هيبس، شمال مدينة الخارجة، الواحات الخارجة، محافظة الوادي الجديد"
+ },
+ "lat": 25.476806,
+ "lng": 30.556042,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Reopened in 2015 after a long restoration that stabilised the temple in place.",
+  "ar": "مفتوح يوميًا. أعيد افتتاحه عام 2015 بعد ترميم طويل ثبّت المعبد في موضعه."
+ },
+ "summary": {
+  "en": "The best-preserved temple of Egypt's Persian period, decorated in the name of Darius I and set among palms just outside Kharga.",
+  "ar": "أفضل معابد العصر الفارسي في مصر حفظًا، زُيّن باسم دارا الأول ويقع بين النخيل خارج الخارجة مباشرة."
+ },
+ "description": {
+  "en": "Hibis, the ancient capital of the Kharga Oasis, has left one remarkable monument: a sandstone temple to Amun that is the most complete surviving temple from the Saite and Persian periods in Egypt. Work began under the Twenty-sixth Dynasty, but most of the decoration was carved in the name of the Persian king Darius I, who appears in the reliefs as a traditional pharaoh making offerings to the gods. Later rulers of the Thirtieth Dynasty and the Ptolemaic and Roman periods added gateways and a portico. The temple honours the Theban triad of Amun, Mut and Khonsu, as well as Osiris, Isis and Horus, and its walls hold an unusually rich gallery of deities, among them a rare image of a winged Seth spearing the serpent Apophis. Visitors approach through a series of gates along a processional way, one of which carries a long Greek edict issued by a Roman prefect in the first century AD, before entering the columned halls. Rising groundwater once threatened the foundations; a restoration programme completed in 2015 stabilised the building where it stands.",
+  "ar": "خلّفت هيبس، عاصمة الواحات الخارجة قديمًا، أثرًا فريدًا: معبدًا من الحجر الرملي لآمون هو أكمل ما بقي من معابد العصرين الصاوي والفارسي في مصر. بدأ بناؤه في عصر الأسرة السادسة والعشرين، لكن معظم نقوشه نُفذت باسم الملك الفارسي دارا الأول، الذي يظهر في المناظر فرعونًا تقليديًا يقدم القرابين للآلهة. ثم أضاف ملوك الأسرة الثلاثين والعصرين البطلمي والروماني بوابات ورواقًا أماميًا. وقد كُرس المعبد لثالوث طيبة آمون وموت وخونسو، وكذلك لأوزير وإيزيس وحورس، وتضم جدرانه مجموعة ثرية على نحو غير مألوف من صور المعبودات، منها منظر نادر لست المجنح يطعن الثعبان أبوفيس. ويصل الزائر إلى القاعات ذات الأعمدة عبر سلسلة من البوابات على طريق المواكب، تحمل إحداها مرسومًا يونانيًا طويلًا أصدره والٍ روماني في القرن الأول الميلادي. وقد هددت المياه الجوفية المرتفعة أساسات المعبد زمنًا، إلى أن ثبّته مشروع ترميم اكتمل عام 2015 في موضعه."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Reliefs of Darius I",
+    "ar": "نقوش دارا الأول"
+   },
+   "desc": {
+    "en": "The Persian king shown as a pharaoh offering to Egyptian gods.",
+    "ar": "الملك الفارسي مصورًا فرعونًا يقدم القرابين للآلهة المصرية."
+   }
+  },
+  {
+   "title": {
+    "en": "Winged Seth and Apophis",
+    "ar": "ست المجنح وأبوفيس"
+   },
+   "desc": {
+    "en": "A rare scene of Seth spearing the chaos serpent.",
+    "ar": "منظر نادر لست وهو يطعن ثعبان الفوضى."
+   }
+  },
+  {
+   "title": {
+    "en": "Processional gateways",
+    "ar": "بوابات طريق المواكب"
+   },
+   "desc": {
+    "en": "A sequence of gates added from the Persian to the Roman period.",
+    "ar": "سلسلة بوابات أضيفت من العصر الفارسي حتى العصر الروماني."
+   }
+  },
+  {
+   "title": {
+    "en": "Greek edict on the gateway",
+    "ar": "المرسوم اليوناني على البوابة"
+   },
+   "desc": {
+    "en": "A long first-century AD decree by a Roman prefect carved in stone.",
+    "ar": "مرسوم طويل من القرن الأول الميلادي لوالٍ روماني منقوش على الحجر."
+   }
+  },
+  {
+   "title": {
+    "en": "Hypostyle hall",
+    "ar": "صالة الأعمدة"
+   },
+   "desc": {
+    "en": "Papyrus-form columns supporting the inner halls.",
+    "ar": "أعمدة على هيئة البردي تحمل القاعات الداخلية."
+   }
+  },
+  {
+   "title": {
+    "en": "Gallery of deities",
+    "ar": "حشد المعبودات"
+   },
+   "desc": {
+    "en": "Wall registers crowded with hundreds of gods of Egypt's nomes.",
+    "ar": "صفوف على الجدران تزدحم بمئات من معبودات أقاليم مصر."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 180
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 90
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning light on the gateways; combine with Al-Bagawat nearby before the heat.",
+   "ar": "ضوء الصباح على البوابات، مع الجمع بينه وبين البجوات القريبة قبل اشتداد الحر."
+  },
+  "crowdNotes": {
+   "en": "Few visitors outside winter tour groups. Kharga is reached by road from Assiut or Luxor; the oasis towns and connecting roads are open to travellers, but check current arrangements with your hotel or driver.",
+   "ar": "قليل الزوار خارج مجموعات الشتاء السياحية. ويُوصل إلى الخارجة برًا من أسيوط أو الأقصر، والطرق بين الواحات مفتوحة للمسافرين، لكن تحقق من الترتيبات الحالية مع الفندق أو السائق."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/HibisGate3EastSide.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:HibisGate3EastSide.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/HibisGate3Dareios1AmunRaMut.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:HibisGate3Dareios1AmunRaMut.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/HibisGate3Dareios1OfferingMaat.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:HibisGate3Dareios1OfferingMaat.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Temple_of_Hibis",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D9%87%D9%8A%D8%A8%D8%B3",
+  "osm": "way/98894290"
+ },
+ "tier": "notable",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q4115642",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-هيبس/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: 180/90, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (checked: the 9 Jul 2026 SCA board decision raising prices from 1 Oct 2026 names only Bahariya Oasis sites; not applied here)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (reopened after restoration, 2015)",
+   "url": "https://www.arabcont.com/magala/details-923-5-3",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights,status (news 30 May 2025)",
+   "url": "https://www.masrawy.com/news/news_regions/details/2025/5/30/2796214/%D9%85%D8%B9%D8%A8%D8%AF-%D9%87%D9%8A%D8%A8%D8%B3-%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%D8%A2%D8%AE%D8%B1-%D9%86%D8%B3%D8%AE%D8%A9-%D9%85%D8%AA%D8%A8%D9%82%D9%8A%D8%A9-%D9%81%D9%89-%D9%85%D8%B5%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B5%D8%B1-%D8%A7%D9%84%D8%B5%D8%A7%D9%88%D9%8A-%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D8%B3%D9%8A",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "visit.crowdNotes (travel advice, updated 4 Aug 2026)",
+   "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Temple_of_Hibis",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:HibisGate3EastSide.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:HibisGate3Dareios1AmunRaMut.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:HibisGate3Dareios1OfferingMaat.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Prices only from the MoTA Nov 2024 list (no portal page, not on egymonuments.com); kept as confirmed (batch-7 Q4a, 2026-10-04): recheck when MoTA publishes a new ticket list. 9 Jul 2026 oasis decision covers Bahariya only: not applied. Reopening date: Arab Contractors magazine / masrawy 2025 report the opening by the minister on 29 Oct 2015. The Greek edict is that of the prefect Tiberius Julius Alexander (AD 68), per Wikipedia. Solar alignment in April/September (masrawy) not used. City set to 'Kharga' (seed: 'Kharga Oasis') to match al-bagawat. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced.",
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ }
+}
