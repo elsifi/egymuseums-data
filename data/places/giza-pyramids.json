@@ -1,0 +1,524 @@
+{
+ "id": "giza-pyramids",
+ "kind": "site",
+ "wikidataId": "Q12508",
+ "name": {
+  "en": "Giza Pyramids Plateau",
+  "ar": "منطقة أهرامات الجيزة"
+ },
+ "aliases": [
+  "Giza Pyramids",
+  "Giza pyramid complex",
+  "مجمع أهرامات الجيزة"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "giza",
+ "city": {
+  "en": "Giza",
+  "ar": "الجيزة"
+ },
+ "area": {
+  "en": "Giza Plateau, Al Haram (Nazlet El-Semman)",
+  "ar": "هضبة الجيزة، الهرم (نزلة السمان)"
+ },
+ "address": {
+  "en": "Giza Pyramids Plateau, Al Haram, Giza — main visitor entrance at the new visitor centre on the Fayoum road",
+  "ar": "هضبة أهرامات الجيزة، الهرم، الجيزة — المدخل الرئيسي للزوار عبر مركز الزوار الجديد على طريق الفيوم"
+ },
+ "lat": 29.976111,
+ "lng": 31.132778,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Since 2025 the main entrance is the new visitor centre on the Fayoum road; private cars and tour buses no longer drive across the plateau and electric shuttle buses link the stops. The plateau ticket excludes the interiors of the Great Pyramid and Khafre's pyramid, the tomb of Meresankh III and the Workers' Cemetery (separate tickets). Khufu's first boat was moved to the Grand Egyptian Museum. Tickets for the interior of Menkaure's pyramid are not offered online.",
+  "ar": "المنطقة مفتوحة يوميًا. منذ عام 2025 أصبح المدخل الرئيسي هو مركز الزوار الجديد على طريق الفيوم، فلم تعد السيارات الخاصة والحافلات السياحية تسير داخل الهضبة، وتربط حافلات كهربائية بين نقاط التوقف. ولا تشمل تذكرة الهضبة دخول الهرم الأكبر وهرم خفرع من الداخل، ولا مقبرة مرس عنخ الثالثة، ولا مقابر العمال (ولكل منها تذكرة منفصلة). وقد نُقلت مركب خوفو الأولى إلى المتحف المصري الكبير. ولا تُطرح عبر الإنترنت تذاكر لدخول هرم منكاورع من الداخل."
+ },
+ "summary": {
+  "en": "The three Fourth-Dynasty pyramids of Khufu, Khafre and Menkaure and the Great Sphinx, the last surviving wonder of the ancient world.",
+  "ar": "أهرامات خوفو وخفرع ومنكاورع من الأسرة الرابعة وتمثال أبي الهول، آخر عجائب الدنيا السبع القديمة الباقية."
+ },
+ "description": {
+  "en": "The Giza plateau on the western edge of Cairo holds the most famous monuments of the Old Kingdom: the pyramids of Khufu, Khafre and Menkaure, raised during the Fourth Dynasty some 4,500 years ago, together with their temples, causeways, small queens' pyramids and the cemeteries of officials who wished to lie near their kings. The Great Pyramid of Khufu, the largest of the three and the only survivor of the Seven Wonders of the ancient world, can be entered with a separate ticket that leads up the Grand Gallery to the granite King's Chamber. At the foot of the plateau the Great Sphinx, carved from the bedrock, lies beside Khafre's valley temple. Visitors can also enter Khafre's pyramid, the painted tomb of Queen Meresankh III and, in small groups, the tombs of the pyramid builders. Since 2025 the main gate has been a new visitor centre on the Fayoum road, with electric shuttle buses linking the viewpoints. Khufu's dismantled cedar boat, long shown beside the pyramid, is now in the Grand Egyptian Museum.",
+  "ar": "تضم هضبة الجيزة على الطرف الغربي للقاهرة أشهر آثار الدولة القديمة: أهرامات خوفو وخفرع ومنكاورع التي شُيّدت في عهد الأسرة الرابعة قبل نحو أربعة آلاف وخمسمئة عام، ومعها معابدها وطرقها الصاعدة وأهرامات الملكات الصغيرة، فضلًا عن جبانات كبار الموظفين الذين حرصوا على أن يُدفنوا قرب ملوكهم. والهرم الأكبر لخوفو هو أضخم الثلاثة وآخر ما بقي من عجائب الدنيا السبع القديمة، ويمكن دخوله بتذكرة منفصلة تقود عبر البهو الكبير إلى حجرة الملك المكسوة بالجرانيت. وعند سفح الهضبة يربض أبو الهول المنحوت في الصخر الطبيعي إلى جوار معبد الوادي لخفرع. ويتاح للزائر كذلك دخول هرم خفرع، ومقبرة الملكة مرس عنخ الثالثة بنقوشها الملونة، ومقابر العمال بناة الأهرام ضمن مجموعات صغيرة. ومنذ عام 2025 أصبح الدخول الرئيسي عبر مركز زوار جديد على طريق الفيوم، وتنقل حافلات كهربائية الزوار بين نقاط المشاهدة. أما مركب خوفو التي عُرضت طويلًا بجوار الهرم فقد نُقلت إلى المتحف المصري الكبير."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Great Pyramid of Khufu",
+    "ar": "الهرم الأكبر (خوفو)"
+   },
+   "desc": {
+    "en": "The largest pyramid; a separate ticket gives access to the Grand Gallery and King's Chamber.",
+    "ar": "أضخم الأهرامات، ويتيح تذكرة منفصلة دخول البهو الكبير وحجرة الملك."
+   }
+  },
+  {
+   "title": {
+    "en": "Great Sphinx and Khafre's valley temple",
+    "ar": "أبو الهول ومعبد الوادي لخفرع"
+   },
+   "desc": {
+    "en": "The lion-bodied guardian carved from bedrock beside a granite temple.",
+    "ar": "الحارس ذو جسد الأسد المنحوت في الصخر بجوار معبد من الجرانيت."
+   }
+  },
+  {
+   "title": {
+    "en": "Pyramid of Khafre",
+    "ar": "هرم خفرع"
+   },
+   "desc": {
+    "en": "Still capped with original casing stones near its summit; interior open with a separate ticket.",
+    "ar": "ما زالت قمته تحتفظ ببعض أحجار الكسوة الأصلية، ويمكن دخوله بتذكرة منفصلة."
+   }
+  },
+  {
+   "title": {
+    "en": "Pyramid of Menkaure and the queens' pyramids",
+    "ar": "هرم منكاورع وأهرامات الملكات"
+   },
+   "desc": {
+    "en": "The smallest of the three main pyramids with its satellite tombs.",
+    "ar": "أصغر الأهرامات الثلاثة الكبرى ومعه أهراماته الصغيرة التابعة."
+   }
+  },
+  {
+   "title": {
+    "en": "Panorama viewpoint",
+    "ar": "نقطة البانوراما"
+   },
+   "desc": {
+    "en": "The classic view of all three pyramids from the desert to the south-west.",
+    "ar": "المشهد الشهير للأهرامات الثلاثة معًا من الصحراء جنوب غرب الهضبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Queen Meresankh III",
+    "ar": "مقبرة الملكة مرس عنخ الثالثة"
+   },
+   "desc": {
+    "en": "A rock-cut chapel with unusually well-preserved painted reliefs (separate ticket).",
+    "ar": "مقصورة منحوتة في الصخر بنقوش ملونة محفوظة على نحو لافت (بتذكرة منفصلة)."
+   }
+  },
+  {
+   "title": {
+    "en": "Workers' Cemetery",
+    "ar": "مقابر العمال"
+   },
+   "desc": {
+    "en": "The tombs of the builders of the pyramids, visited in groups of at least five (separate ticket).",
+    "ar": "مقابر بناة الأهرام، وتُزار في مجموعات لا تقل عن خمسة أفراد (بتذكرة منفصلة)."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 30
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 700
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 350
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Great Pyramid (Khufu) interior — foreign adult",
+     "ar": "دخول الهرم الأكبر (خوفو) — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 1500
+   },
+   {
+    "label": {
+     "en": "Great Pyramid (Khufu) interior — foreign student",
+     "ar": "دخول الهرم الأكبر (خوفو) — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 750
+   },
+   {
+    "label": {
+     "en": "Great Pyramid (Khufu) interior — Egyptian adult",
+     "ar": "دخول الهرم الأكبر (خوفو) — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "label": {
+     "en": "Great Pyramid (Khufu) interior — Egyptian student",
+     "ar": "دخول الهرم الأكبر (خوفو) — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Pyramid of Khafre interior — foreign adult",
+     "ar": "دخول هرم خفرع — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 280
+   },
+   {
+    "label": {
+     "en": "Pyramid of Khafre interior — foreign student",
+     "ar": "دخول هرم خفرع — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 140
+   },
+   {
+    "label": {
+     "en": "Pyramid of Khafre interior — Egyptian adult",
+     "ar": "دخول هرم خفرع — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "label": {
+     "en": "Pyramid of Khafre interior — Egyptian student",
+     "ar": "دخول هرم خفرع — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "Tomb of Meresankh III — foreign adult",
+     "ar": "مقبرة مرس عنخ الثالثة — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "label": {
+     "en": "Tomb of Meresankh III — foreign student",
+     "ar": "مقبرة مرس عنخ الثالثة — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "label": {
+     "en": "Tomb of Meresankh III — Egyptian adult",
+     "ar": "مقبرة مرس عنخ الثالثة — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "label": {
+     "en": "Tomb of Meresankh III — Egyptian student",
+     "ar": "مقبرة مرس عنخ الثالثة — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "label": {
+     "en": "Workers' (labourers') tombs — adult, any nationality, minimum 5 tickets",
+     "ar": "مقابر العمال — بالغ من أي جنسية، بحد أدنى 5 تذاكر"
+    },
+    "group": "adult",
+    "amount": 700
+   },
+   {
+    "label": {
+     "en": "Workers' (labourers') tombs — student, any nationality, minimum 5 tickets",
+     "ar": "مقابر العمال — طالب من أي جنسية، بحد أدنى 5 تذاكر"
+    },
+    "group": "student",
+    "amount": 350
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptian seniors aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Pyramids",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 90,
+  "standardMinutes": 180,
+  "deepMinutes": 300,
+  "bestTime": {
+   "en": "Arrive at opening time for cooler air, softer light and shorter queues for the Great Pyramid interior; in summer avoid midday.",
+   "ar": "احرص على الوصول مع موعد الافتتاح للاستمتاع بجو ألطف وضوء أنعم وطوابير أقصر لدخول الهرم الأكبر، وتجنب منتصف النهار صيفًا."
+  },
+  "crowdNotes": {
+   "en": "Tour groups peak from late morning; the shuttle stops at the Panorama and the Sphinx are the most crowded. Expect persistent offers of camel and horse rides — agree prices before riding or decline firmly.",
+   "ar": "تبلغ المجموعات السياحية ذروتها من أواخر الصباح، وأكثر المحطات ازدحامًا نقطة البانوراما ومنطقة أبي الهول. يكثر عرض ركوب الجمال والخيول، فاتفق على السعر مسبقًا أو اعتذر بحزم."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Giza_Pyramids_of_Khufu%2C_Khafre%2C_%26_Menkaure_%289793859336%29.jpg",
+   "author": "Gary Todd from Xinzheng, China",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giza_Pyramids_of_Khufu,_Khafre,_%26_Menkaure_(9793859336).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Great_Pyramid_of_Giza_%28Khufu%E2%80%99s_pyramid%29%2C_Pyramid_of_Khafre%2C_Pyramid_of_Menkaure_%28right_to_left%29._Giza%2C_Cairo%2C_Egypt%2C_North_Africa.jpg",
+   "author": "Mstyslav Chernov",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza_(Khufu%E2%80%99s_pyramid),_Pyramid_of_Khafre,_Pyramid_of_Menkaure_(right_to_left)._Giza,_Cairo,_Egypt,_North_Africa.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/The_Sphinx_and_Pyramid_of_Khafre.jpg",
+   "author": "kallerna",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Sphinx_and_Pyramid_of_Khafre.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/giza-plateau/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D8%B9_%D8%A3%D9%87%D8%B1%D8%A7%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9",
+  "osm": "way/73227488"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12508",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/giza-plateau/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-great-pyramid/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/pyramid-complex-of-khafre-khefren/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/pyramid-complex-of-menkaure/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-great-sphinx/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-queen-meresankh-iii/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/workers-town-and-cemetery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/eastern-and-western-cemeteries/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-khufukhaf-i/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/Pyramids",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/2",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (close times, Ramadan), address, status (boats moved to GEM)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/منطقة-أهرامات-الجيزة/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,freeGroups,address,highlights",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/giza-plateau/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,address (new visitor centre entrance, electric buses)",
+   "url": "https://egyptianstreets.com/2025/04/11/new-giza-pyramids-entrance-system-sparks-controversy/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Khufu interior EGP 1500/750 from Jan 2025)",
+   "url": "https://shbabbek.com/show/244329",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights,visit (original prose; facts cross-checked)",
+   "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.dailynewsegypt.com, www.nileempire.com); needs an official 2025-2026 source. D3: Ramadan last entry set to 15:00 (MoTA guide closing 16:00 with its one-hour rule), earlier than egymonuments.com's 15:30. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

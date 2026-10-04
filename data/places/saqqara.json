@@ -1,0 +1,605 @@
+{
+ "id": "saqqara",
+ "kind": "site",
+ "wikidataId": "Q192134",
+ "name": {
+  "en": "Saqqara Necropolis",
+  "ar": "منطقة آثار سقارة"
+ },
+ "aliases": [
+  "سقاره",
+  "صقارة، الجيزة",
+  "Saccara",
+  "Saqqara",
+  "سقارة"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "giza",
+ "city": {
+  "en": "Badrashin",
+  "ar": "البدرشين"
+ },
+ "area": {
+  "en": "Saqqara necropolis",
+  "ar": "جبانة سقارة"
+ },
+ "address": {
+  "en": "Saqqara archaeological area, Badrashin district, Giza Governorate",
+  "ar": "منطقة آثار سقارة، مركز البدرشين، محافظة الجيزة"
+ },
+ "lat": 29.85,
+ "lng": 31.233333,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The Imhotep Museum at the site entrance is currently closed for restoration. The Step Pyramid interior, South Tomb, Serapeum, Mereruka and the noble and New Kingdom tombs need add-on tickets, or one all-inclusive ticket.",
+  "ar": "المنطقة مفتوحة يوميًا. متحف إيمحوتب عند مدخل المنطقة مغلق حاليًا للترميم. ويتطلب دخول هرم زوسر من الداخل والمقبرة الجنوبية والسرابيوم ومصطبة مرروكا ومقابر النبلاء والدولة الحديثة تذاكر إضافية، أو تذكرة شاملة واحدة."
+ },
+ "summary": {
+  "en": "The vast cemetery of ancient Memphis, home to Djoser's Step Pyramid, the Serapeum and some of Egypt's finest Old Kingdom tomb reliefs.",
+  "ar": "الجبانة الكبرى لمدينة منف القديمة، وفيها هرم زوسر المدرج والسرابيوم وأجمل نقوش مقابر الدولة القديمة."
+ },
+ "description": {
+  "en": "Saqqara, on the desert edge south of Giza, served as the main cemetery of the ancient capital Memphis for more than three thousand years. Its landmark is the Step Pyramid of Djoser, designed by the architect Imhotep around 2650 BC and regarded as the earliest large-scale stone building in the world; its enclosure, colonnaded entrance and courtyards can be explored, and the underground South Tomb can be visited for an extra fee. Around it spread the pyramids of later Old Kingdom kings, including that of Unas, whose burial chamber carries the oldest known Pyramid Texts, and the mastaba tombs of high officials such as Mereruka and Mehu, decorated with lively scenes of farming, fishing and daily life. Further north lies the Serapeum, a long rock-cut gallery where the sacred Apis bulls were buried in massive stone sarcophagi. New Kingdom tombs, among them the one Horemheb built before he became king, and the remains of the Coptic monastery of Apa Jeremiah complete a visit that is usually far calmer than Giza; the Imhotep Museum by the entrance is closed for restoration.",
+  "ar": "كانت سقارة، الواقعة على حافة الصحراء جنوب الجيزة، الجبانة الرئيسية لمدينة منف العاصمة القديمة طوال أكثر من ثلاثة آلاف عام. وأبرز معالمها هرم زوسر المدرج الذي صممه المهندس إيمحوتب نحو عام 2650 قبل الميلاد، ويُعد أقدم بناء حجري ضخم في العالم، ويمكن التجول في سوره ومدخله ذي الأعمدة وأفنيته، كما يمكن زيارة المقبرة الجنوبية الواقعة تحت الأرض بتذكرة إضافية. وتنتشر حوله أهرامات ملوك لاحقين من الدولة القديمة، منها هرم أوناس الذي تحمل حجرة دفنه أقدم ما عُرف من نصوص الأهرام، إلى جانب مصاطب كبار رجال الدولة مثل مرروكا ومحو، المزينة بمشاهد نابضة بالحياة للزراعة والصيد والحياة اليومية. وإلى الشمال يقع السرابيوم، وهو دهليز طويل منحوت في الصخر دُفنت فيه عجول أبيس المقدسة داخل توابيت حجرية هائلة. وتكتمل الزيارة بمقابر الدولة الحديثة، ومنها المقبرة التي أعدها حور محب قبل أن يعتلي العرش، وبقايا دير الأنبا إرميا القبطي، في أجواء أهدأ كثيرًا من الجيزة، علمًا بأن متحف إيمحوتب عند المدخل مغلق حاليًا للترميم."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Step Pyramid of Djoser",
+    "ar": "هرم زوسر المدرج"
+   },
+   "desc": {
+    "en": "Imhotep's six-stepped pyramid and its enclosure, the first monumental stone complex.",
+    "ar": "هرم إيمحوتب ذو الدرجات الست ومجموعته الجنائزية، أول مجمع حجري ضخم في التاريخ."
+   }
+  },
+  {
+   "title": {
+    "en": "Serapeum",
+    "ar": "السرابيوم"
+   },
+   "desc": {
+    "en": "Underground galleries holding the colossal granite sarcophagi of the Apis bulls.",
+    "ar": "دهاليز تحت الأرض تضم توابيت عجول أبيس الضخمة من الجرانيت."
+   }
+  },
+  {
+   "title": {
+    "en": "Mastaba of Mereruka",
+    "ar": "مصطبة مرروكا"
+   },
+   "desc": {
+    "en": "A vizier's tomb with dozens of rooms of finely carved daily-life scenes.",
+    "ar": "مقبرة وزير تضم عشرات الحجرات بنقوش دقيقة لمشاهد الحياة اليومية."
+   }
+  },
+  {
+   "title": {
+    "en": "South Tomb of Djoser",
+    "ar": "المقبرة الجنوبية لزوسر"
+   },
+   "desc": {
+    "en": "A symbolic underground tomb with blue faience tiles (separate ticket).",
+    "ar": "مقبرة رمزية تحت الأرض مزينة ببلاطات القيشاني الأزرق (بتذكرة منفصلة)."
+   }
+  },
+  {
+   "title": {
+    "en": "Pyramid of Unas",
+    "ar": "هرم أوناس"
+   },
+   "desc": {
+    "en": "The pyramid whose burial chamber bears the earliest Pyramid Texts.",
+    "ar": "الهرم الذي تحمل حجرة دفنه أقدم نصوص الأهرام."
+   }
+  },
+  {
+   "title": {
+    "en": "New Kingdom tombs",
+    "ar": "مقابر الدولة الحديثة"
+   },
+   "desc": {
+    "en": "Among them the tomb Horemheb prepared as a general before he became king.",
+    "ar": "منها المقبرة التي أعدها حور محب قائدًا عسكريًا قبل أن يصبح ملكًا."
+   }
+  },
+  {
+   "title": {
+    "en": "Mastaba of Mehu",
+    "ar": "مصطبة محو"
+   },
+   "desc": {
+    "en": "An Old Kingdom official's tomb with vividly coloured reliefs, included in the all-inclusive ticket.",
+    "ar": "مقبرة أحد موظفي الدولة القديمة بنقوش زاهية الألوان، وتشملها التذكرة الشاملة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 600
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 300
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "All-inclusive ticket (site, noble & New Kingdom tombs, Mereruka, Mehu…; nominally also the Imhotep Museum, currently closed) — foreign adult",
+     "ar": "التذكرة الشاملة (المنطقة ومقابر النبلاء والدولة الحديثة ومرروكا ومحو…، ويشملها اسميًا متحف إيمحوتب المغلق حاليًا) — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 1400
+   },
+   {
+    "label": {
+     "en": "All-inclusive ticket — foreign student",
+     "ar": "التذكرة الشاملة — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 700
+   },
+   {
+    "label": {
+     "en": "All-inclusive ticket — Egyptian adult",
+     "ar": "التذكرة الشاملة — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "label": {
+     "en": "All-inclusive ticket — Egyptian student",
+     "ar": "التذكرة الشاملة — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "label": {
+     "en": "Step Pyramid of Djoser interior — foreign adult",
+     "ar": "هرم زوسر من الداخل — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 280
+   },
+   {
+    "label": {
+     "en": "Step Pyramid of Djoser interior — foreign student",
+     "ar": "هرم زوسر من الداخل — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 140
+   },
+   {
+    "label": {
+     "en": "Step Pyramid of Djoser interior — Egyptian adult",
+     "ar": "هرم زوسر من الداخل — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "label": {
+     "en": "Step Pyramid of Djoser interior — Egyptian student",
+     "ar": "هرم زوسر من الداخل — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   },
+   {
+    "label": {
+     "en": "South Tomb (Djoser complex) — foreign adult",
+     "ar": "المقبرة الجنوبية (مجموعة زوسر) — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 300
+   },
+   {
+    "label": {
+     "en": "South Tomb (Djoser complex) — foreign student",
+     "ar": "المقبرة الجنوبية (مجموعة زوسر) — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 150
+   },
+   {
+    "label": {
+     "en": "South Tomb (Djoser complex) — Egyptian adult",
+     "ar": "المقبرة الجنوبية (مجموعة زوسر) — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "label": {
+     "en": "Serapeum — foreign adult",
+     "ar": "السرابيوم — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 340
+   },
+   {
+    "label": {
+     "en": "Serapeum — foreign student",
+     "ar": "السرابيوم — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 170
+   },
+   {
+    "label": {
+     "en": "Serapeum — Egyptian adult",
+     "ar": "السرابيوم — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "label": {
+     "en": "Tomb of Mereruka — foreign adult",
+     "ar": "مقبرة مرروكا — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "label": {
+     "en": "Tomb of Mereruka — foreign student",
+     "ar": "مقبرة مرروكا — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "label": {
+     "en": "Tomb of Mereruka — Egyptian adult",
+     "ar": "مقبرة مرروكا — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "label": {
+     "en": "Noble tombs + New Kingdom tombs ('New Tombs') — foreign adult",
+     "ar": "مقابر النبلاء ومقابر الدولة الحديثة — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 400
+   },
+   {
+    "label": {
+     "en": "Noble tombs + New Kingdom tombs ('New Tombs') — foreign student",
+     "ar": "مقابر النبلاء ومقابر الدولة الحديثة — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 200
+   },
+   {
+    "label": {
+     "en": "Noble tombs + New Kingdom tombs ('New Tombs') — Egyptian adult",
+     "ar": "مقابر النبلاء ومقابر الدولة الحديثة — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "label": {
+     "en": "Parking — car",
+     "ar": "موقف السيارات — سيارة ملاكي"
+    },
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Parking — microbus",
+     "ar": "موقف السيارات — ميكروباص"
+    },
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Parking — coaster",
+     "ar": "موقف السيارات — كوستر"
+    },
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Parking — bus",
+     "ar": "موقف السيارات — أتوبيس"
+    },
+    "amount": 100
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptian seniors aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/SaqqaraMonuments",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 90,
+  "standardMinutes": 180,
+  "deepMinutes": 300,
+  "bestTime": {
+   "en": "Early morning from 08:00; the site is exposed with little shade, so avoid summer middays. Combine with Memphis or Dahshur on the same trip.",
+   "ar": "الصباح الباكر بدءًا من الثامنة، فالموقع مكشوف قليل الظل ويُستحسن تجنب منتصف النهار صيفًا. ويمكن الجمع بينه وبين ميت رهينة أو دهشور في رحلة واحدة."
+  },
+  "crowdNotes": {
+   "en": "Much quieter than Giza; the Serapeum and Djoser complex see the most groups. Distances between monuments are large, so a car or driver helps.",
+   "ar": "أهدأ كثيرًا من الجيزة، ويتركز الزوار في السرابيوم ومجموعة زوسر. المسافات بين الآثار كبيرة، لذا يُفضّل التنقل بسيارة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Apis_Sarcophagus_of_Khabash.jpg",
+   "author": "Carole Raddato",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apis_Sarcophagus_of_Khabash.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mereruka_Hippo_relief.jpg",
+   "author": "Flop Eared Mule",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mereruka_Hippo_relief.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Saqqara%2C_Pyramid_of_Djoser%2C_Ancient_Egypt.jpg",
+   "author": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saqqara,_Pyramid_of_Djoser,_Ancient_Egypt.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Saqqara",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B3%D9%82%D8%A7%D8%B1%D8%A9",
+  "osm": "node/331877485"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q192134",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-step-pyramid-complex-of-djoser/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/pyramid-of-unas/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/pyramid-complex-of-teti/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/serapeum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-mereruka/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-the-two-brothers-niankh-khnum-and-khnumhotep/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-southern-tomb/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/new-kingdom-cemetery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-horemheb/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/SaqqaraMonuments",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/22",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (close times, Ramadan), address, status (Imhotep Museum closed for restoration)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/منطقة-آثار-سقارة/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,freeGroups,address,highlights",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/saqqara/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights,visit (original prose; facts cross-checked)",
+   "url": "https://en.wikipedia.org/wiki/Saqqara",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "D3: Ramadan last entry set to 15:00 (MoTA guide closing 16:00 with its one-hour rule), earlier than egymonuments.com's 15:30. D17: city overridden locally to 'Badrashin' (Wikidata P131 gives the district label 'Markaz al Badrashayn'); Wikidata not edited. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

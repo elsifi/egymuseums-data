@@ -1,0 +1,431 @@
+{
+ "id": "abu-simbel",
+ "kind": "site",
+ "wikidataId": "Q134140",
+ "name": {
+  "en": "Abu Simbel Temples",
+  "ar": "معابد أبو سمبل"
+ },
+ "aliases": [
+  "أبوسمبل",
+  "ابو سمبل",
+  "معبد أبو سمبل",
+  "معبد أبوسمبل",
+  "Great and Small Temples of Abu Simbel",
+  "Temples at Abu Simbel",
+  "Abu Simbel",
+  "أبو سمبل"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Abu Simbel",
+  "ar": "أبو سمبل"
+ },
+ "area": {
+  "en": "West shore of Lake Nasser",
+  "ar": "الشاطئ الغربي لبحيرة ناصر"
+ },
+ "address": {
+  "en": "Abu Simbel, Aswan Governorate (west shore of Lake Nasser)",
+  "ar": "مدينة أبو سمبل، محافظة أسوان (الشاطئ الغربي لبحيرة ناصر)"
+ },
+ "lat": 22.336944,
+ "lng": 31.625556,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. On 22 Feb and 22 Oct (sun-alignment days) the site opens before dawn with a higher ticket price.",
+  "ar": "مفتوح يوميًا. وفي يومي 22 فبراير و22 أكتوبر (يوما تعامد الشمس) يُفتح قبل الفجر بسعر تذكرة أعلى."
+ },
+ "summary": {
+  "en": "Two rock-cut temples of Ramesses II and Queen Nefertari, moved block by block in the 1960s to escape the waters of Lake Nasser.",
+  "ar": "معبدان منحوتان في الصخر للملك رمسيس الثاني والملكة نفرتاري، نُقلا قطعةً قطعة في ستينيات القرن العشرين لإنقاذهما من مياه بحيرة ناصر."
+ },
+ "description": {
+  "en": "Deep in Egyptian Nubia, close to the Sudanese border, Ramesses II carved two temples into a sandstone cliff in the thirteenth century BC. The Great Temple is fronted by four seated colossi of the king, each about twenty metres high, and runs straight into the rock through halls lined with statue-pillars of Ramesses as Osiris. Its walls tell the story of the battle of Kadesh against the Hittites in lively detail. At the far end, four seated gods share the sanctuary, and twice a year, around 22 February and 22 October, the rising sun reaches deep inside to light three of them. The smaller temple, dedicated to Hathor and to Nefertari, has six standing figures on its façade, the queen shown at the same scale as her husband. When the Aswan High Dam was built, an international UNESCO campaign cut both temples into large blocks and rebuilt them on higher ground between 1964 and 1968, inside an artificial hill. The site is part of the World Heritage property of the Nubian monuments from Abu Simbel to Philae.",
+  "ar": "في عمق النوبة المصرية قرب الحدود السودانية، نحت رمسيس الثاني معبدين في جرف من الحجر الرملي في القرن الثالث عشر قبل الميلاد. تتصدر المعبدَ الكبير أربعةُ تماثيل جالسة للملك يبلغ ارتفاع كل منها نحو عشرين مترًا، ويمتد المعبد مستقيمًا داخل الصخر عبر قاعات تصطف فيها تماثيل رمسيس على هيئة أوزير. وتروي جدرانه معركة قادش ضد الحيثيين بتفاصيل نابضة بالحياة. وفي نهايته يجلس أربعة آلهة في قدس الأقداس، ومرتين كل عام، نحو 22 فبراير و22 أكتوبر، تتوغل أشعة الشمس عند شروقها فتضيء ثلاثة منهم. أما المعبد الصغير المكرّس لحتحور ولنفرتاري، فتزين واجهته ستة تماثيل واقفة، وتظهر فيها الملكة بحجم زوجها نفسه. وعند بناء السد العالي، قطعت حملة دولية بقيادة اليونسكو المعبدين إلى كتل كبيرة وأعادت تركيبهما في موضع أعلى بين عامي 1964 و1968 داخل تل صناعي. والموقع جزء من موقع التراث العالمي «آثار النوبة من أبو سمبل إلى فيلة»."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Great Temple façade",
+    "ar": "واجهة المعبد الكبير"
+   },
+   "desc": {
+    "en": "Four seated colossi of Ramesses II cut from the cliff.",
+    "ar": "أربعة تماثيل جالسة ضخمة لرمسيس الثاني منحوتة في الجبل."
+   }
+  },
+  {
+   "title": {
+    "en": "Osiride hall",
+    "ar": "القاعة الأوزيرية"
+   },
+   "desc": {
+    "en": "Pillars carved as standing figures of the king as Osiris.",
+    "ar": "أعمدة على هيئة الملك واقفًا في صورة أوزير."
+   }
+  },
+  {
+   "title": {
+    "en": "Battle of Kadesh reliefs",
+    "ar": "نقوش معركة قادش"
+   },
+   "desc": {
+    "en": "Vivid wall scenes of the campaign against the Hittites.",
+    "ar": "مشاهد حية للحملة على الحيثيين."
+   }
+  },
+  {
+   "title": {
+    "en": "Sanctuary",
+    "ar": "قدس الأقداس"
+   },
+   "desc": {
+    "en": "Four seated gods lit by the rising sun twice a year.",
+    "ar": "أربعة آلهة جالسة تضيئها الشمس مرتين في العام."
+   }
+  },
+  {
+   "title": {
+    "en": "Small Temple of Hathor and Nefertari",
+    "ar": "معبد حتحور ونفرتاري الصغير"
+   },
+   "desc": {
+    "en": "Façade where the queen stands at the king's scale.",
+    "ar": "واجهة تظهر فيها الملكة بحجم الملك."
+   }
+  },
+  {
+   "title": {
+    "en": "Relocation story",
+    "ar": "قصة النقل"
+   },
+   "desc": {
+    "en": "The 1960s UNESCO rescue that rebuilt both temples higher up.",
+    "ar": "حملة اليونسكو في الستينيات التي أعادت بناء المعبدين في موضع أعلى."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Sun-alignment day: the site opens before dawn (in October 2025 the ticket office opened at 03:00 and the gates at 03:30).",
+     "ar": "يوم تعامد الشمس: يُفتح الموقع قبل الفجر (في أكتوبر 2025 فُتح شباك التذاكر في الثالثة فجرًا والبوابات في الثالثة والنصف)."
+    },
+    "rule": "annually on 22 February and 22 October",
+    "from": "2026-10-22",
+    "to": "2026-10-22"
+   },
+   {
+    "label": {
+     "en": "Ramadan: same hours, last entry 16:00",
+     "ar": "رمضان: المواعيد نفسها، آخر دخول 16:00"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 750,
+    "onlineAmount": 822
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 375,
+    "onlineAmount": 445.5
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30,
+    "onlineAmount": 30.5
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10,
+    "onlineAmount": 10.5
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Sun-alignment day ticket (22 Feb and 22 Oct) — foreign adult",
+     "ar": "تذكرة يوم التعامد (22 فبراير و22 أكتوبر) — أجنبي"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 1200,
+    "onlineAmount": 1272
+   },
+   {
+    "label": {
+     "en": "Sun-alignment day ticket — foreign student",
+     "ar": "تذكرة يوم التعامد — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 600,
+    "onlineAmount": 670.5
+   },
+   {
+    "label": {
+     "en": "Sun-alignment day ticket — Egyptian adult",
+     "ar": "تذكرة يوم التعامد — مصري"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 60
+   },
+   {
+    "label": {
+     "en": "Sun-alignment day ticket — Egyptian student",
+     "ar": "تذكرة يوم التعامد — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   },
+   {
+    "label": {
+     "en": "Parking: car or taxi",
+     "ar": "انتظار السيارات: ملاكي أو تاكسي"
+    },
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Parking: microbus",
+     "ar": "انتظار السيارات: ميكروباص"
+    },
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Parking: coaster",
+     "ar": "انتظار السيارات: كوستر"
+    },
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Parking: bus",
+     "ar": "انتظار السيارات: أتوبيس"
+    },
+    "amount": 100
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/AbuSimbelTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 120,
+  "deepMinutes": 180,
+  "bestTime": {
+   "en": "Early morning, when the sun lights the façades and before the heat builds; on alignment days arrive in the small hours.",
+   "ar": "الصباح الباكر حين تضيء الشمس الواجهتين وقبل اشتداد الحر؛ وفي يومي التعامد يلزم الوصول قبل الفجر بساعات."
+  },
+  "crowdNotes": {
+   "en": "Most visitors come on pre-dawn road trips from Aswan (several hours each way), so the site is busiest from mid-morning to midday; staying overnight in Abu Simbel lets you visit at opening or late afternoon. On the sun-alignment days the rising sun lights the sanctuary at about 06:55 for roughly 20 minutes.",
+   "ar": "يصل معظم الزوار في رحلات برية تنطلق من أسوان قبل الفجر (عدة ساعات في كل اتجاه)، فيشتد الزحام من منتصف الصباح حتى الظهر؛ والمبيت في أبو سمبل يتيح الزيارة عند الافتتاح أو آخر النهار. وفي يومي التعامد تضيء أشعة الشمس قدس الأقداس نحو الساعة 06:55 لمدة 20 دقيقة تقريبًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gro%C3%9Fer_Tempel_%28Abu_Simbel%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Kleiner_Tempel_%28Abu_Simbel%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kleiner_Tempel_(Abu_Simbel)_02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_59-61_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_59-61_HDR.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Abu_Simbel",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%B3%D9%85%D8%A8%D9%84",
+  "osm": "way/1079728124"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q134140",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,prices.extras (alignment day, parking)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry),tickets,freeGroups,prices.onlineAmount (booking-platform prices)",
+   "url": "https://egymonuments.com/details/AbuSimbelTemple",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (cross-check: secondary report of the SCA decision, foreign 750/375 from 1 Nov 2024)",
+   "url": "https://www.aleqaria.com.eg/post/details/195391/%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (sun alignment Oct 2025 logistics)",
+   "url": "https://www.youm7.com/story/2025/10/21/%D9%85%D9%88%D8%B9%D8%AF-%D8%AA%D8%B9%D8%A7%D9%85%D8%AF-%D8%A7%D9%84%D8%B4%D9%85%D8%B3-%D8%B9%D9%84%D9%89-%D9%88%D8%AC%D9%87-%D8%B1%D9%85%D8%B3%D9%8A%D8%B3-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%89-%D8%A8%D9%85%D8%B9%D8%A8%D8%AF-%D8%A3%D8%A8%D9%88-%D8%B3%D9%85%D8%A8%D9%84/7165906",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (Feb 2026 celebrations cancelled)",
+   "url": "https://www.youm7.com/story/2026/2/21/%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D8%B9%D8%A7%D9%85%D8%AF-%D8%A7%D9%84%D8%B4%D9%85%D8%B3-%D8%A8%D8%A3%D8%A8%D9%88-%D8%B3%D9%85%D8%A8%D9%84-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%86%D9%87%D8%A7-%D9%85%D8%B9/7312911",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Abu_Simbel",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_01.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Kleiner_Tempel_(Abu_Simbel)_02.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_59-61_HDR.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "effectiveFrom (2024-11-01) removed: the date comes only from a news report of the SCA decision (aleqaria.com.eg); set it again once the dated official decision is cited. cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.youm7.com); needs an official 2025-2026 source. D2: `amount` is the portal/gate price (750/375, 30/10; alignment day 1200/600); `onlineAmount` is what the egymonuments.com booking platform charges (822/445.5, 30.5/10.5; alignment day 1272/670.5 for foreign visitors; the Egyptian alignment-day online price was not shown). Whether the gate itself charges the online price is not confirmed. D14: alignment-day logistics moved from hours.exceptions to visit.crowdNotes; the Feb 2026 note (festivities cancelled for Ramadan, temple still open for viewing; youm7 2026-02-21) was dropped from user text. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

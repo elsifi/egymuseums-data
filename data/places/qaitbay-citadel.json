@@ -1,0 +1,382 @@
+{
+ "id": "qaitbay-citadel",
+ "kind": "site",
+ "wikidataId": "Q1938065",
+ "name": {
+  "en": "Citadel of Qaitbay",
+  "ar": "قلعة قايتباي"
+ },
+ "aliases": [
+  "قلعة قايتباى",
+  "قلعة قيتباي",
+  "قلعه قايتباي"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "alexandria",
+ "city": {
+  "ar": "الإسكندرية",
+  "en": "Alexandria"
+ },
+ "area": {
+  "en": "Anfushi, El Gomrok (Eastern Harbour)",
+  "ar": "الأنفوشي، الجمرك (الميناء الشرقي)"
+ },
+ "address": {
+  "ar": "قلعة قايتباي، نهاية الكورنيش بالأنفوشي، حي الجمرك، الإسكندرية",
+  "en": "Qaitbay Citadel, end of the Corniche at Anfushi, El Gomrok, Alexandria"
+ },
+ "lat": 31.213,
+ "lng": 29.8852,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Summer 2026 schedule: 09:00-20:00 (ticket window closes 19:00); ticketing is electronic.",
+  "ar": "مفتوحة يوميًا. مواعيد صيف 2026: من 09:00 إلى 20:00 (ويُغلق شباك التذاكر في 19:00)، والتذاكر إلكترونية."
+ },
+ "summary": {
+  "ar": "حصن بحري مملوكي شيّده السلطان قايتباي بين عامي 1477 و1479م في الموضع الذي كانت تقوم فيه منارة الإسكندرية القديمة.",
+  "en": "A Mamluk sea fortress built in 1477–1479 by Sultan Qaitbay on the spot where the Pharos lighthouse of Alexandria once stood."
+ },
+ "description": {
+  "ar": "عند طرف شبه جزيرة فاروس القديمة، حيث انهارت منارة الإسكندرية الشهيرة بعد سلسلة من الزلازل، أقام السلطان الأشرف قايتباي قلعةً بين عامي 1477 و1479م لحماية الميناء من الهجمات البحرية. يحيط البحر بالقلعة من ثلاث جهات، ويضمها سوران؛ يحمل السور الخارجي أبراجًا دفاعية، بينما يلتف السور الداخلي حول فناء تصطف حوله حجرات استُخدمت ثكناتٍ ومخازن. وفي الوسط يرتفع البرج الرئيسي، وهو كتلة مربعة ضخمة من ثلاثة طوابق تتوزع على أركانها أبراج نصف دائرية وشرفات بارزة كان المدافعون يراقبون منها الساحل. ويضم البرج مسجدًا صغيرًا، كما كان صهريج يمدّ الحامية وخيولها بالمياه العذبة. وظلت القلعة في الخدمة في العصور اللاحقة، إذ أعاد محمد علي بناء سورها الشمالي في القرن التاسع عشر ليلائم تطور المدفعية، وخضعت لأعمال صيانة جديدة في مطلع الألفية الثالثة. واليوم تُعدّ أسوارها من أجمل الأماكن لتأمل البحر المتوسط وانحناءة الميناء الشرقي.",
+  "en": "At the tip of the old Pharos peninsula, where the ancient lighthouse of Alexandria collapsed after a series of earthquakes, Sultan al-Ashraf Qaitbay built a fortress between 1477 and 1479 to guard the harbour against attack from the sea. The citadel is surrounded by water on three sides and enclosed by two lines of walls. The outer wall carries towers for defence, while the inner wall wraps around a courtyard lined with rooms once used as barracks and stores. In the middle rises the main keep, a massive three-storey square block with rounded towers at its corners and projecting balconies from which defenders could cover the coast. A small mosque sits inside the keep, and a cistern held fresh water for the garrison and its horses. Later rulers kept the fort in service: Muhammad Ali rebuilt the northern wall in the nineteenth century to cope with newer artillery, and the complex was conserved again in the early 2000s. Today the ramparts are one of the best places in the city to watch the Mediterranean and the curve of the Eastern Harbour."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Main keep",
+    "ar": "البرج الرئيسي"
+   },
+   "desc": {
+    "en": "The three-storey square tower with rounded corner turrets and defensive balconies.",
+    "ar": "البرج المربع ذو الطوابق الثلاثة بأبراجه الركنية المستديرة وشرفاته الدفاعية."
+   }
+  },
+  {
+   "title": {
+    "en": "Citadel mosque",
+    "ar": "مسجد القلعة"
+   },
+   "desc": {
+    "en": "A small mosque set inside the keep.",
+    "ar": "مسجد صغير داخل البرج الرئيسي."
+   }
+  },
+  {
+   "title": {
+    "en": "Outer ramparts",
+    "ar": "الأسوار الخارجية"
+   },
+   "desc": {
+    "en": "Walk the walls for sea views over the Mediterranean and the Eastern Harbour.",
+    "ar": "جولة على الأسوار لمشاهدة البحر المتوسط والميناء الشرقي."
+   }
+  },
+  {
+   "title": {
+    "en": "Inner courtyard and barracks",
+    "ar": "الفناء الداخلي والثكنات"
+   },
+   "desc": {
+    "en": "Rooms built into the inner wall for soldiers and stores.",
+    "ar": "حجرات داخل السور الداخلي للجنود والمؤن."
+   }
+  },
+  {
+   "title": {
+    "en": "Water cistern",
+    "ar": "صهريج المياه"
+   },
+   "desc": {
+    "en": "The reservoir that supplied the garrison with fresh water.",
+    "ar": "الخزان الذي كان يمد الحامية بالمياه العذبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Site of the Pharos",
+    "ar": "موقع المنارة"
+   },
+   "desc": {
+    "en": "The fort stands on the spot of the ancient lighthouse of Alexandria.",
+    "ar": "تقوم القلعة في موضع منارة الإسكندرية القديمة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "ar": "المواعيد الصيفية (التوقيت الصيفي)",
+     "en": "Summer schedule (daylight-saving time)"
+    },
+    "rule": "summer (daylight-saving period, late April to late October)",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "20:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "20:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "20:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "20:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "20:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "20:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "20:00",
+      "lastEntry": "19:00"
+     }
+    ]
+   },
+   {
+    "label": {
+     "ar": "مواعيد شهر رمضان",
+     "en": "Ramadan schedule"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 30
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with disabilities"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/CitadelofQaitbay",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "ar": "آخر النهار للاستمتاع بالضوء الهادئ ونسيم البحر، وفي الصيف تكون ساعات المساء ألطف.",
+   "en": "Late afternoon for softer light and sea breezes; in summer the evening hours are pleasant."
+  },
+  "crowdNotes": {
+   "en": "Very busy with local families on Fridays, Saturdays and public holidays, especially in summer; weekday mornings are calmer. An evening sound and light show runs after closing on a separate ticket (summer 2026: 20:30 and 21:30, with an extra 22:30 show on busy nights).",
+   "ar": "يزدحم كثيرًا بالعائلات أيام الجمعة والسبت والعطلات الرسمية، خاصة في الصيف، بينما يكون صباح أيام الأسبوع أهدأ. ويُقام عرض للصوت والضوء مساءً بعد الإغلاق بتذكرة منفصلة (صيف 2026: الساعة 8:30 و9:30 مساءً، وعرض إضافي 10:30 عند الإقبال)."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Citadel_of_Qaitbay%2C_Alexandria%2C_Egypt.jpg",
+   "author": "Argenberg",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Citadel_of_Qaitbay,_Alexandria,_Egypt.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Citadel_of_Qaitbay_014.JPG",
+   "author": "لا روسا",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Citadel_of_Qaitbay_014.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/qaitbay-fort/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Citadel_of_Qaitbay",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D8%A9_%D9%82%D8%A7%D9%8A%D8%AA%D8%A8%D8%A7%D9%8A",
+  "osm": "way/28826432"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1938065",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/qaitbay-fort/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours(winter,ramadan),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/قلعة-قايتباي/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/qaitbay-fort/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,lastEntry,freeGroups,tickets",
+   "url": "https://egymonuments.com/details/CitadelofQaitbay",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours(summer 2026),sound-and-light,prices",
+   "url": "https://www.masrawy.com/news/news_regions/details/2026/4/26/2977708/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours(ramadan 2026)",
+   "url": "https://www.youm7.com/story/2026/2/18/%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD-%D9%88%D8%BA%D9%84%D9%82-%D9%82%D9%84%D8%B9%D8%A9-%D9%82%D8%A7%D9%8A%D8%AA%D8%A8%D8%A7%D9%89-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D9%81%D9%89-%D8%B4%D9%87%D8%B1-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9/7308816",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices(audience: Arab tier abolished from 2026-01-01)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2025/7/10/2817397/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos",
+   "url": "https://commons.wikimedia.org/wiki/File:Citadel_of_Qaitbay,_Alexandria,_Egypt.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "D14: sound & light note moved from hours.exceptions to visit.crowdNotes. Summer 09:00–20:00 schedule confirmed for 2026 in April 2026 (masrawy). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

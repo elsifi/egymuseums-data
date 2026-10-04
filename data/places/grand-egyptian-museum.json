@@ -1,0 +1,508 @@
+{
+ "id": "grand-egyptian-museum",
+ "kind": "museum",
+ "wikidataId": "Q2583681",
+ "name": {
+  "en": "Grand Egyptian Museum",
+  "ar": "المتحف المصري الكبير"
+ },
+ "aliases": [
+  "GEM",
+  "Giza Museum",
+  "The Grand Egyptian Museum",
+  "Khufu Ships Museum (inside GEM)",
+  "Tutankhamun Galleries (inside GEM)"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "giza",
+ "city": {
+  "en": "Giza",
+  "ar": "الجيزة"
+ },
+ "area": {
+  "en": "El Remayah Square, near the Giza plateau",
+  "ar": "ميدان الرماية، بالقرب من هضبة الجيزة"
+ },
+ "address": {
+  "en": "El Remayah Square, Cairo–Alexandria Desert Road, Giza (car park entrance via Gate 2)",
+  "ar": "ميدان الرماية، طريق القاهرة–الإسكندرية الصحراوي، الجيزة (الدخول إلى موقف السيارات من البوابة 2)"
+ },
+ "lat": 29.993611,
+ "lng": 31.119722,
+ "status": "open",
+ "statusNote": {
+  "en": "Fully open since its inauguration on 1 Nov 2025; the ticket covers the Tutankhamun Galleries, Main Galleries, Grand Hall, Grand Staircase, Khufu's Boats Museum, gardens and commercial area. Tickets are sold online only, with a chosen entry time slot. The GEM complex (grounds, dining, shops) opens 08:30–19:00, or 08:30–22:00 on Wednesdays and Saturdays; hours below are for the galleries. Price change: from 1 Nov 2026 the non-resident foreign and Arab ticket rises by USD 5 to USD 35 (EGP equivalent at the exchange rate) and the Egyptian adult ticket rises from EGP 200 to EGP 220.",
+  "ar": "مفتوح بالكامل منذ افتتاحه في 1 نوفمبر 2025، وتشمل التذكرة قاعات توت عنخ آمون والقاعات الرئيسية والبهو العظيم والدرج العظيم ومتحف مراكب خوفو والحدائق والمنطقة التجارية. تُباع التذاكر عبر الإنترنت فقط مع اختيار موعد محدد للدخول. ويفتح مجمع المتحف (الساحات والمطاعم والمتاجر) من 08:30 إلى 19:00، أو من 08:30 إلى 22:00 يومي الأربعاء والسبت، أما المواعيد الواردة أدناه فهي لقاعات العرض. تغيير الأسعار: اعتبارًا من 1 نوفمبر 2026 ترتفع تذكرة الأجنبي والعربي غير المقيم بمقدار 5 دولارات لتصبح 35 دولارًا (أو ما يعادلها بالجنيه وفق سعر الصرف)، وترتفع تذكرة المصري البالغ من 200 إلى 220 جنيهًا."
+ },
+ "summary": {
+  "en": "The world's largest museum devoted to a single civilisation, next to the Giza pyramids, home to the complete Tutankhamun collection and Khufu's cedar boat.",
+  "ar": "أكبر متحف في العالم مخصص لحضارة واحدة، يجاور أهرامات الجيزة ويضم مجموعة توت عنخ آمون كاملة ومركب الملك خوفو الخشبية."
+ },
+ "description": {
+  "en": "The Grand Egyptian Museum stands on the desert edge about two kilometres from the Giza pyramids and is devoted entirely to ancient Egypt. Conceived in the early 1990s and built over almost two decades, it opened in full on 1 November 2025. Visitors enter a vast atrium dominated by a colossal granite statue of Ramesses II, then climb the Grand Staircase, lined with royal statues, sarcophagi and temple elements arranged by theme, before reaching the main galleries that follow Egyptian history from prehistory to the Roman era. The centrepiece is the Tutankhamun collection, shown complete for the first time since the tomb was cleared, including the gold funerary mask, chariots, gilded shrines and jewellery. A separate wing holds Khufu's Boats Museum, where the reassembled 4,500-year-old cedar barque found beside the Great Pyramid is displayed. The complex also includes a children's museum, gardens, restaurants and shops. Entry is by online ticket with a timed slot, and on Wednesdays and Saturdays the galleries stay open into the evening.",
+  "ar": "يقع المتحف المصري الكبير على حافة الهضبة الصحراوية على بُعد نحو كيلومترين من أهرامات الجيزة، وهو مكرَّس بالكامل لحضارة مصر القديمة. وُلدت فكرته في مطلع تسعينيات القرن الماضي، واستغرق إنشاؤه قرابة عقدين حتى افتُتح بكامل قاعاته في الأول من نوفمبر 2025. يستقبل الزائرَ بهوٌ فسيح يتوسطه تمثال جرانيتي ضخم للملك رمسيس الثاني، ثم يصعد الدرج العظيم الذي تصطف على جانبيه تماثيل ملكية وتوابيت وعناصر من المعابد مرتبة وفق موضوعات، وصولًا إلى القاعات الرئيسية التي تروي تاريخ مصر منذ عصور ما قبل التاريخ حتى العصر الروماني. وتشكّل مجموعة توت عنخ آمون قلب المتحف، إذ تُعرض كاملة لأول مرة منذ إفراغ المقبرة، وفي مقدمتها القناع الذهبي والعجلات الحربية والمقاصير المذهبة والحلي. ويضم جناح مستقل متحف مراكب خوفو، حيث تُعرض المركب المصنوعة من خشب الأرز التي عُثر عليها بجوار الهرم الأكبر بعد إعادة تركيبها. ويشمل المجمع كذلك متحفًا للطفل وحدائق ومطاعم ومتاجر. ويكون الدخول بتذاكر إلكترونية محجوزة مسبقًا بموعد محدد، وتمتد ساعات قاعات العرض مساءً يومي الأربعاء والسبت."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tutankhamun Galleries",
+    "ar": "قاعات توت عنخ آمون"
+   },
+   "desc": {
+    "en": "The boy-king's complete burial equipment, from the gold mask to chariots and shrines, displayed together.",
+    "ar": "كنوز مقبرة الملك الشاب كاملةً في مكان واحد، من القناع الذهبي إلى العجلات الحربية والمقاصير."
+   }
+  },
+  {
+   "title": {
+    "en": "Gold funerary mask of Tutankhamun",
+    "ar": "القناع الذهبي لتوت عنخ آمون"
+   },
+   "desc": {
+    "en": "The museum's most famous single object, now shown at GEM rather than Tahrir.",
+    "ar": "أشهر قطعة في المتحف، وقد انتقل عرضه من متحف التحرير إلى المتحف الكبير."
+   }
+  },
+  {
+   "title": {
+    "en": "Grand Hall and colossus of Ramesses II",
+    "ar": "البهو العظيم وتمثال رمسيس الثاني"
+   },
+   "desc": {
+    "en": "An 11-metre granite king greeting visitors in the atrium.",
+    "ar": "تمثال جرانيتي هائل يستقبل الزوار عند المدخل."
+   }
+  },
+  {
+   "title": {
+    "en": "Grand Staircase",
+    "ar": "الدرج العظيم"
+   },
+   "desc": {
+    "en": "Six levels of royal statues, sarcophagi and architectural pieces with a view towards the pyramids.",
+    "ar": "طوابق متتالية من التماثيل الملكية والتوابيت والقطع المعمارية تنتهي بإطلالة نحو الأهرامات."
+   }
+  },
+  {
+   "title": {
+    "en": "Khufu's Boats Museum",
+    "ar": "متحف مراكب خوفو"
+   },
+   "desc": {
+    "en": "The reassembled cedar boat of Khufu, moved here from beside the Great Pyramid.",
+    "ar": "مركب الملك خوفو الخشبية بعد نقلها من جوار الهرم الأكبر وإعادة تركيبها."
+   }
+  },
+  {
+   "title": {
+    "en": "Main Galleries",
+    "ar": "القاعات الرئيسية"
+   },
+   "desc": {
+    "en": "Chronological displays from prehistory to the Roman period, grouped around society, kingship and belief.",
+    "ar": "عرض متسلسل من عصور ما قبل التاريخ حتى العصر الروماني حول محاور المجتمع والملكية والمعتقد."
+   }
+  },
+  {
+   "title": {
+    "en": "Hanging Obelisk of Ramesses II",
+    "ar": "المسلة المعلقة لرمسيس الثاني"
+   },
+   "desc": {
+    "en": "An obelisk raised on supports in the entrance plaza so visitors can see the inscribed base.",
+    "ar": "مسلة مرفوعة على دعامات في ساحة المدخل تتيح رؤية قاعدتها المنقوشة من أسفل."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (galleries; GEM complex 08:30–17:00)",
+     "ar": "مواعيد رمضان (قاعات العرض؛ المجمع من 08:30 إلى 17:00)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "child",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "senior",
+    "amount": 100
+   },
+   {
+    "audience": "arab-resident",
+    "group": "adult",
+    "amount": 800
+   },
+   {
+    "audience": "arab-resident",
+    "group": "student",
+    "amount": 400
+   },
+   {
+    "audience": "arab-resident",
+    "group": "child",
+    "amount": 400
+   },
+   {
+    "audience": "foreign-resident",
+    "group": "adult",
+    "amount": 800
+   },
+   {
+    "audience": "foreign-resident",
+    "group": "student",
+    "amount": 400
+   },
+   {
+    "audience": "foreign-resident",
+    "group": "child",
+    "amount": 400
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 1590
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 800
+   },
+   {
+    "audience": "foreign",
+    "group": "child",
+    "amount": 800
+   }
+  ],
+  "usdPegged": true,
+  "usdAmount": 30,
+  "extras": [
+   {
+    "label": {
+     "en": "Admission + guided tour, Egyptian adult (total)",
+     "ar": "تذكرة دخول مع جولة إرشادية، مصري بالغ (الإجمالي)"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 350
+   },
+   {
+    "label": {
+     "en": "Admission + guided tour, Egyptian child, student or senior (total)",
+     "ar": "تذكرة دخول مع جولة إرشادية، مصري طفل أو طالب أو كبير سن (الإجمالي)"
+    },
+    "audience": "egyptian",
+    "amount": 175
+   },
+   {
+    "label": {
+     "en": "Admission + guided tour, Arab or foreign resident adult (total)",
+     "ar": "تذكرة دخول مع جولة إرشادية، عربي أو أجنبي مقيم بالغ (الإجمالي)"
+    },
+    "group": "adult",
+    "amount": 1050
+   },
+   {
+    "label": {
+     "en": "Admission + guided tour, Arab or foreign resident child or student (total)",
+     "ar": "تذكرة دخول مع جولة إرشادية، عربي أو أجنبي مقيم طفل أو طالب (الإجمالي)"
+    },
+    "amount": 530
+   },
+   {
+    "label": {
+     "en": "Admission + guided tour, non-resident foreign or Arab adult (total)",
+     "ar": "تذكرة دخول مع جولة إرشادية، أجنبي أو عربي غير مقيم بالغ (الإجمالي)"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 2090
+   },
+   {
+    "label": {
+     "en": "Admission + guided tour, non-resident foreign or Arab child or student (total)",
+     "ar": "تذكرة دخول مع جولة إرشادية، أجنبي أو عربي غير مقيم طفل أو طالب (الإجمالي)"
+    },
+    "audience": "foreign",
+    "amount": 1050
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Visitors with disabilities",
+   "Egyptian tour guides accompanying a group",
+   "ICOM members",
+   "Egyptian antiquities-faculty students and staff at public universities (not on Fridays or public holidays)",
+   "Egyptian tour guides, military veterans, martyrs' families, MoTA staff, accredited journalists and listed public-university faculties (not at weekends or on public holidays)",
+   "Foreign spouses and children of Egyptians may buy the Egyptian ticket"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://tickets.gem.eg/",
+  "platform": "gem",
+  "cashAccepted": false,
+  "timedEntry": true
+ },
+ "visit": {
+  "quickMinutes": 120,
+  "standardMinutes": 240,
+  "deepMinutes": 420,
+  "bestTime": {
+   "en": "Book the first time slot (09:00) on a weekday, or a Wednesday or Saturday evening slot when galleries stay open until 21:00; give the Tutankhamun Galleries at least an hour.",
+   "ar": "احجز أول موعد دخول (التاسعة صباحًا) في يوم عادي، أو موعدًا مسائيًا يومي الأربعاء والسبت حين تبقى القاعات مفتوحة حتى التاسعة مساءً، وخصص ساعة على الأقل لقاعات توت عنخ آمون."
+  },
+  "crowdNotes": {
+   "en": "Busiest late morning and on Fridays and public holidays, when several free-entry exemptions do not apply. Only mobile-phone photography is allowed in the Tutankhamun Galleries; large bags (over 40 x 40 cm) go to the free lockers.",
+   "ar": "يشتد الزحام في أواخر الصباح وأيام الجمعة والعطلات الرسمية. لا يُسمح في قاعات توت عنخ آمون إلا بالتصوير بالهاتف المحمول، وتُودَع الحقائب الكبيرة (أكبر من 40 × 40 سم) في خزائن مجانية."
+  }
+ },
+ "accessibility": {
+  "wheelchair": "full (ramps, lifts, wide pathways)",
+  "wheelchairsAvailable": true,
+  "golfCarts": true,
+  "accessibleToilets": true,
+  "tactileBrailleReplica": true,
+  "freeEntryForDisabled": true
+ },
+ "facilities": {
+  "lockers": "free",
+  "cloakroom": true,
+  "prayerRooms": true,
+  "dining": true,
+  "giftShop": true,
+  "parking": "paid",
+  "audioGuide": [
+   "ar",
+   "en",
+   "ja"
+  ],
+  "guidedTours": [
+   "ar",
+   "en"
+  ],
+  "childrensMuseum": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mask_of_Tutankhamun_in_2025.jpg",
+   "author": "Dawid Wdowczyk",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mask_of_Tutankhamun_in_2025.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Old_Kingdom_Statues_of_notables%3B_Grand_Egyptian_Museum%2C_Cairo.jpg",
+   "author": "Richard Mortel",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Kingdom_Statues_of_notables;_Grand_Egyptian_Museum,_Cairo.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "https://gem.eg/",
+  "social": [
+   "https://www.facebook.com/GrandEgyptianMuseum/",
+   "https://www.instagram.com/grandegyptianmuseum",
+   "https://www.youtube.com/@GrandEgyptianMuseum",
+   "https://www.tiktok.com/@grandegyptianmuseum",
+   "https://twitter.com/GrandEGMuseum"
+  ]
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Grand_Egyptian_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A_%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1",
+  "osm": "relation/16783121"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2583681",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,status,tickets,freeGroups (official ticketing site)",
+   "url": "https://tickets.gem.eg/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,lastEntry,tickets.timedEntry,tickets.cashAccepted,facilities,accessibility,address",
+   "url": "https://gem.eg/en/faqs/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours",
+   "url": "https://gem.eg/en/visit/plan-your-visit/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "accessibility",
+   "url": "https://gem.eg/en/visit/accessibility/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (all tiers, guided-tour totals)",
+   "url": "https://www.youm7.com/story/2026/4/19/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1-%D9%84%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8/7382965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (tiers, monthly EGP update of USD peg, Nov 2026 increase)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2026/4/15/2972740/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1-%D8%A8%D8%B9%D8%AF-%D8%B2%D9%8A%D8%A7%D8%AF%D8%AA%D9%87%D8%A7-%D8%B1%D8%B3%D9%85%D9%8A-%D8%A7-%D9%84%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (tiers incl. guided tours, Nov 2026 increase)",
+   "url": "https://www.dostor.org/5589265",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (USD 35 from 2026-11-01)",
+   "url": "https://www.egypttoday.com/Article/4/146966/Grand-Egyptian-Museum-to-Raise-Ticket-Prices-Beginning-November-2026",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (Ramadan 2026)",
+   "url": "https://www.youm7.com/story/2026/2/18/%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%89-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1-%D9%81%D9%89-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-2026/7309940",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (full opening 2025-11-01), description",
+   "url": "https://en.wikipedia.org/wiki/Grand_Egyptian_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights,visit (original prose; facts cross-checked)",
+   "url": "https://en.wikipedia.org/wiki/Grand_Egyptian_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Photo GEM_Khufus_Boat_front_2025.jpg removed: main subject is a modern building interior/exterior (no freedom of panorama in Egypt). PRICE RECHECK 2026-11-01 (D1): from 1 Nov 2026 the non-resident foreign/Arab ticket becomes USD 35 (set usdAmount 35 and recompute the EGP amount) and the Egyptian adult ticket EGP 220; new resident/student/child amounts were not announced. The EGP 1,590 foreign amount is from April 2026 and is reset monthly against the USD peg. Ramadan hours were announced for Ramadan 2026; recheck for Ramadan 2027. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

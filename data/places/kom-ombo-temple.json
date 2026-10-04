@@ -1,0 +1,373 @@
+{
+ "id": "kom-ombo-temple",
+ "kind": "site",
+ "wikidataId": "Q1243401",
+ "name": {
+  "en": "Temple of Kom Ombo",
+  "ar": "معبد كوم أمبو"
+ },
+ "aliases": [
+  "معبد كوم امبو",
+  "معبدكوم أمبو"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Kom Ombo",
+  "ar": "كوم أمبو"
+ },
+ "area": {
+  "en": "Nile bank south of Kom Ombo town",
+  "ar": "ضفة النيل جنوب مدينة كوم أمبو"
+ },
+ "address": {
+  "en": "Kom Ombo, Aswan Governorate (on the east bank of the Nile)",
+  "ar": "كوم أمبو، محافظة أسوان (على الضفة الشرقية للنيل)"
+ },
+ "lat": 24.451944,
+ "lng": 32.928056,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily until 21:00, so evening visits are possible.",
+  "ar": "مفتوح يوميًا حتى التاسعة مساءً، فتتاح الزيارة المسائية."
+ },
+ "summary": {
+  "en": "A rare double temple on a bend of the Nile, shared by the crocodile god Sobek and the falcon god Haroeris, with a small museum of mummified crocodiles.",
+  "ar": "معبد مزدوج نادر على منحنى من النيل، يتقاسمه الإله التمساح سوبك والإله الصقر حور الأكبر، ويجاوره متحف صغير لمومياوات التماسيح."
+ },
+ "description": {
+  "en": "Kom Ombo stands on a low rise right above the river, which made it a favourite stop for Nile cruises long before modern tourism. The temple was built mainly under the Ptolemies and decorated into the Roman period, and its plan is perfectly symmetrical: two entrances, two sets of halls and two sanctuaries run side by side, the southern half for Sobek, the crocodile god, and the northern half for Haroeris, a form of Horus. Much of the front has collapsed, which lets daylight fall on column capitals that still carry traces of paint. Along the outer corridor, one well-known relief shows a set of instruments often described as medical or surgical tools, and other walls preserve a calendar of festivals. A deep circular well within the enclosure served as a Nilometer for measuring the flood. Next to the temple, the Crocodile Museum displays mummified crocodiles found in nearby cemeteries, along with coffins and eggs. The site stays open into the evening, when floodlights pick out the reliefs.",
+  "ar": "يقف معبد كوم أمبو على ربوة منخفضة تطل مباشرة على النهر، فكان محطة محببة للرحلات النيلية قبل السياحة الحديثة بزمن طويل. شُيّد المعبد في معظمه في عهد البطالمة واستمرت زخرفته حتى العصر الروماني، وتصميمه متماثل تمامًا: مدخلان ومجموعتان من القاعات وقدسا أقداس متجاوران، النصف الجنوبي للإله التمساح سوبك والنصف الشمالي للإله حور الأكبر. وقد تهدّم كثير من مقدمته، فصار ضوء النهار يسقط على تيجان أعمدة ما زالت تحمل آثار الألوان. وفي الممر الخارجي نقش مشهور يصوّر مجموعة من الأدوات يصفها كثيرون بأنها أدوات طبية أو جراحية، وتحفظ جدران أخرى تقويمًا للأعياد. وداخل السور بئر دائرية عميقة كانت مقياسًا للنيل لقياس الفيضان. وبجوار المعبد يعرض متحف التماسيح مومياوات تماسيح عُثر عليها في الجبانات القريبة، إلى جانب توابيت وبيض. ويبقى الموقع مفتوحًا حتى المساء، حين تُبرز الإضاءة الكاشفة تفاصيل النقوش."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Double sanctuary",
+    "ar": "قدسا الأقداس المزدوجان"
+   },
+   "desc": {
+    "en": "Twin shrines for Sobek and Haroeris side by side.",
+    "ar": "مقصورتان متجاورتان لسوبك وحور الأكبر."
+   }
+  },
+  {
+   "title": {
+    "en": "Hypostyle hall",
+    "ar": "قاعة الأعمدة"
+   },
+   "desc": {
+    "en": "Columns with painted floral capitals open to the sky.",
+    "ar": "أعمدة بتيجان نباتية ملوّنة مكشوفة للسماء."
+   }
+  },
+  {
+   "title": {
+    "en": "Instruments relief",
+    "ar": "نقش الأدوات"
+   },
+   "desc": {
+    "en": "The famous wall scene often called the 'surgical tools'.",
+    "ar": "المشهد الشهير الذي يُعرف غالبًا بالأدوات الجراحية."
+   }
+  },
+  {
+   "title": {
+    "en": "Nilometer",
+    "ar": "مقياس النيل"
+   },
+   "desc": {
+    "en": "Deep circular well used to gauge the Nile flood.",
+    "ar": "بئر دائرية عميقة لقياس فيضان النيل."
+   }
+  },
+  {
+   "title": {
+    "en": "Crocodile Museum",
+    "ar": "متحف التماسيح"
+   },
+   "desc": {
+    "en": "Mummified crocodiles, coffins and eggs beside the temple.",
+    "ar": "مومياوات تماسيح وتوابيت وبيض بجوار المعبد."
+   }
+  },
+  {
+   "title": {
+    "en": "Chapel of Hathor",
+    "ar": "مقصورة حتحور"
+   },
+   "desc": {
+    "en": "Small Roman-era shrine at the edge of the precinct.",
+    "ar": "مقصورة صغيرة من العصر الروماني عند طرف الموقع."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan: same hours, last entry 20:00",
+     "ar": "رمضان: المواعيد نفسها، آخر دخول 20:00"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "07:00",
+      "lastEntry": "20:00"
+     },
+     {
+      "day": "tue",
+      "open": "07:00",
+      "lastEntry": "20:00"
+     },
+     {
+      "day": "wed",
+      "open": "07:00",
+      "lastEntry": "20:00"
+     },
+     {
+      "day": "thu",
+      "open": "07:00",
+      "lastEntry": "20:00"
+     },
+     {
+      "day": "fri",
+      "open": "07:00",
+      "lastEntry": "20:00"
+     },
+     {
+      "day": "sat",
+      "open": "07:00",
+      "lastEntry": "20:00"
+     },
+     {
+      "day": "sun",
+      "open": "07:00",
+      "lastEntry": "20:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 450
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 225
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Parking: car or taxi",
+     "ar": "انتظار السيارات: ملاكي أو تاكسي"
+    },
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Parking: microbus",
+     "ar": "انتظار السيارات: ميكروباص"
+    },
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Parking: coaster",
+     "ar": "انتظار السيارات: كوستر"
+    },
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Parking: bus",
+     "ar": "انتظار السيارات: أتوبيس"
+    },
+    "amount": 100
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/KomOmboTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Late afternoon into early evening: cooler air, sunset over the Nile, then floodlit reliefs.",
+   "ar": "من آخر العصر حتى أول المساء: جو ألطف وغروب على النيل ثم نقوش مضاءة."
+  },
+  "crowdNotes": {
+   "en": "Nile cruise ships moor right below the temple, so it can be packed when several boats arrive together, typically late afternoon and evening.",
+   "ar": "ترسو البواخر النيلية أسفل المعبد مباشرة، فقد يزدحم حين تصل عدة بواخر معًا، وغالبًا ما يكون ذلك آخر النهار وفي المساء."
+  }
+ },
+ "facilities": {
+  "visitorCenter": true,
+  "onSiteMuseum": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Kom_Ombo_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kom_Ombo_20.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kom_Ombo_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kom_Ombo_30.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kom_Ombo_%C3%84rzterelief_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kom_Ombo_%C3%84rzterelief_03.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/kom-ombo-temple/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Temple_of_Kom_Ombo",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D9%83%D9%88%D9%85_%D8%A3%D9%85%D8%A8%D9%88",
+  "osm": null
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1243401",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/kom-ombo-temple/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,prices.extras (parking)",
+   "url": "https://egymonuments.gov.eg/en/monuments/kom-ombo-temple/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry),prices,tickets,freeGroups",
+   "url": "https://egymonuments.com/details/KomOmboTemple",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (cross-check: secondary report of the SCA decision, foreign 450/225 from 1 Nov 2024)",
+   "url": "https://www.aleqaria.com.eg/post/details/195391/%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "facilities.visitorCenter",
+   "url": "https://egymonuments.gov.eg/en/news/opening-of-the-visitor-reception-hall-at-kom-ombo-temple-in-aswan-after-its-development/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Temple_of_Kom_Ombo",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Kom_Ombo_20.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Kom_Ombo_30.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Kom_Ombo_%C3%84rzterelief_03.JPG",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "effectiveFrom (2024-11-01) removed: the date comes only from a news report of the SCA decision (aleqaria.com.eg); set it again once the dated official decision is cited. cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.youm7.com); needs an official 2025-2026 source. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

@@ -1,0 +1,361 @@
+{
+ "id": "coptic-museum",
+ "kind": "museum",
+ "wikidataId": "Q1784177",
+ "name": {
+  "en": "Coptic Museum",
+  "ar": "المتحف القبطي"
+ },
+ "aliases": [
+  "The Coptic Museum",
+  "المتحف القبطى",
+  "Coptic Museum in Cairo"
+ ],
+ "category": "coptic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Babylon Fortress, Coptic Cairo (Old Cairo)",
+  "ar": "حصن بابليون، القاهرة القبطية (مصر القديمة)"
+ },
+ "address": {
+  "en": "Mar Girgis Street, inside the Babylon fortress, Coptic Cairo (Old Cairo) — nearest metro: Mar Girgis",
+  "ar": "شارع مارجرجس، داخل حصن بابليون، مصر القديمة — أقرب محطة مترو: مارجرجس"
+ },
+ "lat": 30.005917,
+ "lng": 31.230667,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "The world's largest collection of Coptic art, from carved stone and icons to the Nag Hammadi codices, set inside the Roman fortress of Babylon.",
+  "ar": "أكبر مجموعة للفن القبطي في العالم، من المنحوتات الحجرية والأيقونات إلى مخطوطات نجع حمادي، داخل حصن بابليون الروماني."
+ },
+ "description": {
+  "en": "The Coptic Museum lies within the Roman fortress of Babylon in Old Cairo, beside the Hanging Church and a short walk from the area's other historic churches and the Ben Ezra Synagogue. It was founded in 1910 by Marcus Simaika Pasha, who gathered architectural fragments, woodwork and manuscripts from churches undergoing renovation and built many of them into the museum itself, giving it carved ceilings, mashrabiya screens and fountains reminiscent of old Cairene houses. Today it holds the world's largest collection of Coptic art, tracing Egyptian Christianity from late antiquity through the medieval and Ottoman periods and showing how it absorbed pharaonic, Greek, Roman and Byzantine influences before developing its own identity. Displays include carved limestone friezes and capitals, wall paintings recovered from monasteries such as Bawit and Saqqara, finely woven textiles, metalwork, icons and the Nag Hammadi codices, the fourth-century leather-bound books that preserved early Gnostic texts. The galleries are arranged around quiet gardens, and a visit combines naturally with the churches of Coptic Cairo nearby.",
+  "ar": "يقع المتحف القبطي داخل حصن بابليون الروماني في مصر القديمة، بجوار الكنيسة المعلقة وعلى بُعد خطوات من الكنائس التاريخية الأخرى ومعبد بن عزرا. أسسه مرقس سميكة باشا عام 1910، فجمع عناصر معمارية وأعمالًا خشبية ومخطوطات من كنائس كانت تخضع للتجديد، وأدمج كثيرًا منها في بناء المتحف نفسه، فجاءت أسقفه المحفورة ومشربياته ونوافيره على هيئة البيوت القاهرية القديمة. ويضم اليوم أكبر مجموعة للفن القبطي في العالم، تتتبع مسيرة المسيحية المصرية منذ أواخر العصور القديمة مرورًا بالعصور الوسطى والعثمانية، وتكشف كيف استوعب هذا الفن التأثيرات الفرعونية واليونانية والرومانية والبيزنطية قبل أن يصوغ هويته الخاصة. ومن معروضاته أفاريز وتيجان أعمدة منحوتة في الحجر الجيري، وجداريات نُقلت من أديرة مثل باويط وسقارة، ومنسوجات دقيقة، وتحف معدنية، وأيقونات، ومخطوطات نجع حمادي، وهي كتب من القرن الرابع مجلدة بالجلد حفظت نصوصًا غنوصية مبكرة. وتلتف القاعات حول حدائق هادئة، وتكتمل الزيارة على نحو طبيعي بجولة في كنائس مصر القديمة المجاورة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Nag Hammadi codices",
+    "ar": "مخطوطات نجع حمادي"
+   },
+   "desc": {
+    "en": "Fourth-century leather-bound books that preserved early Gnostic Christian texts.",
+    "ar": "كتب مجلدة بالجلد من القرن الرابع حفظت نصوصًا مسيحية غنوصية مبكرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Monastery wall paintings",
+    "ar": "جداريات الأديرة"
+   },
+   "desc": {
+    "en": "Frescoes recovered from the monasteries of Bawit and Apa Jeremiah at Saqqara.",
+    "ar": "رسوم جدارية نُقلت من ديري باويط والأنبا إرميا بسقارة."
+   }
+  },
+  {
+   "title": {
+    "en": "Carved stone friezes and capitals",
+    "ar": "الأفاريز وتيجان الأعمدة الحجرية"
+   },
+   "desc": {
+    "en": "Late-antique sculpture blending classical and Egyptian motifs.",
+    "ar": "نحت من أواخر العصور القديمة يمزج الزخارف الكلاسيكية بالمصرية."
+   }
+  },
+  {
+   "title": {
+    "en": "Icons gallery",
+    "ar": "قاعة الأيقونات"
+   },
+   "desc": {
+    "en": "Painted icons of saints and biblical scenes from Egypt's churches.",
+    "ar": "أيقونات ملونة للقديسين ومشاهد من الكتاب المقدس من كنائس مصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Coptic textiles",
+    "ar": "المنسوجات القبطية"
+   },
+   "desc": {
+    "en": "Tapestry-woven tunics and hangings with figurative and geometric designs.",
+    "ar": "أردية ومعلقات منسوجة بزخارف آدمية وهندسية."
+   }
+  },
+  {
+   "title": {
+    "en": "The museum building",
+    "ar": "مبنى المتحف"
+   },
+   "desc": {
+    "en": "Carved wooden ceilings and mashrabiya salvaged from old Cairo houses and churches.",
+    "ar": "أسقف خشبية محفورة ومشربيات أُنقذت من بيوت القاهرة القديمة وكنائسها."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 280
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 140
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptian seniors aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/CopticMuseum",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Weekday mornings; combine with the Hanging Church, Abu Serga and Ben Ezra Synagogue in one half-day.",
+   "ar": "صباح أيام الأسبوع، مع الجمع بين الزيارة والكنيسة المعلقة وكنيسة أبي سرجة ومعبد بن عزرا في نصف يوم."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded; Coptic Cairo gets busier on Fridays and Sundays around church services.",
+   "ar": "نادرًا ما يزدحم، لكن منطقة مصر القديمة تشهد حركة أكبر يومي الجمعة والأحد مع مواعيد القداسات."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Coptic_Museum_in_Cairo.jpg",
+   "author": "Radosław Botev",
+   "license": "CC BY 3.0 pl",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coptic_Museum_in_Cairo.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Figurative_Capital.jpg",
+   "author": "Aidan McRae Thomson",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Figurative_Capital.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Icons_from_the_Coptic_Museum%2C_Old_Cairo%2C_Egypt.jpg",
+   "author": "Alessiaazari",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Icons_from_the_Coptic_Museum,_Old_Cairo,_Egypt.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Papyri_at_the_Coptic_Museum_in_Cairo_01.jpg",
+   "author": "Votpuske",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Papyri_at_the_Coptic_Museum_in_Cairo_01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/the-coptic-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Coptic_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%82%D8%A8%D8%B7%D9%8A",
+  "osm": "way/197960955"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1784177",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/the-coptic-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/CopticMuseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/10",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close), address",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/المتحف-القبطي/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,freeGroups,address,highlights",
+   "url": "https://egymonuments.gov.eg/en/museums/the-coptic-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,address",
+   "url": "https://en.wikipedia.org/wiki/Coptic_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights,visit (original prose; facts cross-checked)",
+   "url": "https://en.wikipedia.org/wiki/Coptic_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

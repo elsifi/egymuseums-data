@@ -1,0 +1,287 @@
+{
+ "id": "hanging-church",
+ "kind": "site",
+ "wikidataId": "Q2422298",
+ "name": {
+  "en": "The Hanging Church",
+  "ar": "الكنيسة المعلقة"
+ },
+ "aliases": [
+  "الكنيسه المعلقه",
+  "كنيسة المعلقة",
+  "al-Muʿallaqah",
+  "Church of Mother of God Saint Mary in Egyptian Babylon",
+  "Saint Virgin Mary's Coptic Orthodox Church",
+  "Hanging Church"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "ar": "القاهرة",
+  "en": "Cairo"
+ },
+ "area": {
+  "en": "Coptic Cairo (Mar Girgis), Old Cairo",
+  "ar": "القاهرة القبطية (مار جرجس)، مصر القديمة"
+ },
+ "address": {
+  "ar": "شارع مار جرجس، مصر القديمة، القاهرة",
+  "en": "Mar Girgis Street, Old Cairo, Cairo"
+ },
+ "lat": 30.005417,
+ "lng": 31.230083,
+ "status": "open",
+ "statusNote": {
+  "en": "Active Coptic Orthodox church open daily to visitors.",
+  "ar": "كنيسة قبطية أرثوذكسية عامرة بالمصلين، تفتح أبوابها للزوار يوميًا."
+ },
+ "summary": {
+  "ar": "من أشهر الكنائس القبطية في مصر، كُرّست للسيدة العذراء وشُيّدت فوق بوابة حصن بابليون الروماني في مصر القديمة، فبدت كأنها معلّقة في الهواء.",
+  "en": "One of Egypt's best-known Coptic churches, dedicated to the Virgin Mary and raised on top of a gatehouse of the Roman fortress of Babylon in Old Cairo."
+ },
+ "description": {
+  "ar": "اكتسبت كنيسة السيدة العذراء لقب «المعلّقة» لأنها لا تقوم على الأرض مباشرة، بل يرتكز صحنها على برجَي بوابة من بوابات حصن بابليون الروماني، ولذلك يصعد الزائر درجًا من شارع مار جرجس كي يبلغ مدخلها. قامت كنيسة في هذا الموضع منذ أواخر العصور القديمة، وتعاقبت عليها أعمال الترميم والتجديد مرات عديدة، ثم صارت في القرن الحادي عشر مقرًّا لبطاركة الأقباط بعد انتقالهم من الإسكندرية إلى العاصمة. يقسّم الداخلَ ثلاثةُ صفوف من الأعمدة الرخامية على الطراز البازيليكي، ويعلوه سقف خشبي يشبه قاع سفينة مقلوبة، وكثيرًا ما يُربط شكله بسفينة نوح. ومن أبرز ما يستحق التأمل المنبر الرخامي المحمول على أعمدة رشيقة، والأحجبة الخشبية المطعّمة بالعاج والأبنوس التي تفصل الهياكل، ومجموعة كبيرة من الأيقونات يرجع أغلبها إلى القرن الثامن عشر. ويتيح جزء من الأرضية الزجاجية رؤية البناء الأثري القديم أسفل الكنيسة. وتجاور الكنيسة المتحف القبطي، وتقع على مسافة قصيرة من بقية كنائس مجمع مار جرجس والمعبد اليهودي، فيسهل ضمّها إلى جولة نصف يوم في مصر القديمة.",
+  "en": "The Church of the Virgin Mary earned its nickname because it does not sit on the ground at all: its nave is carried over the towers of a gate in the Roman fortress of Babylon, so visitors climb a flight of steps from Mar Girgis Street to reach it. A church has stood here since late antiquity, and the building was repaired and remodelled many times; in the eleventh century it became the seat of the Coptic patriarchs after they moved from Alexandria to the capital. Inside, three rows of marble columns divide a basilica whose timber roof is shaped like an upturned boat, a reference often linked to Noah's Ark. Look for the marble pulpit raised on slender columns, the carved screens inlaid with bone and ebony that close off the sanctuaries, and the large collection of icons, most of them painted in the eighteenth century. A section of glass flooring lets you look down into the ancient masonry below. The church sits beside the Coptic Museum and a short walk from the other churches and the synagogue of the Mar Girgis compound, so it fits easily into a half-day in Old Cairo."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Raised entrance and courtyard",
+    "ar": "المدخل المرتفع والفناء"
+   },
+   "desc": {
+    "en": "Steps lead up from Mar Girgis Street to the church built over the Roman gate.",
+    "ar": "درج يصعد من شارع مار جرجس إلى الكنيسة المقامة فوق البوابة الرومانية."
+   }
+  },
+  {
+   "title": {
+    "en": "Ark-shaped timber roof",
+    "ar": "السقف الخشبي على هيئة السفينة"
+   },
+   "desc": {
+    "en": "A wooden ceiling resembling an upturned ship's hull over the nave.",
+    "ar": "سقف يشبه بدن سفينة مقلوبة يعلو صحن الكنيسة."
+   }
+  },
+  {
+   "title": {
+    "en": "Marble pulpit",
+    "ar": "المنبر الرخامي"
+   },
+   "desc": {
+    "en": "A medieval pulpit carried on slender marble columns.",
+    "ar": "منبر من العصور الوسطى يرتكز على أعمدة رخامية رشيقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Inlaid sanctuary screens",
+    "ar": "الأحجبة الخشبية"
+   },
+   "desc": {
+    "en": "Wooden iconostases decorated with ebony and bone inlay.",
+    "ar": "أحجبة الهياكل المطعّمة بالأبنوس والعاج."
+   }
+  },
+  {
+   "title": {
+    "en": "Icon collection",
+    "ar": "مجموعة الأيقونات"
+   },
+   "desc": {
+    "en": "Dozens of icons, the oldest from the 15th century and most from the late 18th.",
+    "ar": "عشرات الأيقونات، أقدمها من القرن الخامس عشر وأغلبها من أواخر القرن الثامن عشر."
+   }
+  },
+  {
+   "title": {
+    "en": "Glimpse of the Roman fortress",
+    "ar": "إطلالة على الحصن الروماني"
+   },
+   "desc": {
+    "en": "Glass floor panels revealing the ancient structure beneath.",
+    "ar": "ألواح زجاجية في الأرضية تكشف البناء القديم أسفل الكنيسة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "ar": "شهر رمضان (المواعيد المعتادة نفسها)",
+     "en": "Ramadan (same hours as usual)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "ar": "صباح أيام الأسبوع بعد التاسعة بقليل، قبل وصول المجموعات السياحية إلى مجمع الأديان.",
+   "en": "Weekday mornings soon after 9:00, before tour groups arrive in Coptic Cairo."
+  },
+  "crowdNotes": {
+   "ar": "الكنيسة عامرة بالمصلين، لذا يُستحسن الالتزام بملابس محتشمة والهدوء وإفساح المجال للمصلين أثناء الصلوات. تقع محطة مترو مار جرجس (الخط الأول) أمام المجمع مباشرة.",
+   "en": "It is a working church: dress modestly, keep quiet and give way to worshippers when services are held. Mar Girgis metro station (Line 1) is right outside the compound."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hanging_Church%2C_Old_Cairo%2C_Egypt1.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hanging_Church,_Old_Cairo,_Egypt1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Hanging_Church_Cairo_interior_%281%29.jpg",
+   "author": "Radosław Botev",
+   "license": "CC BY 3.0 pl",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hanging_Church_Cairo_interior_(1).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/the-hanging-church/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Hanging_Church",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%82%D8%A9",
+  "osm": "way/197960951"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2422298",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-hanging-church/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/الكنيسة-المعلقة/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-hanging-church/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (no ticket listed; status unconfirmed)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos",
+   "url": "https://commons.wikimedia.org/wiki/File:Hanging_Church,_Old_Cairo,_Egypt1.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "D9: price not confirmed. No ticket is listed by MoTA's guide, egymonuments.gov.eg or the Nov 2024 list; free entry was only inferred, so prices.status is 'unconfirmed' and no price or free claim is shown. Confirm via the MoTA hotline 19654. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

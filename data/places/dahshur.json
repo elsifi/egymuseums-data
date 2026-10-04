@@ -1,0 +1,338 @@
+{
+ "id": "dahshur",
+ "kind": "site",
+ "wikidataId": "Q685414",
+ "name": {
+  "en": "Dahshur (Bent and Red Pyramids)",
+  "ar": "منطقة آثار دهشور"
+ },
+ "aliases": [
+  "دهشور،",
+  "دهشور، الجيزة",
+  "Dahshur",
+  "دهشور"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "giza",
+ "city": {
+  "en": "Badrashin",
+  "ar": "البدرشين"
+ },
+ "area": {
+  "en": "Dahshur",
+  "ar": "دهشور"
+ },
+ "address": {
+  "ar": "منطقة آثار دهشور، مركز البدرشين، محافظة الجيزة (نحو 40 كم جنوب وسط القاهرة)",
+  "en": "Dahshur archaeological zone, Badrashin, Giza (about 40 km south of central Cairo)"
+ },
+ "lat": 29.8,
+ "lng": 31.233333,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Pyramid interiors can close at short notice; ask at the ticket office which are open.",
+  "ar": "الموقع مفتوح يوميًا. وقد يُغلق دخول الأهرامات من الداخل دون إعلان مسبق، فاستفسر عند شباك التذاكر عمّا هو متاح."
+ },
+ "summary": {
+  "ar": "جبّانة ملكية في الصحراء جنوب سقارة، شيّد فيها الملك سنفرو الهرم المنحني والهرم الأحمر، أول هرم كامل الأضلاع الملساء.",
+  "en": "A royal necropolis in the desert south of Saqqara where King Sneferu built the Bent Pyramid and the Red Pyramid, the first true smooth-sided pyramid."
+ },
+ "description": {
+  "ar": "كانت دهشور الطرف الجنوبي لجبّانة منف الكبرى، وهي تحفظ التجارب التي انتقلت بالهرم من شكله المدرّج إلى الهرم الكامل المعروف. شيّد الملك سنفرو، مؤسس الأسرة الرابعة، الهرمَ المنحني أولًا؛ إذ بدأ البنّاؤون بزاوية حادة تبلغ نحو 55 درجة ثم خفّضوها إلى نحو 43 درجة في منتصف الارتفاع، فاكتسب الهرم انحناءته المميزة، وما زال يحتفظ بجزء كبير من كسوته الخارجية. وعلى بعد نحو كيلومتر إلى الشمال أتمّ سنفرو الهرمَ الأحمر، الذي سُمّي بهذا الاسم نسبةً إلى لون أحجاره الضارب إلى الحمرة بعد زوال كسوته البيضاء من حجر طرة. ويُعدّ ثالث أكبر أهرامات مصر، ويستطيع الزائر النزول عبر ممر طويل منخفض من واجهته الشمالية إلى حجرات ذات أسقف متدرجة. وعاد ملوك الدولة الوسطى إلى الموقع لاحقًا، فما زالت بقايا هرمَي أمنمحات الثاني وسنوسرت الثالث، والقلب الطيني الداكن للهرم الأسود الخاص بأمنمحات الثالث، قائمةً بالقرب. وبالمقارنة مع الجيزة تتميز المنطقة بالهدوء والاتساع، فيمكن تأمّل الأهرامات على مهل.",
+  "en": "Dahshur formed the southern end of the great cemetery of Memphis, and it preserves the experiments that turned the step pyramid into the classic smooth pyramid. Sneferu, founder of the Fourth Dynasty, first raised the Bent Pyramid: its builders began at a steep angle of about 55 degrees, then reduced it to about 43 degrees part-way up, giving the monument its unmistakable kink and leaving much of its outer casing intact. About a kilometre to the north he then completed the Red Pyramid, named for the rusty tone of its stone now that the white Tura limestone facing has gone. It is the third-largest pyramid in Egypt, and visitors can descend a long, low passage from its north face into corbel-roofed chambers. Later kings returned to the site in the Middle Kingdom: the ruined pyramids of Amenemhat II and Senusret III, and the dark mud-brick core of the Black Pyramid of Amenemhat III, still stand nearby. Compared with Giza the area is quiet and open, so you can study the pyramids at your own pace."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Bent Pyramid",
+    "ar": "الهرم المنحني"
+   },
+   "desc": {
+    "en": "Sneferu's pyramid with its mid-height change of angle and well-preserved casing.",
+    "ar": "هرم سنفرو بتغيّر زاويته في منتصف الارتفاع وكسوته المحفوظة جيدًا."
+   }
+  },
+  {
+   "title": {
+    "en": "Red Pyramid interior",
+    "ar": "داخل الهرم الأحمر"
+   },
+   "desc": {
+    "en": "A long descending passage leads to tall corbel-vaulted chambers.",
+    "ar": "ممر هابط طويل يؤدي إلى حجرات عالية ذات أسقف متدرجة."
+   }
+  },
+  {
+   "title": {
+    "en": "Red Pyramid exterior",
+    "ar": "الهرم الأحمر من الخارج"
+   },
+   "desc": {
+    "en": "Egypt's third-largest pyramid, the first completed smooth-sided one.",
+    "ar": "ثالث أكبر أهرامات مصر وأول هرم كامل الأضلاع الملساء."
+   }
+  },
+  {
+   "title": {
+    "en": "Black Pyramid of Amenemhat III",
+    "ar": "الهرم الأسود لأمنمحات الثالث"
+   },
+   "desc": {
+    "en": "The eroded mud-brick core of a Middle Kingdom pyramid.",
+    "ar": "القلب الطيني المتآكل لهرم من الدولة الوسطى."
+   }
+  },
+  {
+   "title": {
+    "en": "Pyramid of Senusret III",
+    "ar": "هرم سنوسرت الثالث"
+   },
+   "desc": {
+    "en": "Middle Kingdom pyramid surrounded by tombs of royal women.",
+    "ar": "هرم من الدولة الوسطى تحيط به مقابر أميرات الأسرة المالكة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "ar": "مواعيد شهر رمضان",
+     "en": "Ramadan schedule"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with disabilities"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Dahshur",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 90,
+  "standardMinutes": 150,
+  "deepMinutes": 210,
+  "bestTime": {
+   "ar": "الوصول مع فتح الأبواب في الثامنة صباحًا، خاصة من مايو إلى سبتمبر حين تشتد حرارة الصحراء المكشوفة.",
+   "en": "Arrive at the 8:00 opening, especially from May to September when the open desert gets very hot."
+  },
+  "crowdNotes": {
+   "ar": "أهدأ بكثير من الجيزة، والظل قليل فاحرص على الماء وغطاء الرأس. النزول إلى داخل الهرم الأحمر طويل ومنخفض وشديد الانحدار، ولا يناسب من يعانون رهاب الأماكن المغلقة أو مشكلات الركبة والظهر.",
+   "en": "Far quieter than Giza; there is little shade, so bring water and a hat. The Red Pyramid descent is long, low and steep — not suitable for people with claustrophobia, knee or back problems."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bent_Pyramid_of_Snofru.jpg",
+   "author": "Darer101",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bent_Pyramid_of_Snofru.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Red_Pyramid_at_Dahshur.jpg",
+   "author": "Darer101",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Pyramid_at_Dahshur.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bent_Pyramid_and_Red_Pyramid_from_Saqqarah.JPG",
+   "author": "MusikAnimal",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bent_Pyramid_and_Red_Pyramid_from_Saqqarah.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/dahshur/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Dahshur",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%87%D8%B4%D9%88%D8%B1",
+  "osm": null
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q685414",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/dahshur/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-bent-pyramid/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-red-pyramid/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/منطقة-آثار-دهشور/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/dahshur/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-red-pyramid/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-bent-pyramid/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,lastEntry,freeGroups,tickets",
+   "url": "https://egymonuments.com/details/Dahshur",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices(audience: Arab tier abolished from 2026-01-01)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2025/7/10/2817397/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos",
+   "url": "https://commons.wikimedia.org/wiki/File:Bent_Pyramid_of_Snofru.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "D17: city overridden locally to 'Badrashin' (Wikidata P131 gives the district label 'Markaz al Badrashayn'); Wikidata not edited. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. statusNote reworded as visitor advice (was an editorial 'not verified/confirmed' remark; the open question stays in the batch report)."
+}

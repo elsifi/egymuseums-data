@@ -1,0 +1,375 @@
+{
+ "id": "cairo-citadel",
+ "kind": "site",
+ "wikidataId": "Q1988240",
+ "name": {
+  "en": "Cairo Citadel (Citadel of Salah al-Din)",
+  "ar": "قلعة صلاح الدين الأيوبي"
+ },
+ "aliases": [
+  "قلعة الجبل",
+  "قلعه صلاح الدين الأيوبي",
+  "Citadel of Cairo",
+  "Citadel of the Mountain (Cairo, Egypt)",
+  "Mohamed Ali Citadel",
+  "Qalʻah (Cairo, Egypt)",
+  "Qalʻat al-Jabal (Cairo, Egypt)",
+  "Saladin's Citadel of Cairo",
+  "The Saladin Citadel of Cairo",
+  "Cairo Citadel"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Muqattam spur, El-Khalifa district",
+  "ar": "ربوة من جبل المقطم، حي الخليفة"
+ },
+ "address": {
+  "en": "Salah Salem Street, El-Khalifa, Cairo — on the Muqattam hills above Salah al-Din Square",
+  "ar": "شارع صلاح سالم، حي الخليفة، القاهرة — على تلال المقطم أعلى ميدان صلاح الدين"
+ },
+ "lat": 30.0294,
+ "lng": 31.2614,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. One area ticket covers the Citadel enclosure, its mosques and museums. Individual museums inside, such as Al-Gawhara Palace and the Military and Police museums, can be closed separately, so check on arrival.",
+  "ar": "مفتوحة يوميًا. وتشمل تذكرة واحدة للمنطقة سور القلعة وما بداخله من مساجد ومتاحف. وقد يُغلق بعض المتاحف بداخلها، مثل قصر الجوهرة والمتحف الحربي ومتحف الشرطة، بشكل منفصل، لذا تحقّق عند الوصول."
+ },
+ "summary": {
+  "en": "Saladin's medieval fortress above Cairo, crowned by the Ottoman-style Mosque of Muhammad Ali and offering sweeping city views.",
+  "ar": "قلعة صلاح الدين الحصينة فوق القاهرة، يتوجها جامع محمد علي ذو الطراز العثماني وتطل على المدينة كلها."
+ },
+ "description": {
+  "en": "Crowning a spur of the Muqattam hills, the Citadel of Salah al-Din was begun in 1176 as a fortress to protect Cairo and was completed under Sultan al-Kamil, who made it the seat of government. For almost seven centuries Egypt's rulers lived and governed within its walls, until Khedive Ismail moved the court to Abdeen Palace in the nineteenth century. The skyline is dominated by the Mosque of Muhammad Ali, built in the first half of the nineteenth century in an Ottoman style, with two slender pencil minarets, a broad domed prayer hall and walls clad in alabaster; a clock tower given by the French king stands in its courtyard. Nearby are the fourteenth-century mosque of Sultan al-Nasir Muhammad ibn Qalawun, with tiled tops to its minarets, and the smaller Ottoman mosque of Sulayman Pasha al-Khadim. The enclosure also houses several museums, including the Military Museum, the Police Museum and the Al-Gawhara Palace. From the terraces there is a wide view over the domes and minarets of historic Cairo and, on clear days, as far as the pyramids.",
+  "ar": "على نتوء من تلال المقطم تقف قلعة صلاح الدين التي بدأ تشييدها عام 1176 حصنًا لحماية القاهرة، واكتمل بناؤها في عهد السلطان الكامل الذي اتخذها مقرًا للحكم. وظل حكام مصر يقيمون فيها ويديرون شؤون البلاد من داخل أسوارها نحو سبعة قرون، حتى نقل الخديوي إسماعيل مقر الحكم إلى قصر عابدين في القرن التاسع عشر. ويهيمن على أفقها جامع محمد علي الذي شُيّد في النصف الأول من القرن التاسع عشر على الطراز العثماني، بمئذنتيه الرشيقتين وقاعة صلاته الفسيحة ذات القباب وجدرانه المكسوة بالمرمر، وفي صحنه برج ساعة أهداه ملك فرنسا. وعلى مقربة منه جامع السلطان الناصر محمد بن قلاوون من القرن الرابع عشر بقمم مآذنه المكسوة بالقيشاني، وجامع سليمان باشا الخادم العثماني الأصغر حجمًا. وتضم القلعة كذلك عدة متاحف، منها المتحف الحربي ومتحف الشرطة وقصر الجوهرة. ومن شرفاتها يمتد المشهد فوق قباب القاهرة التاريخية ومآذنها، وقد يبلغ البصر الأهرامات في الأيام الصافية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Mosque of Muhammad Ali",
+    "ar": "جامع محمد علي"
+   },
+   "desc": {
+    "en": "The alabaster-clad Ottoman-style mosque whose domes and minarets define Cairo's skyline.",
+    "ar": "الجامع المكسو بالمرمر على الطراز العثماني، وقبابه ومآذنه علامة مميزة في أفق القاهرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Mosque of al-Nasir Muhammad ibn Qalawun",
+    "ar": "جامع الناصر محمد بن قلاوون"
+   },
+   "desc": {
+    "en": "A Mamluk royal mosque with green-tiled minaret tops.",
+    "ar": "جامع ملكي مملوكي تعلو مآذنه قمم مكسوة بالقيشاني الأخضر."
+   }
+  },
+  {
+   "title": {
+    "en": "Mosque of Sulayman Pasha al-Khadim",
+    "ar": "جامع سليمان باشا الخادم"
+   },
+   "desc": {
+    "en": "The first Ottoman-style mosque in Cairo, with a painted interior.",
+    "ar": "أول جامع على الطراز العثماني في القاهرة، بزخارف داخلية ملونة."
+   }
+  },
+  {
+   "title": {
+    "en": "Military Museum",
+    "ar": "المتحف الحربي"
+   },
+   "desc": {
+    "en": "Egypt's military history housed in a former palace of the Muhammad Ali era.",
+    "ar": "تاريخ مصر العسكري معروضًا في قصر من عهد أسرة محمد علي."
+   }
+  },
+  {
+   "title": {
+    "en": "Police Museum",
+    "ar": "متحف الشرطة"
+   },
+   "desc": {
+    "en": "A small museum beside the old Citadel prison with views over the city.",
+    "ar": "متحف صغير بجوار سجن القلعة القديم يطل على المدينة."
+   }
+  },
+  {
+   "title": {
+    "en": "Panoramic terraces",
+    "ar": "الشرفات البانورامية"
+   },
+   "desc": {
+    "en": "A sweeping view over the minarets of historic Cairo towards Giza.",
+    "ar": "إطلالة واسعة على مآذن القاهرة التاريخية حتى الجيزة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "08:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 30
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 550
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 275
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptian seniors aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/SalahEldinCitadel",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 120,
+  "deepMinutes": 180,
+  "bestTime": {
+   "en": "Morning for the mosques; late afternoon before closing for warm light over the city from the terraces.",
+   "ar": "الصباح لزيارة المساجد، وقبيل الإغلاق بعد العصر للاستمتاع بالضوء الدافئ فوق المدينة من الشرفات."
+  },
+  "crowdNotes": {
+   "en": "The Muhammad Ali Mosque courtyard is busiest late morning. Dress modestly for the mosques; shoes are removed at the entrance.",
+   "ar": "يزدحم صحن جامع محمد علي في أواخر الصباح. يُرجى ارتداء ملابس محتشمة عند دخول المساجد وخلع الأحذية عند أبوابها."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cairo%2C_Cairo_Citadel%2C_Muhammad_Ali_Mosque%2C_Egypt.jpg",
+   "author": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo,_Cairo_Citadel,_Muhammad_Ali_Mosque,_Egypt.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Muhammad_Ali_Mosque%2C_Citadel%2C_Cairo%2C_Egypt3.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_Mosque,_Citadel,_Cairo,_Egypt3.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Muhammad_Ali_mosque%2C_Cairo_citadel_-_facade.jpg",
+   "author": "mark muehlhaeusler",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_mosque,_Cairo_citadel_-_facade.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/cairo-citadel/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Cairo_Citadel",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_(%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)",
+  "osm": "way/24908286"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1988240",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/cairo-citadel/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/muhammad-ali-mosque/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/sultan-al-nasir-muhammad-mosque/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/mosque-of-sulayman-pasha-al-khadim-saraya-al-jabal-mosque/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/josephs-well/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/citadel-prison/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-towers-citadel-of-salah-al-din-ayyubi/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/SalahEldinCitadel",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/16",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close), address, highlights",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/قلعة-صلاح-الدين-الأيوبي/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,freeGroups,address,highlights",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/cairo-citadel/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights,visit (original prose; facts cross-checked)",
+   "url": "https://en.wikipedia.org/wiki/Cairo_Citadel",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.dailynewsegypt.com, www.nileempire.com); needs an official 2025-2026 source. D3: Ramadan last entry set to 15:00 (MoTA guide closing 16:00 with its one-hour rule), earlier than egymonuments.com's 15:30. D5: opening 08:00 all year; the 'summer 09:00' on egymonuments.com is treated as a data error. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. statusNote reworded as visitor advice (was an editorial 'not verified/confirmed' remark; the open question stays in the batch report)."
+}

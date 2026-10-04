@@ -1,0 +1,355 @@
+{
+ "id": "museum-of-islamic-art",
+ "kind": "museum",
+ "wikidataId": "Q3330629",
+ "name": {
+  "en": "Museum of Islamic Art",
+  "ar": "متحف الفن الإسلامي بالقاهرة"
+ },
+ "aliases": [
+  "MIA",
+  "متحف الفن الإسلامي بالقاهره",
+  "Museum of Islamic Art, Cairo"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Bab El Khalq",
+  "ar": "باب الخلق"
+ },
+ "address": {
+  "en": "Port Said Street, Bab El Khalq Square, Cairo (shares the building with the National Library)",
+  "ar": "شارع بورسعيد، ميدان باب الخلق، القاهرة (في المبنى نفسه مع دار الكتب)"
+ },
+ "lat": 30.044722,
+ "lng": 31.252778,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Reopened in 2017 after restoration of damage from the 2014 bombing opposite the museum.",
+  "ar": "مفتوح يوميًا. أُعيد افتتاحه عام 2017 بعد ترميم الأضرار التي خلّفها تفجير عام 2014 أمام المتحف."
+ },
+ "summary": {
+  "en": "One of the world's great collections of Islamic art, from Mamluk glass lamps to carved woodwork and rare manuscripts, in a 1903 Neo-Mamluk building.",
+  "ar": "واحدة من أعظم مجموعات الفن الإسلامي في العالم، من مشكاوات المماليك الزجاجية إلى الأخشاب المحفورة والمخطوطات النادرة، في مبنى مملوكي الطراز يعود إلى 1903."
+ },
+ "description": {
+  "en": "Housed in a Neo-Mamluk building opened in 1903 at Bab al-Khalq, the Museum of Islamic Art holds one of the largest collections of art from the Islamic world. Collecting began in 1880, when objects from Cairo's mosques and houses were first gathered for safekeeping, and the present building, shared with the National Library, was purpose-built under Khedive Abbas Hilmi II. In 2014 a car bomb aimed at the security headquarters across the street badly damaged the façade and many exhibits; after careful restoration the museum reopened in 2017 with a refreshed display. One section follows the dynasties that ruled Egypt and its neighbours, from the Umayyads and Abbasids through the Fatimids, Ayyubids and Mamluks to the Ottomans, while another is arranged by theme, covering science, medicine, architecture and daily life. Look for Mamluk enamelled glass mosque lamps, finely carved wooden panels and doors, lustre ceramics, inlaid metalwork, illuminated manuscripts, a Mamluk key to the Kaaba and a textile bearing one of the oldest Kufic inscriptions. The galleries are rarely crowded, making this an easy and rewarding stop on the way to the old city.",
+  "ar": "يشغل متحف الفن الإسلامي مبنى على الطراز المملوكي الجديد افتُتح عام 1903 في باب الخلق، ويضم واحدة من أكبر مجموعات فنون العالم الإسلامي. بدأ جمع مقتنياته عام 1880 حين جُمعت قطع من مساجد القاهرة وبيوتها لصونها، ثم شُيّد مبناه الحالي المشترك مع دار الكتب في عهد الخديوي عباس حلمي الثاني. وفي عام 2014 ألحق انفجار سيارة مفخخة استهدف مديرية الأمن المقابلة أضرارًا جسيمة بالواجهة وبكثير من المعروضات، وبعد ترميم دقيق أعيد افتتاح المتحف عام 2017 بعرض متحفي متجدد. يتتبع جانب من القاعات الدولَ التي حكمت مصر وجوارها، من الأمويين والعباسيين إلى الفاطميين والأيوبيين والمماليك ثم العثمانيين، بينما يُنظَّم جانب آخر وفق موضوعات تشمل العلوم والطب والعمارة والحياة اليومية. ومن أبرز ما يستحق التأمل مشكاوات المماليك الزجاجية المموهة بالمينا، والحشوات والأبواب الخشبية المحفورة بدقة، والخزف ذو البريق المعدني، والتحف المعدنية المطعمة، والمخطوطات المزخرفة، ومفتاح الكعبة المملوكي، ونسيج يحمل واحدًا من أقدم النقوش الكوفية. ونادرًا ما تزدحم قاعاته، مما يجعله محطة ميسّرة وثرية في الطريق إلى القاهرة التاريخية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Mamluk enamelled glass mosque lamps",
+    "ar": "مشكاوات المماليك الزجاجية"
+   },
+   "desc": {
+    "en": "Gilded lamps inscribed with the names of sultans and emirs.",
+    "ar": "مشكاوات مذهبة ومموهة بالمينا تحمل أسماء السلاطين والأمراء."
+   }
+  },
+  {
+   "title": {
+    "en": "Mamluk key to the Kaaba",
+    "ar": "مفتاح الكعبة المملوكي"
+   },
+   "desc": {
+    "en": "A ceremonial key made for the door of the Kaaba in Mecca.",
+    "ar": "مفتاح احتفالي صُنع لباب الكعبة المشرفة في مكة."
+   }
+  },
+  {
+   "title": {
+    "en": "Textile with early Kufic inscription",
+    "ar": "نسيج بنقش كوفي مبكر"
+   },
+   "desc": {
+    "en": "Among the oldest dated examples of Kufic script on fabric.",
+    "ar": "من أقدم الأمثلة المؤرخة للخط الكوفي على المنسوجات."
+   }
+  },
+  {
+   "title": {
+    "en": "Carved woodwork",
+    "ar": "الأعمال الخشبية المحفورة"
+   },
+   "desc": {
+    "en": "Fatimid and Mamluk panels, doors and minbars showing intricate geometric and floral carving.",
+    "ar": "حشوات وأبواب ومنابر فاطمية ومملوكية بزخارف هندسية ونباتية دقيقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Rare manuscripts and Qurans",
+    "ar": "المخطوطات النادرة والمصاحف"
+   },
+   "desc": {
+    "en": "Illuminated copies and scientific texts from across the Islamic world.",
+    "ar": "نسخ مزخرفة ونصوص علمية من أرجاء العالم الإسلامي."
+   }
+  },
+  {
+   "title": {
+    "en": "Ceramics gallery",
+    "ar": "قاعة الخزف"
+   },
+   "desc": {
+    "en": "Lustreware and glazed pottery from Egypt, Iran and Anatolia.",
+    "ar": "أوانٍ ذات بريق معدني وفخار مزجج من مصر وإيران والأناضول."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 340
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 170
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptian seniors aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/IslamicMuseum",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Any weekday morning; pair it with Bab Zuwayla and al-Muizz Street, a short walk east.",
+   "ar": "أي صباح من أيام الأسبوع، ويمكن الجمع بينه وبين باب زويلة وشارع المعز على مسافة قصيرة سيرًا شرقًا."
+  },
+  "crowdNotes": {
+   "en": "Usually quiet; school groups occasionally visit in the morning. Food and drink (except small water bottles) are not allowed in the galleries.",
+   "ar": "هادئ في الغالب، وقد تزوره رحلات مدرسية صباحًا. يُمنع إدخال الطعام والمشروبات إلى القاعات باستثناء زجاجات المياه الصغيرة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/MIA006.jpg",
+   "author": "Clemens Schmillen",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MIA006.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mosque_lamp_in_the_name_of_Amir_Shaykhu%2C_Egypt%2C_15th_cent.%2C_Cairo%2C_Museum_of_Islamic_Art_%281%29.jpg",
+   "author": "Prof. Mortel",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosque_lamp_in_the_name_of_Amir_Shaykhu,_Egypt,_15th_cent.,_Cairo,_Museum_of_Islamic_Art_(1).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Museum_of_Islamic_Art%2C_Cairo.jpg",
+   "author": "richardavis",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_Islamic_Art,_Cairo.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/museum-of-islamic-art/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art,_Cairo",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%81%D9%86_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A_(%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)",
+  "osm": "way/46579853"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q3330629",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/museum-of-islamic-art/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/IslamicMuseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/27",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close), address, status",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-الفن-الإسلامي/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,freeGroups,address,highlights",
+   "url": "https://egymonuments.gov.eg/en/museums/museum-of-islamic-art/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,address",
+   "url": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art,_Cairo",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights,visit (original prose; facts cross-checked)",
+   "url": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art,_Cairo",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "D3: Ramadan last entry set to 14:00 (MoTA guide closing 15:00 with its one-hour rule), earlier than egymonuments.com's 14:30. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

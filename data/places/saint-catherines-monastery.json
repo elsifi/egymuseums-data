@@ -1,0 +1,284 @@
+{
+ "id": "saint-catherines-monastery",
+ "kind": "site",
+ "wikidataId": "Q185362",
+ "name": {
+  "en": "Saint Catherine's Monastery",
+  "ar": "دير سانت كاترين"
+ },
+ "aliases": [
+  "Monastery of the Transfiguration",
+  "سانت كاترين",
+  "دير القديسة كاترين",
+  "دير سنت كاترين",
+  "St Catherine's Monastery",
+  "Monastery of the Burning Bush",
+  "St. Catherine's Monastery",
+  "Saint Catherine Monastery"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "south-sinai",
+ "city": {
+  "en": "Saint Catherine",
+  "ar": "سانت كاترين"
+ },
+ "area": {
+  "en": "Foot of Mount Sinai (Jebel Musa)",
+  "ar": "سفح جبل موسى"
+ },
+ "address": {
+  "en": "Saint Catherine, South Sinai (at the foot of Mount Sinai)",
+  "ar": "مدينة سانت كاترين، جنوب سيناء (عند سفح جبل موسى)"
+ },
+ "lat": 28.555831,
+ "lng": 33.975561,
+ "status": "open",
+ "statusNote": {
+  "en": "Working Greek Orthodox monastery with short morning visiting hours; closed on 28 feast days in 2026 (1 in November, 4 in December). Only the church area and museum are open to visitors; modest dress is expected; organised guided tours and recordings are not allowed inside.",
+  "ar": "دير يوناني أرثوذكسي عامر بمواعيد زيارة صباحية قصيرة؛ ويُغلق 28 يومًا للأعياد في 2026 (يوم في نوفمبر و4 أيام في ديسمبر). لا يُتاح للزوار إلا محيط الكنيسة والمتحف، ويُنتظر الالتزام بالملابس المحتشمة، ولا يُسمح بالجولات المرشدة المنظمة أو التسجيل بالداخل."
+ },
+ "summary": {
+  "en": "A sixth-century fortified monastery at the foot of Mount Sinai, still home to Greek Orthodox monks and guardian of famous icons and manuscripts.",
+  "ar": "دير محصّن من القرن السادس عند سفح جبل موسى، ما زال يسكنه رهبان يونانيون أرثوذكس، ويحفظ أيقونات ومخطوطات ذائعة الصيت."
+ },
+ "description": {
+  "en": "Emperor Justinian built this fortress-monastery in the mid-sixth century around the spot long venerated as the place where Moses saw the Burning Bush. Its granite walls have stood almost unchanged since then, and monks have lived inside without interruption, which makes it one of the oldest continuously inhabited Christian monasteries in the world. The basilica, known as the Catholicon of the Transfiguration, keeps its original wooden doors and roof beams, and its apse is covered by a celebrated early Byzantine mosaic. Behind it grows a bush identified by tradition with the one in the Bible, and in the courtyard is a well associated with Moses. A small mosque within the walls dates from the Fatimid period and reflects centuries of coexistence with the surrounding Bedouin. The monastery's collection of icons, some painted in encaustic in the sixth century, and its library of ancient manuscripts are among the most important in Christendom, and part of the treasury is shown in the museum. Many visitors combine the visit with a night climb of Mount Sinai to watch the sunrise.",
+  "ar": "بنى الإمبراطور جستنيان هذا الدير الحصين في منتصف القرن السادس حول الموضع الذي طالما قُدّس بوصفه مكان رؤية موسى للعليقة المشتعلة. وظلت أسواره الجرانيتية قائمة دون تغيير يُذكر منذ ذلك الحين، وعاش الرهبان داخلها بلا انقطاع، مما يجعله من أقدم الأديرة المسيحية المأهولة باستمرار في العالم. وتحتفظ الكنيسة الكبرى، المعروفة بكنيسة التجلي، بأبوابها الخشبية وعوارض سقفها الأصلية، وتغطي حنيتَها فسيفساءُ بيزنطية مبكرة شهيرة. وخلفها تنمو شجيرة يربطها التقليد بالعليقة الواردة في الكتاب المقدس، وفي الفناء بئر تُنسب إلى موسى. وداخل الأسوار مسجد صغير يرجع إلى العصر الفاطمي، يعكس قرونًا من التعايش مع البدو المحيطين بالدير. وتُعد مجموعة أيقونات الدير، وبعضها مرسوم بالشمع الساخن في القرن السادس، ومكتبةُ مخطوطاته القديمة من أهم ما في العالم المسيحي، ويُعرض جانب من كنوزه في المتحف. ويجمع كثير من الزوار بين زيارة الدير وصعود جبل موسى ليلًا لمشاهدة الشروق."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Catholicon of the Transfiguration",
+    "ar": "كنيسة التجلي"
+   },
+   "desc": {
+    "en": "Sixth-century basilica with its original doors and roof beams.",
+    "ar": "كنيسة من القرن السادس بأبوابها وعوارض سقفها الأصلية."
+   }
+  },
+  {
+   "title": {
+    "en": "Transfiguration mosaic",
+    "ar": "فسيفساء التجلي"
+   },
+   "desc": {
+    "en": "Early Byzantine apse mosaic above the altar.",
+    "ar": "فسيفساء بيزنطية مبكرة في حنية الهيكل."
+   }
+  },
+  {
+   "title": {
+    "en": "Burning Bush",
+    "ar": "شجرة العليقة"
+   },
+   "desc": {
+    "en": "The bush that tradition links to Moses' vision.",
+    "ar": "الشجيرة التي يربطها التقليد برؤيا موسى."
+   }
+  },
+  {
+   "title": {
+    "en": "Well of Moses",
+    "ar": "بئر موسى"
+   },
+   "desc": {
+    "en": "Ancient well in the monastery courtyard.",
+    "ar": "بئر قديمة في فناء الدير."
+   }
+  },
+  {
+   "title": {
+    "en": "Museum (Sacristy)",
+    "ar": "المتحف"
+   },
+   "desc": {
+    "en": "Icons, manuscripts and liturgical treasures on display.",
+    "ar": "أيقونات ومخطوطات وكنوز كنسية معروضة."
+   }
+  },
+  {
+   "title": {
+    "en": "Justinian's walls and Fatimid mosque",
+    "ar": "أسوار جستنيان والمسجد الفاطمي"
+   },
+   "desc": {
+    "en": "Fortress walls enclosing a small medieval mosque.",
+    "ar": "أسوار حصينة تضم مسجدًا صغيرًا من العصور الوسطى."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:45",
+    "close": "11:30"
+   },
+   {
+    "day": "sun",
+    "open": "08:45",
+    "close": "11:30"
+   },
+   {
+    "day": "mon",
+    "open": "08:45",
+    "close": "11:30"
+   },
+   {
+    "day": "tue",
+    "open": "08:45",
+    "close": "11:30"
+   },
+   {
+    "day": "wed",
+    "open": "08:45",
+    "close": "11:30"
+   },
+   {
+    "day": "thu",
+    "open": "08:45",
+    "close": "11:30"
+   },
+   {
+    "day": "fri",
+    "open": "10:45",
+    "close": "11:30"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Closed on Greek Orthodox feast days: 28 days in 2026 (6 Jan, 3 Feb, 8 Apr, 2 May, 1 Jun, 2 Aug, 1 Sep, 1 Nov, 4 Dec; none in Mar, Jul, Oct). Check exact dates locally.",
+     "ar": "يُغلق في أعياد الكنيسة اليونانية الأرثوذكسية: 28 يومًا في 2026 (6 في يناير، 3 في فبراير، 8 في أبريل، 2 في مايو، 1 في يونيو، 2 في أغسطس، 1 في سبتمبر، 1 في نوفمبر، 4 في ديسمبر؛ ولا إغلاق في مارس ويوليو وأكتوبر). تحقّق من التواريخ محليًا."
+    },
+    "rule": "Greek Orthodox feast days (monastery calendar)"
+   }
+  ]
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Arrive at opening (08:45; 10:45 on Fridays): the visiting window is under three hours and closes at 11:30.",
+   "ar": "احرص على الوصول عند الافتتاح (08:45، و10:45 يوم الجمعة)؛ فنافذة الزيارة أقل من ثلاث ساعات وتنتهي في 11:30."
+  },
+  "crowdNotes": {
+   "en": "Busiest right after sunrise climbers come down Mount Sinai and when day trips from Sharm el-Sheikh and Dahab arrive; dress modestly, as the monks ask visitors to respect the sanctity of the site.",
+   "ar": "يشتد الزحام بعد نزول صاعدي جبل موسى عقب الشروق ووصول الرحلات اليومية من شرم الشيخ ودهب؛ والتزم بالملابس المحتشمة احترامًا لقدسية المكان كما يطلب الرهبان."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Katharinenkloster_Sinai_BW_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Berthold Werner",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW_2.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Katharinenkloster_Sinai_BW_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Berthold Werner",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW_4.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Outside_wall_of_St._Catherine%27s_Convent_-_Mt._Sinai_LCCN2004672945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Underwood & Underwood, photographer",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outside_wall_of_St._Catherine%27s_Convent_-_Mt._Sinai_LCCN2004672945.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "https://www.sinaimonastery.com/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/saint-catherine-s-monastery/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Saint_Catherine%27s_Monastery",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%B3%D8%A7%D9%86%D8%AA_%D9%83%D8%A7%D8%AA%D8%B1%D9%8A%D9%86",
+  "osm": "node/2701123706"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q185362",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/saint-catherine-s-monastery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-church-of-the-burning-bush/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-library-of-saint-catherine-s-monastery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-fatimid-mosque/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,hours.exceptions,status (monastery advisor statement, dated Apr 2026)",
+   "url": "https://www.masrawy.com/news/news_regions/details/2026/4/9/2969776/%D8%BA%D9%84%D9%82-%D8%AF%D9%8A%D8%B1-%D8%B3%D8%A7%D9%86%D8%AA-%D9%83%D8%A7%D8%AA%D8%B1%D9%8A%D9%86-3-%D8%A3%D9%8A%D8%A7%D9%85-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,statusNote (visitor areas, decorum, no guided tours/recordings),hours (conflict)",
+   "url": "https://www.sinaimonastery.com/index.php/en/the-pilgrimage/general-information",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "contacts",
+   "url": "https://www.sinaimonastery.com/index.php/en/the-pilgrimage/contact-the-monastery",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (monastery receiving visitors, Sept 2026)",
+   "url": "https://www.youm7.com/story/2026/9/4/%D8%B3%D8%A7%D9%86%D8%AA-%D9%83%D8%A7%D8%AA%D8%B1%D9%8A%D9%86-%D8%AA%D8%B3%D8%AA%D9%82%D8%A8%D9%84-515-%D8%B3%D8%A7%D8%A6%D8%AD%D8%A7-%D8%A8%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%86-%D9%85%D8%B9-%D8%B9%D8%B7%D9%84%D8%A9-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9/7535809",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (conflict, portal)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/saint-catherine-s-monastery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Saint_Catherine%27s_Monastery",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW_2.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW_4.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Outside_wall_of_St._Catherine%27s_Convent_-_Mt._Sinai_LCCN2004672945.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "low",
+ "curationNote": "D10: hours follow masrawy 2026-04-09 (monastery adviser): Sat–Thu 08:45–11:30, Fri 10:45–11:30. Conflicts: the monastery's undated site says 09:00–11:30 closed Fri and Sun; the egymonuments portal says 08:45–12:45, Fri 10:30–11:30, Sun closed. Recheck Nov/Dec 2026 feast-day closure dates."
+}

@@ -1,0 +1,416 @@
+{
+ "id": "al-muizz-street",
+ "kind": "site",
+ "wikidataId": "Q4119402",
+ "name": {
+  "en": "Al-Muizz Street",
+  "ar": "شارع المعز لدين الله الفاطمي"
+ },
+ "aliases": [
+  "شارع المعز لدين الله",
+  "Muizz Street"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Al-Gamaliya, Historic Cairo",
+  "ar": "الجمالية، القاهرة التاريخية"
+ },
+ "address": {
+  "en": "Al-Muizz li-Din Allah Street, Al-Gamaliya, Historic Cairo — from Bab al-Futuh (north) to Bab Zuwayla (south)",
+  "ar": "شارع المعز لدين الله الفاطمي، الجمالية، القاهرة التاريخية — من باب الفتوح شمالًا إلى باب زويلة جنوبًا"
+ },
+ "lat": 30.0467,
+ "lng": 31.26,
+ "status": "open",
+ "statusNote": {
+  "en": "The street itself is a public thoroughfare open at all hours. The ticketed monuments (Qalawun group, Barquq, al-Nasir Muhammad, al-Kamil school, Sulayman Agha al-Silahdar, Hammam Inal, Bashtak Palace, Maimonides synagogue) follow the hours below on a single area ticket; Bayt al-Suhaymi, Wikalat Bazaraa and Bab Zuwayla have their own tickets.",
+  "ar": "الشارع نفسه طريق عام مفتوح في كل الأوقات. أما الآثار التي تتطلب تذكرة (مجموعة قلاوون، وبرقوق، والناصر محمد، والمدرسة الكاملية، وسبيل سليمان أغا السلحدار، وحمام إينال، وقصر بشتاك، ومعبد موسى بن ميمون) فتخضع للمواعيد الواردة أدناه وتشملها تذكرة واحدة للمنطقة، بينما لبيت السحيمي ووكالة بازرعة وباب زويلة تذاكر خاصة بها."
+ },
+ "summary": {
+  "en": "Medieval Cairo's main street, lined with Fatimid, Mamluk and Ottoman mosques, palaces and fountains between two ancient city gates.",
+  "ar": "الشارع الأعظم في القاهرة الوسيطة، تصطف على جانبيه مساجد وقصور وأسبلة فاطمية ومملوكية وعثمانية بين بوابتين تاريخيتين."
+ },
+ "description": {
+  "en": "Al-Muizz Street runs about a kilometre through the heart of historic Cairo, from the Fatimid gate of Bab al-Futuh in the north to Bab Zuwayla in the south, following the main axis of the walled city founded in 969. Named in 1937 after the caliph al-Muizz li-Din Allah, it lies within the Historic Cairo World Heritage Site and has one of the densest concentrations of medieval Islamic architecture anywhere: some twenty-nine listed monuments spanning a thousand years. Walking its length, visitors pass the Fatimid mosques of al-Hakim and al-Aqmar, the Ayyubid tomb of al-Salih Najm al-Din, and the great Mamluk ensemble of Sultan Qalawun, al-Nasir Muhammad and Barquq, with its hospital, domes and carved stucco. Ottoman fountain-schools, merchant houses such as Bayt al-Suhaymi and the restored bath of Sultan Inal add domestic and civic layers. Restoration campaigns since the late 1990s have transformed the northern section, which comes alive in the evening with families, craft shops and cafés, while the southern stretch merges into the busy markets of al-Ghuriya and Khan al-Khalili.",
+  "ar": "يمتد شارع المعز نحو كيلومتر واحد في قلب القاهرة التاريخية، من باب الفتوح الفاطمي شمالًا إلى باب زويلة جنوبًا، متتبعًا المحور الرئيسي للمدينة المسوّرة التي أُسست عام 969. وقد حمل اسم الخليفة المعز لدين الله منذ عام 1937، ويقع ضمن موقع القاهرة التاريخية المدرج على قائمة التراث العالمي، ويضم واحدًا من أكثف تجمعات العمارة الإسلامية الوسيطة في العالم، إذ يصطف فيه نحو تسعة وعشرين أثرًا مسجلًا تمتد عبر ألف عام. ويمر السائر فيه بجامعي الحاكم بأمر الله والأقمر الفاطميين، وقبة الصالح نجم الدين أيوب، ثم المجموعة المملوكية الكبرى للسلطان قلاوون والناصر محمد وبرقوق بما فيها من بيمارستان وقباب وزخارف جصية محفورة. وتضيف الأسبلة والكتاتيب العثمانية، وبيوت التجار مثل بيت السحيمي، وحمام السلطان إينال بعد ترميمه، طبقات من الحياة المدنية والمنزلية. وقد غيّرت أعمال الترميم المتتالية منذ أواخر التسعينيات وجه الجزء الشمالي من الشارع، فصار يعج مساءً بالأسر ومحلات الحرف والمقاهي، بينما يندمج جزؤه الجنوبي في أسواق الغورية وخان الخليلي المزدحمة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Qalawun complex",
+    "ar": "مجموعة قلاوون"
+   },
+   "desc": {
+    "en": "A Mamluk mausoleum, madrasa and hospital with one of Cairo's most lavish domed tombs.",
+    "ar": "قبة ومدرسة وبيمارستان مملوكي، وقبتها من أفخم أضرحة القاهرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Madrasa and khanqah of Sultan Barquq",
+    "ar": "مدرسة وخانقاه السلطان برقوق"
+   },
+   "desc": {
+    "en": "A late-Mamluk complex with a richly decorated prayer hall.",
+    "ar": "مجموعة من أواخر العصر المملوكي بإيوان قبلة غني بالزخارف."
+   }
+  },
+  {
+   "title": {
+    "en": "Al-Aqmar Mosque",
+    "ar": "جامع الأقمر"
+   },
+   "desc": {
+    "en": "A small Fatimid mosque famous for its carved stone façade.",
+    "ar": "جامع فاطمي صغير تشتهر واجهته الحجرية بنقوشها البديعة."
+   }
+  },
+  {
+   "title": {
+    "en": "Mosque of al-Hakim bi-Amr Allah",
+    "ar": "جامع الحاكم بأمر الله"
+   },
+   "desc": {
+    "en": "A vast Fatimid congregational mosque beside the northern walls.",
+    "ar": "جامع فاطمي جامع فسيح ملاصق للسور الشمالي."
+   }
+  },
+  {
+   "title": {
+    "en": "Bab al-Futuh and Bab al-Nasr",
+    "ar": "باب الفتوح وباب النصر"
+   },
+   "desc": {
+    "en": "Eleventh-century stone gates and walls of Fatimid Cairo.",
+    "ar": "بوابتان وسور حجري من القرن الحادي عشر يعود إلى القاهرة الفاطمية."
+   }
+  },
+  {
+   "title": {
+    "en": "Bayt al-Suhaymi",
+    "ar": "بيت السحيمي"
+   },
+   "desc": {
+    "en": "An Ottoman merchant's house with courtyard, mashrabiya and reception halls (separate ticket).",
+    "ar": "بيت تاجر عثماني بفنائه ومشربياته وقاعات استقباله (بتذكرة منفصلة)."
+   }
+  },
+  {
+   "title": {
+    "en": "Sabil-kuttab of Abd al-Rahman Katkhuda",
+    "ar": "سبيل وكتاب عبد الرحمن كتخدا"
+   },
+   "desc": {
+    "en": "An eighteenth-century fountain and Qur'an school at a street fork.",
+    "ar": "سبيل ومكتب لتحفيظ القرآن من القرن الثامن عشر عند مفترق الطريق."
+   }
+  },
+  {
+   "title": {
+    "en": "Hammam of Sultan Inal",
+    "ar": "حمام السلطان إينال"
+   },
+   "desc": {
+    "en": "A restored Mamluk bathhouse showing Cairo's public bathing tradition.",
+    "ar": "حمام مملوكي مرمّم يعكس تقاليد الحمامات العامة في القاهرة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptian seniors aged 60+",
+   "Egyptians with special needs",
+   "Walking the street itself is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Elmoezstreet",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 150,
+  "deepMinutes": 240,
+  "bestTime": {
+   "en": "Late afternoon: enter the monuments before 16:00, then stay for the evening atmosphere when the street is lit up.",
+   "ar": "بعد العصر: ادخل الآثار قبل الرابعة، ثم ابقَ لتستمتع بأجواء المساء حين يُضاء الشارع."
+  },
+  "crowdNotes": {
+   "en": "Very busy on Thursday and Friday evenings and during Ramadan nights; mornings are quiet. Dress modestly for the mosques.",
+   "ar": "يزدحم كثيرًا مساء الخميس والجمعة وفي ليالي رمضان، بينما يكون الصباح هادئًا. يُرجى ارتداء ملابس محتشمة عند دخول المساجد."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Al-Mui%27zz_street_sabil_ismail_and_qalawun_complex_minaretes.jpg",
+   "author": "Mariam Mohamed Kamal",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Mui%27zz_street_sabil_ismail_and_qalawun_complex_minaretes.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Cairo_-_Bab_al-Futuh_02.jpg",
+   "author": "Djehouty",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo_-_Bab_al-Futuh_02.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/al-muizz-street/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Al-Mu%27izz_Street",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B1%D8%B9_%D8%A7%D9%84%D9%85%D8%B9%D8%B2_%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D9%81%D8%A7%D8%B7%D9%85%D9%8A",
+  "osm": null
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q4119402",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/al-muizz-street/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/madrasa-mausaleum-and-bimaristan-of-al-mansur-qalawun/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/madrasa-and-khanaqah-of-sultan-al-zahir-barquq/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/mosque-and-madrasa-of-al-nasir-muhammad-ibn-qalawun-1/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/al-aqmar-mosque/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/mosque-of-al-hakim-bi-amr-allah/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/bab-al-futuh/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/bab-al-nasr/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/sabil-kuttab-of-abd-al-rahman-katkhuda/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/madrasa-and-mausoleum-of-al-salih-nagm-al-din-ayyub/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/madrasa-of-sultan-al-ashraf-barsbay/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/hammam-of-sultan-inal/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-walls-of-cairo/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/Elmoezstreet",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/76",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan close), address",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/شارع-المعز-لدين-الله-الفاطمي/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,freeGroups,address,highlights",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/al-muizz-street/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description",
+   "url": "https://en.wikipedia.org/wiki/Al-Mu%27izz_Street",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights,visit (original prose; facts cross-checked)",
+   "url": "https://en.wikipedia.org/wiki/Al-Mu%27izz_Street",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Photo Muizz_Street_between_Al_Mousky_Street_and_Qalawun_complex_01.jpg removed: main subject is a modern building interior/exterior (no freedom of panorama in Egypt). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

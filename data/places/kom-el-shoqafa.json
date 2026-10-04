@@ -1,0 +1,320 @@
+{
+ "id": "kom-el-shoqafa",
+ "kind": "site",
+ "wikidataId": "Q2671839",
+ "name": {
+  "en": "Catacombs of Kom el-Shoqafa",
+  "ar": "مقابر كوم الشقافة"
+ },
+ "aliases": [
+  "Catacombs of Kom El Shoqafa"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Karmouz (Mina el-Bassal)",
+  "ar": "كرموز (مينا البصل)"
+ },
+ "address": {
+  "ar": "كوم الشقافة، كرموز (حي مينا البصل)، الإسكندرية",
+  "en": "Kom el-Shoqafa, Karmouz (Mina el-Bassal district), Alexandria"
+ },
+ "lat": 31.186944,
+ "lng": 29.904722,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The lowest level has a history of groundwater flooding and may be closed to visitors.",
+  "ar": "مفتوحة يوميًا. وقد يُغلق المستوى السفلي أمام الزوار، إذ طالما غمرته المياه الجوفية."
+ },
+ "summary": {
+  "ar": "جبّانة تحت الأرض من القرن الثاني الميلادي، منحوتة في الصخر على ثلاثة طوابق، تلتقي فيها الرموز الجنائزية المصرية بالأسلوبين اليوناني والروماني.",
+  "en": "A 2nd-century AD underground cemetery cut into the rock on three levels, where Egyptian funerary imagery meets Greek and Roman style."
+ },
+ "description": {
+  "ar": "تختبئ مقابر كوم الشقافة تحت حي كرموز، وقد أُعيد اكتشافها مصادفةً عام 1900، وتُعدّ من أروع آثار العصر الروماني في مصر. نُحتت في الصخر نزولًا خلال القرن الثاني الميلادي، على الأرجح مقبرةً خاصة لأسرة ثرية، ثم اتسعت لتصبح جبّانة عامة ظلت مستخدمة حتى القرن الرابع. ويلتف درج حلزوني حول بئر دائرية يُرجَّح أنها استُخدمت لإنزال الجثامين، وصولًا إلى قاعة مستديرة تنفتح على قاعة ولائم منحوتة في الصخر كان ذوو المتوفى يتناولون فيها الطعام الجنائزي. أما المقبرة الرئيسية فهي درّة الموقع؛ إذ تضم واجهتها معبودات مصرية بأزياء رومانية، وثعبانين ملتحيين يرمزان إلى الروح الحارسة «أجاثوديمون»، ومناظر للتحنيط نُحتت بأسلوب يمزج التقاليد الفرعونية بالكلاسيكية. وتحيط بها دهاليز تصطف على جانبيها مئات الكوّات المخصصة للدفن. وترتبط قاعة منفصلة تُعرف بقاعة كاراكالا، بحسب الرواية المتداولة، بالمذبحة التي ارتكبها الإمبراطور في الإسكندرية عام 215م. والموقع صغير المساحة، معتدل الحرارة تحت الأرض، ويسهل الجمع بينه وبين عمود السواري القريب.",
+  "en": "Hidden beneath the Karmouz district, the catacombs of Kom el-Shoqafa were rediscovered by chance in 1900 and are among the most remarkable Roman-era monuments in Egypt. They were carved down through the bedrock in the second century AD, probably as a private tomb for a wealthy family, and later grew into a burial ground used into the fourth century. A spiral staircase winds around a circular shaft, believed to have been used to lower bodies, down to a rotunda that opens onto a rock-cut banqueting hall where relatives shared funeral meals. The central tomb is the showpiece: its facade frames Egyptian gods in Roman dress, bearded serpents representing the protective spirit Agathodaemon, and scenes of mummification carved in a style that mixes Pharaonic and classical conventions. Around it run galleries lined with hundreds of loculi, the shelf-like niches that held the dead. A separate chamber nicknamed the Hall of Caracalla is linked by tradition to the emperor's massacre in Alexandria in 215. The site is compact, cool underground, and pairs naturally with Pompey's Pillar nearby."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Spiral staircase and shaft",
+    "ar": "الدرج الحلزوني والبئر"
+   },
+   "desc": {
+    "en": "The rock-cut stair winding down around a central light well.",
+    "ar": "درج منحوت في الصخر يلتف حول بئر مركزية."
+   }
+  },
+  {
+   "title": {
+    "en": "Rotunda",
+    "ar": "القاعة المستديرة"
+   },
+   "desc": {
+    "en": "The round hall at the foot of the stairs that leads to the lower chambers.",
+    "ar": "القاعة الدائرية أسفل الدرج المؤدية إلى الحجرات السفلية."
+   }
+  },
+  {
+   "title": {
+    "en": "Banqueting hall (triclinium)",
+    "ar": "قاعة الولائم"
+   },
+   "desc": {
+    "en": "Rock-cut benches where families held funeral feasts.",
+    "ar": "مصاطب منحوتة في الصخر كانت تُقام عليها الولائم الجنائزية."
+   }
+  },
+  {
+   "title": {
+    "en": "Main tomb facade",
+    "ar": "واجهة المقبرة الرئيسية"
+   },
+   "desc": {
+    "en": "Egyptian deities in Roman armour and Agathodaemon serpents.",
+    "ar": "معبودات مصرية بدروع رومانية وثعابين أجاثوديمون."
+   }
+  },
+  {
+   "title": {
+    "en": "Burial galleries",
+    "ar": "دهاليز الدفن"
+   },
+   "desc": {
+    "en": "Corridors lined with stacked loculi niches.",
+    "ar": "ممرات تصطف فيها كوّات الدفن المتراصة."
+   }
+  },
+  {
+   "title": {
+    "en": "Hall of Caracalla",
+    "ar": "قاعة كاراكالا"
+   },
+   "desc": {
+    "en": "A side complex traditionally linked to the massacre of 215 AD.",
+    "ar": "مجموعة جانبية ترتبط بحسب الرواية بمذبحة عام 215م."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "ar": "مواعيد شهر رمضان",
+     "en": "Ramadan schedule"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with disabilities"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/KomelShoqafaCatacombs",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "ar": "في أي وقت من اليوم، وهو محطة مناسبة وقت الظهيرة صيفًا لأن الدهاليز تحت الأرض تبقى معتدلة الحرارة.",
+   "en": "Any time of day; a good midday stop in summer because the galleries stay cool underground."
+  },
+  "crowdNotes": {
+   "ar": "قد تضيق الممرات والدرج عند وصول المجموعات السياحية، والدرج شديد الانحدار ولا يوجد مصعد، لذا يصعب الوصول على مستخدمي الكراسي المتحركة.",
+   "en": "Narrow stairs and passages can feel cramped when tour groups arrive; the steps are steep and there is no lift, so access is difficult for wheelchair users."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Catacombs_of_Kom_El_Shoqafa%2C_Alexandria%2C_Egypt.jpg",
+   "author": "Following Hadrian",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catacombs_of_Kom_El_Shoqafa,_Alexandria,_Egypt.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Agathosdaimon_Catacombs_of_Kom_El_Shoqafa%2C_Alexandria%2C_Egypt.jpg",
+   "author": "Carole Raddato",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agathosdaimon_Catacombs_of_Kom_El_Shoqafa,_Alexandria,_Egypt.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Catacombs_of_Kom_El_Shoqafa%2C_Alexandria%2C_Egypt_-_50852603161.jpg",
+   "author": "Following Hadrian",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catacombs_of_Kom_El_Shoqafa,_Alexandria,_Egypt_-_50852603161.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Catacombs_of_Kom_El_Shoqafa",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%A8%D8%B1_%D9%83%D9%88%D9%85_%D8%A7%D9%84%D8%B4%D9%82%D8%A7%D9%81%D8%A9",
+  "osm": "way/32749330"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2671839",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مقابر-كوم-الشقافة/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,lastEntry,freeGroups,tickets",
+   "url": "https://egymonuments.com/details/KomelShoqafaCatacombs",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices(audience: Arab tier abolished from 2026-01-01)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2025/7/10/2817397/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description",
+   "url": "https://en.wikipedia.org/wiki/Catacombs_of_Kom_El_Shoqafa",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos",
+   "url": "https://commons.wikimedia.org/wiki/File:Catacombs_of_Kom_El_Shoqafa,_Alexandria,_Egypt.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. statusNote reworded as visitor advice (was an editorial 'not verified/confirmed' remark; the open question stays in the batch report)."
+}

@@ -1,0 +1,337 @@
+{
+ "id": "abydos-temple-of-seti-i",
+ "kind": "site",
+ "wikidataId": "Q1536148",
+ "name": {
+  "en": "Abydos: Temple of Seti I",
+  "ar": "معبد سيتي الأول بأبيدوس"
+ },
+ "aliases": [
+  "المعبدالجنائزي لسيتي الأول",
+  "Temple of Seti I",
+  "المعبد الجنائزي لسيتي الأول"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "sohag",
+ "city": {
+  "en": "Abydos",
+  "ar": "أبيدوس"
+ },
+ "area": {
+  "en": "Al-Araba al-Madfuna village, El Balyana district",
+  "ar": "قرية العرابة المدفونة، مركز البلينا"
+ },
+ "address": {
+  "en": "Al-Araba al-Madfuna, El Balyana, Sohag",
+  "ar": "العرابة المدفونة، مركز البلينا، سوهاج"
+ },
+ "lat": 26.183333,
+ "lng": 31.916667,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "Seti I's temple at Abydos, the holy city of Osiris, holds some of the finest raised reliefs in Egypt and the celebrated list of earlier kings.",
+  "ar": "معبد سيتي الأول في أبيدوس، مدينة أوزير المقدسة، ويضم من أرقى النقوش البارزة في مصر وقائمة الملوك الشهيرة."
+ },
+ "description": {
+  "en": "Abydos was the most sacred burial ground in ancient Egypt, believed to hold the tomb of Osiris, and pilgrims came here for thousands of years. Around 1290 BC Seti I began a temple here that his son Ramesses II completed. Its plan is unusual: instead of a single sanctuary it has seven side-by-side chapels, for Seti himself and for six gods including Osiris, Isis, Horus, Amun, Ptah and Re-Horakhty, and the building turns at a right angle at the back. The raised reliefs carved under Seti are delicate, detailed and in places still painted, and they are widely considered a high point of New Kingdom art. In a corridor the king and the young Ramesses honour a long list of royal cartouches, a key document for reconstructing Egyptian history. Behind the temple lies the Osireion, a cenotaph built from massive stone blocks and often partly flooded by groundwater. The site is remote and calm, and many travellers pair it with Dendera on a full day out from Luxor.",
+  "ar": "كانت أبيدوس أقدس الجبانات في مصر القديمة، إذ اعتُقد أنها تضم قبر أوزير، فظل الحجاج يقصدونها آلاف السنين. وفي نحو عام 1290 قبل الميلاد بدأ سيتي الأول هنا معبدًا أتمّه ابنه رمسيس الثاني. وتصميمه غير مألوف؛ فبدلًا من قدس أقداس واحد يضم سبع مقاصير متجاورة لسيتي نفسه ولستة آلهة منهم أوزير وإيزيس وحورس وآمون وبتاح ورع حور آختي، كما ينعطف المبنى بزاوية قائمة في مؤخرته. أما النقوش البارزة التي نُحتت في عهد سيتي فدقيقة غنية بالتفاصيل، وما زال بعضها ملوّنًا، ويعدّها كثيرون ذروة فن الدولة الحديثة. وفي أحد الممرات يظهر الملك والأمير الصغير رمسيس وهما يكرّمان قائمة طويلة من الخراطيش الملكية، وهي وثيقة أساسية لإعادة بناء التاريخ المصري. وخلف المعبد يقع الأوزيريون، وهو مبنى رمزي من كتل حجرية ضخمة تغمر المياه الجوفية أجزاء منه في الغالب. والموقع بعيد هادئ، ويجمعه كثير من المسافرين مع دندرة في رحلة يوم كامل من الأقصر."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Seven sanctuaries",
+    "ar": "المقاصير السبع"
+   },
+   "desc": {
+    "en": "Side-by-side chapels for Seti I and six gods.",
+    "ar": "مقاصير متجاورة لسيتي الأول وستة آلهة."
+   }
+  },
+  {
+   "title": {
+    "en": "Abydos King List",
+    "ar": "قائمة ملوك أبيدوس"
+   },
+   "desc": {
+    "en": "A corridor relief naming dozens of earlier pharaohs.",
+    "ar": "نقش في أحد الممرات يذكر عشرات الملوك السابقين."
+   }
+  },
+  {
+   "title": {
+    "en": "Raised reliefs of Seti I",
+    "ar": "نقوش سيتي الأول البارزة"
+   },
+   "desc": {
+    "en": "Among the finest carving of the New Kingdom, some still painted.",
+    "ar": "من أرقى نحت الدولة الحديثة، وبعضها ما زال ملوّنًا."
+   }
+  },
+  {
+   "title": {
+    "en": "Hypostyle halls",
+    "ar": "قاعتا الأعمدة"
+   },
+   "desc": {
+    "en": "Two columned halls with scenes of the king before the gods.",
+    "ar": "قاعتان معمّدتان بمشاهد الملك أمام الآلهة."
+   }
+  },
+  {
+   "title": {
+    "en": "Osiris complex",
+    "ar": "مجموعة أوزير"
+   },
+   "desc": {
+    "en": "Inner rooms dedicated to the myth and rites of Osiris.",
+    "ar": "حجرات داخلية مكرّسة لأسطورة أوزير وطقوسه."
+   }
+  },
+  {
+   "title": {
+    "en": "Osireion",
+    "ar": "الأوزيريون"
+   },
+   "desc": {
+    "en": "Massive stone cenotaph behind the temple, often waterlogged.",
+    "ar": "مبنى رمزي ضخم من الحجر خلف المعبد، تغمره المياه غالبًا."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan: 09:00–16:00, ticket office closes 15:00",
+     "ar": "رمضان: من 09:00 إلى 16:00، ويُغلق شباك التذاكر 15:00"
+    },
+    "rule": "Ramadan (normal hours resume on the first day of Eid al-Fitr)",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 260
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 130
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/AbydosTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 120,
+  "deepMinutes": 180,
+  "bestTime": {
+   "en": "Morning; the interior is dim, so allow time for your eyes to adjust to the fine relief work.",
+   "ar": "الصباح؛ والداخل خافت الإضاءة، فامنح عينيك وقتًا لتتبيّن دقة النقوش."
+  },
+  "crowdNotes": {
+   "en": "Few visitors compared with Luxor; most come on day trips that also include Dendera, so the site is busiest around midday.",
+   "ar": "زوّاره قليلون مقارنة بالأقصر؛ ومعظمهم في رحلات يومية تشمل دندرة، فيبلغ الزحام ذروته قرب الظهر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Fetish_of_Abydos%2C_Temple_of_Seti_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "A. Parrot",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fetish_of_Abydos,_Temple_of_Seti_I.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Seti_I%2C_Abydos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Aidan McRae Thomson",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seti_I,_Abydos.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Temple_of_Seti_I%2C_Interior%2C_Abydos%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_Seti_I,_Interior,_Abydos,_Egypt.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Temple_of_Seti_I_(Abydos)",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D8%B3%D9%8A%D8%AA%D9%8A_%D8%A7%D9%84%D8%A3%D9%88%D9%84_(%D8%A3%D8%A8%D9%8A%D8%AF%D9%88%D8%B3)",
+  "osm": "way/90456105"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1536148",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (open, lastEntry, Ramadan),prices,tickets,freeGroups",
+   "url": "https://egymonuments.com/details/AbydosTemple",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan 09:00-16:00, ticket office 15:00; dated Feb 2025)",
+   "url": "https://www.youm7.com/story/2025/2/26/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A3%D8%A8%D9%8A%D8%AF%D9%88%D8%B3-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1-%D8%AE%D9%84%D8%A7%D9%84/6889721",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (closing 17:00 cross-check),prices (cross-check, Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Temple_of_Seti_I_(Abydos)",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Fetish_of_Abydos,_Temple_of_Seti_I.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Seti_I,_Abydos.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Temple_of_Seti_I,_Interior,_Abydos,_Egypt.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

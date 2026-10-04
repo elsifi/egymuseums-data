@@ -1,0 +1,371 @@
+{
+ "id": "nubia-museum",
+ "kind": "museum",
+ "wikidataId": "Q2354677",
+ "name": {
+  "en": "Nubia Museum",
+  "ar": "متحف النوبة"
+ },
+ "aliases": [
+  "Mathaf In-Nuubia متحف النوبة",
+  "متحف النوبه",
+  "Nubian Museum",
+  "International Museum of Nubia"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Aswan",
+  "ar": "أسوان"
+ },
+ "area": {
+  "en": "Central Aswan, El Fanadek Street",
+  "ar": "وسط أسوان، شارع الفنادق"
+ },
+ "address": {
+  "en": "El Fanadek St., Aswan",
+  "ar": "شارع الفنادق، وسط البلد، أسوان"
+ },
+ "lat": 24.079576,
+ "lng": 32.889311,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily, with an extra evening session on Thursday and Friday.",
+  "ar": "مفتوح يوميًا، مع فترة مسائية إضافية يومي الخميس والجمعة."
+ },
+ "summary": {
+  "en": "Aswan's museum of Nubian history and culture, from prehistoric rock art to the Kushite pharaohs and the villages lost under Lake Nasser.",
+  "ar": "متحف أسوان المخصص لتاريخ النوبة وثقافتها، من فنون ما قبل التاريخ إلى الفراعنة الكوشيين والقرى التي غمرتها بحيرة ناصر."
+ },
+ "description": {
+  "en": "The Nubia Museum opened in 1997 as one of the lasting results of the international campaign to save the monuments of Nubia before Lake Nasser filled. Its collection follows the land between the first and second cataracts across several thousand years. The tour starts with prehistoric tools and early pottery, moves through the A-Group and C-Group cultures, and reaches the age when Egyptian kings built fortresses and temples in the south. A highlight is the gallery of the Twenty-fifth Dynasty, when rulers from Kush in present-day Sudan governed Egypt; statues and portrait heads of kings such as Taharqa and of their officials are displayed here. A tall statue of Ramesses II from the drowned temple of Gerf Hussein dominates the main hall. Later sections cover Meroitic, Christian and Islamic Nubia, and finds from the royal tombs of Ballana and Qustul. The final rooms recreate traditional Nubian homes and crafts, recalling the communities displaced by the High Dam. The museum garden holds further stone pieces and a reconstructed house.",
+  "ar": "افتُتح متحف النوبة عام 1997 بوصفه من الثمار الباقية للحملة الدولية لإنقاذ آثار النوبة قبل امتلاء بحيرة ناصر. وتتتبع مجموعته الأرض الممتدة بين الجندلين الأول والثاني عبر آلاف السنين. تبدأ الجولة بأدوات ما قبل التاريخ والفخار المبكر، ثم تمر بحضارتي المجموعة الأولى والمجموعة الثالثة، وصولًا إلى عصر شيّد فيه ملوك مصر القلاع والمعابد في الجنوب. ومن أبرز ما فيه قاعة الأسرة الخامسة والعشرين، حين حكم مصرَ ملوكٌ من كوش في السودان الحالي، وتُعرض فيها تماثيل ورؤوس لملوك مثل طهارقا ولكبار رجال دولتهم. ويتصدر القاعةَ الرئيسية تمثالٌ شاهق لرمسيس الثاني من معبد جرف حسين الغارق. وتتناول الأقسام اللاحقة النوبة المروية والمسيحية والإسلامية، ومكتشفات المقابر الملكية في بلانة وقسطل. أما القاعات الأخيرة فتعيد تمثيل البيوت والحرف النوبية التقليدية، استحضارًا للمجتمعات التي هُجّرت بسبب السد العالي. وتضم حديقة المتحف قطعًا حجرية أخرى وبيتًا نوبيًا أعيد بناؤه."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Statue of Ramesses II from Gerf Hussein",
+    "ar": "تمثال رمسيس الثاني من جرف حسين"
+   },
+   "desc": {
+    "en": "Towering figure rescued from a drowned Nubian temple.",
+    "ar": "تمثال شاهق أُنقذ من معبد نوبي غارق."
+   }
+  },
+  {
+   "title": {
+    "en": "Kushite pharaohs gallery",
+    "ar": "قاعة الفراعنة الكوشيين"
+   },
+   "desc": {
+    "en": "Portraits of Twenty-fifth Dynasty kings such as Taharqa.",
+    "ar": "صور لملوك الأسرة الخامسة والعشرين مثل طهارقا."
+   }
+  },
+  {
+   "title": {
+    "en": "Statue of Horemakhet",
+    "ar": "تمثال حور إم آخت"
+   },
+   "desc": {
+    "en": "Quartzite statue of the son of King Shabaka, high priest of Amun.",
+    "ar": "تمثال من الكوارتزيت لابن الملك شباكا، كبير كهنة آمون."
+   }
+  },
+  {
+   "title": {
+    "en": "Ballana and Qustul finds",
+    "ar": "مكتشفات بلانة وقسطل"
+   },
+   "desc": {
+    "en": "Objects from the royal tombs of late antique Nubia.",
+    "ar": "قطع من المقابر الملكية في النوبة في العصور المتأخرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Nubian village displays",
+    "ar": "عرض القرية النوبية"
+   },
+   "desc": {
+    "en": "Recreated homes and crafts of the displaced communities.",
+    "ar": "بيوت وحرف أعيد تمثيلها للمجتمعات المهجّرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Prehistoric gallery",
+    "ar": "قاعة ما قبل التاريخ"
+   },
+   "desc": {
+    "en": "Early tools, pottery and rock art from the Nile valley in Nubia.",
+    "ar": "أدوات وفخار ورسوم صخرية مبكرة من وادي النيل في النوبة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "18:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "fri",
+    "open": "18:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan: 09:00–15:00, ticket office closes 14:00",
+     "ar": "رمضان: من 09:00 إلى 15:00، ويُغلق شباك التذاكر 14:00"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 400
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 200
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "orphaned children",
+   "government and Al-Azhar primary and preparatory school trips booked via the Rehla platform"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/NubiaMuseum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Midday, when outdoor sites are too hot, or the Thursday or Friday evening session.",
+   "ar": "وقت الظهيرة حين تشتد حرارة المواقع المكشوفة، أو الفترة المسائية يومي الخميس والجمعة."
+  },
+  "crowdNotes": {
+   "en": "Generally uncrowded; large bags must go to the cloakroom, and flash and tripods need permission or a separate ticket.",
+   "ar": "قليل الزحام عمومًا؛ وتُودَع الحقائب الكبيرة في الأمانات، ويُمنع الفلاش، ويحتاج الحامل الثلاثي إلى إذن أو تذكرة خاصة."
+  }
+ },
+ "facilities": {
+  "cloakroom": true,
+  "library": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Taharqa_portrait%2C_Aswan_Nubian_museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Aidan McRae Thomson",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taharqa_portrait,_Aswan_Nubian_museum.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Statue_of_Horemakhet%2C_son_of_Shabaka_-_25th_Dynasty_-_quartzite_-_Nubian_Museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Marsupium",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Horemakhet,_son_of_Shabaka_-_25th_Dynasty_-_quartzite_-_Nubian_Museum_01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Statue_of_Ramses_II_from_Gerf_Hussein_-_19th_Dynasty_-_Nubian_Museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Marsupium",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Ramses_II_from_Gerf_Hussein_-_19th_Dynasty_-_Nubian_Museum_01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/nubia-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Nubian_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%86%D9%88%D8%A8%D8%A9",
+  "osm": "way/1128059224"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2354677",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/nubia-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (incl. evening, Ramadan, ticket office),prices,freeGroups,facilities",
+   "url": "https://egymonuments.gov.eg/en/museums/nubia-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry),prices,tickets",
+   "url": "https://egymonuments.com/details/NubiaMuseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "address (Wikidata P6375, CC0)",
+   "url": "https://www.wikidata.org/wiki/Q2354677",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Nubian_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Taharqa_portrait,_Aswan_Nubian_museum.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Statue_of_Horemakhet,_son_of_Shabaka_-_25th_Dynasty_-_quartzite_-_Nubian_Museum_01.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Statue_of_Ramses_II_from_Gerf_Hussein_-_19th_Dynasty_-_Nubian_Museum_01.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.youm7.com); needs an official 2025-2026 source. D3: Ramadan keeps the portal's ticket-office close of 14:00, the earlier of the two official values (booking platform: 16:00). D17: Wikidata P856 (nubianmuseum.com) now redirects to a gambling site; it is deliberately not used (no contacts.website). Fixed locally only; Wikidata not edited. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

@@ -1,0 +1,344 @@
+{
+ "id": "sultan-hassan-mosque",
+ "kind": "site",
+ "wikidataId": "Q1430119",
+ "name": {
+  "en": "Mosque-Madrasa of Sultan Hassan",
+  "ar": "مسجد ومدرسة السلطان الناصر حسن"
+ },
+ "aliases": [
+  "جامع السلطان حسن",
+  "جامع ومدرسة السلطان حسن",
+  "جامع ومدرسة سلطان حسن",
+  "مدرسة السلطان حسن",
+  "مسجد السلطان حسن",
+  "Madrasa Sultan Hasan",
+  "Sultan Hassan Mosque",
+  "Mosque-Madrassa of Sultan Hassan"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Salah al-Din Square (Midan al-Qal'a), El-Khalifa",
+  "ar": "ميدان صلاح الدين (ميدان القلعة)، الخليفة"
+ },
+ "address": {
+  "en": "Salah al-Din Square (Midan al-Qal'a), at the end of Muhammad Ali Street, El-Khalifa, Cairo",
+  "ar": "ميدان صلاح الدين (ميدان القلعة)، عند نهاية شارع محمد علي، حي الخليفة، القاهرة"
+ },
+ "lat": 30.0319,
+ "lng": 31.2567,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily as a monument and a working mosque. The visitor ticket also covers the neighbouring Al-Rifa'i Mosque; Egyptians enter free.",
+  "ar": "مفتوح يوميًا بوصفه أثرًا ومسجدًا تُقام فيه الصلاة. وتشمل تذكرة الزيارة أيضًا مسجد الرفاعي المجاور، ويدخل المصريون مجانًا."
+ },
+ "summary": {
+  "en": "A colossal fourteenth-century Mamluk mosque and college facing the Citadel, famed for its soaring portal and four-iwan courtyard.",
+  "ar": "مسجد ومدرسة مملوكية هائلة من القرن الرابع عشر تواجه القلعة، تشتهر بمدخلها الشاهق وصحنها ذي الإيوانات الأربعة."
+ },
+ "description": {
+  "en": "Facing the Citadel across Salah al-Din Square, the mosque-madrasa of Sultan Hasan is one of the largest and most ambitious buildings of medieval Cairo. It was commissioned by the Mamluk sultan al-Nasir Hasan, son of al-Nasir Muhammad ibn Qalawun, and built between about 1356 and 1363, a remarkable investment in the years after the Black Death. A towering portal carved with stalactite niches leads through a dim, bent passage into a bright open courtyard with a domed ablution fountain at its centre. Four vaulted iwans open onto the court, the largest serving as the prayer hall, and doors in the corners lead to four separate colleges for the Sunni schools of law, each with its own small court and tiers of student cells. Behind the qibla wall rises the domed mausoleum intended for the sultan, who was assassinated and never buried there. Marble inlay around the mihrab, carved stucco bands and the sheer mass of the walls reward a slow visit. The ticket also covers the neighbouring al-Rifa'i Mosque, completed in 1912, which holds tombs of the Muhammad Ali family.",
+  "ar": "في مواجهة القلعة عبر ميدان صلاح الدين يقف مسجد ومدرسة السلطان حسن، أحد أضخم مباني القاهرة الوسيطة وأكثرها طموحًا. أمر ببنائه السلطان المملوكي الناصر حسن بن الناصر محمد بن قلاوون، وشُيّد بين عامي 1356 و1363 تقريبًا، في استثمار لافت جاء بعد سنوات قليلة من وباء الطاعون الأسود. ويقود مدخله الشاهق المزين بالمقرنصات عبر دهليز منكسر خافت الضوء إلى صحن مكشوف فسيح تتوسطه فسقية للوضوء تعلوها قبة. وتنفتح على الصحن أربعة إيوانات معقودة أكبرها إيوان القبلة، بينما تفضي أبواب في الأركان إلى أربع مدارس للمذاهب السنية الأربعة، لكل منها صحنها الصغير وطوابق من خلاوي الطلاب. وخلف جدار القبلة ترتفع القبة الضريحية التي أُعدت للسلطان، غير أنه اغتيل ولم يُدفن فيها. وتستحق التطعيمات الرخامية حول المحراب والأشرطة الجصية المحفورة وضخامة الجدران زيارة متأنية. وتشمل التذكرة أيضًا مسجد الرفاعي المجاور الذي اكتمل عام 1912 ويضم مدافن من أسرة محمد علي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Monumental portal",
+    "ar": "المدخل التذكاري"
+   },
+   "desc": {
+    "en": "One of the tallest entrances in Cairo, crowned by a carved stalactite hood.",
+    "ar": "من أعلى مداخل القاهرة، تتوجه طاقية من المقرنصات المحفورة."
+   }
+  },
+  {
+   "title": {
+    "en": "Four-iwan courtyard",
+    "ar": "الصحن ذو الإيوانات الأربعة"
+   },
+   "desc": {
+    "en": "A vast open court framed by four soaring vaulted halls around a domed fountain.",
+    "ar": "فناء مكشوف واسع تحيط به أربعة إيوانات شاهقة حول فسقية ذات قبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Qibla iwan and mihrab",
+    "ar": "إيوان القبلة والمحراب"
+   },
+   "desc": {
+    "en": "The prayer hall with a long Kufic inscription band and polychrome marble mihrab.",
+    "ar": "قاعة الصلاة بشريط كتابي طويل ومحراب من الرخام الملون."
+   }
+  },
+  {
+   "title": {
+    "en": "Mausoleum dome",
+    "ar": "القبة الضريحية"
+   },
+   "desc": {
+    "en": "The sultan's intended tomb chamber behind the qibla wall.",
+    "ar": "حجرة الدفن التي أُعدت للسلطان خلف جدار القبلة."
+   }
+  },
+  {
+   "title": {
+    "en": "The four madrasas",
+    "ar": "المدارس الأربع"
+   },
+   "desc": {
+    "en": "Self-contained colleges for the Hanafi, Shafi'i, Maliki and Hanbali schools.",
+    "ar": "مدارس مستقلة للمذاهب الحنفي والشافعي والمالكي والحنبلي."
+   }
+  },
+  {
+   "title": {
+    "en": "Al-Rifa'i Mosque (same ticket)",
+    "ar": "مسجد الرفاعي (بالتذكرة نفسها)"
+   },
+   "desc": {
+    "en": "The early-twentieth-century royal mosque opposite, with Muhammad Ali family tombs.",
+    "ar": "المسجد الملكي المقابل من مطلع القرن العشرين ويضم مدافن أسرة محمد علي."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 0
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 0
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   }
+  ],
+  "freeGroups": [
+   "Egyptians (no Egyptian ticket is sold)",
+   "Children under 6"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Mosque-MadrassaSultanHassan",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Mid-morning, when sunlight falls into the courtyard; combine with al-Rifa'i Mosque and the Citadel across the square.",
+   "ar": "منتصف الصباح حين تغمر أشعة الشمس الصحن، مع الجمع بين الزيارة ومسجد الرفاعي والقلعة عبر الميدان."
+  },
+  "crowdNotes": {
+   "en": "Generally calm. As a working mosque, tourist visits may pause at prayer times, especially Friday noon; dress modestly and remove shoes.",
+   "ar": "هادئ في العادة. ولأنه مسجد عامر بالمصلين فقد تتوقف الزيارات السياحية وقت الصلاة، خاصة ظهر الجمعة. يُرجى الاحتشام وخلع الأحذية."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Kairo_Sultan_Hassan_Moschee_BW_1.jpg",
+   "author": "Berthold Werner",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kairo_Sultan_Hassan_Moschee_BW_1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sultan_Hasan_Madrasa-Mosque_DSCF7241.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sultan_Hasan_Madrasa-Mosque_DSCF7241.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sultan_Hasan_Mosque-Madrasa_central_courtyard_2019_%281%29.jpg",
+   "author": "Radosław Botev",
+   "license": "CC BY 3.0 pl",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sultan_Hasan_Mosque-Madrasa_central_courtyard_2019_(1).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/mosque-and-madrasa-of-sultan-hasan/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mosque-Madrasa_of_Sultan_Hasan",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D9%88%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1_%D8%AD%D8%B3%D9%86",
+  "osm": "way/24908268"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1430119",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q138135947",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/mosque-and-madrasa-of-sultan-hasan/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/salah-al-din-square/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/Mosque-MadrassaSultanHassan",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/177",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,freeGroups,address,highlights",
+   "url": "https://egymonuments.gov.eg/en/monuments/mosque-and-madrasa-of-sultan-hasan/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description",
+   "url": "https://en.wikipedia.org/wiki/Mosque-Madrasa_of_Sultan_Hasan",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights,visit (original prose; facts cross-checked)",
+   "url": "https://en.wikipedia.org/wiki/Mosque-Madrasa_of_Sultan_Hasan",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

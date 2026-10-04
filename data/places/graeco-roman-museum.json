@@ -1,0 +1,348 @@
+{
+ "id": "graeco-roman-museum",
+ "kind": "museum",
+ "wikidataId": "Q1546319",
+ "name": {
+  "en": "Graeco-Roman Museum",
+  "ar": "المتحف اليوناني الروماني"
+ },
+ "aliases": [
+  "المتحف اليوناني الروماني في الإسكندرية",
+  "متحف اليوناني الروماني في الأسكندرية"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Central Alexandria (Al-Mathaf al-Yunani al-Romani Street)",
+  "ar": "وسط الإسكندرية (شارع المتحف اليوناني الروماني)"
+ },
+ "address": {
+  "ar": "شارع المتحف اليوناني الروماني، وسط الإسكندرية",
+  "en": "Graeco-Roman Museum Street (Sharia al-Mathaf), central Alexandria"
+ },
+ "lat": 31.19925,
+ "lng": 29.906614,
+ "status": "open",
+ "statusNote": {
+  "en": "Reopened in October 2023 after a closure that began in 2005; open daily with late opening on Friday and Saturday.",
+  "ar": "أُعيد افتتاحه في أكتوبر 2023 بعد إغلاق بدأ عام 2005، ويفتح يوميًا مع مواعيد ممتدة يومي الجمعة والسبت."
+ },
+ "summary": {
+  "ar": "المتحف الوحيد في مصر المخصص بالكامل للعصرين اليوناني والروماني، ويشغل مبنى أُنشئ خصيصًا له عام 1895 في قلب الإسكندرية.",
+  "en": "Egypt's only museum devoted entirely to the Greek and Roman periods, housed in a purpose-built 1895 building in central Alexandria."
+ },
+ "description": {
+  "ar": "أُسّس المتحف اليوناني الروماني عام 1892 بمبادرة من العالم الإيطالي جوزيبي بوتي الذي أراد حماية آثار الإسكندرية من الضياع، وكان أول مبنى في مصر يُصمَّم منذ البداية لحفظ الآثار وعرضها. افتُتح مبناه ذو الطراز الكلاسيكي الحديث عام 1895، ثم توسّع عدة مرات. وبعد إغلاق طويل بدأ عام 2005، أُعيد افتتاحه في أكتوبر 2023 بطابق علوي جديد وقاعات أُعيد تصميمها وأساليب عرض حديثة. وتروي مقتنياته تاريخ الإسكندرية ومصر منذ قدوم الإسكندر الأكبر مرورًا بعصر البطالمة ثم الحكم الروماني، وتكشف كيف امتزجت التقاليد اليونانية بالمصرية. ويجد الزائر تماثيل رخامية للملوك والأباطرة، وتماثيل ضخمة مثل تمثال ماركوس أوريليوس بالزي العسكري، وأعمالًا من البرونز والفخار منها تماثيل التاناجرا الدقيقة، إلى جانب العملات والزجاج والفسيفساء واللقى الجنائزية وقطع من معابد المدينة وجبّاناتها. وتشمل خدمات المتحف بطاقات بطريقة برايل وممرات مُمهّدة ومصعدًا ودورة مياه مجهزة لذوي الهمم. ويمكن الجمع بينه وبين مقابر كوم الشقافة والمسرح الروماني بكوم الدكة في يوم كامل بالإسكندرية القديمة.",
+  "en": "Founded in 1892 at the urging of the Italian scholar Giuseppe Botti, who wanted to stop Alexandria's antiquities from being lost, the Graeco-Roman Museum was the first building in Egypt designed from the start to store and display antiquities. Its neoclassical home opened in 1895 and has been enlarged several times since. After a long closure that began in 2005, the museum reopened in October 2023 with a new upper floor, redesigned galleries and modern displays. The collection traces Alexandria and Egypt from the arrival of Alexander the Great through the Ptolemaic dynasty and Roman rule, showing how Greek and Egyptian traditions blended. Expect marble portraits of rulers and emperors, colossal statues such as Marcus Aurelius in military dress, bronze and terracotta work including delicate Tanagra-style figurines, coins, glass, mosaics, funerary objects and pieces from the city's temples and cemeteries. Labels in Braille, ramps, a lift and an accessible toilet are listed among the services. Combine it with the Kom el-Shoqafa catacombs and the Roman theatre at Kom el-Dikka for a full day in ancient Alexandria."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Colossal statue of Marcus Aurelius",
+    "ar": "تمثال ماركوس أوريليوس الضخم"
+   },
+   "desc": {
+    "en": "The emperor in cuirassed military dress.",
+    "ar": "الإمبراطور بالدرع والزي العسكري."
+   }
+  },
+  {
+   "title": {
+    "en": "Statue of Septimius Severus",
+    "ar": "تمثال سبتيموس سيفيروس"
+   },
+   "desc": {
+    "en": "Portrait of the emperor who visited Egypt in 199 AD.",
+    "ar": "تمثال الإمبراطور الذي زار مصر عام 199م."
+   }
+  },
+  {
+   "title": {
+    "en": "Bronze bust of Hadrian",
+    "ar": "تمثال نصفي برونزي لهادريان"
+   },
+   "desc": {
+    "en": "A 2nd-century AD portrait of the emperor.",
+    "ar": "صورة للإمبراطور من القرن الثاني الميلادي."
+   }
+  },
+  {
+   "title": {
+    "en": "Osiris-Antinous",
+    "ar": "أوزيريس-أنتينوس"
+   },
+   "desc": {
+    "en": "A marble statue fusing Hadrian's favourite with the Egyptian god Osiris.",
+    "ar": "تمثال رخامي يمزج أنتينوس بالمعبود المصري أوزيريس."
+   }
+  },
+  {
+   "title": {
+    "en": "Tanagra-style figurines",
+    "ar": "تماثيل التاناجرا"
+   },
+   "desc": {
+    "en": "Small painted terracotta figures of elegantly dressed women.",
+    "ar": "تماثيل فخارية صغيرة ملوّنة لنساء بأزياء أنيقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Coins of Alexandria",
+    "ar": "عملات الإسكندرية"
+   },
+   "desc": {
+    "en": "Among them Roman issues that depict the Pharos lighthouse.",
+    "ar": "منها عملات رومانية تصوّر منارة الإسكندرية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "20:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "20:00",
+    "lastEntry": "19:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "ar": "مواعيد شهر رمضان",
+     "en": "Ramadan schedule"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 400
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 200
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with disabilities",
+   "orphaned children",
+   "Egyptian government and Al-Azhar primary and preparatory school trips booked via the Rehla platform"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/GraecoRomanMuseum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 120,
+  "deepMinutes": 180,
+  "bestTime": {
+   "ar": "صباح أيام الأسبوع، أما مساء الجمعة والسبت (حتى الثامنة مساءً) فيناسب من يقضون النهار على البحر.",
+   "en": "Weekday mornings; Friday and Saturday evenings (open until 20:00) suit visitors who spend the day at the sea."
+  },
+  "crowdNotes": {
+   "ar": "قد تزدحم القاعات بالرحلات المدرسية صباح أيام الدراسة، بينما تكون الفترة المسائية يومي الجمعة والسبت أهدأ عادةً.",
+   "en": "School groups can fill the galleries on weekday mornings during term; the late opening on Friday and Saturday is generally calmer."
+  }
+ },
+ "accessibility": {
+  "ramp": true,
+  "elevator": true,
+  "accessibleToilet": true,
+  "brailleLabels": true
+ },
+ "facilities": {
+  "toilets": true,
+  "cafe": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/A_Colossal_Statue_of_Marcus_Aurelius.jpg",
+   "author": "Asmaa.khallaf12",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Colossal_Statue_of_Marcus_Aurelius.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bronze_bust_of_the_Roman_Emperor_Hadrian_2nd_century_CE_at_the_Greco-Roman_Museum_in_Alexandria_Egypt_AG.jpg",
+   "author": "Allan Gluck",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bronze_bust_of_the_Roman_Emperor_Hadrian_2nd_century_CE_at_the_Greco-Roman_Museum_in_Alexandria_Egypt_AG.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Osiris-Antinous_in_marble_2nd_century_CE_at_the_Greco-Roman_Museum_in_Alexandria_Egypt_AG.jpg",
+   "author": "Allan Gluck",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osiris-Antinous_in_marble_2nd_century_CE_at_the_Greco-Roman_Museum_in_Alexandria_Egypt_AG.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/graeco-roman-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Graeco-Roman_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%B1%D9%88%D9%85%D8%A7%D9%86%D9%8A",
+  "osm": "way/110658139"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1546319",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/graeco-roman-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,freeGroups,description,accessibility,facilities",
+   "url": "https://egymonuments.gov.eg/en/museums/graeco-roman-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,lastEntry,tickets",
+   "url": "https://egymonuments.com/details/GraecoRomanMuseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status(reopening Oct 2023)",
+   "url": "https://www.elwatannews.com/news/details/6860953",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices(audience: Arab tier abolished from 2026-01-01)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2025/7/10/2817397/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights,photos",
+   "url": "https://commons.wikimedia.org/wiki/File:A_Colossal_Statue_of_Marcus_Aurelius.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "D3: Sun–Thu last entry set to 15:00 (egymonuments.com), the earlier of the two official values (gov.eg ticket window 16:30). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

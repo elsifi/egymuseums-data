@@ -1,0 +1,294 @@
+{
+ "id": "ibn-tulun-mosque",
+ "kind": "site",
+ "wikidataId": "Q915413",
+ "name": {
+  "en": "Mosque of Ibn Tulun",
+  "ar": "مسجد ابن طولون"
+ },
+ "aliases": [
+  "الجامع الطولوني",
+  "المسجد الطولوني",
+  "جامع أحمد بن طولون",
+  "جامع ابن طولون",
+  "جامع بن طولون",
+  "مسجد أحمد بن طولون",
+  "Ibn Tulun Mosque"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Sayyida Zaynab (Ahmad Ibn Tulun Square, al-Khudayri Street)",
+  "ar": "السيدة زينب (ميدان أحمد بن طولون، شارع الخضيري)"
+ },
+ "address": {
+  "ar": "شارع الخضيري، ميدان أحمد بن طولون، السيدة زينب، القاهرة",
+  "en": "Al-Khudayri Street, Ahmad Ibn Tulun Square, Sayyida Zaynab, Cairo"
+ },
+ "lat": 30.02875,
+ "lng": 31.249528,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily; active mosque.",
+  "ar": "مفتوح يوميًا، وهو مسجد تُقام فيه الصلاة."
+ },
+ "summary": {
+  "ar": "أقدم جوامع القاهرة الباقية على هيئتها الأصلية إلى حد بعيد، اكتمل بناؤه عام 879م ويشتهر بصحنه الفسيح ومئذنته ذات السلم الحلزوني.",
+  "en": "Cairo's oldest mosque to survive largely in its original form, finished in 879 and famous for its vast courtyard and spiral-stair minaret."
+ },
+ "description": {
+  "ar": "شيّد أحمد بن طولون، الوالي العباسي الذي جعل مصر شبه مستقلة، هذا الجامع بين عامي 876 و879م ليكون المسجد الجامع لعاصمته الجديدة القطائع. أقامه على صخرة جبل يشكر، وبناه في معظمه من الآجر الأحمر المكسوّ بالجص، وهو أسلوب يذكّر بعمارة سامراء في العراق. والنتيجة مبنى مهيب يبعث على السكينة: صحن مكشوف فسيح تحيط به أروقة من العقود المدببة المحمولة على دعامات ضخمة، أعمقها رواق القبلة. وتلتف حول العقود والنوافذ أشرطة من الزخارف الجصية الهندسية والنباتية، وتتوّج الجدرانَ شرافاتٌ مفرّغة تشبه صفًّا من العرائس الورقية. وفي وسط الصحن قبة الفوّارة التي أضافها السلطان المملوكي حسام الدين لاجين عام 1296م، وهو الذي جدّد الجامع ومنح المئذنة شكلها الحالي بسلّمها الخارجي الذي يلتف حول بدنها حتى القمة. ويفصل سورٌ خارجي (الزيادة) الجامع عن الشوارع المحيطة، ويلاصق متحف جاير أندرسون جداره الجنوبي الشرقي.",
+  "en": "Ahmad ibn Tulun, the Abbasid governor who made Egypt effectively independent, built this mosque between 876 and 879 as the congregational heart of his new capital, al-Qata'i. It was raised on the rocky outcrop of Jabal Yashkur and constructed mostly of fired red brick covered in stucco, a technique that echoes the architecture of Samarra in Iraq. The result is a building of striking scale and calm: a huge open court framed by arcades of pointed arches on heavy piers, with the deepest prayer hall on the qibla side. Bands of carved stucco with geometric and vegetal patterns run around the arches and windows, and the parapet is topped by openwork cresting whose silhouettes resemble a row of paper dolls. In the centre stands a domed ablution fountain added in 1296 by the Mamluk sultan Lajin, who also restored the mosque and gave the minaret its present form with an external staircase spiralling to the top. An outer enclosure separates the mosque from the surrounding streets, and the Gayer-Anderson Museum is built against its south-eastern wall."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Spiral minaret",
+    "ar": "المئذنة الملوية"
+   },
+   "desc": {
+    "en": "An external staircase winds up the tower; the top offers views over historic Cairo.",
+    "ar": "سلم خارجي يلتف حول البدن، وتطل قمتها على القاهرة التاريخية."
+   }
+  },
+  {
+   "title": {
+    "en": "Great courtyard",
+    "ar": "الصحن الكبير"
+   },
+   "desc": {
+    "en": "One of the largest mosque courtyards in Cairo, ringed by pointed-arch arcades.",
+    "ar": "من أوسع صحون المساجد في القاهرة، تحيط به أروقة العقود المدببة."
+   }
+  },
+  {
+   "title": {
+    "en": "Ablution dome of Lajin",
+    "ar": "قبة الفوّارة"
+   },
+   "desc": {
+    "en": "The domed fountain added at the centre of the court in 1296.",
+    "ar": "القبة التي أضافها السلطان لاجين في وسط الصحن عام 1296م."
+   }
+  },
+  {
+   "title": {
+    "en": "Carved stucco bands",
+    "ar": "الزخارف الجصية"
+   },
+   "desc": {
+    "en": "Geometric and floral ornament framing the arches and windows.",
+    "ar": "أشرطة هندسية ونباتية تؤطر العقود والنوافذ."
+   }
+  },
+  {
+   "title": {
+    "en": "Openwork cresting",
+    "ar": "الشرافات المفرّغة"
+   },
+   "desc": {
+    "en": "The doll-like crenellations along the top of the walls.",
+    "ar": "الشرافات التي تشبه العرائس أعلى الجدران."
+   }
+  },
+  {
+   "title": {
+    "en": "Mihrabs of the prayer hall",
+    "ar": "محاريب رواق القبلة"
+   },
+   "desc": {
+    "en": "The main mihrab plus several later flat mihrabs on the qibla wall.",
+    "ar": "المحراب الرئيسي ومحاريب مسطحة أُضيفت لاحقًا على جدار القبلة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "ar": "مواعيد شهر رمضان",
+     "en": "Ramadan schedule"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "ar": "صباح أيام الأسبوع، مع ضم زيارة متحف جاير أندرسون المجاور.",
+   "en": "Morning on a weekday; combine with the Gayer-Anderson Museum next door."
+  },
+  "crowdNotes": {
+   "ar": "هادئ عادةً. ولأنه مسجد تُقام فيه الصلوات، يُستحسن ارتداء ملابس محتشمة وخلع الأحذية أو استخدام أغطيتها حيث يُطلب ذلك، وتجنّب الزيارة وقت صلاة الجمعة.",
+   "en": "Usually quiet. It is an active mosque, so dress modestly, remove shoes or use shoe covers where asked, and avoid visiting during Friday noon prayer."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ibn_Tulun_Mosque_Courtyard_%2828835589172%29.jpg",
+   "author": "Mark Fischer",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ibn_Tulun_Mosque_Courtyard_(28835589172).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kairo_Ibn_Tulun_Moschee_BW_7.jpg",
+   "author": "Berthold Werner",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kairo_Ibn_Tulun_Moschee_BW_7.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mosque_of_Ibn_Tulun%2C_Cairo%2C_Egypt9.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosque_of_Ibn_Tulun,_Cairo,_Egypt9.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/ahmad-ibn-tulun-mosque/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mosque_of_Ibn_Tulun",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D8%A8%D9%86_%D8%B7%D9%88%D9%84%D9%88%D9%86",
+  "osm": "relation/74081"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q915413",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/ahmad-ibn-tulun-mosque/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مسجد-أحمد-بن-طولون/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/ahmad-ibn-tulun-mosque/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (no ticket listed; status unconfirmed)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos",
+   "url": "https://commons.wikimedia.org/wiki/File:Ibn_Tulun_Mosque_Courtyard_(28835589172).jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "D9: price not confirmed. No ticket is listed by MoTA's guide, egymonuments.gov.eg or the Nov 2024 list; free entry was only inferred, so prices.status is 'unconfirmed' and no price or free claim is shown. Confirm via the MoTA hotline 19654. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

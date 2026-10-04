@@ -2,8 +2,15 @@
 """Merge data/seed/places.json with enriched data/places/<id>.json into v1/places.json + v1/meta.json.
 
 Enriched files replace the seed record with the same id. Output is what the app bundles and fetches via jsDelivr.
+
+Versioning: `schemaVersion` is the major version and changes only on breaking changes; apps built for 1 keep
+working. `schemaMinor` counts additive changes: 1.1 (2026-10-04) added optional prices.status,
+prices.tiers[].onlineAmount and prices.extras[].audience/group/onlineAmount. Clients should ignore unknown fields.
 """
 import json, pathlib, datetime, hashlib
+
+SCHEMA_VERSION = 1  # major: bump only for breaking changes
+SCHEMA_MINOR = 1    # minor: additive fields only (1.1 = 2026-10-04)
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 seed = {p["id"]: p for p in json.loads((ROOT / "data/seed/places.json").read_text())}
@@ -18,7 +25,8 @@ out.mkdir(exist_ok=True)
 body = json.dumps(places, ensure_ascii=False, separators=(",", ":"))
 (out / "places.json").write_text(body)
 meta = {
-    "schemaVersion": 1,
+    "schemaVersion": SCHEMA_VERSION,
+    "schemaMinor": SCHEMA_MINOR,
     "generatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
     "count": len(places),
     "enriched": enriched,

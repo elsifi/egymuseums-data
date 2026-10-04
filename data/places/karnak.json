@@ -1,0 +1,449 @@
+{
+ "id": "karnak",
+ "kind": "site",
+ "wikidataId": "Q522862",
+ "name": {
+  "en": "Karnak Temple Complex",
+  "ar": "معبد الكرنك"
+ },
+ "aliases": [
+  "Karnak",
+  "معبدالكرنك",
+  "Temple of Karnak"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "ar": "الأقصر",
+  "en": "Luxor"
+ },
+ "area": {
+  "en": "East Bank, Karnak (north of central Luxor)",
+  "ar": "البر الشرقي، الكرنك (شمال وسط مدينة الأقصر)"
+ },
+ "address": {
+  "ar": "معابد الكرنك، الكرنك، البر الشرقي، الأقصر",
+  "en": "Karnak Temple, Karnak, East Bank, Luxor"
+ },
+ "lat": 25.718333,
+ "lng": 32.658333,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The main ticket covers the Amun precinct and the Open-Air Museum; the Mut Temple has a separate ticket.",
+  "ar": "مفتوح يوميًا. تشمل التذكرة الرئيسية حرم آمون والمتحف المفتوح، أما معبد موت فله تذكرة منفصلة."
+ },
+ "summary": {
+  "ar": "مدينة المعابد الكبرى للمعبود آمون في طيبة، التي ظل الملوك يضيفون إليها قرابة ألفي عام، وتتوّجها صالة الأعمدة الكبرى.",
+  "en": "The vast temple city of Amun at Thebes, enlarged by pharaohs for some two thousand years and crowned by the Great Hypostyle Hall."
+ },
+ "description": {
+  "ar": "أطلق المصريون القدماء على الكرنك اسم «إبت سوت» أي «أكثر الأماكن اصطفاءً»، وكان طوال معظم تاريخهم أغنى مؤسسة دينية في البلاد. بدأ البناء فيه منذ الدولة الوسطى واستمر حتى العصرين البطلمي والروماني، فيبدو التجول فيه كقراءة كتاب تاريخ منقوش على الحجر. ويمثل حرم آمون رع قلب المجمع: سلسلة من الصروح والأفنية على محور شرقي غربي، إلى جانب محور ثانٍ شمالي جنوبي يتجه نحو معبد الأقصر الذي يربطه بالكرنك طريق الكباش. وتضم صالة الأعمدة الكبرى 134 عمودًا على هيئة البردي، يبلغ ارتفاع الاثني عشر الأوسط منها نحو 21 مترًا، وتعود معظم نقوشها إلى عهدَي سيتي الأول ورمسيس الثاني. وبالقرب منها تنتصب مسلة حتشبسوت التي يقارب ارتفاعها 30 مترًا من كتلة واحدة من الجرانيت. وإلى الشرق تقع قاعة الاحتفالات للملك تحتمس الثالث، بينما يضم الركن الجنوبي الغربي معبدَي خونسو وإيبت، وتقع البحيرة المقدسة التي كان الكهنة يتطهرون فيها. ويعرض المتحف المفتوح، المشمول في التذكرة الرئيسية، مقاصير أُعيد تجميعها مثل المقصورة البيضاء لسنوسرت الأول. ويحيط بالحرم الرئيسي حرما موت ومونتو المستقلان.",
+  "en": "The ancient Egyptians called Karnak Ipet-Sut, 'the most select of places', and for much of their history it was the country's richest religious institution. Building began in the Middle Kingdom and continued into the Ptolemaic and Roman periods, so walking through it is like reading a stone history book. The Precinct of Amun-Ra is the core: a sequence of pylons and courts on an east–west axis, plus a second north–south axis that pointed towards Luxor Temple, to which Karnak was linked by an avenue of sphinxes. Its Great Hypostyle Hall holds 134 papyrus columns, the central twelve rising about 21 metres, decorated mainly under Seti I and Ramesses II. Nearby stands Hatshepsut's obelisk, almost 30 metres of single granite. Further east lies the festival hall of Thutmose III, while the southern corner holds the temples of Khonsu and Opet and the sacred lake where priests purified themselves. The Open-Air Museum, included in the main ticket, displays reassembled chapels such as the White Chapel of Senusret I. The separate precincts of Mut and Montu surround the main enclosure."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Great Hypostyle Hall",
+    "ar": "صالة الأعمدة الكبرى"
+   },
+   "desc": {
+    "en": "134 colossal papyrus columns, the tallest about 21 m.",
+    "ar": "134 عمودًا ضخمًا على هيئة البردي، أطولها نحو 21 مترًا."
+   }
+  },
+  {
+   "title": {
+    "en": "Obelisk of Hatshepsut",
+    "ar": "مسلة حتشبسوت"
+   },
+   "desc": {
+    "en": "A single granite shaft almost 30 m high.",
+    "ar": "كتلة جرانيتية واحدة يقارب ارتفاعها 30 مترًا."
+   }
+  },
+  {
+   "title": {
+    "en": "Sacred Lake",
+    "ar": "البحيرة المقدسة"
+   },
+   "desc": {
+    "en": "The stone-lined pool used by priests for ritual purification.",
+    "ar": "البحيرة المكسوة بالحجر التي كان الكهنة يتطهرون فيها."
+   }
+  },
+  {
+   "title": {
+    "en": "Festival Hall of Thutmose III (Akh-menu)",
+    "ar": "قاعة احتفالات تحتمس الثالث (آخ منو)"
+   },
+   "desc": {
+    "en": "The king's temple at the eastern end.",
+    "ar": "معبد الملك في الطرف الشرقي."
+   }
+  },
+  {
+   "title": {
+    "en": "Temple of Khonsu",
+    "ar": "معبد خونسو"
+   },
+   "desc": {
+    "en": "A complete small temple of the moon god in the south-west corner.",
+    "ar": "معبد صغير مكتمل لمعبود القمر في الركن الجنوبي الغربي."
+   }
+  },
+  {
+   "title": {
+    "en": "Open-Air Museum",
+    "ar": "المتحف المفتوح"
+   },
+   "desc": {
+    "en": "Reassembled chapels, including the White Chapel of Senusret I (included in ticket).",
+    "ar": "مقاصير أُعيد تجميعها منها المقصورة البيضاء لسنوسرت الأول (ضمن التذكرة)."
+   }
+  },
+  {
+   "title": {
+    "en": "Avenue of Sphinxes",
+    "ar": "طريق الكباش"
+   },
+   "desc": {
+    "en": "The processional way that once linked Karnak with Luxor Temple.",
+    "ar": "طريق المواكب الذي كان يربط الكرنك بمعبد الأقصر."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)",
+     "en": "Summer schedule 2026 (daylight-saving period)"
+    },
+    "rule": "summer (daylight-saving period), until the last Friday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-30",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "16:00"
+     }
+    ]
+   },
+   {
+    "label": {
+     "ar": "مواعيد شهر رمضان",
+     "en": "Ramadan schedule"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 600
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 300
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with disabilities"
+  ],
+  "extras": [
+   {
+    "label": {
+     "ar": "معبد موت (تذكرة منفصلة) — أجنبي بالغ",
+     "en": "Mut Temple (separate ticket) — foreign adult"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "label": {
+     "ar": "معبد موت (تذكرة منفصلة) — طالب أجنبي",
+     "en": "Mut Temple (separate ticket) — foreign student"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "label": {
+     "ar": "معبد موت (تذكرة منفصلة) — مصري بالغ",
+     "en": "Mut Temple (separate ticket) — Egyptian adult"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "label": {
+     "ar": "معبد موت (تذكرة منفصلة) — طالب مصري",
+     "en": "Mut Temple (separate ticket) — Egyptian student"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/KarnakTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 90,
+  "standardMinutes": 180,
+  "deepMinutes": 300,
+  "bestTime": {
+   "ar": "مع فتح الأبواب في السادسة صباحًا قبل اشتداد الحرارة ووصول الحافلات السياحية، كما أن ضوء آخر النهار رائع.",
+   "en": "At the 06:00 opening, before the heat and the tour coaches; late afternoon light is also beautiful."
+  },
+  "crowdNotes": {
+   "en": "Mid-morning (about 09:00–12:00) is the busiest time, especially from October to April. Shade is limited outside the hypostyle hall; from May to September temperatures in Luxor can exceed 40 °C, so carry water. The evening sound and light show has a separate ticket (summer 2026: 20:00 in English nightly, a second show at 21:00, and Arabic on Thursdays).",
+   "ar": "منتصف الصباح (نحو 9 إلى 12 ظهرًا) هو وقت الذروة، خاصة من أكتوبر إلى أبريل. الظل محدود خارج صالة الأعمدة، وقد تتجاوز الحرارة في الأقصر 40 درجة بين مايو وسبتمبر، فاحرص على حمل الماء. ولعرض الصوت والضوء المسائي تذكرة منفصلة (صيف 2026: الساعة 8 مساءً بالإنجليزية يوميًا، وعرض ثانٍ 9 مساءً، وبالعربية يوم الخميس)."
+  }
+ },
+ "facilities": {
+  "toilets": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Karnak_Hypostyle_Hall_R01.jpg",
+   "author": "Marc Ryckaert",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karnak_Hypostyle_Hall_R01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Obelisk_of_Hatshepsut_at_Karnak.jpg",
+   "author": "PirouzZ",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Obelisk_of_Hatshepsut_at_Karnak.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_142.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_142.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/karnak/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Karnak",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%83%D8%B1%D9%86%D9%83",
+  "osm": "relation/14358790"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q522862",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/karnak/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/khonsu-temple/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,extras,description,facilities",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/karnak/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معابد-الكرنك/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,lastEntry,freeGroups,tickets",
+   "url": "https://egymonuments.com/details/KarnakTemple",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices(Mut extra)",
+   "url": "https://egymonuments.com/details/MutTemple",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours(summer 2026)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours(summer 2026)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "sound-and-light",
+   "url": "https://www.youm7.com/story/2026/2/17/%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%B9%D8%B1%D9%88%D8%B6-%D8%A7%D9%84%D8%B5%D9%88%D8%AA-%D9%88%D8%A7%D9%84%D8%B6%D9%88%D8%A1-%D8%A8%D9%85%D8%B9%D8%A7%D8%A8%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D9%86%D9%83-%D8%AE%D9%84%D8%A7%D9%84-%D8%B4%D9%87%D8%B1-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%83/7306960",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices(audience: Arab tier abolished from 2026-01-01)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2025/7/10/2817397/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos",
+   "url": "https://commons.wikimedia.org/wiki/File:Karnak_Hypostyle_Hall_R01.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "D3: summer 2026 last entry set to 16:00 (egymonuments.com, all seasons), earlier than the 17:00 implied by the 18:00 summer closing and MoTA's one-hour rule. D14: sound & light note moved from hours.exceptions to visit.crowdNotes. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

@@ -1,0 +1,378 @@
+{
+ "id": "medinet-habu",
+ "kind": "site",
+ "wikidataId": "Q932622",
+ "name": {
+  "en": "Medinet Habu (Temple of Ramesses III)",
+  "ar": "مدينة هابو"
+ },
+ "aliases": [
+  "Madīnat Habū",
+  "Medinet Habu"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor",
+  "ar": "الأقصر"
+ },
+ "area": {
+  "en": "West Bank, near Kom Lolah (Al-Qurna)",
+  "ar": "البر الغربي، بالقرب من كوم لولة (القرنة)"
+ },
+ "address": {
+  "en": "Medinet Habu, West Bank, Luxor",
+  "ar": "مدينة هابو، البر الغربي، الأقصر"
+ },
+ "lat": 25.719496,
+ "lng": 32.6012,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "The mortuary temple of Ramesses III on Luxor's West Bank, ringed by mud-brick walls and entered through a fortress-like gate, with some of the best-preserved colour in Thebes.",
+  "ar": "المعبد الجنائزي للملك رمسيس الثالث في البر الغربي بالأقصر، تحيط به أسوار من الطوب اللبن ويُدخل إليه من بوابة تشبه الحصن، ويحتفظ بألوان من أبهى ما بقي في طيبة."
+ },
+ "description": {
+  "en": "Medinet Habu is the great memorial temple that Ramesses III raised in the twelfth century BC at the southern end of the Theban necropolis. Visitors pass through a towering gatehouse modelled on Syrian fortifications, then cross a broad precinct to a pylon carved with scenes of the king smiting his enemies. Two open courts follow, lined with columns and statue-pillars, where the painted reliefs still show strong blues, reds and yellows. The outer walls record the king's wars, including a rare depiction of a naval battle against the Sea Peoples, while a long festival calendar on the south wall lists the temple's offerings. Inside the enclosure stands an older, smaller temple of Amun begun in the Eighteenth Dynasty, and nearby are the chapels of the God's Wives of Amun from the Late Period. The site later became the Coptic town of Djeme, and traces of that settlement survive among the ruins. Fewer tour groups come here than to Karnak or the Valley of the Kings, so it is often possible to explore the halls in relative quiet.",
+  "ar": "أقام رمسيس الثالث هذا المعبد التذكاري الضخم في القرن الثاني عشر قبل الميلاد عند الطرف الجنوبي لجبانة طيبة. يدخل الزائر من بوابة شاهقة شُيّدت على طراز الحصون السورية، ثم يعبر ساحة واسعة حتى يبلغ صرحًا نُقشت عليه مشاهد الملك وهو يؤدّب أعداءه. وبعده فناءان مكشوفان تحفّهما الأعمدة والتماثيل الأوزيرية، وما زالت النقوش الملوّنة فيهما تحتفظ بدرجات زاهية من الأزرق والأحمر والأصفر. وتروي الجدران الخارجية حروب الملك، ومنها مشهد نادر لمعركة بحرية مع شعوب البحر، بينما يسرد تقويم طويل للأعياد على الجدار الجنوبي قرابين المعبد. وداخل السور معبد أصغر وأقدم للإله آمون يرجع إلى الأسرة الثامنة عشرة، وبالقرب منه مقاصير زوجات الإله آمون من العصر المتأخر. وقد تحوّل الموقع لاحقًا إلى بلدة جِمي القبطية، ولا تزال بقاياها ظاهرة بين الأطلال. ولأن المجموعات السياحية هنا أقل عددًا منها في الكرنك أو وادي الملوك، كثيرًا ما يتاح للزائر أن يتجول في القاعات في هدوء نسبي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Eastern High Gate",
+    "ar": "البوابة الشرقية العالية"
+   },
+   "desc": {
+    "en": "Fortress-style gatehouse with upper rooms decorated with royal scenes.",
+    "ar": "مدخل على هيئة حصن تعلوه حجرات مزينة بمشاهد ملكية."
+   }
+  },
+  {
+   "title": {
+    "en": "First pylon",
+    "ar": "الصرح الأول"
+   },
+   "desc": {
+    "en": "Monumental gateway carved with the king smiting captives.",
+    "ar": "بوابة ضخمة تصوّر الملك وهو يضرب الأسرى."
+   }
+  },
+  {
+   "title": {
+    "en": "Second court",
+    "ar": "الفناء الثاني"
+   },
+   "desc": {
+    "en": "Columned court whose reliefs keep vivid original paint.",
+    "ar": "فناء معمّد تحتفظ نقوشه بألوانها الأصلية الزاهية."
+   }
+  },
+  {
+   "title": {
+    "en": "Sea Peoples battle reliefs",
+    "ar": "نقوش معركة شعوب البحر"
+   },
+   "desc": {
+    "en": "On the outer north wall, showing a rare ancient naval battle.",
+    "ar": "على الجدار الشمالي الخارجي، وتصوّر معركة بحرية نادرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Small Temple of Amun",
+    "ar": "معبد آمون الصغير"
+   },
+   "desc": {
+    "en": "Older Eighteenth-Dynasty shrine inside the enclosure.",
+    "ar": "مقصورة أقدم من الأسرة الثامنة عشرة داخل السور."
+   }
+  },
+  {
+   "title": {
+    "en": "Chapels of the God's Wives of Amun",
+    "ar": "مقاصير زوجات الإله آمون"
+   },
+   "desc": {
+    "en": "Late Period chapels of the priestesses who ruled Thebes.",
+    "ar": "مقاصير من العصر المتأخر لكاهنات حكمن طيبة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer: last entry 17:00",
+     "ar": "الصيف: آخر دخول الساعة 17:00"
+    },
+    "rule": "summer (season dates not published)",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   },
+   {
+    "label": {
+     "en": "Ramadan: same as winter, last entry 16:00",
+     "ar": "رمضان: كالمواعيد الشتوية، آخر دخول 16:00"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/MedinetHabu",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Right at 06:00 opening or in the last two hours before closing, when the low sun lights the reliefs and the heat eases.",
+   "ar": "عند الافتتاح في السادسة صباحًا أو في الساعتين الأخيرتين قبل الإغلاق، حين تضيء الشمس المائلة النقوش وتخف الحرارة."
+  },
+  "crowdNotes": {
+   "en": "Usually quieter than Karnak or the Valley of the Kings; there is little shade in the courts, so carry water and a hat from May to September.",
+   "ar": "عادةً أهدأ من الكرنك ووادي الملوك؛ والظل قليل في الأفنية، فاحمل الماء وغطاء الرأس من مايو إلى سبتمبر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Medinet_Habu_Temple_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Marc Ryckaert (MJJR)",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medinet_Habu_Temple_R01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Medinet_Habu_Temple%2C_Piles_of_Hands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Steven C. Price",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medinet_Habu_Temple,_Piles_of_Hands.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Medinet_Habu_Temple_Column_Detail2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Steven C. Price",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medinet_Habu_Temple_Column_Detail2.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/the-temple-of-medinet-habu/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Medinet_Habu",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D8%A8%D9%88_(%D9%85%D8%AF%D9%8A%D9%86%D8%A9)",
+  "osm": null
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q932622",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-temple-of-medinet-habu/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,status",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-temple-of-medinet-habu/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry, seasonal),prices (conflict),tickets,freeGroups",
+   "url": "https://egymonuments.com/details/MedinetHabu",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (cross-check, Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Medinet_Habu",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Medinet_Habu_Temple_R01.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Medinet_Habu_Temple,_Piles_of_Hands.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Medinet_Habu_Temple_Column_Detail2.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "D4: foreign adult 220 (booking platform, MoTA Nov 2024 list, 2026 guides); the portal's 230 is treated as outdated. No source says the gate price differs, so no onlineAmount. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

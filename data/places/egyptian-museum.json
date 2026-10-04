@@ -1,0 +1,409 @@
+{
+ "id": "egyptian-museum",
+ "kind": "museum",
+ "wikidataId": "Q201219",
+ "name": {
+  "en": "The Egyptian Museum (Tahrir)",
+  "ar": "المتحف المصري"
+ },
+ "aliases": [
+  "متحف الآثار بالقاهرة",
+  "متحف القاهرة",
+  "متحف مصري",
+  "Cairo Museum",
+  "Matḥaf al-Miṣrī",
+  "Museum nke Egypt",
+  "Museum of Cairo",
+  "Museum of Egyptian Antiquities",
+  "Ụlọ ihe ngosi nka Cairo",
+  "Ụlọ ihe ngosi nka nke Cairo",
+  "Cairo Egyptian Museum",
+  "متحف الآثار المصرية"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Tahrir Square, Downtown",
+  "ar": "ميدان التحرير، وسط البلد"
+ },
+ "address": {
+  "en": "Mariette Street, Tahrir Square (north side), Downtown Cairo — nearest metro: Sadat",
+  "ar": "شارع مارييت، ميدان التحرير (الجهة الشمالية)، وسط القاهرة — أقرب محطة مترو: السادات"
+ },
+ "lat": 30.047778,
+ "lng": 31.233333,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Tutankhamun's collection has moved to the Grand Egyptian Museum and the royal mummies to the National Museum of Egyptian Civilization (2021); the Tahrir museum stays open with the rest of its collection, including the Tanis treasures.",
+  "ar": "مفتوح يوميًا. انتقلت مجموعة توت عنخ آمون إلى المتحف المصري الكبير، والمومياوات الملكية إلى المتحف القومي للحضارة المصرية (2021)، ويظل متحف التحرير مفتوحًا ببقية مقتنياته، ومنها كنوز تانيس."
+ },
+ "summary": {
+  "en": "Cairo's historic antiquities museum on Tahrir Square, still packed with Old Kingdom masterpieces and the gold of the Tanis kings.",
+  "ar": "متحف الآثار التاريخي في ميدان التحرير، وما زال يزخر بروائع الدولة القديمة وكنوز ملوك تانيس الذهبية."
+ },
+ "description": {
+  "en": "Opened in 1902 on the north side of Tahrir Square, the Egyptian Museum was the first national museum in the Middle East and still holds one of the richest collections of pharaonic art anywhere. Its neoclassical building was designed by the French architect Marcel Dourgnon, and the ground floor is laid out broadly in chronological order, from early dynastic objects through Old Kingdom statuary to monumental pieces of the New Kingdom and later periods. Although Tutankhamun's treasures have moved to the Grand Egyptian Museum and the royal mummies to the National Museum of Egyptian Civilization, the building remains essential viewing. Highlights include the diorite statue of Khafre, the painted limestone pair of Rahotep and Nofret, the colossal group of Amenhotep III with Queen Tiye, and the gold and silver burial treasures of the Tanis kings, among them the funerary mask of Psusennes I. Displays are dense and partly keep their early twentieth-century presentation, which gives the museum a character very different from its new counterparts. Auguste Mariette, founder of Egypt's antiquities service, is buried in the garden.",
+  "ar": "افتُتح المتحف المصري عام 1902 في الجهة الشمالية من ميدان التحرير، وكان أول متحف وطني في الشرق الأوسط، ولا يزال يحتضن واحدة من أغنى مجموعات الفن المصري القديم في العالم. صمّم مبناه ذا الطراز الكلاسيكي الجديد المعماريُّ الفرنسي مارسيل دورنون، ويتبع الطابق الأرضي ترتيبًا زمنيًا تقريبيًا يبدأ بآثار العصر العتيق، ثم تماثيل الدولة القديمة، فالقطع الضخمة من الدولة الحديثة وما تلاها. ورغم انتقال كنوز توت عنخ آمون إلى المتحف المصري الكبير والمومياوات الملكية إلى المتحف القومي للحضارة المصرية، يظل المتحف محطة لا غنى عنها. ومن أبرز معروضاته تمثال خفرع المنحوت من الديوريت، وتمثالا رع حتب ونفرت من الحجر الجيري الملون، والتمثال الضخم لأمنحتب الثالث مع الملكة تي، وكنوز ملوك تانيس من الذهب والفضة وفي مقدمتها القناع الجنائزي للملك بسوسنس الأول. وتتسم قاعاته بكثافة العرض واحتفاظ بعضها بطابع مطلع القرن العشرين، مما يمنحه شخصية مختلفة تمامًا عن المتاحف الحديثة. وفي حديقته يرقد أوجست مارييت مؤسس مصلحة الآثار المصرية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Statue of Khafre",
+    "ar": "تمثال خفرع"
+   },
+   "desc": {
+    "en": "The enthroned king in dark diorite, protected by the Horus falcon behind his head.",
+    "ar": "الملك جالسًا على عرشه في حجر الديوريت الداكن، يظلله صقر حورس من خلف رأسه."
+   }
+  },
+  {
+   "title": {
+    "en": "Rahotep and Nofret",
+    "ar": "رع حتب ونفرت"
+   },
+   "desc": {
+    "en": "A Fourth-Dynasty couple in painted limestone with startling inlaid eyes.",
+    "ar": "زوجان من الأسرة الرابعة في الحجر الجيري الملون بعيون مطعّمة نابضة بالحياة."
+   }
+  },
+  {
+   "title": {
+    "en": "Amenhotep III and Queen Tiye",
+    "ar": "أمنحتب الثالث والملكة تي"
+   },
+   "desc": {
+    "en": "The colossal family group that dominates the central hall.",
+    "ar": "التمثال العائلي الضخم الذي يتصدر البهو الأوسط."
+   }
+  },
+  {
+   "title": {
+    "en": "Tanis treasures",
+    "ar": "كنوز تانيس"
+   },
+   "desc": {
+    "en": "Gold and silver from royal tombs at Tanis, including the funerary mask of Psusennes I.",
+    "ar": "مقتنيات ذهبية وفضية من المقابر الملكية في تانيس، ومنها القناع الجنائزي للملك بسوسنس الأول."
+   }
+  },
+  {
+   "title": {
+    "en": "Hathor cow with Amenhotep II",
+    "ar": "البقرة حتحور مع أمنحتب الثاني"
+   },
+   "desc": {
+    "en": "A shrine statue showing the goddess as a cow protecting the king.",
+    "ar": "تمثال يصور الإلهة في هيئة بقرة تحمي الملك وترعاه."
+   }
+  },
+  {
+   "title": {
+    "en": "Painted head of Hatshepsut",
+    "ar": "الرأس الملون لحتشبسوت"
+   },
+   "desc": {
+    "en": "A statue head from Deir el-Bahari that keeps much of its original colour.",
+    "ar": "رأس تمثال من الدير البحري يحتفظ بكثير من ألوانه الأصلية."
+   }
+  },
+  {
+   "title": {
+    "en": "Statue of Mentuhotep II",
+    "ar": "تمثال منتوحتب الثاني"
+   },
+   "desc": {
+    "en": "The Middle Kingdom reunifier shown in Osiride pose with crossed arms.",
+    "ar": "موحِّد البلاد في الدولة الوسطى في الهيئة الأوزيرية بذراعين متقاطعتين."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 550
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 275
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Audio guide — foreign visitor",
+     "ar": "الدليل الصوتي — زائر أجنبي"
+    },
+    "audience": "foreign",
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Audio guide — Egyptian visitor",
+     "ar": "الدليل الصوتي — زائر مصري"
+    },
+    "audience": "egyptian",
+    "amount": 30
+   },
+   {
+    "label": {
+     "en": "Whisperer headset (for tour guides' groups, minimum 5)",
+     "ar": "سماعات الإرشاد (لمجموعات المرشدين، بحد أدنى 5)"
+    },
+    "amount": 75
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptian seniors aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Mobile-phone photography is free"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/EgyptianMuseum",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 90,
+  "standardMinutes": 150,
+  "deepMinutes": 240,
+  "bestTime": {
+   "en": "Weekday mornings right at 09:00, before tour groups arrive; afternoons are quieter now that many groups go to GEM instead.",
+   "ar": "صباح أيام الأسبوع مع الافتتاح في التاسعة قبل وصول المجموعات السياحية، كما أصبحت فترة الظهيرة أهدأ بعد توجه كثير من المجموعات إلى المتحف الكبير."
+  },
+  "crowdNotes": {
+   "en": "Ground-floor highlights draw clusters of guided groups; the upper floor is usually calmer. Mobile-phone photography is free.",
+   "ar": "تتجمع المجموعات المصحوبة بمرشدين حول روائع الطابق الأرضي، بينما يكون الطابق العلوي أهدأ عادة. التصوير بالهاتف المحمول مجاني."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Facade_of_the_Egyptian_Museum%2C_Tahrir_Square%2C_Cairo%2C_Egypt1.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Facade_of_the_Egyptian_Museum,_Tahrir_Square,_Cairo,_Egypt1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Khafre_Enthroned%2C_near-front_view.JPG",
+   "author": "A. Parrot",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khafre_Enthroned,_near-front_view.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Rahotep_and_Nofret.JPG",
+   "author": "A. Parrot",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rahotep_and_Nofret.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/egyptian-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Egyptian_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A",
+  "osm": "way/10873198"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q201219",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/egyptian-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (official MoTA ticketing)",
+   "url": "https://egymonuments.com/details/EgyptianMuseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/3",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (Ramadan), address",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/المتحف-المصري-بالتحرير/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,freeGroups,address,highlights",
+   "url": "https://egymonuments.gov.eg/en/museums/egyptian-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours.exceptions (Ramadan 2026)",
+   "url": "https://www.cairo24.com/2372205",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights (objects on display, July 2026)",
+   "url": "https://www.youm7.com/story/2026/7/2/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%89-%D8%A8%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1-%D9%83%D9%86%D9%88%D8%B2-%D8%AA%D8%B1%D9%88%D9%89-%D8%B9%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AC%D9%88%D9%84%D8%A9-%D8%AA%D9%83%D8%B4%D9%81/7466947",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,status (Tutankhamun to GEM, mummies to NMEC)",
+   "url": "https://en.wikipedia.org/wiki/Egyptian_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights,visit (original prose; facts cross-checked)",
+   "url": "https://en.wikipedia.org/wiki/Egyptian_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.dailynewsegypt.com, www.nileempire.com); needs an official 2025-2026 source. Ramadan hours were announced for Ramadan 2026; recheck for Ramadan 2027. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

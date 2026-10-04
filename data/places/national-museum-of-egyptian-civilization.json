@@ -1,0 +1,415 @@
+{
+ "id": "national-museum-of-egyptian-civilization",
+ "kind": "museum",
+ "wikidataId": "Q29017001",
+ "name": {
+  "en": "National Museum of Egyptian Civilization",
+  "ar": "المتحف القومي للحضارة المصرية"
+ },
+ "aliases": [
+  "NMEC",
+  "National Museum of Egyptian Civilization Cairo",
+  "National Museum of Egyptian Civilization in Cairo"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Ain El-Sira, Fustat",
+  "ar": "عين الصيرة، الفسطاط"
+ },
+ "address": {
+  "en": "El-Fustat Road, Ain El-Sira, Cairo (postal code 17611) — nearest metro: Mar Girgis",
+  "ar": "طريق الفسطاط، عين الصيرة، القاهرة (الرمز البريدي 17611) — أقرب محطة مترو: مارجرجس"
+ },
+ "lat": 30.0075,
+ "lng": 31.248333,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily, with an extra evening session on Fridays (18:00-21:00). Home of the royal mummies since the April 2021 Pharaohs' Golden Parade.",
+  "ar": "مفتوح يوميًا، مع فترة مسائية إضافية يوم الجمعة (18:00–21:00). ويضم المومياوات الملكية منذ موكب المومياوات الملكية الذهبي في أبريل 2021."
+ },
+ "summary": {
+  "en": "A museum of Egypt's whole history, from prehistory to today, best known for the underground Royal Mummies Gallery.",
+  "ar": "متحف يروي تاريخ مصر كله من عصور ما قبل التاريخ حتى اليوم، وأشهر ما فيه قاعة المومياوات الملكية."
+ },
+ "description": {
+  "en": "The National Museum of Egyptian Civilization stands in Fustat, overlooking the Ain al-Sira lake on the site of Egypt's first Islamic capital. Rather than focusing on one era, it tells the story of Egyptian civilisation from prehistory to the present, arranged around themes such as writing, belief, crafts, the state and society. The main gallery brings together pharaonic sculpture, Coptic and Islamic objects and material from the modern period, so that visitors can follow continuities across thousands of years. The best-known space is the Royal Mummies Gallery, opened in April 2021 after the Pharaohs' Golden Parade carried twenty-two kings and queens here from the Egyptian Museum in Tahrir. The mummies, among them Ramesses II, Seqenenre Tao and Hatshepsut, rest in individual climate-controlled cases in a dimly lit underground hall designed to evoke the Valley of the Kings. A separate textile gallery is devoted to Egypt's long weaving tradition. Ticket prices are moderate, the galleries are rarely as crowded as the larger museums, and on Fridays an evening session lets visitors come after work.",
+  "ar": "يقع المتحف القومي للحضارة المصرية في الفسطاط مطلًّا على بحيرة عين الصيرة، في موضع أول عاصمة إسلامية لمصر. ولا يقتصر المتحف على حقبة بعينها، بل يروي قصة الحضارة المصرية منذ ما قبل التاريخ حتى العصر الحديث، موزعةً على محاور مثل الكتابة والمعتقدات والحرف والدولة والمجتمع. وتجمع القاعة الرئيسية بين التماثيل الفرعونية والقطع القبطية والإسلامية ومقتنيات العصر الحديث، فيتتبع الزائر خيوط الاستمرارية عبر آلاف السنين. وأشهر أقسامه قاعة المومياوات الملكية التي افتُتحت في أبريل 2021 بعد أن نقل موكب المومياوات الملكية اثنين وعشرين ملكًا وملكة إليها من المتحف المصري بالتحرير. وتستقر المومياوات، ومنها رمسيس الثاني وسقنن رع تاعا وحتشبسوت، في فتارين مستقلة محكومة المناخ داخل قاعة سفلية خافتة الإضاءة صُممت لتستحضر أجواء وادي الملوك. كما تخصص قاعة للمنسوجات لعرض تقاليد النسيج المصري العريقة. وأسعار التذاكر معتدلة، والقاعات نادرًا ما تزدحم كالمتاحف الكبرى، وتتيح فترة مسائية يوم الجمعة الزيارة بعد انتهاء العمل."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Royal Mummies Gallery",
+    "ar": "قاعة المومياوات الملكية"
+   },
+   "desc": {
+    "en": "Twenty-two New Kingdom kings and queens, including Ramesses II and Hatshepsut, in a hall evoking the Valley of the Kings.",
+    "ar": "اثنان وعشرون ملكًا وملكة من الدولة الحديثة، منهم رمسيس الثاني وحتشبسوت، في قاعة تحاكي وادي الملوك."
+   }
+  },
+  {
+   "title": {
+    "en": "Main Gallery",
+    "ar": "القاعة الرئيسية"
+   },
+   "desc": {
+    "en": "A thematic walk through writing, belief, crafts and society from prehistory to modern Egypt.",
+    "ar": "جولة موضوعية في الكتابة والمعتقدات والحرف والمجتمع من عصور ما قبل التاريخ حتى مصر الحديثة."
+   }
+  },
+  {
+   "title": {
+    "en": "Textile Gallery",
+    "ar": "قاعة المنسوجات"
+   },
+   "desc": {
+    "en": "Egyptian weaving from ancient linen to Coptic and Islamic fabrics.",
+    "ar": "النسيج المصري من الكتان القديم إلى المنسوجات القبطية والإسلامية."
+   }
+  },
+  {
+   "title": {
+    "en": "Kneeling statue of the vizier Paser",
+    "ar": "تمثال الوزير باسر راكعًا"
+   },
+   "desc": {
+    "en": "A black granite portrait of Ramesses II's chief minister.",
+    "ar": "تمثال من الجرانيت الأسود لكبير وزراء رمسيس الثاني."
+   }
+  },
+  {
+   "title": {
+    "en": "Statue of Amenhotep II being purified",
+    "ar": "تمثال تطهير أمنحتب الثاني"
+   },
+   "desc": {
+    "en": "An Eighteenth-Dynasty group showing a royal purification rite.",
+    "ar": "مجموعة من الأسرة الثامنة عشرة تصور طقس تطهير الملك."
+   }
+  },
+  {
+   "title": {
+    "en": "View over Ain al-Sira lake and Fustat",
+    "ar": "الإطلالة على بحيرة عين الصيرة والفسطاط"
+   },
+   "desc": {
+    "en": "The museum's setting on the site of Egypt's first Islamic capital.",
+    "ar": "موقع المتحف في قلب أول عاصمة إسلامية لمصر."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "18:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 90
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 45
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 550
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 300
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Ticket + guided tour — Egyptian adult (total)",
+     "ar": "تذكرة مع جولة إرشادية — مصري بالغ (الإجمالي)"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 400
+   },
+   {
+    "label": {
+     "en": "Ticket + guided tour — Egyptian student (total)",
+     "ar": "تذكرة مع جولة إرشادية — طالب مصري (الإجمالي)"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 355
+   },
+   {
+    "label": {
+     "en": "Ticket + guided tour — foreign or Arab adult (total)",
+     "ar": "تذكرة مع جولة إرشادية — أجنبي أو عربي بالغ (الإجمالي)"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 1510
+   },
+   {
+    "label": {
+     "en": "Ticket + guided tour — foreign or Arab student (total)",
+     "ar": "تذكرة مع جولة إرشادية — طالب أجنبي أو عربي (الإجمالي)"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 1260
+   }
+  ],
+  "freeGroups": [
+   "Children under 6 (all week)",
+   "Not on Fridays, Saturdays or national holidays: Egyptians 60+, children of martyrs and wounded, war veterans, Plastic Arts and Tourist Guides syndicate members, orphanage groups and public primary and preparatory school groups (prior letter), Egyptians with special needs + one Egyptian carer, students of listed antiquities/tourism/arts faculties"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/nmec/tickets",
+  "platform": "nmec",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 120,
+  "deepMinutes": 180,
+  "bestTime": {
+   "en": "Weekday mornings, or the Friday evening session (18:00-21:00) for a quieter visit to the mummies.",
+   "ar": "صباح أيام الأسبوع، أو الفترة المسائية يوم الجمعة (من السادسة حتى التاسعة مساءً) لزيارة أهدأ لقاعة المومياوات."
+  },
+  "crowdNotes": {
+   "en": "School groups can fill the Royal Mummies Gallery in the late morning. Photography inside requires a photography ticket and flash is not allowed.",
+   "ar": "قد تزدحم قاعة المومياوات بالرحلات المدرسية في أواخر الصباح. يتطلب التصوير داخل المتحف تذكرة تصوير، ويُمنع استخدام الفلاش."
+  }
+ },
+ "accessibility": {
+  "wheelchairsAvailable": "free",
+  "accessibleParking": true,
+  "elevatorToAllExhibits": true,
+  "brailleBrochures": "on request",
+  "signLanguageTours": "advance reservation"
+ },
+ "facilities": {
+  "cloakroom": true,
+  "giftShop": true,
+  "cinema": true,
+  "photographyTicketRequired": true
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Amenhotep_II_being_purified_with_water%3B_18th_dynasty%3B_National_Museum_of_Egyptian_Civilization%2C_Cairo_%2852087602960%29.jpg",
+   "author": "Richard Mortel from Riyadh, Saudi Arabia",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amenhotep_II_being_purified_with_water;_18th_dynasty;_National_Museum_of_Egyptian_Civilization,_Cairo_(52087602960).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Statue_of_Hapi_the_Scribe%2C_19th_dynasty.jpg",
+   "author": "Onceinawhile",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Hapi_the_Scribe,_19th_dynasty.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/The_vizier_Paser%2C_19th_dynasty%2C_reign_of_Ramesses_II%2C_1279-1213_BCE%3B_National_Museum_of_Egyptian_Civilization%2C_Cairo_%281%29_%2852087322624%29.jpg",
+   "author": "Richard Mortel from Riyadh, Saudi Arabia",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_vizier_Paser,_19th_dynasty,_reign_of_Ramesses_II,_1279-1213_BCE;_National_Museum_of_Egyptian_Civilization,_Cairo_(1)_(52087322624).jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "https://nmec.gov.eg/",
+  "social": [
+   "https://www.facebook.com/nmec.gov.eg/",
+   "https://www.instagram.com/nmecmuseum/",
+   "https://twitter.com/NMEC17"
+  ]
+ },
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/national-museum-of-egyptian-civilization-nmec/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/National_Museum_of_Egyptian_Civilization",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A_%D9%84%D9%84%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9",
+  "osm": "way/400424568"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q29017001",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/national-museum-of-egyptian-civilization-nmec/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,lastEntry,address",
+   "url": "https://nmec.gov.eg/opening-hours/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,extras,freeGroups,tickets,hours (official NMEC ticket flow linked from nmec.gov.eg)",
+   "url": "https://egymonuments.com/nmec/tickets",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (incl. Ramadan last entry)",
+   "url": "https://egymonuments.com/nmec",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "accessibility",
+   "url": "https://nmec.gov.eg/accessibility/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "facilities,visit.crowdNotes (photography ticket, cloakroom)",
+   "url": "https://nmec.gov.eg/visitor-tips-and-policies/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,freeGroups,address,highlights",
+   "url": "https://egymonuments.gov.eg/en/museums/national-museum-of-egyptian-civilization-nmec/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (Royal Mummies parade 2021)",
+   "url": "https://en.wikipedia.org/wiki/Pharaohs%27_Golden_Parade",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights,visit (original prose; facts cross-checked)",
+   "url": "https://en.wikipedia.org/wiki/National_Museum_of_Egyptian_Civilization",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license metadata via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "D14/D15: the Friday 18:00–21:00 evening session moved from hours.exceptions into hours.weekly as a second 'fri' entry. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

@@ -1,0 +1,381 @@
+{
+ "id": "luxor-temple",
+ "kind": "site",
+ "wikidataId": "Q319841",
+ "name": {
+  "en": "Luxor Temple",
+  "ar": "معبد الأقصر"
+ },
+ "aliases": [
+  "معبدالأقصر"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor",
+  "ar": "الأقصر"
+ },
+ "area": {
+  "en": "East Bank, central Luxor (Corniche)",
+  "ar": "البر الشرقي، وسط مدينة الأقصر (الكورنيش)"
+ },
+ "address": {
+  "ar": "معبد الأقصر، كورنيش النيل، وسط مدينة الأقصر (البر الشرقي)",
+  "en": "Luxor Temple, Corniche el-Nil, central Luxor (East Bank)"
+ },
+ "lat": 25.7,
+ "lng": 32.639167,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily into the evening; one of the few Egyptian temples that can be visited after dark.",
+  "ar": "مفتوح يوميًا حتى المساء، وهو من المعابد المصرية القليلة التي يمكن زيارتها بعد حلول الظلام."
+ },
+ "summary": {
+  "ar": "المعبد الكبير في قلب مدينة الأقصر الحديثة، شيّده أساسًا أمنحتب الثالث ورمسيس الثاني، ويربطه طريق الكباش بمعابد الكرنك.",
+  "en": "The great temple in the heart of modern Luxor, built mainly by Amenhotep III and Ramesses II and linked to Karnak by the Avenue of Sphinxes."
+ },
+ "description": {
+  "ar": "عُرف معبد الأقصر قديمًا باسم «إبت رسيت» أي «الحرم الجنوبي»، ويقع على بعد نحو ثلاثة كيلومترات جنوب الكرنك متجهًا نحوه، بدلًا من المحور الشرقي الغربي المعتاد في المعابد المصرية. ويعود ذلك إلى عيد الأوبت السنوي، حين كانت تماثيل آمون وموت وخونسو تُحمل من الكرنك لزيارة هيئة آمون التي كانت تُعبد هنا. أقدم ما بقي فيه مقصورة من عهد حتشبسوت، أما قلب المعبد فيرجع إلى أمنحتب الثالث الذي شيّد الحجرات الداخلية وفناء الشمس المحاط بالأعمدة وصفّ الأعمدة الكبير، ثم نُقشت جدرانه لاحقًا بمناظر العيد في عهدَي توت عنخ آمون وحور محب. وأضاف رمسيس الثاني الصرح الأمامي وفناءً محاطًا بالأعمدة وتماثيل ضخمة جالسة، وما زالت إحدى مسلتيه قائمة عند المدخل، بينما تقف الأخرى في باريس منذ عام 1836. ولا تقل الطبقات اللاحقة أهمية، ومنها مقصورة رومانية كُسيت جدرانها بالجص ورُسم عليها الأباطرة، وتخضع رسومها لأعمال الترميم، ومسجد أبي الحجاج المرتفع فوق فناء رمسيس. ويكتسب المعبد سحرًا خاصًا في المساء حين تضيئه الأنوار بعد الغروب.",
+  "en": "Known in antiquity as Ipet-resyt, the 'southern sanctuary', Luxor Temple stands about three kilometres south of Karnak and faces it rather than following the usual east–west temple layout. The reason was the annual Opet Festival, when the sacred images of Amun, Mut and Khonsu were carried from Karnak to visit the form of Amun worshipped here. The oldest surviving element is a shrine from the reign of Hatshepsut, but the core of the temple belongs to Amenhotep III, who built the inner sanctuaries, a columned sun court and the great processional colonnade, whose walls were later carved with scenes of the festival under Tutankhamun and Horemheb. Ramesses II added the entrance pylon, a peristyle court and seated colossi; one of his pair of obelisks still stands at the gate, while its twin has stood in Paris since 1836. Later layers are just as interesting: a Roman chapel whose plastered walls were painted with the emperors and are being conserved, and the mosque of Abu al-Haggag perched above the Ramesside court. Floodlit after sunset, the temple is especially atmospheric in the evening."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Pylon of Ramesses II and obelisk",
+    "ar": "صرح رمسيس الثاني والمسلة"
+   },
+   "desc": {
+    "en": "The monumental gateway with its surviving obelisk and colossi.",
+    "ar": "البوابة الضخمة بمسلتها الباقية وتماثيلها العملاقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Colonnade of Amenhotep III",
+    "ar": "صف أعمدة أمنحتب الثالث"
+   },
+   "desc": {
+    "en": "Two rows of towering papyrus columns with Opet Festival reliefs.",
+    "ar": "صفّان من أعمدة البردي الشاهقة ونقوش عيد الأوبت."
+   }
+  },
+  {
+   "title": {
+    "en": "Sun court of Amenhotep III",
+    "ar": "فناء الشمس لأمنحتب الثالث"
+   },
+   "desc": {
+    "en": "An elegant court surrounded by double rows of columns.",
+    "ar": "فناء أنيق تحيط به صفوف مزدوجة من الأعمدة."
+   }
+  },
+  {
+   "title": {
+    "en": "Roman imperial chapel",
+    "ar": "المقصورة الرومانية"
+   },
+   "desc": {
+    "en": "Wall paintings of the emperors of the Tetrarchy over the older reliefs.",
+    "ar": "رسوم جدارية لأباطرة الحكم الرباعي فوق النقوش الأقدم."
+   }
+  },
+  {
+   "title": {
+    "en": "Mosque of Abu al-Haggag",
+    "ar": "مسجد أبي الحجاج"
+   },
+   "desc": {
+    "en": "A medieval mosque built high above the Ramesside court.",
+    "ar": "مسجد من العصور الوسطى مرتفع فوق فناء رمسيس."
+   }
+  },
+  {
+   "title": {
+    "en": "Avenue of Sphinxes",
+    "ar": "طريق الكباش"
+   },
+   "desc": {
+    "en": "The start of the sphinx-lined processional road to Karnak.",
+    "ar": "بداية طريق المواكب المصطف بتماثيل أبي الهول نحو الكرنك."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "20:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "20:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "20:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "20:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "20:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "20:00",
+    "lastEntry": "19:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "20:00",
+    "lastEntry": "19:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)",
+     "en": "Summer schedule 2026 (daylight-saving period)"
+    },
+    "rule": "summer (daylight-saving period), until the last Friday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-30",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "07:00",
+      "close": "21:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "tue",
+      "open": "07:00",
+      "close": "21:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "wed",
+      "open": "07:00",
+      "close": "21:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "thu",
+      "open": "07:00",
+      "close": "21:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "fri",
+      "open": "07:00",
+      "close": "21:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "sat",
+      "open": "07:00",
+      "close": "21:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "sun",
+      "open": "07:00",
+      "close": "21:00",
+      "lastEntry": "19:00"
+     }
+    ]
+   },
+   {
+    "label": {
+     "ar": "مواعيد شهر رمضان",
+     "en": "Ramadan schedule"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "lastEntry": "19:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 500
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 250
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with disabilities"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/LuxorTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "ar": "من آخر العصر حتى الغروب، لمشاهدة الحجر في الضوء الذهبي ثم مضاءً بعد حلول الظلام.",
+   "en": "Late afternoon into dusk, to see the stone in golden light and then floodlit after dark."
+  },
+  "crowdNotes": {
+   "ar": "الفترة المسائية حول الغروب هي الأكثر ازدحامًا، والصباح الباكر هو الأهدأ. في الصيف تجنّب حرارة الظهيرة وتعال مبكرًا أو بعد الخامسة مساءً.",
+   "en": "Evenings around sunset are the busiest; early morning is quietest. In summer, avoid the midday heat and come early or after 17:00."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Luxor_Temple_R15.jpg",
+   "author": "Marc Ryckaert",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luxor_Temple_R15.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pylons_and_obelisk_Luxor_temple.JPG",
+   "author": "Ad Meskens",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pylons_and_obelisk_Luxor_temple.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Colonnade%2C_Luxor_Temple%2C_Luxor%2C_LG%2C_EGY_%2848009631541%29.jpg",
+   "author": "Warren LeMay from Chicago, IL, United States",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colonnade,_Luxor_Temple,_Luxor,_LG,_EGY_(48009631541).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/luxor-temple/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Luxor_Temple",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1",
+  "osm": "way/1079039494"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q319841",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/luxor-temple/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/luxor-temple/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-الأقصر/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,lastEntry,freeGroups,tickets",
+   "url": "https://egymonuments.com/details/LuxorTemple",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours(summer 2026)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours(summer 2026)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices(audience: Arab tier abolished from 2026-01-01)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2025/7/10/2817397/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos",
+   "url": "https://commons.wikimedia.org/wiki/File:Luxor_Temple_R15.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "D3: summer 2026 last entry set to 19:00 (egymonuments.com, all seasons), the earliest official value; the 21:00 summer closing comes from April 2026 news. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

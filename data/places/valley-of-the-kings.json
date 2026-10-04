@@ -1,0 +1,517 @@
+{
+ "id": "valley-of-the-kings",
+ "kind": "site",
+ "wikidataId": "Q133423",
+ "name": {
+  "en": "Valley of the Kings",
+  "ar": "وادي الملوك"
+ },
+ "aliases": [
+  "Valley of the Gates of the Kings"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "ar": "الأقصر (البر الغربي)",
+  "en": "Luxor (West Bank)"
+ },
+ "area": {
+  "en": "West Bank, Qurna",
+  "ar": "البر الغربي، القرنة"
+ },
+ "address": {
+  "ar": "وادي الملوك، القرنة، البر الغربي، الأقصر",
+  "en": "Valley of the Kings, Qurna, West Bank, Luxor"
+ },
+ "lat": 25.74025,
+ "lng": 32.602358,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The general ticket covers a selection of open tombs; KV62 (Tutankhamun), KV17 (Seti I) and KV9 (Ramesses V & VI) need extra tickets. The list of open tombs rotates; check it at the ticket office.",
+  "ar": "مفتوح يوميًا. تشمل التذكرة العامة مجموعة من المقابر المفتوحة، أما مقابر توت عنخ آمون (KV62) وسيتي الأول (KV17) ورمسيس الخامس والسادس (KV9) فتتطلب تذاكر إضافية. وتتغير قائمة المقابر المفتوحة بالتناوب، فاطّلع عليها عند شباك التذاكر."
+ },
+ "summary": {
+  "ar": "وادٍ صحراوي منعزل في البر الغربي بالأقصر، دُفن فيه ملوك الدولة الحديثة في مقابر صخرية عميقة مزيّنة بنقوش ملوّنة.",
+  "en": "The hidden desert valley on Luxor's West Bank where the pharaohs of the New Kingdom were buried in deep, richly painted rock-cut tombs."
+ },
+ "description": {
+  "ar": "منذ مطلع الأسرة الثامنة عشرة حتى نهاية الأسرة العشرين، أي نحو 1500 إلى 1070 قبل الميلاد، تخلّى ملوك مصر عن الأهرامات واتجهوا إلى نحت مقابرهم عميقًا في وادٍ جاف خلف جبال طيبة. وقد اختير الموقع بعناية: فهو في البر الغربي، عالم الشمس الغاربة والموتى، ويقع أسفل قمة طبيعية على شكل هرم كانت مقدسة لحتحور، كما أن عزلته كانت تُصعّب مهمة اللصوص. ويُعدّ تحتمس الأول أول ملك ثبت دفنه هنا. وينقسم الوادي إلى فرع شرقي تجري فيه معظم الزيارات، وفرع غربي أصغر، ويضم أكثر من ستين مقبرة إضافة إلى نحو عشرين حفرة لم تكتمل. وتتألف المقبرة الملكية النموذجية من ممرات طويلة منحدرة وقاعات ذات أعمدة تغطيها نصوص ومناظر من كتب العالم الآخر، ترشد الملك في رحلة الشمس الليلية حتى يولد من جديد مع الفجر. ومن أبرز المقابر التي تُباع لها تذاكر إضافية مقبرة توت عنخ آمون الصغيرة ذائعة الصيت، ومقبرة سيتي الأول بنقوشها البديعة، وممرات رمسيس الخامس والسادس الزاهية الألوان. ويتطلب التجول السير على أرضيات منحدرة وأحيانًا شديدة الانحدار، مع هواء دافئ ساكن تحت الأرض.",
+  "en": "From the early Eighteenth Dynasty until the end of the Twentieth, roughly 1500 to 1070 BC, Egypt's kings abandoned pyramids and had their tombs cut deep into a dry wadi behind the Theban cliffs. The spot was chosen with care: it lay on the west bank, the realm of the setting sun and the dead; it sat beneath a natural pyramid-shaped peak sacred to Hathor; and it was isolated enough to discourage robbers. Thutmose I is the first king securely known to have been buried here. The valley has an eastern branch, where almost all visits take place, and a smaller western one, and holds more than sixty tombs plus around twenty unfinished pits. Typical royal tombs consist of long sloping corridors and pillared halls covered with texts and images from the books of the afterlife, guiding the king through the night journey of the sun to rebirth at dawn. Highlights for which extra tickets are sold include the small but legendary tomb of Tutankhamun, the superbly carved tomb of Seti I and the brilliantly coloured corridors of Ramesses V and VI. Expect walking on sloping, sometimes steep, floors and warm, still air underground."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Tutankhamun (KV62)",
+    "ar": "مقبرة توت عنخ آمون (KV62)"
+   },
+   "desc": {
+    "en": "The modest tomb whose 1922 discovery stunned the world (extra ticket).",
+    "ar": "المقبرة المتواضعة التي أذهل اكتشافها العالم عام 1922 (تذكرة إضافية)."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Seti I (KV17)",
+    "ar": "مقبرة سيتي الأول (KV17)"
+   },
+   "desc": {
+    "en": "One of the longest and finest decorated tombs, with a vaulted burial chamber (extra ticket).",
+    "ar": "من أطول المقابر وأجملها نقشًا، بحجرة دفن ذات سقف مقبّى (تذكرة إضافية)."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Ramesses V & VI (KV9)",
+    "ar": "مقبرة رمسيس الخامس والسادس (KV9)"
+   },
+   "desc": {
+    "en": "Vivid painted corridors and an astronomical ceiling (extra ticket).",
+    "ar": "ممرات زاهية الألوان وسقف فلكي (تذكرة إضافية)."
+   }
+  },
+  {
+   "title": {
+    "en": "General-ticket tombs",
+    "ar": "مقابر التذكرة العامة"
+   },
+   "desc": {
+    "en": "A rotating selection of open royal tombs covered by the entry ticket.",
+    "ar": "مجموعة متغيرة من المقابر الملكية المفتوحة ضمن تذكرة الدخول."
+   }
+  },
+  {
+   "title": {
+    "en": "Books of the afterlife",
+    "ar": "كتب العالم الآخر"
+   },
+   "desc": {
+    "en": "Amduat, Book of Gates and Litany of Ra scenes on the tomb walls.",
+    "ar": "مناظر الإمي دوات وكتاب البوابات وابتهالات رع على جدران المقابر."
+   }
+  },
+  {
+   "title": {
+    "en": "Al-Qurn peak",
+    "ar": "قمة القرن"
+   },
+   "desc": {
+    "en": "The natural pyramid-shaped summit that overlooks the valley.",
+    "ar": "القمة الطبيعية الهرمية الشكل التي تطل على الوادي."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)",
+     "en": "Summer schedule 2026 (daylight-saving period)"
+    },
+    "rule": "summer (daylight-saving period), until the last Friday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-30",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   },
+   {
+    "label": {
+     "ar": "مواعيد شهر رمضان",
+     "en": "Ramadan schedule"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 750
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 375
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 30
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with disabilities",
+   "photography with mobile phones is free"
+  ],
+  "extras": [
+   {
+    "label": {
+     "ar": "مقبرة توت عنخ آمون (KV62) — أجنبي بالغ",
+     "en": "Tomb of Tutankhamun (KV62) — foreign adult"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 700
+   },
+   {
+    "label": {
+     "ar": "مقبرة توت عنخ آمون (KV62) — طالب أجنبي",
+     "en": "Tomb of Tutankhamun (KV62) — foreign student"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 350
+   },
+   {
+    "label": {
+     "ar": "مقبرة توت عنخ آمون (KV62) — مصري بالغ",
+     "en": "Tomb of Tutankhamun (KV62) — Egyptian adult"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "label": {
+     "ar": "مقبرة توت عنخ آمون (KV62) — طالب مصري",
+     "en": "Tomb of Tutankhamun (KV62) — Egyptian student"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   },
+   {
+    "label": {
+     "ar": "مقبرة سيتي الأول (KV17) — أجنبي بالغ",
+     "en": "Tomb of Seti I (KV17) — foreign adult"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 2000
+   },
+   {
+    "label": {
+     "ar": "مقبرة سيتي الأول (KV17) — طالب أجنبي",
+     "en": "Tomb of Seti I (KV17) — foreign student"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 2000
+   },
+   {
+    "label": {
+     "ar": "مقبرة سيتي الأول (KV17) — مصري بالغ",
+     "en": "Tomb of Seti I (KV17) — Egyptian adult"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 500
+   },
+   {
+    "label": {
+     "ar": "مقبرة سيتي الأول (KV17) — طالب مصري",
+     "en": "Tomb of Seti I (KV17) — Egyptian student"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 250
+   },
+   {
+    "label": {
+     "ar": "مقبرة رمسيس الخامس والسادس (KV9) — أجنبي بالغ",
+     "en": "Tomb of Ramesses V & VI (KV9) — foreign adult"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "label": {
+     "ar": "مقبرة رمسيس الخامس والسادس (KV9) — طالب أجنبي",
+     "en": "Tomb of Ramesses V & VI (KV9) — foreign student"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   },
+   {
+    "label": {
+     "ar": "مقبرة رمسيس الخامس والسادس (KV9) — مصري بالغ",
+     "en": "Tomb of Ramesses V & VI (KV9) — Egyptian adult"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "label": {
+     "ar": "مقبرة رمسيس الخامس والسادس (KV9) — طالب مصري",
+     "en": "Tomb of Ramesses V & VI (KV9) — Egyptian student"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/ValleyOfKings",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 120,
+  "standardMinutes": 180,
+  "deepMinutes": 240,
+  "bestTime": {
+   "ar": "الوصول إلى البوابة مع الفتح في السادسة صباحًا، فالوادي يحبس الحرارة ويبلغ ذروتها من أواخر الصباح، خاصة بين مايو وسبتمبر.",
+   "en": "Be at the gate for the 06:00 opening; the valley traps heat and is hottest from late morning, especially May–September."
+  },
+  "crowdNotes": {
+   "ar": "تبلغ المجموعات السياحية ذروتها تقريبًا بين الثامنة والحادية عشرة صباحًا في موسم الذروة من أكتوبر إلى أبريل، وتتكون طوابير أمام المقابر الأشهر، بينما تكون الساعة الأخيرة قبل الإغلاق أهدأ عادة. ويُوصل إلى المقابر عبر ممرات منحدرة وبعض الدرجات الشديدة الانحدار.",
+   "en": "Tour groups peak roughly 08:00–11:00 in the October–April high season and queue at the most popular tombs; the last hour before closing is usually calmer. Tombs are reached by sloping corridors and some steep steps."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Thebes%2C_Luxor%2C_Egypt%2C_Panoramic_view_of_the_Valley_of_the_Kings.jpg",
+   "author": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thebes,_Luxor,_Egypt,_Panoramic_view_of_the_Valley_of_the_Kings.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_48.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_48.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/KV17%2C_the_tomb_of_Pharaoh_Seti_I_of_the_Nineteenth_Dynasty%2C_Burial_chamber_J%2C_Valley_of_the_Kings%2C_Egypt_%2849846644117%29.jpg",
+   "author": "Carole Raddato from Frankfurt, Germany",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:KV17,_the_tomb_of_Pharaoh_Seti_I_of_the_Nineteenth_Dynasty,_Burial_chamber_J,_Valley_of_the_Kings,_Egypt_(49846644117).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/valley-of-the-kings/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%88%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D9%85%D9%84%D9%88%D9%83",
+  "osm": "way/115773400"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q133423",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/valley-of-the-kings/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-tutankhamun/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-sety-i-kv17/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-ramesses-vi-kv9/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/valley-of-the-kings/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/وادي-الملوك/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,lastEntry,freeGroups,tickets",
+   "url": "https://egymonuments.com/details/ValleyOfKings",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices(extra: KV62)",
+   "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-tutankhamun/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices(extra: KV17)",
+   "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-sety-i-kv17/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices(extra: KV9)",
+   "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-ramesses-vi-kv9/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours(summer 2026)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices(audience: Arab tier abolished from 2026-01-01)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2025/7/10/2817397/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos",
+   "url": "https://commons.wikimedia.org/wiki/File:Thebes,_Luxor,_Egypt,_Panoramic_view_of_the_Valley_of_the_Kings.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "high",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. statusNote reworded as visitor advice (was an editorial 'not verified/confirmed' remark; the open question stays in the batch report)."
+}

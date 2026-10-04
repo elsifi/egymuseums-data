@@ -1,0 +1,340 @@
+{
+ "id": "edfu-temple",
+ "kind": "site",
+ "wikidataId": "Q613037",
+ "name": {
+  "en": "Temple of Edfu",
+  "ar": "معبد إدفو"
+ },
+ "aliases": [
+  "معبد ادفو",
+  "Edfu Temple",
+  "Temple of Horus"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Edfu",
+  "ar": "إدفو"
+ },
+ "area": {
+  "en": "West bank of the Nile, Edfu town",
+  "ar": "الضفة الغربية للنيل، مدينة إدفو"
+ },
+ "address": {
+  "en": "Edfu, Aswan Governorate (west bank of the Nile)",
+  "ar": "إدفو، محافظة أسوان (الضفة الغربية للنيل)"
+ },
+ "lat": 24.977778,
+ "lng": 32.873333,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily; opens an hour earlier (06:00) on Sundays and Wednesdays.",
+  "ar": "مفتوح يوميًا، ويفتح مبكرًا في السادسة صباحًا يومي الأحد والأربعاء."
+ },
+ "summary": {
+  "en": "The temple of the falcon god Horus at Edfu, the most completely preserved temple of ancient Egypt, with its towering pylon and roofed inner halls.",
+  "ar": "معبد الإله الصقر حورس في إدفو، أكمل المعابد المصرية القديمة حفظًا، بصرحه الشاهق وقاعاته الداخلية المسقوفة."
+ },
+ "description": {
+  "en": "Edfu's temple to Horus was begun in 237 BC under Ptolemy III and completed nearly two centuries later, and it survives almost intact. Its preservation owes much to the town that grew over and around it: by the nineteenth century houses stood on the roof and sand filled the halls, until Auguste Mariette cleared it in the 1860s. Visitors approach a huge pylon decorated with the king striking his enemies before Horus and Hathor. Granite falcons guard the way into the courtyard and the hypostyle halls, and the rooms grow darker and smaller toward the sanctuary, where a polished granite shrine from the reign of Nectanebo II still stands. The long walls of the ambulatory around the core carry an extended version of the conflict between Horus and Seth, while other inscriptions record the temple's own building history and rituals in remarkable detail. Recent restoration has revealed original colour on parts of the roof. Outside the main gate is a birth house celebrating the divine birth of Horus.",
+  "ar": "بدأ بناء معبد حورس في إدفو عام 237 قبل الميلاد في عهد بطليموس الثالث، واكتمل بعد قرابة قرنين، وقد بقي سليمًا تقريبًا. ويعود حفظه إلى حد بعيد إلى البلدة التي نمت فوقه وحوله؛ فبحلول القرن التاسع عشر كانت البيوت قائمة على سطحه والرمال تملأ قاعاته، إلى أن أزاحها أوجست مارييت في ستينيات ذلك القرن. يقترب الزائر من صرح هائل يصوّر الملك وهو يضرب أعداءه أمام حورس وحتحور. وتحرس تماثيل الصقور الجرانيتية الطريق إلى الفناء وقاعتي الأعمدة، وتزداد الحجرات ظلمة وصغرًا كلما اقتربنا من قدس الأقداس، حيث لا يزال ناووس من الجرانيت المصقول من عهد نختنبو الثاني قائمًا. وتحمل الجدران الطويلة للممر المحيط بالقلب صيغة مطوّلة من الصراع بين حورس وست، بينما تسجّل نقوش أخرى تاريخ بناء المعبد وطقوسه بتفصيل لافت. وقد كشفت أعمال الترميم الأخيرة عن ألوان أصلية على أجزاء من السقف. وخارج البوابة الرئيسية بيت ولادة يحتفي بالمولد الإلهي لحورس."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Great pylon",
+    "ar": "الصرح الكبير"
+   },
+   "desc": {
+    "en": "Monumental gateway with giant reliefs of the king before Horus.",
+    "ar": "بوابة ضخمة بنقوش هائلة للملك أمام حورس."
+   }
+  },
+  {
+   "title": {
+    "en": "Granite falcons of Horus",
+    "ar": "صقور حورس الجرانيتية"
+   },
+   "desc": {
+    "en": "Statues guarding the court and hypostyle entrance.",
+    "ar": "تماثيل تحرس مدخل الفناء وقاعة الأعمدة."
+   }
+  },
+  {
+   "title": {
+    "en": "Sanctuary naos",
+    "ar": "ناووس قدس الأقداس"
+   },
+   "desc": {
+    "en": "Polished granite shrine of Nectanebo II.",
+    "ar": "مقصورة من الجرانيت المصقول من عهد نختنبو الثاني."
+   }
+  },
+  {
+   "title": {
+    "en": "Horus and Seth reliefs",
+    "ar": "نقوش حورس وست"
+   },
+   "desc": {
+    "en": "Ambulatory walls narrating the god's victory.",
+    "ar": "جدران الممر الخارجي تروي انتصار الإله."
+   }
+  },
+  {
+   "title": {
+    "en": "Hypostyle halls",
+    "ar": "قاعتا الأعمدة"
+   },
+   "desc": {
+    "en": "Roofed halls that keep the temple's original atmosphere.",
+    "ar": "قاعتان مسقوفتان تحتفظان بجو المعبد الأصلي."
+   }
+  },
+  {
+   "title": {
+    "en": "Birth house (mammisi)",
+    "ar": "بيت الولادة"
+   },
+   "desc": {
+    "en": "Chapel celebrating the divine birth of Horus.",
+    "ar": "مقصورة تحتفي بالمولد الإلهي لحورس."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan: same hours, last entry 16:00",
+     "ar": "رمضان: المواعيد نفسها، آخر دخول 16:00"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "07:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "tue",
+      "open": "07:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "thu",
+      "open": "07:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "fri",
+      "open": "07:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sat",
+      "open": "07:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 550
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 275
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/TheTempleOfHorusAtEdfu",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "At opening (06:00 on Sundays and Wednesdays, otherwise 07:00) or after about 14:00 once cruise groups have moved on.",
+   "ar": "عند الافتتاح (السادسة يومي الأحد والأربعاء، والسابعة في غيرهما) أو بعد الثانية ظهرًا تقريبًا بعد مغادرة مجموعات البواخر."
+  },
+  "crowdNotes": {
+   "en": "One of the busiest stops on the Luxor–Aswan cruise route; mornings can be crowded at the pylon and in the inner halls.",
+   "ar": "من أكثر محطات خط البواخر بين الأقصر وأسوان ازدحامًا؛ وقد يشتد الزحام صباحًا عند الصرح وفي القاعات الداخلية."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Edfu_Mammisi_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edfu_Mammisi_06.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Edfu_Tempel_Pylon_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edfu_Tempel_Pylon_07.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Edfu-Relief.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Steven C. Price",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edfu-Relief.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/temple-of-edfu/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Temple_of_Edfu",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D8%A5%D8%AF%D9%81%D9%88",
+  "osm": "relation/14110436"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q613037",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/temple-of-edfu/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (per-day opening),prices",
+   "url": "https://egymonuments.gov.eg/en/monuments/temple-of-edfu/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry),prices,tickets,freeGroups",
+   "url": "https://egymonuments.com/details/TheTempleOfHorusAtEdfu",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (cross-check: secondary report of the SCA decision, foreign 550/275 from 1 Nov 2024)",
+   "url": "https://www.aleqaria.com.eg/post/details/195391/%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (roof colour revealed by restoration)",
+   "url": "https://egymonuments.gov.eg/en/news/the-edfu-temple-restoration-project-reveals-colored-inscriptions-on-the-roof-of-the-temple-for-the-first-time/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Temple_of_Edfu",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Edfu_Mammisi_06.JPG",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Edfu_Tempel_Pylon_07.JPG",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Edfu-Relief.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "effectiveFrom (2024-11-01) removed: the date comes only from a news report of the SCA decision (aleqaria.com.eg); set it again once the dated official decision is cited. cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.youm7.com); needs an official 2025-2026 source. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

@@ -1,0 +1,395 @@
+{
+ "id": "temple-of-hatshepsut",
+ "kind": "site",
+ "wikidataId": "Q660692",
+ "name": {
+  "en": "Temple of Hatshepsut (Deir el-Bahari)",
+  "ar": "معبد حتشبسوت"
+ },
+ "aliases": [
+  "معبدحتشبسوت",
+  "Djeser-Djeseru",
+  "Deir el-Bahari",
+  "الدير البحري",
+  "mortuary temple of Hatshepsut"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "ar": "الأقصر (البر الغربي)",
+  "en": "Luxor (West Bank)"
+ },
+ "area": {
+  "en": "West Bank, Deir el-Bahari (Qurna)",
+  "ar": "البر الغربي، الدير البحري (القرنة)"
+ },
+ "address": {
+  "ar": "الدير البحري، القرنة، البر الغربي، الأقصر",
+  "en": "Deir el-Bahari, Qurna, West Bank, Luxor"
+ },
+ "lat": 25.738056,
+ "lng": 32.606944,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "ar": "المعبد الجنائزي المدرّج للملكة حتشبسوت في الدير البحري، يستند في مشهد مهيب إلى جبال البر الغربي بالأقصر.",
+  "en": "Hatshepsut's terraced mortuary temple at Deir el-Bahari, set dramatically against the cliffs of Luxor's West Bank."
+ },
+ "description": {
+  "ar": "شيّدت حتشبسوت، الملكة التي حكمت مصر فرعونًا نحو 1473–1458 قبل الميلاد، معبدها الجنائزي في حضن الجبال بالدير البحري، في مواجهة الكرنك على الضفة الأخرى من النيل مباشرة. ويعني اسمه القديم «جسر جسرو» «قدس الأقداس». يُنسب تصميمه إلى مدير بيتها سننموت، ويرتفع على ثلاث شرفات عريضة تصل بينها منحدرات، وتتقدم كلًّا منها صفوف من الأعمدة، فيبدو المبنى كأنه ينبثق من الجبل خلفه. وكان للموقع قداسة سابقة، إذ ارتبط بالمعبودة حتحور، وقبل ستة قرون أقام الملك منتوحتب الثاني معبده ومقبرته بجواره، وما زالت بقاياه ظاهرة. وتبقى النقوش أهم ما يستدعي التمهل؛ ففي الشرفة الوسطى يسجل أحد الأروقة البعثة التي أرسلتها حتشبسوت إلى بلاد بونت، بمنازلها المرفوعة على أعمدة وأشجار البخور والحيوانات الغريبة، بينما يروي الرواق الآخر كيف كان آمون نفسه أباها، تأكيدًا لحقها في العرش. وتحيط بهذا المستوى مقصورتا حتحور وأنوبيس. وفي الشرفة العليا تطل تماثيل الملكة على هيئة أوزيريس على الوادي، ويُفضي الصحن إلى قدس أقداس لآمون منحوت في الصخر مباشرة.",
+  "en": "Hatshepsut, the queen who ruled as pharaoh around 1473–1458 BC, built her mortuary temple in the bay of cliffs at Deir el-Bahari, directly across the Nile from Karnak. Its ancient name, Djeser-djeseru, means 'holy of holies'. The design is credited to her steward Senenmut and rises in three broad terraces joined by ramps, each fronted by a colonnade, so the building seems to grow out of the mountain behind it. The site already had sacred associations: it belonged to Hathor, and six centuries earlier King Mentuhotep II had built his own temple-tomb next door, whose remains can still be seen. The reliefs are the main reason to linger. On the middle terrace, one portico records the expedition Hatshepsut sent to the land of Punt, with its houses on stilts, incense trees and exotic animals; the other tells how the god Amun himself fathered her, justifying her claim to the throne. Chapels to Hathor and Anubis flank this level. On the top terrace, Osiride statues of the queen face the valley, and an inner sanctuary of Amun is cut straight into the rock."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Three terraces and ramps",
+    "ar": "الشرفات الثلاث والمنحدرات"
+   },
+   "desc": {
+    "en": "The temple's stepped design set against the Deir el-Bahari cliffs.",
+    "ar": "التصميم المتدرج للمعبد أمام جبال الدير البحري."
+   }
+  },
+  {
+   "title": {
+    "en": "Punt Portico",
+    "ar": "رواق بونت"
+   },
+   "desc": {
+    "en": "Reliefs of the trading expedition to Punt with incense trees and exotic animals.",
+    "ar": "نقوش البعثة التجارية إلى بلاد بونت بأشجار البخور والحيوانات الغريبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Divine Birth Portico",
+    "ar": "رواق الولادة الإلهية"
+   },
+   "desc": {
+    "en": "Scenes presenting Amun as Hatshepsut's father.",
+    "ar": "مناظر تقدّم آمون أبًا لحتشبسوت."
+   }
+  },
+  {
+   "title": {
+    "en": "Chapel of Hathor",
+    "ar": "مقصورة حتحور"
+   },
+   "desc": {
+    "en": "Columns topped with the goddess's face and painted reliefs.",
+    "ar": "أعمدة تتوجها وجوه المعبودة ونقوش ملوّنة."
+   }
+  },
+  {
+   "title": {
+    "en": "Chapel of Anubis",
+    "ar": "مقصورة أنوبيس"
+   },
+   "desc": {
+    "en": "Well-preserved colours on the north side of the middle terrace.",
+    "ar": "ألوان محفوظة جيدًا في الجهة الشمالية من الشرفة الوسطى."
+   }
+  },
+  {
+   "title": {
+    "en": "Upper terrace and Osiride statues",
+    "ar": "الشرفة العليا وتماثيل أوزيريس"
+   },
+   "desc": {
+    "en": "Colossal figures of the queen as Osiris, with the rock-cut sanctuary of Amun behind.",
+    "ar": "تماثيل ضخمة للملكة على هيئة أوزيريس، ومن خلفها قدس أقداس آمون المنحوت في الصخر."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)",
+     "en": "Summer schedule 2026 (daylight-saving period)"
+    },
+    "rule": "summer (daylight-saving period), until the last Friday of October (Qurna antiquities area)",
+    "from": "2026-04-24",
+    "to": "2026-10-30",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   },
+   {
+    "label": {
+     "ar": "مواعيد شهر رمضان",
+     "en": "Ramadan schedule"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sat",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "lastEntry": "16:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 440
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 220
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with disabilities"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/HatshepsutTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "ar": "في الصباح الباكر؛ فالمعبد يواجه الشرق ويكون مضاءً جيدًا في البداية، بينما تشتد حرارة الشرفات المكشوفة بحلول الظهيرة.",
+   "en": "First thing in the morning: the temple faces east, so it is well lit early, and the open terraces become very hot by midday."
+  },
+  "crowdNotes": {
+   "ar": "يُزار عادة بعد وادي الملوك مباشرة، لذا يزدحم من منتصف الصباح. ويكاد ينعدم الظل في الطريق إلى المعبد، والمسافة من منطقة التذاكر إلى المعبد طويلة.",
+   "en": "Usually visited right after the Valley of the Kings, so it fills up from mid-morning. There is almost no shade on the approach; the walk from the ticket area to the temple is long."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Templo_funerario_de_Hatshepsut%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_118.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Templo_funerario_de_Hatshepsut,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_118.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Temple_of_Hatshepsut%2C_Osirian_statues%2C_Luxor%2C_Egypt.jpg",
+   "author": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_Hatshepsut,_Osirian_statues,_Luxor,_Egypt.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Deir_el_Bahari_080510.jpg",
+   "author": "Neithsabes",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deir_el_Bahari_080510.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/hatshepsut-temple/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mortuary_temple_of_Hatshepsut",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D8%AD%D8%AA%D8%B4%D8%A8%D8%B3%D9%88%D8%AA_(%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1)",
+  "osm": "way/479529031"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q660692",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "aliases (Q373909 is the wider Deir el-Bahari site item)",
+   "url": "https://www.wikidata.org/wiki/Q373909",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/hatshepsut-temple/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/deir-al-bahari/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description",
+   "url": "https://egymonuments.gov.eg/en/monuments/hatshepsut-temple/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,description",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/deir-al-bahari/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/الدير-البحري/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,lastEntry,freeGroups,tickets",
+   "url": "https://egymonuments.com/details/HatshepsutTemple",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours(summer 2026)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices(audience: Arab tier abolished from 2026-01-01)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2025/7/10/2817397/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos",
+   "url": "https://commons.wikimedia.org/wiki/File:Templo_funerario_de_Hatshepsut,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_118.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "D17: Q373909 (Deir el-Bahari, the wider site) is not a duplicate of Q660692 (the mortuary temple, used here); no Wikidata edit made, fixed locally only. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

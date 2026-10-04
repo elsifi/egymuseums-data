@@ -1,0 +1,486 @@
+{
+ "id": "luxor-museum",
+ "kind": "museum",
+ "wikidataId": "Q1878362",
+ "name": {
+  "en": "Luxor Museum",
+  "ar": "متحف الأقصر"
+ },
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor",
+  "ar": "الأقصر"
+ },
+ "area": {
+  "en": "East Bank, Corniche",
+  "ar": "البر الشرقي، الكورنيش"
+ },
+ "address": {
+  "en": "Corniche El Nil, East Bank, Luxor (between Luxor Temple and Karnak)",
+  "ar": "كورنيش النيل، البر الشرقي، الأقصر (بين معبد الأقصر والكرنك)"
+ },
+ "lat": 25.707725,
+ "lng": 32.644489,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily in two sessions (morning and evening).",
+  "ar": "مفتوح يوميًا على فترتين صباحية ومسائية."
+ },
+ "summary": {
+  "en": "A compact, elegantly lit museum on Luxor's Nile corniche, showing masterpieces found in and around ancient Thebes.",
+  "ar": "متحف صغير الحجم أنيق الإضاءة على كورنيش النيل بالأقصر، يعرض روائع عُثر عليها في طيبة القديمة وما حولها."
+ },
+ "description": {
+  "en": "The Luxor Museum of Ancient Egyptian Art opened in 1975 and quickly earned a reputation for showing fewer objects, better. Its galleries hold sculpture, reliefs and tomb goods recovered from Karnak, Luxor Temple and the Theban hills, displayed with plenty of space and careful lighting. Royal statuary is the core of the collection: portraits of Thutmose III, Amenhotep III and later kings sit alongside the statues found in 1989 in a hidden cache beneath the court of Luxor Temple, which now have a dedicated hall. One wall reassembles painted sandstone blocks from a temple that Akhenaten built at Karnak before he moved his capital to Amarna. A newer wing explores the military power of Thebes in the New Kingdom, with chariots, weapons and two royal mummies, one of them Ahmose I, the king who expelled the Hyksos. Smaller cases hold jewellery, tools and objects from Tutankhamun's burial. The evening session makes it an easy addition after a day on the West Bank.",
+  "ar": "افتُتح متحف الأقصر للفن المصري القديم عام 1975، وسرعان ما عُرف بأنه يعرض قطعًا أقل بأسلوب أرقى. تضم قاعاته تماثيل ونقوشًا ومقتنيات جنائزية جُلبت من الكرنك ومعبد الأقصر وتلال طيبة، وقد رُتّبت في مساحات رحبة وتحت إضاءة مدروسة. والتماثيل الملكية هي قلب المجموعة؛ إذ تجاور صورُ تحتمس الثالث وأمنحتب الثالث وملوكٍ آخرين التماثيلَ التي اكتُشفت عام 1989 في خبيئة تحت فناء معبد الأقصر، وقد خُصصت لها قاعة مستقلة. ويعيد أحد الجدران تركيب كتل من الحجر الرملي الملوّن من معبد شيّده إخناتون في الكرنك قبل انتقاله إلى تل العمارنة. أما الجناح الأحدث فيتناول القوة العسكرية لطيبة في عصر الدولة الحديثة، ويعرض عجلات حربية وأسلحة ومومياوين ملكيتين إحداهما للملك أحمس الأول طارد الهكسوس. وفي الخزائن الصغيرة حُليّ وأدوات وقطع من مقبرة توت عنخ آمون. وتجعل الفترة المسائية من المتحف محطة سهلة بعد يوم في البر الغربي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Statues of Thutmose III",
+    "ar": "تماثيل تحتمس الثالث"
+   },
+   "desc": {
+    "en": "Finely carved portraits of the warrior king from the Karnak area.",
+    "ar": "صور منحوتة بدقة للملك المحارب من منطقة الكرنك."
+   }
+  },
+  {
+   "title": {
+    "en": "Luxor Temple cache hall",
+    "ar": "قاعة خبيئة معبد الأقصر"
+   },
+   "desc": {
+    "en": "Statues found in 1989 beneath the court of Luxor Temple.",
+    "ar": "تماثيل اكتُشفت عام 1989 تحت فناء معبد الأقصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Akhenaten talatat wall",
+    "ar": "جدار تلاتات إخناتون"
+   },
+   "desc": {
+    "en": "Reassembled painted blocks from his early temple at Karnak.",
+    "ar": "كتل ملوّنة أعيد تركيبها من معبده المبكر في الكرنك."
+   }
+  },
+  {
+   "title": {
+    "en": "Military wing",
+    "ar": "الجناح العسكري"
+   },
+   "desc": {
+    "en": "Chariots, weapons and the story of New Kingdom Thebes at war.",
+    "ar": "عجلات حربية وأسلحة وقصة طيبة المحاربة في الدولة الحديثة."
+   }
+  },
+  {
+   "title": {
+    "en": "Royal mummies",
+    "ar": "المومياوات الملكية"
+   },
+   "desc": {
+    "en": "Among them Ahmose I, founder of the Eighteenth Dynasty.",
+    "ar": "منها مومياء أحمس الأول مؤسس الأسرة الثامنة عشرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Statue of Amenhotep III",
+    "ar": "تمثال أمنحتب الثالث"
+   },
+   "desc": {
+    "en": "Quartzite king from the Luxor Temple cache.",
+    "ar": "تمثال من الكوارتزيت من خبيئة معبد الأقصر."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "mon",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "tue",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "wed",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "thu",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "fri",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "sat",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "14:00",
+    "lastEntry": "13:00"
+   },
+   {
+    "day": "sun",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer: last entry 12:00 (morning session) and 19:00 (evening session)",
+     "ar": "الصيف: آخر دخول 12:00 للفترة الصباحية و19:00 للفترة المسائية"
+    },
+    "rule": "summer (season dates not published)",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "mon",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "tue",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "wed",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "thu",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "fri",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "sat",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "lastEntry": "12:00"
+     },
+     {
+      "day": "sun",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     }
+    ]
+   },
+   {
+    "label": {
+     "en": "Ramadan: last entry 13:00 (morning) and 19:00 (evening)",
+     "ar": "رمضان: آخر دخول 13:00 صباحًا و19:00 مساءً"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "09:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "mon",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "tue",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "wed",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "thu",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "fri",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "sat",
+      "open": "09:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "sat",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "lastEntry": "13:00"
+     },
+     {
+      "day": "sun",
+      "open": "17:00",
+      "lastEntry": "19:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 400
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 200
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/LuxorMuseum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "The evening session (from 17:00) is cooler and pairs well with a sunset walk on the corniche.",
+   "ar": "الفترة المسائية (من الخامسة) ألطف جوًا، وتناسبها نزهة على الكورنيش وقت الغروب."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded; the mid-day closure means arriving after about 13:00 (winter) leaves you waiting for the evening session.",
+   "ar": "نادرًا ما يزدحم؛ ويُغلق ظهرًا، فمن يصل بعد الواحدة تقريبًا شتاءً عليه انتظار الفترة المسائية."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Luxor_Museum_Amenophis_III._Statue_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luxor_Museum_Amenophis_III._Statue_05.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Luxor_Museum_Relief_Talatat_05a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luxor_Museum_Relief_Talatat_05a.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Statue_of_the_Thutmosis_III_CG_42054-JE_36927_-_greywacke_-_Luxor_Museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Marsupium",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_the_Thutmosis_III_CG_42054-JE_36927_-_greywacke_-_Luxor_Museum_01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Luxor_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1",
+  "osm": null
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1878362",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry, seasonal),prices,tickets,freeGroups",
+   "url": "https://egymonuments.com/details/LuxorMuseum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (closing times),prices (dated May 2026)",
+   "url": "https://www.elwatannews.com/news/details/8276328",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Luxor_Museum",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Luxor_Museum_Amenophis_III._Statue_05.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Luxor_Museum_Relief_Talatat_05a.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Statue_of_the_Thutmosis_III_CG_42054-JE_36927_-_greywacke_-_Luxor_Museum_01.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.egyptindependent.com); needs an official 2025-2026 source. Summer closing times are not published (booking platform gives last entries only). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

@@ -1,0 +1,376 @@
+{
+ "id": "philae-temple",
+ "kind": "site",
+ "wikidataId": "Q1503673",
+ "name": {
+  "en": "Philae Temple Complex",
+  "ar": "معبد فيلة"
+ },
+ "aliases": [
+  "Temple of Isis in Philae"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Aswan",
+  "ar": "أسوان"
+ },
+ "area": {
+  "en": "Agilkia Island, between the Old Aswan Dam and the High Dam",
+  "ar": "جزيرة أجيليكا بين خزان أسوان والسد العالي"
+ },
+ "address": {
+  "en": "Agilkia Island, Aswan (boats from the Philae marina, Shellal)",
+  "ar": "جزيرة أجيليكا، أسوان (القوارب من مرسى فيلة بالشلال)"
+ },
+ "lat": 24.025764,
+ "lng": 32.8842,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily; reachable only by motorboat from the Philae marina at Shellal (boat fare is separate and not part of the ticket).",
+  "ar": "مفتوح يوميًا، ولا يُوصل إليه إلا بالقارب من مرسى فيلة بالشلال (أجرة القارب منفصلة وليست ضمن التذكرة)."
+ },
+ "summary": {
+  "en": "The island sanctuary of Isis, rebuilt on Agilkia Island after a UNESCO rescue, reached by a short boat ride across the reservoir.",
+  "ar": "حرم الإلهة إيزيس على جزيرة أجيليكا، أعيد بناؤه بعد حملة إنقاذ دولية، ويُوصل إليه برحلة قصيرة بالقارب."
+ },
+ "description": {
+  "en": "For centuries Philae was the chief place of worship of Isis, and pilgrims from across the Mediterranean world travelled up the Nile to visit her. Most of what stands today dates from the Ptolemaic and Roman periods, when kings and emperors kept adding halls, gates and kiosks. The cult survived here longer than almost anywhere else in Egypt, and the complex holds the last known dated hieroglyphic inscription, from AD 394. Later, Christians turned part of the temple into a church and carved crosses into the older reliefs. After the first Aswan dam the island spent much of each year under water, and following the High Dam a UNESCO campaign dismantled the buildings and rebuilt them on nearby Agilkia Island, which was landscaped to resemble the original. The visit begins at the landing stage, continues along a colonnade to the massive pylons of the Isis temple, and ends at the graceful open kiosk of Trajan by the water. An evening sound and light show is run separately.",
+  "ar": "ظلت فيلة قرونًا طويلة أهم مراكز عبادة إيزيس، وكان الحجاج يأتونها عبر النيل من أرجاء العالم المتوسطي. ويرجع معظم ما هو قائم اليوم إلى العصرين البطلمي والروماني، حين واصل الملوك والأباطرة إضافة القاعات والبوابات والأكشاك. وقد بقيت العبادة هنا أطول مما بقيت في أي مكان آخر تقريبًا بمصر، ويضم المجمع آخر نقش هيروغليفي مؤرَّخ معروف، ويرجع إلى عام 394 للميلاد. ثم حوّل المسيحيون جزءًا من المعبد إلى كنيسة ونقشوا الصلبان على النقوش القديمة. وبعد بناء خزان أسوان الأول صارت الجزيرة تغمرها المياه معظم العام، ومع إنشاء السد العالي فكّكت حملة لليونسكو المباني وأعادت بناءها على جزيرة أجيليكا المجاورة بعد تهيئتها لتشبه الجزيرة الأصلية. تبدأ الزيارة من المرسى، وتمضي عبر رواق معمّد إلى صرحي معبد إيزيس الضخمين، وتنتهي عند كشك تراجان الأنيق المطل على الماء. أما عرض الصوت والضوء المسائي فيُدار بشكل منفصل."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Temple of Isis",
+    "ar": "معبد إيزيس"
+   },
+   "desc": {
+    "en": "The main sanctuary with two great pylons and an inner court.",
+    "ar": "الحرم الرئيسي بصرحيه الكبيرين وفنائه الداخلي."
+   }
+  },
+  {
+   "title": {
+    "en": "Outer colonnades",
+    "ar": "الأروقة الخارجية"
+   },
+   "desc": {
+    "en": "Long porticoes leading from the landing to the first pylon.",
+    "ar": "أروقة طويلة تمتد من المرسى إلى الصرح الأول."
+   }
+  },
+  {
+   "title": {
+    "en": "Birth house (mammisi)",
+    "ar": "بيت الولادة (الماميزي)"
+   },
+   "desc": {
+    "en": "Celebrates the birth of Horus, son of Isis.",
+    "ar": "يحتفي بمولد حورس ابن إيزيس."
+   }
+  },
+  {
+   "title": {
+    "en": "Trajan's Kiosk",
+    "ar": "كشك تراجان"
+   },
+   "desc": {
+    "en": "Elegant unroofed pavilion on the water's edge.",
+    "ar": "جناح أنيق مكشوف على حافة الماء."
+   }
+  },
+  {
+   "title": {
+    "en": "Gate of Hadrian",
+    "ar": "بوابة هادريان"
+   },
+   "desc": {
+    "en": "Roman gateway with reliefs of the Osiris legend.",
+    "ar": "بوابة رومانية بنقوش من أسطورة أوزير."
+   }
+  },
+  {
+   "title": {
+    "en": "Coptic crosses",
+    "ar": "الصلبان القبطية"
+   },
+   "desc": {
+    "en": "Christian carvings added when part of the temple became a church.",
+    "ar": "نقوش مسيحية أضيفت حين تحوّل جزء من المعبد إلى كنيسة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan: same hours, last entry 15:00",
+     "ar": "رمضان: المواعيد نفسها، آخر دخول 15:00"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "mon",
+      "open": "07:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "07:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "07:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "07:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "07:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sat",
+      "open": "07:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "07:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 550
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 275
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   }
+  ],
+  "freeGroups": [
+   "children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Temple panorama — foreign adult",
+     "ar": "بانوراما المعبد — أجنبي"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "label": {
+     "en": "Temple panorama — foreign student",
+     "ar": "بانوراما المعبد — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "label": {
+     "en": "Temple panorama — Egyptian adult",
+     "ar": "بانوراما المعبد — مصري"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "label": {
+     "en": "Temple panorama — Egyptian student",
+     "ar": "بانوراما المعبد — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/PhilaeTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Early morning for soft light and calm water, or mid-afternoon for golden light on the pylons (mind the 15:00 last entry).",
+   "ar": "الصباح الباكر حيث الضوء الهادئ والمياه الساكنة، أو منتصف العصر حين يكسو الضوء الذهبي الصرحين (مع مراعاة آخر دخول 15:00)."
+  },
+  "crowdNotes": {
+   "en": "Cruise groups cluster mid-morning; buy the entry ticket (card) at the marina before taking a boat, and agree the boat fare and waiting time before boarding. Allow extra time before last entry for the motorboat crossing from the marina; boats are privately run and paid separately.",
+   "ar": "تتكدس مجموعات البواخر في منتصف الصباح؛ اشترِ تذكرة الدخول (بالبطاقة) في المرسى قبل ركوب القارب، واتفق على الأجرة ومدة الانتظار قبل الصعود. واحسب وقتًا إضافيًا قبل آخر موعد للدخول لعبور القارب من المرسى، فالقوارب يديرها أفراد وتُدفع أجرتها منفصلة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Philae_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philae_08.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Philae_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philae_18.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Philae_Temple_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "author": "Marc Ryckaert",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philae_Temple_R01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/philae/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Philae_temple_complex",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D9%81%D9%8A%D9%84%D8%A9",
+  "osm": "relation/14370731"
+ },
+ "tier": "major",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1503673",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/isis-temple/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,prices.extras (panorama)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry),prices,tickets,freeGroups",
+   "url": "https://egymonuments.com/details/PhilaeTemple",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (cross-check: secondary report of the SCA decision, foreign 550/275 from 1 Nov 2024)",
+   "url": "https://www.aleqaria.com.eg/post/details/195391/%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Philae_temple_complex",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Philae_08.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Philae_18.jpg",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "photos (license, author)",
+   "url": "https://commons.wikimedia.org/wiki/File:Philae_Temple_R01.jpg",
+   "checkedAt": "2026-10-04"
+  }
+ ],
+ "verifiedAt": "2026-10-04",
+ "confidence": "medium",
+ "curationNote": "effectiveFrom (2024-11-01) removed: the date comes only from a news report of the SCA decision (aleqaria.com.eg); set it again once the dated official decision is cited. cashAccepted removed (was false): only a 2023 card-only decision and secondary reports were found (www.youm7.com); needs an official 2025-2026 source. D14: boat logistics moved from hours.exceptions to visit.crowdNotes. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}
