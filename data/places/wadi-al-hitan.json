@@ -119,7 +119,21 @@
    "Egyptians aged 60+",
    "People with disabilities"
   ],
-  "effectiveFrom": "2025-12-15"
+  "effectiveFrom": "2025-12-15",
+  "freeGroupsLocalized": [
+   {
+    "en": "Egyptian children under 12 with a guardian",
+    "ar": "الأطفال المصريون دون 12 عامًا بصحبة ولي أمر"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "People with disabilities",
+    "ar": "ذوو الإعاقة"
+   }
+  ]
  },
  "tickets": {
   "onlineUrl": null,

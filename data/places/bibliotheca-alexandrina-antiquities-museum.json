@@ -253,6 +253,16 @@
   "freeGroups": [
    "Children under 6",
    "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
   ]
  },
  "tickets": {

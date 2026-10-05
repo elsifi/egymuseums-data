@@ -268,6 +268,16 @@
   "freeGroups": [
    "Children under 6 (all week)",
    "Not on Fridays, Saturdays or national holidays: Egyptians 60+, children of martyrs and wounded, war veterans, Plastic Arts and Tourist Guides syndicate members, orphanage groups and public primary and preparatory school groups (prior letter), Egyptians with special needs + one Egyptian carer, students of listed antiquities, tourism and arts faculties"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6 (all week)",
+    "ar": "الأطفال دون 6 سنوات (طوال الأسبوع)"
+   },
+   {
+    "en": "Not on Fridays, Saturdays or national holidays: Egyptians 60+, children of martyrs and wounded, war veterans, Plastic Arts and Tourist Guides syndicate members, orphanage groups and public primary and preparatory school groups (prior letter), Egyptians with special needs + one Egyptian carer, students of listed antiquities, tourism and arts faculties",
+    "ar": "عدا أيام الجمعة والسبت والعطلات الرسمية: المصريون من سن 60 فأكثر، وأبناء الشهداء والمصابين، والمحاربون القدامى، وأعضاء نقابتي الفنون التشكيلية والمرشدين السياحيين، ومجموعات دور الأيتام ومدارس المرحلتين الابتدائية والإعدادية الحكومية (بخطاب مسبق)، والمصريون من ذوي الهمم مع مرافق مصري واحد، وطلاب كليات الآثار والسياحة والفنون المحددة"
+   }
   ]
  },
  "tickets": {

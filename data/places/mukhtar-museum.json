@@ -207,6 +207,32 @@
    "Children under 12",
    "Members of artists' professional syndicates",
    "Members of national museum committees"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "People with special needs",
+    "ar": "ذوو الهمم"
+   },
+   {
+    "en": "Veterans",
+    "ar": "المحاربون القدامى"
+   },
+   {
+    "en": "Seniors over 60",
+    "ar": "كبار السن فوق 60 عامًا"
+   },
+   {
+    "en": "Children under 12",
+    "ar": "الأطفال دون 12 عامًا"
+   },
+   {
+    "en": "Members of artists' professional syndicates",
+    "ar": "أعضاء النقابات المهنية للفنانين"
+   },
+   {
+    "en": "Members of national museum committees",
+    "ar": "أعضاء اللجان الوطنية للمتاحف"
+   }
   ]
  },
  "tickets": {

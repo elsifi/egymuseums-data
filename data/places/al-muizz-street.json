@@ -252,6 +252,24 @@
    "Egyptians aged 60+",
    "Egyptians with special needs",
    "Walking the street itself is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Walking the street itself is free",
+    "ar": "التجول في الشارع نفسه مجاني"
+   }
   ]
  },
  "tickets": {

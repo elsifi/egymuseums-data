@@ -238,6 +238,32 @@
    "Orphaned children",
    "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
    "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Orphaned children",
+    "ar": "الأطفال الأيتام"
+   },
+   {
+    "en": "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+    "ar": "رحلات المدارس الحكومية والأزهرية للمرحلتين الابتدائية والإعدادية المحجوزة عبر منصة «رحلة»"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
   ]
  },
  "tickets": {

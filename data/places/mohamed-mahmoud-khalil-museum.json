@@ -212,6 +212,24 @@
    "Visitors over 65",
    "Children under 6",
    "Members of the Syndicate of Plastic Artists"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Veterans",
+    "ar": "المحاربون القدامى"
+   },
+   {
+    "en": "Visitors over 65",
+    "ar": "الزائرون فوق 65 عامًا"
+   },
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Members of the Syndicate of Plastic Artists",
+    "ar": "أعضاء نقابة الفنانين التشكيليين"
+   }
   ]
  },
  "tickets": {

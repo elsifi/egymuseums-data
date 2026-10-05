@@ -346,6 +346,36 @@
    "Egyptian antiquities-faculty students and staff at public universities (not on Fridays or public holidays)",
    "Egyptian tour guides, military veterans, martyrs' families, MoTA staff, accredited journalists and listed public-university faculties (not at weekends or on public holidays)",
    "Foreign spouses and children of Egyptians may buy the Egyptian ticket"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Visitors with disabilities",
+    "ar": "الزائرون من ذوي الإعاقة"
+   },
+   {
+    "en": "Egyptian tour guides accompanying a group",
+    "ar": "المرشدون السياحيون المصريون المرافقون لمجموعة"
+   },
+   {
+    "en": "ICOM members",
+    "ar": "أعضاء المجلس الدولي للمتاحف (إيكوم)"
+   },
+   {
+    "en": "Egyptian antiquities-faculty students and staff at public universities (not on Fridays or public holidays)",
+    "ar": "طلاب وأعضاء هيئة التدريس بكليات الآثار في الجامعات الحكومية المصرية (عدا أيام الجمعة والعطلات الرسمية)"
+   },
+   {
+    "en": "Egyptian tour guides, military veterans, martyrs' families, MoTA staff, accredited journalists and listed public-university faculties (not at weekends or on public holidays)",
+    "ar": "المرشدون السياحيون المصريون والمحاربون القدامى وأسر الشهداء والعاملون بوزارة السياحة والآثار والصحفيون المعتمدون وكليات الجامعات الحكومية المحددة (عدا عطلات نهاية الأسبوع والعطلات الرسمية)"
+   },
+   {
+    "en": "Foreign spouses and children of Egyptians may buy the Egyptian ticket",
+    "ar": "يحق للأزواج والأبناء الأجانب للمصريين شراء تذكرة المصريين"
+   }
   ]
  },
  "tickets": {

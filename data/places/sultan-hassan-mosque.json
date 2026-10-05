@@ -229,6 +229,16 @@
   "freeGroups": [
    "Egyptians (no Egyptian ticket is sold)",
    "Children under 6"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Egyptians (no Egyptian ticket is sold)",
+    "ar": "المصريون (لا تُباع تذكرة للمصريين)"
+   },
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   }
   ]
  },
  "tickets": {

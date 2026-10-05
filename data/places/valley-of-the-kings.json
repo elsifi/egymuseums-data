@@ -341,6 +341,24 @@
     "group": "student",
     "amount": 10
    }
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with disabilities",
+    "ar": "المصريون من ذوي الإعاقة"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
   ]
  },
  "tickets": {

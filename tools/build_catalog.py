@@ -10,7 +10,7 @@ prices.tiers[].onlineAmount and prices.extras[].audience/group/onlineAmount. Cli
 import json, pathlib, datetime, hashlib
 
 SCHEMA_VERSION = 1  # major: bump only for breaking changes
-SCHEMA_MINOR = 2    # minor: additive fields only (1.1 = 2026-10-04)
+SCHEMA_MINOR = 3    # minor: additive fields only (1.1 = 2026-10-04)
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 seed = {p["id"]: p for p in json.loads((ROOT / "data/seed/places.json").read_text())}

@@ -227,6 +227,20 @@
    "Children under 6",
    "Egyptians with special needs",
    "Egyptians aged 60+"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   }
   ]
  },
  "tickets": {

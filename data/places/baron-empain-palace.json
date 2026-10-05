@@ -252,6 +252,24 @@
    "Egyptians aged 60+",
    "Egyptians with special needs",
    "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
   ]
  },
  "tickets": {

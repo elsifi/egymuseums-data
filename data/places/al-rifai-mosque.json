@@ -230,7 +230,17 @@
    "Egyptians (no Egyptian ticket is sold)",
    "Children under 6"
   ],
-  "includedIn": "sultan-hassan-mosque"
+  "includedIn": "sultan-hassan-mosque",
+  "freeGroupsLocalized": [
+   {
+    "en": "Egyptians (no Egyptian ticket is sold)",
+    "ar": "المصريون (لا تُباع تذكرة للمصريين)"
+   },
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   }
+  ]
  },
  "tickets": {
   "onlineUrl": "https://egymonuments.com/details/Mosque-MadrassaSultanHassan",
