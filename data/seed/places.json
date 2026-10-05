@@ -1400,7 +1400,7 @@
   "wikidataId": "Q130215900",
   "name": {
    "en": "Museum of Archaeological Excavations (Aswan)",
-   "ar": null
+   "ar": "متحف الحفائر الأثرية بأسوان"
   },
   "aliases": [
    "Museum of archaeological excavations Aswan",
@@ -1428,7 +1428,7 @@
    }
   ],
   "confidence": "medium",
-  "curationNote": "Unclear item; may be the excavation museum on Elephantine next to the Aswan Museum."
+  "curationNote": "Unclear item; may be the excavation museum on Elephantine next to the Aswan Museum. Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "nubia-museum",
@@ -2018,7 +2018,7 @@
   "wikidataId": "Q130215881",
   "name": {
    "en": "College Museum, University of Assiut",
-   "ar": null
+   "ar": "المتحف الجامعي بجامعة أسيوط"
   },
   "category": "mixed",
   "operator": "university",
@@ -2044,7 +2044,8 @@
     "checkedAt": "2026-10-04"
    }
   ],
-  "confidence": "medium"
+  "confidence": "medium",
+  "curationNote": "Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "meir-tombs",
@@ -2095,7 +2096,7 @@
   "wikidataId": "Q130215854",
   "name": {
    "en": "National Museum of Asyut",
-   "ar": null
+   "ar": "متحف أسيوط القومي"
   },
   "aliases": [
    "National Museum Asyut",
@@ -2125,7 +2126,8 @@
     "checkedAt": "2026-10-04"
    }
   ],
-  "confidence": "medium"
+  "confidence": "medium",
+  "curationNote": "Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "alwan-house",
@@ -4120,7 +4122,7 @@
   "wikidataId": "Q3733052",
   "name": {
    "en": "Espace Karim Francis",
-   "ar": null
+   "ar": "قاعة كريم فرنسيس للفنون"
   },
   "category": "modern-art",
   "operator": "private",
@@ -4147,7 +4149,7 @@
    }
   ],
   "confidence": "low",
-  "curationNote": "Commercial art gallery typed as museum in Wikidata; consider dropping."
+  "curationNote": "Commercial art gallery typed as museum in Wikidata; consider dropping. Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "farouk-corner-museum",
@@ -4449,7 +4451,7 @@
   "wikidataId": "Q130216010",
   "name": {
    "en": "Heliopolis (Matariya) Open-Air Museum",
-   "ar": null
+   "ar": "متحف المطرية المكشوف (هليوبوليس)"
   },
   "aliases": [
    "al-Mataria Museum",
@@ -4479,7 +4481,7 @@
    }
   ],
   "confidence": "medium",
-  "curationNote": "May share the Obelisk of Senusret I ticket; check whether it is a separate place."
+  "curationNote": "May share the Obelisk of Senusret I ticket; check whether it is a separate place. Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "helwan-wax-museum",
@@ -4829,7 +4831,7 @@
   "wikidataId": "Q3850788",
   "name": {
    "en": "Mashrabia Art Gallery",
-   "ar": null
+   "ar": "جاليري مشربية"
   },
   "category": "modern-art",
   "operator": "private",
@@ -4856,7 +4858,7 @@
    }
   ],
   "confidence": "low",
-  "curationNote": "Commercial art gallery typed as museum in Wikidata; consider dropping."
+  "curationNote": "Commercial art gallery typed as museum in Wikidata; consider dropping. Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "imam-al-shafii-mausoleum",
@@ -5835,7 +5837,7 @@
   "wikidataId": "Q125941978",
   "name": {
    "en": "Petrified Forest Protectorate Open Air Museum",
-   "ar": null
+   "ar": "متحف محمية الغابة المتحجرة المكشوف"
   },
   "category": "science-natural",
   "operator": "other",
@@ -5861,7 +5863,8 @@
     "checkedAt": "2026-10-04"
    }
   ],
-  "confidence": "medium"
+  "confidence": "medium",
+  "curationNote": "Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "prince-taz-palace",
@@ -9838,7 +9841,7 @@
   "wikidataId": "Q130216212",
   "name": {
    "en": "Minya Museum",
-   "ar": null
+   "ar": "متحف المنيا"
   },
   "category": "mixed",
   "operator": "mota-sca",
@@ -9861,7 +9864,7 @@
    }
   ],
   "confidence": "medium",
-  "curationNote": "Possible duplicate of the Aten Museum (Q20400357)."
+  "curationNote": "Possible duplicate of the Aten Museum (Q20400357). Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "gebel-al-tayr-monastery",
@@ -9919,7 +9922,7 @@
   "wikidataId": "Q130215830",
   "name": {
    "en": "Open Air Museum al-Ashmunain",
-   "ar": null
+   "ar": "متحف الأشمونين المكشوف"
   },
   "category": "specialised",
   "operator": "unknown",
@@ -9941,7 +9944,8 @@
     "checkedAt": "2026-10-04"
    }
   ],
-  "confidence": "medium"
+  "confidence": "medium",
+  "curationNote": "Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "tell-el-amarna",
@@ -11039,7 +11043,7 @@
   "wikidataId": "Q132042514",
   "name": {
    "en": "Hurghada Marine Museum & Aquarium",
-   "ar": null
+   "ar": "المتحف البحري والأكواريوم بالغردقة"
   },
   "category": "science-natural",
   "operator": "other",
@@ -11061,7 +11065,8 @@
     "checkedAt": "2026-10-04"
    }
   ],
-  "confidence": "medium"
+  "confidence": "medium",
+  "curationNote": "Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "hurghada-museum",
@@ -11231,7 +11236,7 @@
   "wikidataId": "Q125030049",
   "name": {
    "en": "Sand City Hurghada",
-   "ar": null
+   "ar": "مدينة الرمال بالغردقة"
   },
   "category": "specialised",
   "operator": "private",
@@ -11253,7 +11258,8 @@
     "checkedAt": "2026-10-04"
    }
   ],
-  "confidence": "medium"
+  "confidence": "medium",
+  "curationNote": "Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "ahmed-orabi-museum",
@@ -11299,7 +11305,7 @@
   "wikidataId": "Q130216530",
   "name": {
    "en": "Archaeological Museum, University of Zagazig",
-   "ar": null
+   "ar": "المتحف الأثري بجامعة الزقازيق"
   },
   "category": "mixed",
   "operator": "university",
@@ -11325,7 +11331,8 @@
     "checkedAt": "2026-10-04"
    }
   ],
-  "confidence": "medium"
+  "confidence": "medium",
+  "curationNote": "Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "heriyet-rezna-museum",
@@ -11333,7 +11340,7 @@
   "wikidataId": "Q130218217",
   "name": {
    "en": "Heriyet Rezna Museum",
-   "ar": null
+   "ar": "متحف هرية رزنة"
   },
   "category": "mixed",
   "operator": "mota-sca",
@@ -11356,7 +11363,7 @@
    }
   ],
   "confidence": "medium",
-  "curationNote": "Wikidata records a dissolution/closing date."
+  "curationNote": "Wikidata records a dissolution/closing date. Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "san-el-hagar-museum",
@@ -11364,7 +11371,7 @@
   "wikidataId": "Q130216405",
   "name": {
    "en": "San el-Hagar Museum",
-   "ar": null
+   "ar": "متحف صان الحجر"
   },
   "aliases": [
    "Tanis Museum"
@@ -11389,7 +11396,8 @@
     "checkedAt": "2026-10-04"
    }
   ],
-  "confidence": "medium"
+  "confidence": "medium",
+  "curationNote": "Arabic name added by editor 2026-10-05; verify with an official source."
  },
  {
   "id": "tanis",
