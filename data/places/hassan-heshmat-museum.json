@@ -1,0 +1,289 @@
+{
+ "id": "hassan-heshmat-museum",
+ "kind": "museum",
+ "wikidataId": "Q136766769",
+ "name": {
+  "en": "Hassan Heshmat Museum",
+  "ar": "متحف حسن حشمت"
+ },
+ "category": "modern-art",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Ain Shams",
+  "ar": "عين شمس"
+ },
+ "address": {
+  "en": "24 West Metro Line Street, Ain Shams West, Cairo — opposite Ain Shams metro station",
+  "ar": "24 شارع غرب شريط المترو، عين شمس الغربية، القاهرة — أمام محطة مترو عين شمس"
+ },
+ "lat": 30.130618,
+ "lng": 31.318389,
+ "status": "open",
+ "statusNote": {
+  "en": "Open except Monday and Friday; hours may change, so check before visiting.",
+  "ar": "مفتوح عدا الاثنين والجمعة، وقد تتغير المواعيد، فتحقق قبل الزيارة."
+ },
+ "summary": {
+  "en": "The villa and garden of the sculptor and ceramist Hassan Heshmat in Ain Shams, shown as a museum of his work.",
+  "ar": "فيلا النحات والخزاف حسن حشمت وحديقتها في عين شمس، وتُعرض متحفًا لأعماله."
+ },
+ "description": {
+  "en": "Hassan Heshmat was an Egyptian sculptor and ceramist whose figures drew on Egyptian village life, folk traditions and ancient art. He gave his villa in Ain Shams to the Ministry of Culture in 1998 so that it could become a public museum and cultural centre. After long years of preparation and development works, the ground floor and the garden around the villa reopened as a museum in 2018, under the Fine Arts Sector. On about 1,200 square metres it displays some 235 sculptures and ceramic pieces, together with original models for some of his statues and his stone and ceramic reliefs. Three indoor halls hold most of the works in display cases, while larger sculptures stand in the garden; the upper floor was the home of the artist's wife. It is one of the few places to see a sculptor's work in the setting where he lived.",
+  "ar": "حسن حشمت نحات وخزاف مصري استلهم تماثيله من حياة القرية المصرية والتقاليد الشعبية والفن المصري القديم. وقد أهدى فيلته في عين شمس إلى وزارة الثقافة عام 1998 لتصبح متحفًا عامًا ومركزًا ثقافيًا. وبعد سنوات طويلة من الإعداد وأعمال التطوير أعيد افتتاح الطابق الأرضي والحديقة المحيطة بالفيلا متحفًا عام 2018، ويتبع قطاع الفنون التشكيلية. ويعرض على مساحة نحو 1200 متر مربع قرابة 235 قطعة نحتية وخزفية، إلى جانب أصول بعض تماثيله ولوحاته الحجرية والخزفية. وتضم ثلاث قاعات داخلية معظم الأعمال في فتارين عرض، بينما تقف التماثيل الأكبر في الحديقة، أما الطابق العلوي فكان مسكن زوجة الفنان. وهو من الأماكن القليلة التي تتيح رؤية أعمال نحات في المكان الذي عاش فيه."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Sculpture halls",
+    "ar": "قاعات النحت"
+   },
+   "desc": {
+    "en": "Three halls of sculptures and ceramics in display cases.",
+    "ar": "ثلاث قاعات للتماثيل والخزف داخل فتارين العرض."
+   }
+  },
+  {
+   "title": {
+    "en": "Garden sculptures",
+    "ar": "تماثيل الحديقة"
+   },
+   "desc": {
+    "en": "Larger works set in the villa's garden.",
+    "ar": "أعمال أكبر حجمًا موزعة في حديقة الفيلا."
+   }
+  },
+  {
+   "title": {
+    "en": "Original models and reliefs",
+    "ar": "الأصول واللوحات البارزة"
+   },
+   "desc": {
+    "en": "Original casts of statues and stone and ceramic reliefs.",
+    "ar": "أصول لتماثيل ولوحات بارزة من الحجر والخزف."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (Fine Arts Sector museums)",
+     "ar": "مواعيد شهر رمضان (متاحف قطاع الفنون التشكيلية)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "closed": true
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 5
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 3
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "People with special needs",
+   "Veterans",
+   "Seniors over 60",
+   "Children under 12",
+   "Members of artists' professional syndicates",
+   "Members of national museum committees"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "People with special needs",
+    "ar": "ذوو الهمم"
+   },
+   {
+    "en": "Veterans",
+    "ar": "المحاربون القدامى"
+   },
+   {
+    "en": "Seniors over 60",
+    "ar": "كبار السن فوق 60 عامًا"
+   },
+   {
+    "en": "Children under 12",
+    "ar": "الأطفال دون 12 عامًا"
+   },
+   {
+    "en": "Members of artists' professional syndicates",
+    "ar": "أعضاء النقابات المهنية للفنانين"
+   },
+   {
+    "en": "Members of national museum committees",
+    "ar": "أعضاء اللجان الوطنية للمتاحف"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "A weekday morning; easy to reach by metro line 1 to Ain Shams.",
+   "ar": "صباح أحد أيام الأسبوع، ويسهل الوصول إليه بالخط الأول للمترو حتى محطة عين شمس."
+  },
+  "crowdNotes": {
+   "en": "A quiet neighbourhood museum, rarely crowded.",
+   "ar": "متحف هادئ في حي سكني، ونادرًا ما يزدحم."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Hassan_Heshmat_with_former_Egyptian_President_Mohamed_Naguib_at_his_first_exhibition%2C_1953.jpg",
+   "author": "متحف الفنان حسن حشمت",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hassan_Heshmat_with_former_Egyptian_President_Mohamed_Naguib_at_his_first_exhibition,_1953.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 2 2250 2298"
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%AD%D8%B3%D9%86_%D8%AD%D8%B4%D9%85%D8%AA",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q136766769",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (10:00-16:00 except Monday and Friday), prices, freeGroups, address, contacts (official Fine Arts Sector visitor page; undated)",
+   "url": "https://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=15",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (headline: museum receives the public under the 'Farhanin bil-Mathaf al-Kabir' initiative, tied to the GEM opening, Nov 2025; page body not retrievable)",
+   "url": "https://sis.gov.eg/ar/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%AA%D8%AD%D9%81-%D8%AD%D8%B3%D9%86-%D8%AD%D8%B4%D9%85%D8%AA-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%B6%D9%85%D9%86-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D9%81%D8%B1%D8%AD%D8%A7%D9%86%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%AD%D8%B3%D9%86_%D8%AD%D8%B4%D9%85%D8%AA",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (reopening after 18 years, Apr 2018; news)",
+   "url": "https://www.youm7.com/story/2018/4/30/%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D9%81%D9%89-%D8%A8%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%AA%D8%AD%D9%81-%D8%AD%D8%B3%D9%86-%D8%AD%D8%B4%D9%85%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%BA%D9%84%D8%A7%D9%82%D8%A9/3771706",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Ministry of Culture (Fine Arts Sector). Status open: SIS headline (Nov 2025, body not retrievable: TLS/blocked) says the museum received the public under the GEM-opening initiative; not named in the Sector's June 2026 hours statement. Hours 10:00-16:00 except Monday and Friday and prices 5/3/10 from the undated official page; a search summary quoted EGP 20 (unverified, not used). Ramadan: sector-wide 10:00-14:00. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Seed coordinates (30.1306, 31.3184) kept; they fit Ain Shams. Phone 22502298 from the official page. Photo: public-domain 1953 photo of the artist (PD-Egypt); his sculptures are in copyright and were not used."
+}

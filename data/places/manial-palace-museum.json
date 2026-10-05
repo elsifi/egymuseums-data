@@ -12,7 +12,9 @@
   "قصر المنيل",
   "متحف قصر المنيل",
   "متحف قصر محمد علي بالمنيل",
-  "Manial Palace and Museum"
+  "Manial Palace and Museum",
+  "Hunting Museum (Manial Palace)",
+  "متحف الصيد"
  ],
  "category": "royal-palace",
  "operator": "mota-sca",
@@ -312,6 +314,12 @@
    "author": "RolandUnger",
    "license": "CC BY-SA 3.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo2015ManialResidencePalast.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Hunting_Museum_at_Mohamed_Ali%27s_Palace_Manial%2C_Cairo%2C_Egypt.jpg",
+   "author": "Noura Adel",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hunting_Museum_at_Mohamed_Ali%27s_Palace_Manial,_Cairo,_Egypt.jpg"
   }
  ],
  "links": {
@@ -385,5 +393,5 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Ramadan: MoTA guide 09:00-15:00 (last entry 14:00 by its one-hour rule) vs egymonuments.com last entry 15:00; earlier time used. Egyptian student price is 20 (not 30) on both official pages."
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Ramadan: MoTA guide 09:00-15:00 (last entry 14:00 by its one-hour rule) vs egymonuments.com last entry 15:00; earlier time used. Egyptian student price is 20 (not 30) on both official pages. The seed record hunting-museum-manial is excluded as part of this museum (batch-9 Q5a); its name is kept as an alias and its one photo (a window of the hunting museum building) was added here."
 }

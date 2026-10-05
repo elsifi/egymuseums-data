@@ -1,0 +1,326 @@
+{
+ "id": "bahariya-oasis-antiquities",
+ "kind": "site",
+ "wikidataId": "Q738878",
+ "name": {
+  "en": "Bahariya Oasis antiquities",
+  "ar": "آثار الواحات البحرية"
+ },
+ "aliases": [
+  "Al Wāḩāt al Baḩrīyah",
+  "Valley of the Golden Mummies",
+  "وادي المومياوات الذهبية",
+  "وادي الموميات الذهبية",
+  "Bahariya Oasis",
+  "الواحات البحرية"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "giza",
+ "city": {
+  "en": "Bawiti",
+  "ar": "الباويطي"
+ },
+ "area": {
+  "en": "Bahariya Oasis, Western Desert",
+  "ar": "الواحات البحرية، الصحراء الغربية"
+ },
+ "address": {
+  "en": "Bawiti village, Bahariya Oasis, Giza Governorate",
+  "ar": "قرية الباويطي، الواحات البحرية، محافظة الجيزة"
+ },
+ "lat": 28.351489,
+ "lng": 28.862375,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. New ticket prices apply from 1 October 2026.",
+  "ar": "مفتوحة يوميًا. وتُطبق أسعار التذاكر الجديدة اعتبارًا من 1 أكتوبر 2026."
+ },
+ "summary": {
+  "en": "The antiquities of the Bahariya Oasis around Bawiti: painted Late Period tombs, temples of Ahmose II and Alexander, and the famous gilded mummies of the Roman era.",
+  "ar": "آثار الواحات البحرية حول الباويطي: مقابر ملونة من العصر المتأخر، ومعابد من عهد أحمس الثاني والإسكندر، والمومياوات المذهبة الشهيرة من العصر الروماني."
+ },
+ "description": {
+  "en": "Bahariya, some 335 kilometres south-west of Giza, was an important oasis on the desert routes for much of Egyptian history. At Bawiti, the oasis capital, the tomb of Amenhotep Huy recalls a governor of the New Kingdom, while the Twenty-sixth Dynasty brought a period of prosperity: a temple of King Wahibre (Apries) stood at el-Qasr, and four chapels at Ain el-Muftella were dedicated under Ahmose II to the Theban gods and other deities. The painted rock tombs of Bannentiu and Djed-Amun-ef-ankh on Qarat Qasr Salim belong to the same era. In the Graeco-Roman period Bahariya flourished again; a temple attributed to Alexander the Great survives south-west of Bawiti. Since 1996 a vast Roman cemetery nicknamed the Valley of the Golden Mummies has yielded hundreds of burials, some with gilded masks, a few of which are displayed locally. The oasis is also the gateway to the White and Black Deserts.",
+  "ar": "تقع الواحات البحرية على بعد نحو 335 كيلومترًا جنوب غرب الجيزة، وكانت واحة مهمة على طرق الصحراء في معظم عصور التاريخ المصري. ففي الباويطي، عاصمة الواحة، تذكّر مقبرة أمنحتب حوي بحاكم للواحة من عصر الدولة الحديثة، ثم شهدت الأسرة السادسة والعشرون ازدهارًا كبيرًا، إذ شُيد معبد للملك واح إيب رع في منطقة القصر، وكُرست أربع مقاصير في عين المفتلة في عهد أحمس الثاني لثالوث طيبة ومعبودات أخرى. وتنتمي إلى الحقبة نفسها مقبرتا باننتيو وجد آمون إيف عنخ الملونتان المنحوتتان في الصخر بقارة قصر سليم. وازدهرت الواحة مجددًا في العصر اليوناني الروماني، ولا يزال معبد يُنسب إلى الإسكندر الأكبر قائمًا جنوب غرب الباويطي. ومنذ عام 1996 كشفت جبانة رومانية شاسعة عُرفت باسم «وادي المومياوات الذهبية» عن مئات الدفنات، بعضها بأقنعة مذهبة، ويُعرض عدد منها في الواحة. كما تُعد الواحة بوابة الصحراء البيضاء والصحراء السوداء."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Golden mummies",
+    "ar": "المومياوات الذهبية"
+   },
+   "desc": {
+    "en": "Roman-era mummies with gilded masks from the Valley of the Golden Mummies.",
+    "ar": "مومياوات من العصر الروماني بأقنعة مذهبة من وادي المومياوات الذهبية."
+   }
+  },
+  {
+   "title": {
+    "en": "Tombs of Bannentiu and Djed-Amun-ef-ankh",
+    "ar": "مقبرتا باننتيو وجد آمون إيف عنخ"
+   },
+   "desc": {
+    "en": "Painted Twenty-sixth Dynasty rock tombs at Qarat Qasr Salim.",
+    "ar": "مقبرتان صخريتان ملونتان من الأسرة السادسة والعشرين في قارة قصر سليم."
+   }
+  },
+  {
+   "title": {
+    "en": "Chapels of Ain el-Muftella",
+    "ar": "مقاصير عين المفتلة"
+   },
+   "desc": {
+    "en": "Four Saite chapels dedicated under Ahmose II.",
+    "ar": "أربع مقاصير صاوية كُرست في عهد أحمس الثاني."
+   }
+  },
+  {
+   "title": {
+    "en": "Temple of Alexander",
+    "ar": "معبد الإسكندر"
+   },
+   "desc": {
+    "en": "Ruins of a temple attributed to Alexander the Great, south-west of Bawiti.",
+    "ar": "أطلال معبد يُنسب إلى الإسكندر الأكبر جنوب غرب الباويطي."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Amenhotep Huy",
+    "ar": "مقبرة أمنحتب حوي"
+   },
+   "desc": {
+    "en": "Burial of a New Kingdom governor of the oasis at Bawiti.",
+    "ar": "مقبرة حاكم الواحة في عصر الدولة الحديثة بالباويطي."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 400
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 200
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   }
+  ],
+  "effectiveFrom": "2026-10-01"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 120,
+  "standardMinutes": 240,
+  "deepMinutes": 360,
+  "bestTime": {
+   "en": "October to April; start early, as the sites are spread around Bawiti.",
+   "ar": "من أكتوبر إلى أبريل، مع البدء مبكرًا لأن المواقع متفرقة حول الباويطي."
+  },
+  "crowdNotes": {
+   "en": "Sites are scattered across the oasis and need a car or a local guide; most visitors combine them with a White Desert trip.",
+   "ar": "المواقع متفرقة في أنحاء الواحة وتحتاج إلى سيارة أو مرشد محلي، ويجمع معظم الزوار بينها وبين رحلة إلى الصحراء البيضاء."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Golden_Mummies%2C_Bahariya_Oasis%2C_Egypt_01.jpg",
+   "author": "Viktor Lazić",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golden_Mummies,_Bahariya_Oasis,_Egypt_01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/BawitiSelimBanentiuSanctRight.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BawitiSelimBanentiuSanctRight.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Temple_of_Ain_Al_Muftella%2C_Bahariya_Oasis%2C_Egypt_01.jpg",
+   "author": "Viktor Lazić",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_Ain_Al_Muftella,_Bahariya_Oasis,_Egypt_01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Bahariya_Oasis",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q738878",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q7912356",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-16:00, Ramadan 09:00-16:00, last entry 1 h before closing),address,description,status",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/منطقة-آثار-الواحات-البحرية/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,effectiveFrom (SCA board decision of 9 Jul 2026: 400/200 foreign, 40/20 Egyptian from 1 Oct 2026; MoTA statement)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (superseded Nov 2024 list: 100/50, 10/5, 08:00-16:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Valley of the Golden Mummies, Temple of Alexander; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Bahariya_Oasis",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Sheikh Sobi necropolis discovery, Aug 2026)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2026/8/12/3031822/x",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Prices from 1 Oct 2026 per the SCA board decision of 9 Jul 2026 published on mota.gov.eg (MoTA's own statement; effectiveFrom set from that dated official statement - not from a news report). The statement covers 'the archaeological sites of Bahariya Oasis' as one price; which individual monuments one ticket covers (tombs, museum of the mummies, temples) is not stated - verify on site/hotline 19654. Old Nov 2024 price 100/50, 10/5 superseded. Hours: weekly 08:00-16:00, last entry 15:00 (guide's one-hour rule); Ramadan 09:00-16:00, last entry 15:00. Seed city 'Al Wāḩāt al Baḩrīyah' replaced by Bawiti (MoTA address). Coordinates are Wikidata's oasis point, not a single monument. Golden-mummy display location (Bawiti antiquities inspectorate hall) not confirmed by an official page, so described generally. Not on egymonuments.com. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

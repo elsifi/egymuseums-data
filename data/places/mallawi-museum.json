@@ -1,0 +1,280 @@
+{
+ "id": "mallawi-museum",
+ "kind": "museum",
+ "wikidataId": "Q16740836",
+ "name": {
+  "en": "Mallawi Museum",
+  "ar": "متحف ملوي"
+ },
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "minya",
+ "city": {
+  "en": "Mallawi",
+  "ar": "ملوي"
+ },
+ "area": {
+  "en": "Al-Galaa Street, town centre",
+  "ar": "شارع الجلاء، وسط المدينة"
+ },
+ "address": {
+  "en": "Al-Galaa Street, Mallawi, Minya Governorate",
+  "ar": "شارع الجلاء، ملوي، محافظة المنيا"
+ },
+ "lat": 27.735583,
+ "lng": 30.844547,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily, mornings only.",
+  "ar": "مفتوح يوميًا في الفترة الصباحية فقط."
+ },
+ "summary": {
+  "en": "A regional museum of finds from Hermopolis, Tuna el-Gebel and other Middle Egyptian sites, reopened in 2016 after its 2013 looting.",
+  "ar": "متحف إقليمي لمكتشفات الأشمونين وتونا الجبل ومواقع أخرى في مصر الوسطى، أُعيد افتتاحه عام 2016 بعد نهبه عام 2013."
+ },
+ "description": {
+  "en": "Opened in 1963, the Mallawi Museum gathers finds from the rich archaeological landscape around this Middle Egyptian town, especially Hermopolis Magna, the city of Thoth at el-Ashmunein, and its cemetery at Tuna el-Gebel. In August 2013, during unrest across Egypt, the museum was broken into and over a thousand objects were stolen or smashed. About 90 per cent of the stolen pieces were later recovered and the rest were placed on UNESCO's red list. After restoration and a new display the museum reopened in 2016. Its single-storey galleries cover pharaonic, Graeco-Roman, Coptic and Islamic times. Among the best-known pieces are a statue of a daughter of Akhenaten, the contents of the tomb of Henu from Deir el-Bersha, wooden models of daily life, bronze and wooden figures, including animals sacred to Thoth, and faience amulets of many deities.",
+  "ar": "افتُتح متحف ملوي عام 1963 ليجمع مكتشفات المنطقة الأثرية الغنية المحيطة بهذه المدينة في مصر الوسطى، ولا سيما الأشمونين، مدينة المعبود جحوتي، وجبانتها في تونا الجبل. وفي أغسطس 2013، خلال أحداث العنف التي شهدتها البلاد، اقتُحم المتحف وسُرقت أو حُطمت أكثر من ألف قطعة، ثم استُعيد نحو 90 في المئة من القطع المسروقة وأُدرج الباقي على القائمة الحمراء لليونسكو. وبعد الترميم وإعداد سيناريو عرض جديد أُعيد افتتاح المتحف عام 2016. وتضم قاعاته، الواقعة في طابق واحد، آثارًا من العصور الفرعونية واليونانية الرومانية والقبطية والإسلامية. ومن أشهر مقتنياته تمثال لإحدى بنات إخناتون، ومحتويات مقبرة حنو التي عُثر عليها في دير البرشا، ونماذج خشبية للحياة اليومية، وتماثيل من البرونز والخشب منها حيوانات مقدسة لجحوتي، وتمائم من القاشاني لمعبودات مختلفة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Daughter of Akhenaten",
+    "ar": "ابنة إخناتون"
+   },
+   "desc": {
+    "en": "A statue of one of the Amarna princesses.",
+    "ar": "تمثال لإحدى أميرات العمارنة."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb group of Henu",
+    "ar": "محتويات مقبرة حنو"
+   },
+   "desc": {
+    "en": "Burial equipment found at Deir el-Bersha.",
+    "ar": "أثاث جنائزي عُثر عليه في دير البرشا."
+   }
+  },
+  {
+   "title": {
+    "en": "Sacred animals of Thoth",
+    "ar": "حيوانات جحوتي المقدسة"
+   },
+   "desc": {
+    "en": "Bronze and wooden figures of animals sacred to Thoth.",
+    "ar": "تماثيل من البرونز والخشب لحيوانات مقدسة لجحوتي."
+   }
+  },
+  {
+   "title": {
+    "en": "Bes vessel with ibis eggs",
+    "ar": "إناء بس المملوء ببيض أبو منجل"
+   },
+   "desc": {
+    "en": "A pottery vessel in the shape of the god Bes.",
+    "ar": "إناء فخاري على هيئة المعبود بس."
+   }
+  },
+  {
+   "title": {
+    "en": "Daily-life models",
+    "ar": "نماذج الحياة اليومية"
+   },
+   "desc": {
+    "en": "Wooden models of servants, boats and workshops.",
+    "ar": "نماذج خشبية للخدم والمراكب والورش."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/MalawyMuseum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning, before or after a visit to Tuna el-Gebel or el-Ashmunein.",
+   "ar": "الصباح، قبل زيارة تونا الجبل أو الأشمونين أو بعدها."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded. Foreign visitors travelling by road in Minya governorate may be asked by police to register their route or travel with an escort, so allow extra time.",
+   "ar": "نادرًا ما يزدحم. قد تطلب الشرطة من الزوار الأجانب المسافرين برًا في محافظة المنيا تسجيل خط سيرهم أو التنقل بمرافقة أمنية، فاحسب وقتًا إضافيًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/MallawiMuseumBibiAnkh.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MallawiMuseumBibiAnkh.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/MallawiMuseumBes.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MallawiMuseumBes.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mallawi_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D9%84%D9%88%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q16740836",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-15:00; Ramadan 09:00-15:00; last entry 1 h before closing),address,description,highlights",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-ملوي/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (last entry 14:00 in every season),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/MalawyMuseum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (looting 2013; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Mallawi_Museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (Hermopolis and Tuna el-Gebel finds; facts only)",
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_Mallawi",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal page not found; MoTA guide, booking platform and Nov 2024 list agree on 09:00-15:00 and 120/60, 10/5. Ramadan hours equal the normal week: no exception. Highlights from the MoTA guide plus Commons captions (Bes vessel); after the 2013 looting, not every piece pictured in 2004 is certain to be on display. The 1963 building is excluded from photos (post-1950s, no freedom of panorama); photos show objects only. Minya escort note follows batch-7 Q9a."
+}

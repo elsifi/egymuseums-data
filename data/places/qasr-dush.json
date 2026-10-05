@@ -1,0 +1,313 @@
+{
+ "id": "qasr-dush",
+ "kind": "site",
+ "wikidataId": "Q2121433",
+ "name": {
+  "en": "Qasr Dush Temple",
+  "ar": "قصر دوش"
+ },
+ "aliases": [
+  "Qasr Duch",
+  "Qasr Dush",
+  "Kysis",
+  "معبد دوش"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "new-valley",
+ "city": {
+  "en": "Baris",
+  "ar": "باريس"
+ },
+ "area": {
+  "en": "Southern Kharga Oasis, near Baris",
+  "ar": "جنوب الواحات الخارجة، قرب باريس"
+ },
+ "address": {
+  "en": "Al-Maks al-Qibli village, Baris, about 120 km south of Kharga, New Valley Governorate",
+  "ar": "قرية المكس القبلي، باريس، على بعد نحو 120 كم جنوب الخارجة، محافظة الوادي الجديد"
+ },
+ "lat": 24.580189,
+ "lng": 30.716289,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A Roman fortress-temple of Isis and Serapis on a desert ridge at the southern tip of Kharga Oasis, ancient Kysis.",
+  "ar": "قلعة ومعبد روماني لإيزيس وسيرابيس على ربوة صحراوية في الطرف الجنوبي للواحات الخارجة، موضع مدينة كيسيس القديمة."
+ },
+ "description": {
+  "en": "Qasr Dush crowns a ridge at the far southern end of the Kharga depression, about 120 km from Kharga town near Baris. It marks the ancient town of Kysis, which guarded the caravan road south towards Nubia and Sudan. Above the town rises a massive mud-brick fortress, first built in the Ptolemaic period and later strengthened, whose walls enclose a sandstone temple dedicated to Isis, Serapis and Horus. A Greek inscription on the gateway records building work under the emperor Trajan, and the rear wall of the sanctuary shows Hadrian making offerings to Egyptian gods, including Amun, Maat and Isis. The inner rooms are plain except for these scenes, and a second, mud-brick temple stands nearby. French archaeologists have worked at Dush for decades, recording houses, a church and large cemeteries. Climbing the fortress walls gives sweeping views over dunes, fields and the open desert.",
+  "ar": "يعلو قصر دوش ربوة في أقصى جنوب منخفض الخارجة، على بعد نحو 120 كيلومترًا من مدينة الخارجة قرب باريس. ويشير إلى موقع مدينة كيسيس القديمة التي كانت تحرس طريق القوافل جنوبًا نحو النوبة والسودان. وفوق المدينة ترتفع قلعة ضخمة من الطوب اللبن، شُيدت أول مرة في العصر البطلمي ثم دُعمت لاحقًا، ويحيط سورها بمعبد من الحجر الرملي مكرس لإيزيس وسيرابيس وحورس. ويسجل نقش يوناني على البوابة أعمال بناء في عهد الإمبراطور تراجان، ويصور الجدار الخلفي لقدس الأقداس الإمبراطور هادريان يقدم القرابين لمعبودات مصرية منها آمون وماعت وإيزيس. والحجرات الداخلية خالية من الزخارف عدا هذه المناظر، وبالقرب منه معبد ثان من الطوب اللبن. وقد عمل علماء آثار فرنسيون في دوش عقودًا، فسجلوا بيوتًا وكنيسة وجبانات كبيرة. ويتيح الصعود إلى أسوار القلعة مشهدًا واسعًا على الكثبان والحقول والصحراء المفتوحة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Fortress walls",
+    "ar": "أسوار القلعة"
+   },
+   "desc": {
+    "en": "Massive mud-brick ramparts with views over the desert.",
+    "ar": "أسوار ضخمة من الطوب اللبن تطل على الصحراء."
+   }
+  },
+  {
+   "title": {
+    "en": "Temple of Isis and Serapis",
+    "ar": "معبد إيزيس وسيرابيس"
+   },
+   "desc": {
+    "en": "A sandstone temple with a Greek dedication of Trajan's reign.",
+    "ar": "معبد من الحجر الرملي عليه نقش إهداء يوناني من عهد تراجان."
+   }
+  },
+  {
+   "title": {
+    "en": "Hadrian reliefs",
+    "ar": "نقوش هادريان"
+   },
+   "desc": {
+    "en": "The emperor offering to Egyptian gods on the rear wall.",
+    "ar": "الإمبراطور يقدم القرابين لمعبودات مصرية على الجدار الخلفي."
+   }
+  },
+  {
+   "title": {
+    "en": "Mud-brick temple",
+    "ar": "المعبد الطيني"
+   },
+   "desc": {
+    "en": "A second temple built entirely of mud brick.",
+    "ar": "معبد ثان مبني بالكامل من الطوب اللبن."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Early morning or late afternoon; the site is fully exposed to the sun.",
+   "ar": "الصباح الباكر أو آخر النهار، فالموقع مكشوف تمامًا للشمس."
+  },
+  "crowdNotes": {
+   "en": "Very remote: allow a full day from Kharga and travel with a driver who knows the road. Bring water and sun protection: there are no facilities at most desert sites.",
+   "ar": "موقع ناءٍ جدًا: خصص يومًا كاملًا انطلاقًا من الخارجة، وسافر مع سائق يعرف الطريق. احمل الماء وواقيًا من الشمس، فمعظم المواقع الصحراوية بلا خدمات."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/QasrDushEntrance.jpg",
+   "author": "RolandUnger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:QasrDushEntrance.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/QasrDushRearWall.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:QasrDushRearWall.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/27435-_Fortified_temple_at_Qasr_ad-Dush%2C_ancient_Kysis.jpg",
+   "author": "Panegyrics of Granovetter",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:27435-_Fortified_temple_at_Qasr_ad-Dush,_ancient_Kysis.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": "node/2708085972"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2121433",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00; Ramadan 09:00-16:00; last entry 1 h before closing),address,description (Trajan inscription, Hadrian scenes)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-دوش/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (MoTA Nov 2024 list: 'Temple of Dush' 100/50, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (checked: the 9 Jul 2026 SCA board decision raising prices from 1 Oct 2026 names only Bahariya Oasis sites; not applied here)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (Kysis, fortress, mud-brick temple; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Qa%E1%B9%A3r_D%C5%ABsch",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (French excavations; facts only)",
+   "url": "https://fr.wikipedia.org/wiki/N%C3%A9cropole_de_Douch",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "visit.crowdNotes (travel advice: oasis roads exempt from warnings; updated 4 Aug 2026)",
+   "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "The guide's Greek inscription date reads '117 متراً' (a typo for AD 117); prose says only 'under Trajan'. Distance: guide 123 km south-east of Kharga; prose 'about 120 km'. Prices only from the MoTA Nov 2024 list (no portal page, not on egymonuments.com); kept as confirmed (batch-7 Q4a). The 9 Jul 2026 oasis price rise covers Bahariya only (batch-7 finding), not applied. Ramadan from the MoTA guide (09:00-16:00, last entry 15:00). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Wikivoyage mentions a one-day Kharga combination ticket (LE 120/60, Feb 2024), not official and not added."
+}

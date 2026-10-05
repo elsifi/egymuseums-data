@@ -1,0 +1,344 @@
+{
+ "id": "house-of-sitt-wasila",
+ "kind": "site",
+ "wikidataId": "Q12200380",
+ "name": {
+  "en": "House of Sitt Wasila",
+  "ar": "بيت الست وسيلة"
+ },
+ "aliases": [
+  "Bait al-Sitt Wasila",
+  "Bayt el Sitt Wasila",
+  "Beit El Sit El Wasila",
+  "Beit Sitt Wasila",
+  "Manzil of Sitt Wasila",
+  "Manzil Sitt Wasila",
+  "Sitt Wasila House"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "al-Azhar, behind al-Azhar Mosque",
+  "ar": "الأزهر، خلف الجامع الأزهر"
+ },
+ "address": {
+  "en": "Sitt Wasila lane, off al-Ayni lane, al-Azhar, Cairo (next to Bayt al-Harawi)",
+  "ar": "حارة الست وسيلة، زقاق العيني، الأزهر، القاهرة (بجوار بيت الهراوي)"
+ },
+ "lat": 30.044442,
+ "lng": 31.263132,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The house is also the House of Arab Poetry, which holds readings and cultural evenings.",
+  "ar": "مفتوح يوميًا. ويضم المنزل أيضًا بيت الشعر العربي الذي يقيم أمسيات وقراءات ثقافية."
+ },
+ "summary": {
+  "en": "A 1664 Ottoman house behind al-Azhar, famous for its painted reception room showing Mecca and Medina, now the House of Arab Poetry.",
+  "ar": "منزل عثماني من عام 1664 خلف الجامع الأزهر، تشتهر قاعته بجدرانها المرسوم عليها مكة والمدينة، ويضم اليوم بيت الشعر العربي."
+ },
+ "description": {
+  "en": "Two brothers, Abd al-Haqq and Lutfi, sons of Muhammad al-Kinani, built this house in 1664 a few metres from al-Azhar Mosque, next to the house later known as Bayt al-Harawi. It is named after its last resident, Wasila Khatun, a freed woman of the household of Abd Allah al-Bayda, who lived here in the early nineteenth century and died in 1835. The entrance from Sitt Wasila lane leads to an open courtyard surrounded by storerooms, a well and the men's reception hall. On the first floor, the maq'ad has a wooden ceiling painted with gilded floral and geometric designs; a frieze beneath it carries the Throne Verse and the founders' inscription with the date. An adjoining small hall is famous for its wall paintings of the holy sanctuaries of Mecca and Medina. After restoration by the Supreme Council of Antiquities in 2005, the house became the House of Arab Poetry, run by the Cultural Development Fund.",
+  "ar": "بنى الأخوان عبد الحق ولطفي ابنا محمد الكناني هذا المنزل عام 1664 على بعد أمتار من الجامع الأزهر، بجوار المنزل الذي عُرف لاحقًا ببيت الهراوي. ويحمل اسم آخر من سكنه، الست وسيلة خاتون، المعتوقة من أهل بيت عبد الله البيضا، التي عاشت فيه مطلع القرن التاسع عشر وتوفيت عام 1835. ويؤدي المدخل المطل على حارة الست وسيلة إلى فناء مكشوف تحيط به المخازن وبئر الماء وقاعة استقبال الرجال. وفي الطابق الأول مقعد سقفه الخشبي مزين بزخارف نباتية وهندسية ملونة ومذهبة، ويحمل الإزار أسفله آية الكرسي ونص الإنشاء بتاريخه. وتشتهر القاعة الصغيرة الملحقة به برسوم جدارية للحرمين الشريفين في مكة والمدينة. وبعد ترميمه على يد المجلس الأعلى للآثار عام 2005 صار مقرًا لبيت الشعر العربي التابع لصندوق التنمية الثقافية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Painted maq'ad ceiling",
+    "ar": "سقف المقعد الملون"
+   },
+   "desc": {
+    "en": "A gilded wooden ceiling with floral and geometric designs.",
+    "ar": "سقف خشبي مذهب بزخارف نباتية وهندسية."
+   }
+  },
+  {
+   "title": {
+    "en": "Mecca and Medina murals",
+    "ar": "رسوم الحرمين"
+   },
+   "desc": {
+    "en": "Wall paintings of the holy sanctuaries in the hall beside the maq'ad.",
+    "ar": "رسوم جدارية للحرمين الشريفين في القاعة الملحقة بالمقعد."
+   }
+  },
+  {
+   "title": {
+    "en": "Foundation frieze",
+    "ar": "إزار الإنشاء"
+   },
+   "desc": {
+    "en": "A carved band with the Throne Verse and the founders' names and date.",
+    "ar": "إزار يحمل آية الكرسي واسمي المنشئين وتاريخ الإنشاء."
+   }
+  },
+  {
+   "title": {
+    "en": "Haramlik and bath",
+    "ar": "الحرملك والحمام"
+   },
+   "desc": {
+    "en": "Women's rooms with lattice windows and a private bath.",
+    "ar": "غرف النساء بنوافذها المشربية وحمامها الخاص."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Wasilahouse",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 35,
+  "deepMinutes": 50,
+  "bestTime": {
+   "en": "Morning, together with Bayt al-Harawi next door.",
+   "ar": "الصباح، مع زيارة بيت الهراوي المجاور."
+  },
+  "crowdNotes": {
+   "en": "Poetry evenings are held some nights; the house is quiet during the day.",
+   "ar": "تُقام أمسيات شعرية في بعض الليالي، والمنزل هادئ نهارًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D8%B3%D8%AA_%D9%88%D8%B3%D9%8A%D9%84%D8%A9_%D9%8A%D8%B9%D8%AF_%D9%85%D9%86_%D8%A7%D9%84%D8%A3%D8%AB%D8%A7%D8%B1_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9%D8%8C%D9%8A%D8%B1%D8%AC%D8%B9_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A5%D9%86%D8%B4%D8%A7%D8%A6%D9%87_%D9%84%D9%84%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A_%D8%B9%D8%A7%D9%85_1664%D9%85_%D8%8C_%D9%88%D8%B3%D9%83%D9%86%D8%AA%D9%87_%D8%A7%D9%84%D8%B3%D8%AA_%D9%88%D8%B3%D9%8A%D9%84%D8%A9_%D8%AE%D8%A7%D8%AA%D9%88%D9%86%D8%8C%D8%A3%D8%AB%D8%B1_%D8%B1%D9%82%D9%85_445.jpg",
+   "author": "Saraeltony",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D8%B3%D8%AA_%D9%88%D8%B3%D9%8A%D9%84%D8%A9_%D9%8A%D8%B9%D8%AF_%D9%85%D9%86_%D8%A7%D9%84%D8%A3%D8%AB%D8%A7%D8%B1_%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9%D8%8C%D9%8A%D8%B1%D8%AC%D8%B9_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A5%D9%86%D8%B4%D8%A7%D8%A6%D9%87_%D9%84%D9%84%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A_%D8%B9%D8%A7%D9%85_1664%D9%85_%D8%8C_%D9%88%D8%B3%D9%83%D9%86%D8%AA%D9%87_%D8%A7%D9%84%D8%B3%D8%AA_%D9%88%D8%B3%D9%8A%D9%84%D8%A9_%D8%AE%D8%A7%D8%AA%D9%88%D9%86%D8%8C%D8%A3%D8%AB%D8%B1_%D8%B1%D9%82%D9%85_445.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D8%B3%D8%AA_%D9%88%D8%B3%D9%8A%D9%84%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84_%D9%88%D9%8A%D8%B9%D8%AF_%D9%85%D9%86_%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D8%AA_%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB%D9%8A%D8%A9%D8%8C%D8%A3%D8%AB%D8%A7%D8%B1_%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9%D8%8C%D9%8A%D8%B1%D8%AC%D8%B9_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A5%D9%86%D8%B4%D8%A7%D8%A6%D9%87_%D9%84%D9%84%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A_%D8%B9%D8%A7%D9%85_1664%D9%85_%D8%8C_%D9%88%D8%B3%D9%83%D9%86%D8%AA%D9%87_%D8%A7%D9%84%D8%B3%D8%AA_%D9%88%D8%B3%D9%8A%D9%84%D8%A9_%D8%AE%D8%A7%D8%AA%D9%88%D9%86.jpg",
+   "author": "Saraeltony",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D8%B3%D8%AA_%D9%88%D8%B3%D9%8A%D9%84%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84_%D9%88%D9%8A%D8%B9%D8%AF_%D9%85%D9%86_%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D8%AA_%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB%D9%8A%D8%A9%D8%8C%D8%A3%D8%AB%D8%A7%D8%B1_%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9%D8%8C%D9%8A%D8%B1%D8%AC%D8%B9_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A5%D9%86%D8%B4%D8%A7%D8%A6%D9%87_%D9%84%D9%84%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A_%D8%B9%D8%A7%D9%85_1664%D9%85_%D8%8C_%D9%88%D8%B3%D9%83%D9%86%D8%AA%D9%87_%D8%A7%D9%84%D8%B3%D8%AA_%D9%88%D8%B3%D9%8A%D9%84%D8%A9_%D8%AE%D8%A7%D8%AA%D9%88%D9%86.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/house-of-sitt-wasila/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D8%B3%D8%AA_%D9%88%D8%B3%D9%8A%D9%84%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12200380",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/house-of-sitt-wasila/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/house-of-sitt-wasila/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan lastEntry),freeGroups,tickets (official MoTA booking platform)",
+   "url": "https://egymonuments.com/details/Wasilahouse",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,tickets (official booking page)",
+   "url": "https://egymonuments.com/book-date/85",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Ramadan 09:00-16:00),address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D9%86%D8%B2%D9%84-%D8%A7%D9%84%D8%B3%D8%AA-%D9%88%D8%B3%D9%8A%D9%84%D8%A9/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (House of Arab Poetry, CDF)",
+   "url": "https://www.cdf.gov.eg/?q=node/29",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D8%B3%D8%AA_%D9%88%D8%B3%D9%8A%D9%84%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal, booking platform, MoTA guide and Nov 2024 list agree (09:00-17:00, last entry 16:00; foreign 100/50, Egyptian 10/5). Photos are small (693 px) Wiki Loves Monuments 2023 uploads. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

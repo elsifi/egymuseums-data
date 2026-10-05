@@ -1,0 +1,143 @@
+{
+ "id": "prince-wahid-selim-museum",
+ "kind": "museum",
+ "wikidataId": "Q136563550",
+ "name": {
+  "en": "Prince Wahid Selim Museum",
+  "ar": "متحف الأمير وحيد سليم"
+ },
+ "aliases": [
+  "قصر الأمير وحيد سليم"
+ ],
+ "category": "royal-palace",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Matariya",
+  "ar": "المطرية"
+ },
+ "lat": 30.119449,
+ "lng": 31.312436,
+ "status": "unknown",
+ "statusNote": {
+  "en": "A development project for the museum was announced in July 2025; no reopening date or visiting hours have been published since.",
+  "ar": "أُعلن في يوليو 2025 عن مشروع لتطوير المتحف، ولم يُنشر منذ ذلك الحين موعد لإعادة فتحه ولا مواعيد للزيارة."
+ },
+ "summary": {
+  "en": "A 1940s princely villa in Matariya, set in a large garden and kept with the furniture and art of its last royal owner.",
+  "ar": "فيلا أميرية من أربعينيات القرن العشرين في المطرية، وسط حديقة واسعة، تحتفظ بأثاث آخر مالكيها من الأمراء ومقتنياته الفنية."
+ },
+ "description": {
+  "en": "The palace began as a hunting lodge of Prince Youssef Kamal, who later gave it to Princess Shwikar as a wedding present. Rebuilt in the 1940s, it passed to her son, Prince Muhammad Wahid al-Din Selim (1919–1995), when he returned from his studies in France in 1939. After the 1952 revolution the property was nationalised, but the prince was allowed to live on in it alone until his death. A presidential decree of 1996 assigned it to the Ministry of Culture, and it opened as a museum of the Fine Arts Sector in 1998. The two-storey house stands in a walled garden of some 14,000 square metres with marble statues, a fountain and a small open-air stage. Inside are a hall clad in black, white and pink marble, salons with mirrored doors, painted ceilings, a portrait of Muhammad Ali and a bust of Ibrahim Pasha, a library of French books, a dining room and the prince's private suite.",
+  "ar": "بدأ القصر استراحة للصيد يملكها الأمير يوسف كمال، ثم أهداه إلى الأميرة شويكار بمناسبة زواجها. وأُعيد بناؤه في أربعينيات القرن العشرين، وآل إلى ابنها الأمير محمد وحيد الدين سليم (1919–1995) بعد عودته من دراسته في فرنسا عام 1939. وبعد ثورة 1952 أُمم القصر، لكن الأمير سُمح له بالإقامة فيه وحيدًا حتى وفاته. وخُصص بقرار جمهوري عام 1996 لوزارة الثقافة، وافتُتح متحفًا تابعًا لقطاع الفنون التشكيلية عام 1998. ويقوم المبنى المكون من طابقين وسط حديقة مسوّرة تبلغ مساحتها نحو 14 ألف متر مربع، فيها تماثيل رخامية ونافورة ومسرح صغير مكشوف. وفي الداخل بهو مكسو بالرخام الأسود والأبيض والوردي، وصالونات بأبواب مكسوة بالمرايا وأسقف مزخرفة، ولوحة لمحمد علي وتمثال نصفي لإبراهيم باشا، ومكتبة كتب فرنسية، وغرفة طعام، وجناح الأمير الخاص."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Marble hall",
+    "ar": "البهو الرخامي"
+   },
+   "desc": {
+    "en": "An entrance hall clad in black, white and pink marble with gilded friezes.",
+    "ar": "بهو مكسو بالرخام الأسود والأبيض والوردي تزينه أفاريز مذهبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Salons",
+    "ar": "الصالونات"
+   },
+   "desc": {
+    "en": "Reception rooms with mirrored doors, painted plaster ceilings and a portrait of Muhammad Ali.",
+    "ar": "قاعات استقبال بأبواب مكسوة بالمرايا وأسقف جصية مزخرفة ولوحة لمحمد علي."
+   }
+  },
+  {
+   "title": {
+    "en": "Library",
+    "ar": "المكتبة"
+   },
+   "desc": {
+    "en": "The prince's collection of rare French books.",
+    "ar": "مجموعة الأمير من الكتب الفرنسية النادرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Garden",
+    "ar": "الحديقة"
+   },
+   "desc": {
+    "en": "A walled garden with marble statues, a fountain and a small open-air stage.",
+    "ar": "حديقة مسوّرة فيها تماثيل رخامية ونافورة ومسرح صغير مكشوف."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Prince_Yousef_Kamal_%281925%29.jpg",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prince_Yousef_Kamal_(1925).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D9%88%D8%AD%D9%8A%D8%AF_%D8%B3%D9%84%D9%8A%D9%85",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q136563550",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (ministers announce development project), 10 Jul 2025",
+   "url": "https://www.youm7.com/story/2025/7/10/x/7050906",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (museum 'currently undergoing' development), 2 Jul 2025",
+   "url": "https://www.cairo360.com/ar/article/%D9%85%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9/%D8%AA%D8%AD%D9%81%D8%A9-%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%B7%D8%B1%D9%8A%D8%A9-%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (Ministry of Culture museum series), 13 Apr 2026",
+   "url": "https://www.dostor.org/5504683",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (not listed in the Fine Arts Sector's summer-2026 open or closed lists)",
+   "url": "https://www.youm7.com/story/2026/6/5/x/7438469",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D9%88%D8%AD%D9%8A%D8%AF_%D8%B3%D9%84%D9%8A%D9%85",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Operator set to 'ministry-of-culture' (seed: 'unknown'): all sources say Ministry of Culture, Fine Arts Sector (batch-10 Q12a). Status unknown: cairo360 (Jul 2025) says the museum is 'currently undergoing' a development plan; the sector's June 2026 list names neither it as open nor as closed. PHOTOS: Commons has no photo of the palace; the only photo is a public-domain 1925 portrait of Prince Youssef Kamal, the palace's first owner - thematic stand-in, kept until a real photo appears (batch-10 Q2a)."
+}

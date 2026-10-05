@@ -1,0 +1,297 @@
+{
+ "id": "medinet-madi",
+ "kind": "site",
+ "wikidataId": "Q1318945",
+ "name": {
+  "en": "Medinet Madi",
+  "ar": "مدينة ماضي"
+ },
+ "aliases": [
+  "ماضي (مدينه)",
+  "Medinet Maadi",
+  "ماضي"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "faiyum",
+ "city": {
+  "en": "Itsa",
+  "ar": "إطسا"
+ },
+ "area": {
+  "en": "Manshat Seif al-Nasr village, south-west Faiyum",
+  "ar": "قرية منشأة سيف النصر، جنوب غرب الفيوم"
+ },
+ "address": {
+  "en": "Manshat Seif al-Nasr village, Itsa, Faiyum Governorate",
+  "ar": "قرية منشأة سيف النصر، إطسا، محافظة الفيوم"
+ },
+ "lat": 29.193119,
+ "lng": 30.642131,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The site lies in the desert south-west of Faiyum and is best reached by car.",
+  "ar": "مفتوح يوميًا. ويقع الموقع في الصحراء جنوب غرب الفيوم، ويُفضل الوصول إليه بالسيارة."
+ },
+ "summary": {
+  "en": "A Middle Kingdom temple to the harvest goddess Renenutet and Sobek, at the heart of a Graeco-Roman town with a sphinx-lined processional way.",
+  "ar": "معبد من الدولة الوسطى لمعبودة الحصاد رننوتت وللمعبود سوبك، في قلب مدينة من العصر اليوناني الروماني يتقدمها طريق مواكب تحرسه تماثيل أبي الهول."
+ },
+ "description": {
+  "en": "Medinet Madi, ancient Dja and later Narmouthis, lies on the desert edge of the south-western Faiyum. Its core is one of the few surviving temples of the Middle Kingdom, founded by Amenemhat III and completed by Amenemhat IV for the cobra-headed harvest goddess Renenutet and the crocodile god Sobek. A small hall with papyrus-bundle columns leads to three chapels; the central one held a statue of the goddess flanked by the two kings. The site was resettled in Ptolemaic times, when the temple was enlarged and approached by a long processional way guarded by sphinxes and lions. A second temple, a Roman fort and several Byzantine churches show that the town remained busy until it was abandoned after the ninth century. Excavations here have produced many papyri and ostraca in Demotic and Greek. The remote setting among dunes makes the visit memorable, but it requires a car.",
+  "ar": "تقع مدينة ماضي، المعروفة قديمًا باسم «جا» ثم «نرموثيس»، على حافة الصحراء في جنوب غرب الفيوم. وقلبها معبد من المعابد القليلة الباقية من عصر الدولة الوسطى، أسسه أمنمحات الثالث وأتمه أمنمحات الرابع لمعبودة الحصاد رننوتت ذات رأس الكوبرا وللمعبود سوبك. تؤدي صالة صغيرة بأعمدة على هيئة حزم البردي إلى ثلاث مقاصير، ضمت الوسطى منها تمثالًا للمعبودة يحيط بها الملكان. وعادت الحياة إلى الموقع في العصر البطلمي، فوُسع المعبد وأُضيف إليه طريق مواكب طويل تحرسه تماثيل أبي الهول والأسود. ويدل معبد ثانٍ وحصن روماني وعدة كنائس بيزنطية على أن المدينة ظلت عامرة حتى هُجرت بعد القرن التاسع الميلادي. وقد أسفرت الحفائر عن كثير من البرديات والشقافات المكتوبة بالديموطيقية واليونانية. ويضفي الموقع النائي بين الكثبان على الزيارة طابعًا خاصًا، لكنه يتطلب سيارة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Temple of Renenutet",
+    "ar": "معبد رننوتت"
+   },
+   "desc": {
+    "en": "Middle Kingdom sanctuary with three chapels, built under Amenemhat III and IV.",
+    "ar": "معبد من الدولة الوسطى بثلاث مقاصير، شُيد في عهد أمنمحات الثالث والرابع."
+   }
+  },
+  {
+   "title": {
+    "en": "Processional way",
+    "ar": "طريق المواكب"
+   },
+   "desc": {
+    "en": "A Ptolemaic avenue lined with sphinxes and lions leading to the temple.",
+    "ar": "طريق بطلمي تصطف على جانبيه تماثيل أبي الهول والأسود ويؤدي إلى المعبد."
+   }
+  },
+  {
+   "title": {
+    "en": "Papyrus-column hall",
+    "ar": "صالة أعمدة البردي"
+   },
+   "desc": {
+    "en": "Two columns in the form of papyrus bundles at the temple entrance.",
+    "ar": "عمودان على هيئة حزم البردي عند مدخل المعبد."
+   }
+  },
+  {
+   "title": {
+    "en": "Narmouthis town and churches",
+    "ar": "مدينة نرموثيس وكنائسها"
+   },
+   "desc": {
+    "en": "Ruins of the Graeco-Roman town, a Roman fort and Byzantine churches.",
+    "ar": "أطلال المدينة اليونانية الرومانية وحصن روماني وكنائس بيزنطية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning, before the desert heat; combine with other Fayoum sites by car.",
+   "ar": "الصباح قبل اشتداد حرارة الصحراء، مع الجمع بينه وبين مواقع الفيوم الأخرى بالسيارة."
+  },
+  "crowdNotes": {
+   "en": "Remote and very quiet; the last stretch of road crosses open desert, and there are few services nearby.",
+   "ar": "موقع نائٍ وهادئ جدًا، والجزء الأخير من الطريق يعبر الصحراء المفتوحة، والخدمات القريبة قليلة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/MadinatMadi.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MadinatMadi.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/MadinatMadiProcession.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MadinatMadiProcession.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Medinet_Madi_01.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medinet_Madi_01.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Medinet_Madi",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B6%D9%8A_(%D9%85%D8%AF%D9%8A%D9%86%D8%A9)",
+  "osm": "node/2873399072"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1318945",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description,status",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-مدينة-ماضي/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: 120/60, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Medinet_Madi",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status open: listed in the live MoTA open-sites guide (undated official page, counts as current per D6). Hours 08:00-17:00 (MoTA open-sites guide, matches Nov 2024 list); last entry 16:00 by the guide's 'last entry one hour before closing' rule. Ramadan 09:00-16:00 per guide, last entry 15:00. Prices from the Nov 2024 MoTA list, the only official price source (no egymonuments.gov.eg portal page, not on the egymonuments.com booking platform, so no onlineUrl). No Arab tier (abolished at SCA sites from 1 Jan 2026). Free groups are not stated on any official page for this site, so omitted. The guide's hotline is printed as 19564 (typo for 19654). City set to Itsa (MoTA address). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

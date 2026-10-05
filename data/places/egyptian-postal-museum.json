@@ -1,0 +1,139 @@
+{
+ "id": "egyptian-postal-museum",
+ "kind": "museum",
+ "wikidataId": "Q13142168",
+ "name": {
+  "en": "Egyptian Postal Museum",
+  "ar": "متحف البريد المصري"
+ },
+ "aliases": [
+  "Postal Museum",
+  "متحف البريد",
+  "متحف البريد (مصر)"
+ ],
+ "category": "specialised",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Ataba Square, Downtown",
+  "ar": "ميدان العتبة، وسط البلد"
+ },
+ "address": {
+  "en": "Second floor, Central Post Office, Ataba Square, Cairo",
+  "ar": "الطابق الثاني، مبنى البريد الرئيسي، ميدان العتبة، القاهرة"
+ },
+ "lat": 30.05021,
+ "lng": 31.249251,
+ "status": "open",
+ "statusNote": {
+  "en": "Run by Egypt Post. Regular opening hours and fees are not published; on Egyptian Postal Day (2 January) entry is free.",
+  "ar": "تديره الهيئة القومية للبريد، ولا تُنشر مواعيد عمل أو رسوم منتظمة، والدخول مجاني في يوم البريد المصري (2 يناير)."
+ },
+ "summary": {
+  "en": "One of the world's oldest postal museums, on the upper floor of Cairo's Central Post Office, tracing Egyptian mail from ancient messages to modern stamps.",
+  "ar": "من أقدم متاحف البريد في العالم، في الطابق العلوي من مبنى البريد الرئيسي بالقاهرة، ويتتبع البريد المصري من رسائل العصور القديمة حتى الطوابع الحديثة."
+ },
+ "description": {
+  "en": "The museum occupies the second floor of the Central Post Office on Ataba Square, a European-style building of the khedivial era. It was founded by King Fuad I, himself a keen stamp collector, and opened in 1934, although the public could only visit from 1940. After a full renovation by Egypt Post it reopened in 2022 with new displays that use QR codes and Braille alongside the historic collection. Its rooms, covering several hundred square metres, follow the delivery of messages in Egypt from pharaonic, Roman, Coptic and Islamic times to the founding of the modern postal service in 1865. Visitors see the Egyptian stamps issued over more than 150 years, rare documents, the uniforms and tools of postmen and couriers, scale models of post offices and figurines showing postal services through the centuries, as well as stamps from around the world.",
+  "ar": "يشغل المتحف الطابق الثاني من مبنى البريد الرئيسي في ميدان العتبة، وهو مبنى على الطراز الأوروبي من العصر الخديوي. وقد أسسه الملك فؤاد الأول، وكان من هواة جمع الطوابع، وافتُتح عام 1934، لكن الجمهور لم يتمكن من زيارته إلا منذ عام 1940. وبعد تطوير شامل أجرته الهيئة القومية للبريد أعيد افتتاحه عام 2022 بعروض جديدة تستخدم رموز الاستجابة السريعة وطريقة برايل إلى جانب المجموعة التاريخية. وتتتبع قاعاته الممتدة على مئات الأمتار المربعة نقل الرسائل في مصر منذ العصور الفرعونية والرومانية والقبطية والإسلامية حتى تأسيس البريد الحديث عام 1865. ويشاهد الزائر الطوابع المصرية الصادرة على مدى أكثر من 150 عامًا، ووثائق نادرة، وأزياء سعاة البريد والطوافين وأدواتهم، ونماذج مصغرة لمكاتب البريد، ومجسمات توضح خدمات البريد عبر العصور، إلى جانب طوابع من أنحاء العالم."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Egyptian stamps",
+    "ar": "الطوابع المصرية"
+   },
+   "desc": {
+    "en": "Stamps issued by the Egyptian post over more than 150 years.",
+    "ar": "طوابع أصدرها البريد المصري على مدى أكثر من 150 عامًا."
+   }
+  },
+  {
+   "title": {
+    "en": "Postmen's uniforms and tools",
+    "ar": "أزياء سعاة البريد وأدواتهم"
+   },
+   "desc": {
+    "en": "Uniforms, bags and equipment of couriers and postmen.",
+    "ar": "أزياء الطوافين وسعاة البريد وحقائبهم وأدواتهم."
+   }
+  },
+  {
+   "title": {
+    "en": "Models and figurines",
+    "ar": "النماذج والمجسمات"
+   },
+   "desc": {
+    "en": "Miniature post offices and scenes of mail delivery through the ages.",
+    "ar": "نماذج مصغرة لمكاتب البريد ومشاهد لتوصيل الرسائل عبر العصور."
+   }
+  },
+  {
+   "title": {
+    "en": "Central Post Office building",
+    "ar": "مبنى البريد الرئيسي"
+   },
+   "desc": {
+    "en": "The khedivial-era building on Ataba Square that houses the museum.",
+    "ar": "المبنى الخديوي في ميدان العتبة الذي يضم المتحف."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Attaba_Square_Post_Office_Museum_DSCF4330.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Attaba_Square_Post_Office_Museum_DSCF4330.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Postal_Museum_(Cairo)",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%AF_(%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q13142168",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (Egypt Post opened the museum free on Postal Day, 09:00-17:00; news 2 Jan 2025)",
+   "url": "https://www.youm7.com/story/2025/1/2/%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%A8%D8%A7%D9%84%D8%B9%D8%AA%D8%A8%D8%A9-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8%D9%87-%D8%A8%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86-%D9%88%D9%8A%D9%86%D8%B8%D9%85-%D8%B9%D8%AF%D8%AF%D9%8B%D8%A7-%D9%85%D9%86/6832313",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (visitors on Postal Day 2025)",
+   "url": "https://www.vetogate.com/5318208",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Postal_Museum_(Cairo)",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Operator: Egyptian National Postal Authority (seed 'other'). Status open: Egypt Post opened it free on Postal Day 2 Jan 2025 (09:00-17:00, special hours) and it reopened in 2022; no regular hours or fees published - an old guide's 08:00-15:00 and EGP 2/0.5 are not used. No hours entered. Area conflict: EN wiki 543 m2 vs Egypt Post statement '7,000 m2' (probably the whole building); prose says 'several hundred square metres'. Building date 1888 or 1901 (EN wiki) - prose says 'khedivial era'. Photos: exterior of the historic post office; a 2019 interior photo of modern displays excluded."
+}

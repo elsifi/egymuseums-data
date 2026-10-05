@@ -1,0 +1,143 @@
+{
+ "id": "museum-of-folklore-arts",
+ "kind": "museum",
+ "wikidataId": "Q140195564",
+ "name": {
+  "en": "Museum of Folklore Arts",
+  "ar": "متحف الفنون الشعبية"
+ },
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "giza",
+ "city": {
+  "en": "Giza",
+  "ar": "الجيزة"
+ },
+ "area": {
+  "en": "Academy of Arts campus, al-Haram",
+  "ar": "حرم أكاديمية الفنون، الهرم"
+ },
+ "lat": 30.002431,
+ "lng": 31.197,
+ "status": "open",
+ "statusNote": {
+  "en": "Run by the Academy of Arts and mainly visited by school and university groups; opening hours are not published, so contact the Academy before going.",
+  "ar": "تديره أكاديمية الفنون وتزوره غالبًا مجموعات من المدارس والجامعات، ولا تُنشر مواعيد العمل، لذا يُستحسن التواصل مع الأكاديمية قبل الزيارة."
+ },
+ "summary": {
+  "en": "The Academy of Arts' museum of Egyptian folk life: costumes, crafts, musical instruments and scenes of popular celebrations.",
+  "ar": "متحف أكاديمية الفنون للحياة الشعبية المصرية: أزياء وحرف وآلات موسيقية ومشاهد من الاحتفالات الشعبية."
+ },
+ "description": {
+  "en": "This museum belongs to the Higher Institute of Folk Arts at the Academy of Arts in al-Haram, Giza. Its collection was started in 1957, when the institute's teachers began gathering objects to document Egyptian folk culture for study, and for decades it was shown in a small space inside the academy. In 2020 it moved into its present building on the campus. The displays cover traditional dress and jewellery from different regions, household tools, folk musical instruments and the work of craftsmen in tentmaking (khayamiya), pottery, weaving and palm-fibre basketry. Dioramas recreate a popular market and traditional trades, and a section on festivals and religious occasions includes a model of the Egyptian Mahmal, the ceremonial litter that once escorted the Kaaba covering to Mecca. The museum also documents intangible heritage such as customs and traditions. It opens mainly for organised visits and occasional open days, such as free entry for the Nile flood festival in August 2026.",
+  "ar": "يتبع هذا المتحف المعهد العالي للفنون الشعبية بأكاديمية الفنون في منطقة الهرم بالجيزة. بدأ جمع مقتنياته عام 1957 حين شرع أساتذة المعهد في جمع ما يوثق الثقافة الشعبية المصرية لأغراض الدراسة، وظلت معروضة لعقود في مساحة صغيرة داخل الأكاديمية، ثم انتقل المتحف عام 2020 إلى مبناه الحالي داخل الحرم. ويعرض الأزياء والحلي التقليدية من أقاليم مختلفة، وأدوات الحياة اليومية، والآلات الموسيقية الشعبية، ونماذج من حرف الخيامية والفخار والنسيج والخوص. وتعيد مجسمات بناء مشهد السوق الشعبي وعدد من المهن التقليدية، ويضم قسم الاحتفالات والمناسبات الدينية نموذجًا للمحمل المصري الذي كان يرافق كسوة الكعبة إلى مكة. كما يوثق المتحف عناصر من التراث غير المادي كالعادات والتقاليد. ويفتح أبوابه أساسًا للزيارات المنظمة وفي أيام مفتوحة متفرقة، مثل الدخول المجاني في عيد وفاء النيل في أغسطس 2026."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Folk costume and jewellery",
+    "ar": "الأزياء والحلي الشعبية"
+   },
+   "desc": {
+    "en": "Traditional dress and ornaments from Egypt's different regions.",
+    "ar": "ملابس وحلي تقليدية من أقاليم مصر المختلفة."
+   }
+  },
+  {
+   "title": {
+    "en": "Traditional crafts",
+    "ar": "الحرف التقليدية"
+   },
+   "desc": {
+    "en": "Khayamiya tent appliqué, pottery, weaving and palm-fibre work.",
+    "ar": "نماذج من الخيامية والفخار والنسيج والخوص."
+   }
+  },
+  {
+   "title": {
+    "en": "Folk instruments",
+    "ar": "الآلات الموسيقية الشعبية"
+   },
+   "desc": {
+    "en": "Instruments used in village music and popular celebrations.",
+    "ar": "آلات تُستخدم في الموسيقى الريفية والاحتفالات الشعبية."
+   }
+  },
+  {
+   "title": {
+    "en": "Market and Mahmal models",
+    "ar": "مجسما السوق والمحمل"
+   },
+   "desc": {
+    "en": "Dioramas of a popular market and of the Egyptian Mahmal procession.",
+    "ar": "مجسمات لسوق شعبي ولموكب المحمل المصري."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Weekday mornings during the academic year, after arranging the visit with the Academy.",
+   "ar": "صباح أيام الأسبوع خلال العام الدراسي، بعد التنسيق مع الأكاديمية."
+  },
+  "crowdNotes": {
+   "en": "The museum lies inside a university campus; expect a security check at the gate.",
+   "ar": "يقع المتحف داخل حرم أكاديمي، فتوقّع إجراءات أمنية عند البوابة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Egyptian_Mahmal.png",
+   "author": "Ibrāhīm Rifʿat Bāshā",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egyptian_Mahmal.png"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86_%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q140195564",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (open day, free entry 18 Aug 2026),description",
+   "url": "https://www.elwatannews.com/news/details/8341720",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (group visits, Dec 2025),description (collection since 1957)",
+   "url": "https://www.maspero.eg/art-and-culture/2025/12/14/913073/%D8%B5%D9%88%D8%B1-%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%D8%A9-%D8%A8%D8%A7%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%B7%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D8%A8%D8%A7%D9%83%D8%AA%D9%88%D8%A8%D8%B1",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86_%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "governorate (Wikidata P131 = Giza Governorate)",
+   "url": "https://www.wikidata.org/wiki/Q140195564",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "GOVERNORATE changed from seed 'cairo' to 'giza': the Academy of Arts is in al-Haram, Giza; Wikidata P131 is Giza Governorate and the coordinates (30.0024, 31.197) fall in Giza. No official hours or ticket price found; visits appear to be arranged through the Academy (search-engine summary, not an official page). PHOTOS: Commons has no photo of the museum; the single photo is a 1925 public-domain image of the Egyptian Mahmal (the museum shows a model of it) used as a thematic stand-in, kept until a real photo appears (batch-10 Q2a)."
+}

@@ -1,0 +1,159 @@
+{
+ "id": "maimonides-synagogue",
+ "kind": "site",
+ "wikidataId": "Q6735875",
+ "name": {
+  "en": "Maimonides Synagogue",
+  "ar": "كنيس موسى بن ميمون"
+ },
+ "category": "jewish",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Haret al-Yahud, al-Muski",
+  "ar": "حارة اليهود، الموسكي"
+ },
+ "address": {
+  "en": "Darb Mahmoud, Haret al-Yahud, al-Muski, Cairo",
+  "ar": "درب محمود، حارة اليهود، الموسكي، القاهرة"
+ },
+ "lat": 30.0507,
+ "lng": 31.2583,
+ "status": "unknown",
+ "statusNote": {
+  "en": "Restored as a historic monument, but no visiting hours are published and access is not regular. Ask locally or through a specialist guide before going.",
+  "ar": "رُمم بوصفه أثرًا تاريخيًا، لكن لا تُنشر مواعيد للزيارة والدخول غير منتظم، لذا يُستحسن السؤال محليًا أو عبر مرشد متخصص قبل الذهاب."
+ },
+ "summary": {
+  "en": "The synagogue named after the philosopher-physician Maimonides, in Cairo's old Jewish quarter, restored in 2007–2010.",
+  "ar": "الكنيس المنسوب إلى الفيلسوف والطبيب موسى بن ميمون في حارة اليهود القديمة بالقاهرة، وقد رُمم بين عامي 2007 و2010."
+ },
+ "description": {
+  "en": "Moses ben Maimon, known in Arabic as Musa ibn Maymun, was born in Córdoba in 1135 and settled in Egypt, where he became the leading rabbinic scholar of his age, a philosopher and a court physician to the family of Saladin; he died in 1204. Tradition holds that this synagogue stands where he lived and taught, and that he was first buried in one of its rooms before his remains were taken to Tiberias. The present building dates largely from the late nineteenth century, was registered as a monument in 1986 and was restored by the Supreme Council of Antiquities between 2007 and 2010. Above the entrance on the marble facade, the Ten Commandments appear as an open book, with Arabic and Hebrew inscriptions naming the synagogue. Inside, the rectangular prayer hall has a marble bimah in the centre, the Torah ark on the east wall and a women's gallery overlooking it through three windows.",
+  "ar": "وُلد موسى بن ميمون في قرطبة عام 1135 واستقر في مصر، فصار أبرز علماء الشريعة اليهودية في عصره، وفيلسوفًا وطبيبًا لأسرة صلاح الدين الأيوبي، وتوفي عام 1204. ويُروى أن هذا الكنيس يقوم حيث عاش ودرّس، وأنه دُفن أولًا في إحدى حجراته قبل أن تُنقل رفاته إلى طبرية. ويعود المبنى الحالي في معظمه إلى أواخر القرن التاسع عشر، وسُجل أثرًا عام 1986، ورممه المجلس الأعلى للآثار بين عامي 2007 و2010. ويعلو المدخل في الواجهة الرخامية شكل كتاب مفتوح يمثل لوحي الوصايا العشر، مع كتابات بالعربية والعبرية تحمل اسم الكنيس. وفي الداخل قاعة صلاة مستطيلة تتوسطها منصة رخامية للقراءة، ويقع دولاب التوراة في الجدار الشرقي، ويطل مصلى النساء عليها من ثلاث نوافذ."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Marble facade",
+    "ar": "الواجهة الرخامية"
+   },
+   "desc": {
+    "en": "An entrance crowned by the Ten Commandments shown as an open book.",
+    "ar": "مدخل يعلوه شكل كتاب مفتوح يمثل لوحي الوصايا العشر."
+   }
+  },
+  {
+   "title": {
+    "en": "Prayer hall",
+    "ar": "قاعة الصلاة"
+   },
+   "desc": {
+    "en": "A central marble bimah and the Torah ark on the east wall.",
+    "ar": "منصة رخامية في الوسط ودولاب التوراة في الجدار الشرقي."
+   }
+  },
+  {
+   "title": {
+    "en": "Women's gallery",
+    "ar": "مصلى النساء"
+   },
+   "desc": {
+    "en": "An upper gallery overlooking the hall through three windows.",
+    "ar": "مصلى علوي يطل على القاعة من ثلاث نوافذ."
+   }
+  },
+  {
+   "title": {
+    "en": "Maimonides' rooms",
+    "ar": "حجرات ابن ميمون"
+   },
+   "desc": {
+    "en": "Annex rooms traditionally linked to the sage's life and first burial.",
+    "ar": "حجرات ملحقة ترتبط في التقاليد بحياة الحكيم ومدفنه الأول."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 15,
+  "standardMinutes": 30,
+  "deepMinutes": 45,
+  "bestTime": {
+   "en": "Weekday mornings, combined with al-Muizz Street and the Muski market.",
+   "ar": "صباح أيام الأسبوع، مع الجمع بين الزيارة وشارع المعز وسوق الموسكي."
+  },
+  "crowdNotes": {
+   "en": "The lanes of the old Jewish quarter are crowded with market traffic. Photography may require permission.",
+   "ar": "أزقة حارة اليهود مزدحمة بحركة السوق، وقد يتطلب التصوير الحصول على إذن."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/By_ovedc_-_Synagogue_of_Moses_Maimonides_-_1.jpg",
+   "author": "Ovedc",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Synagogue_of_Moses_Maimonides_-_1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/By_ovedc_-_Synagogue_of_Moses_Maimonides_-_3.jpg",
+   "author": "Ovedc",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Synagogue_of_Moses_Maimonides_-_3.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/CairoMuskiMaimonidesOutside.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoMuskiMaimonidesOutside.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/maimonides-synagogue/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Maimonides_Synagogue",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%83%D9%86%D9%8A%D8%B3_%D9%85%D9%88%D8%B3%D9%89_%D8%A8%D9%86_%D9%85%D9%8A%D9%85%D9%88%D9%86",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6735875",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/maimonides-synagogue/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (official portal; no hours or ticket listed)",
+   "url": "https://egymonuments.gov.eg/en/monuments/maimonides-synagogue/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "address (15 Darb Mahmoud),description (registration 1986)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%83%D9%86%D9%8A%D8%B3_%D9%85%D9%88%D8%B3%D9%89_%D8%A8%D9%86_%D9%85%D9%8A%D9%85%D9%88%D9%86",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Maimonides_Synagogue",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "No hours or ticket on the portal; not on the Nov 2024 MoTA list or the booking platform; not in the MoTA open-sites guide (slug guesses failed). Status unknown. Photography restriction ('only with permission from the head of the Jewish community') comes from a search-engine summary of ar-wiki/press, so crowdNotes says 'may require permission'. Third photo shows the facade before the 2010 restoration."
+}

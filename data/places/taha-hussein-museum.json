@@ -1,0 +1,331 @@
+{
+ "id": "taha-hussein-museum",
+ "kind": "museum",
+ "wikidataId": "Q22689513",
+ "name": {
+  "en": "Taha Hussein Museum",
+  "ar": "متحف طه حسين"
+ },
+ "aliases": [
+  "Ramatan",
+  "رامتان",
+  "Taha Hussein Museum (Ramatan)"
+ ],
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "giza",
+ "city": {
+  "en": "Giza",
+  "ar": "الجيزة"
+ },
+ "area": {
+  "en": "Off Pyramids Road (al-Haram), near the Giza Plateau",
+  "ar": "بالقرب من شارع الهرم وهضبة الجيزة"
+ },
+ "address": {
+  "en": "11 Dr Taha Hussein Street, Haram, Giza",
+  "ar": "11 شارع الدكتور طه حسين، الهرم، الجيزة"
+ },
+ "lat": 30.0049,
+ "lng": 31.1851,
+ "status": "open",
+ "statusNote": {
+  "en": "Open five days a week; closed on Mondays, Fridays and official holidays.",
+  "ar": "مفتوح خمسة أيام في الأسبوع، ويُغلق يومي الاثنين والجمعة والعطلات الرسمية."
+ },
+ "summary": {
+  "en": "\"Ramatan\", the villa where Taha Hussein, the Dean of Arabic Literature, lived from 1955 to 1973, kept with his study, library and honours.",
+  "ar": "«رامتان»، الفيلا التي عاش فيها عميد الأدب العربي طه حسين من عام 1955 حتى 1973، بمكتبه ومكتبته وأوسمته."
+ },
+ "description": {
+  "en": "Taha Hussein (1889–1973), blind from early childhood, became one of the most influential Arab writers and thinkers of the twentieth century, known as the Dean of Arabic Literature and remembered for his autobiography The Days and his work as minister of education. He named his villa near the Pyramids Ramatan and lived there from 1955 until his death. His family later gave the house to the state, and it opened as a museum in 1993. After a closure of about seven years, a restoration completed in 2013 added modern security, cataloguing and digitisation of the library. Visitors see the chair where he sat, the desk of his secretary, the dining room and family rooms, his clothes, and Arab and foreign medals including the Order of the Nile. His foreign-language books remain on the shelves, and a bronze bust of the young writer greets visitors at the entrance. The Ramatan Cultural Centre in the grounds holds talks, exhibitions and children’s workshops.",
+  "ar": "فقد طه حسين (1889–1973) بصره في طفولته المبكرة، لكنه صار من أكثر الكتّاب والمفكرين العرب تأثيرًا في القرن العشرين، ولُقب بعميد الأدب العربي، ويُذكر بسيرته «الأيام» وبتوليه وزارة المعارف. سمى فيلته القريبة من الأهرامات «رامتان»، وعاش فيها منذ عام 1955 حتى وفاته، ثم أهدتها أسرته إلى الدولة، فافتُتحت متحفًا عام 1993. وبعد إغلاق دام نحو سبع سنوات، اكتمل تطويرها عام 2013 بتركيب نظم أمنية حديثة وفهرسة المكتبة ورقمنتها. ويشاهد الزائر الكرسي الذي كان يجلس عليه، ومكتب سكرتيره، وقاعة الطعام وغرف الأسرة، وملابسه، وأوسمته العربية والأجنبية ومنها قلادة النيل. ولا تزال كتبه باللغات الأجنبية في مكانها على الرفوف، ويستقبل الزائرين عند المدخل تمثال نصفي من البرونز للكاتب في شبابه. ويقدم مركز رامتان الثقافي داخل الفيلا ندوات ومعارض وورشًا للأطفال."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Study and chair",
+    "ar": "المكتب والكرسي"
+   },
+   "desc": {
+    "en": "The room and chair where Taha Hussein worked and dictated.",
+    "ar": "الغرفة والكرسي اللذان كان طه حسين يعمل ويملي فيهما."
+   }
+  },
+  {
+   "title": {
+    "en": "Foreign-language library",
+    "ar": "المكتبة الأجنبية"
+   },
+   "desc": {
+    "en": "His books in European languages, still on their shelves.",
+    "ar": "كتبه باللغات الأوروبية، لا تزال على رفوفها."
+   }
+  },
+  {
+   "title": {
+    "en": "Medals and the Order of the Nile",
+    "ar": "الأوسمة وقلادة النيل"
+   },
+   "desc": {
+    "en": "Arab and foreign honours awarded to the writer.",
+    "ar": "أوسمة عربية وأجنبية نالها الكاتب."
+   }
+  },
+  {
+   "title": {
+    "en": "Bronze bust",
+    "ar": "التمثال النصفي البرونزي"
+   },
+   "desc": {
+    "en": "A 1936 bust of Taha Hussein at the entrance.",
+    "ar": "تمثال نصفي لطه حسين يعود إلى عام 1936 عند المدخل."
+   }
+  },
+  {
+   "title": {
+    "en": "Ramatan Cultural Centre",
+    "ar": "مركز رامتان الثقافي"
+   },
+   "desc": {
+    "en": "Talks, exhibitions and workshops held in the villa grounds.",
+    "ar": "ندوات ومعارض وورش تُقام في الفيلا."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (Fine Arts Sector museums)",
+     "ar": "مواعيد شهر رمضان (متاحف قطاع الفنون التشكيلية)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "closed": true
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 5
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 3
+   }
+  ],
+  "freeGroups": [
+   "People with special needs",
+   "Veterans",
+   "Seniors over 60",
+   "Children under 12",
+   "Members of artists' professional syndicates",
+   "Members of national museum committees"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "People with special needs",
+    "ar": "ذوو الهمم"
+   },
+   {
+    "en": "Veterans",
+    "ar": "المحاربون القدامى"
+   },
+   {
+    "en": "Seniors over 60",
+    "ar": "كبار السن فوق 60 عامًا"
+   },
+   {
+    "en": "Children under 12",
+    "ar": "الأطفال دون 12 عامًا"
+   },
+   {
+    "en": "Members of artists' professional syndicates",
+    "ar": "أعضاء النقابات المهنية للفنانين"
+   },
+   {
+    "en": "Members of national museum committees",
+    "ar": "أعضاء اللجان الوطنية للمتاحف"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Weekday mornings; check the cultural centre’s programme for evening events.",
+   "ar": "صباح أيام الأسبوع، مع متابعة برنامج المركز الثقافي للفعاليات المسائية."
+  },
+  "crowdNotes": {
+   "en": "A quiet house museum; rooms are small.",
+   "ar": "متحف منزلي هادئ وغرفه صغيرة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/TahaHussein.jpg",
+   "author": "Unknown photographer (uploaded by Zerida)",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:TahaHussein.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "http://www.fineart.gov.eg/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Taha_Hussein_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B7%D9%87_%D8%AD%D8%B3%D9%8A%D9%86",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q22689513",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (10:00-16:00 except Mon and Fri),prices,freeGroups,address (official Fine Arts Sector visitor page)",
+   "url": "http://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=7",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (sector summer-2026 schedule: specialised museums 09:00-16:00, closed Fri and Mon)",
+   "url": "https://www.youm7.com/story/2026/6/4/x/7437546",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (Ramatan Cultural Centre summer workshops closing, 7 Sep 2026)",
+   "url": "https://www.maspero.eg/art-and-culture/2026/09/07/987011/x",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (literary museums feature, 20 Sep 2026)",
+   "url": "https://www.youm7.com/story/2026/9/20/x/7551869",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (contents, 2013 restoration; facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B7%D9%87_%D8%AD%D8%B3%D9%8A%D9%86",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (lived there 1955-1973)",
+   "url": "https://en.wikipedia.org/wiki/Taha_Hussein_Museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (public-domain portrait; licence via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:TahaHussein.jpg",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Ministry of Culture (Fine Arts Sector) museum, not SCA: the SCA Arab-tier rule does not apply. Prices 5 Egyptian / 3 Egyptian student / 10 foreign and free groups from the undated official fineart.gov.eg visitor page (live official page, D6); no 2025-2026 price decision found, and the page also shows outdated hours, so prices should be confirmed by phone. No foreign-student price published. Ramadan: sector-wide 10:00-14:00 (Ramadan 2026 statement), Mon/Fri closed as in the normal week. No last entry published. Hours conflict: the fineart.gov.eg visitor page says 10:00-16:00 except Monday and Friday; the Fine Arts Sector's summer-2026 statement (youm7, 4 Jun 2026) gives 09:00-16:00, closed Friday and Monday, for 'the other specialised museums such as' Rateb Seddik, Mukhtar, Mohamed Nagy, Effat Nagy/Saad al-Khadem and al-Nasr - this museum is not named, so the narrower window (opening 10:00) is used with the same closed days. Status open: Ramatan Cultural Centre events in May and Sep 2026 (dostor, maspero). Museum opening 7 Nov 1993 per press summaries (cairo360/dostor), not an official page. Photo: the 1955 villa is not used (borderline under the no-FoP rule); a public-domain portrait of Taha Hussein is used instead. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

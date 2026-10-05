@@ -1,0 +1,278 @@
+{
+ "id": "el-tod-temple",
+ "kind": "site",
+ "wikidataId": "Q287731",
+ "name": {
+  "en": "Temple of El-Tod",
+  "ar": "معبد الطود"
+ },
+ "aliases": [
+  "الطود، الأقصر",
+  "طود",
+  "Tuphium",
+  "El-Tod",
+  "الطود"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "El-Tod",
+  "ar": "الطود"
+ },
+ "area": {
+  "en": "El-Tod town, east bank, about 20 km south of Luxor",
+  "ar": "مدينة الطود، البر الشرقي، على بعد نحو 20 كم جنوب الأقصر"
+ },
+ "address": {
+  "en": "Town centre of El-Tod, Luxor Governorate (east bank, opposite Armant)",
+  "ar": "وسط مدينة الطود، محافظة الأقصر (البر الشرقي في مواجهة أرمنت)"
+ },
+ "lat": 25.583039,
+ "lng": 32.533611,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A small temple of the war god Montu in a village south of Luxor, famous for the silver treasure found beneath it.",
+  "ar": "معبد صغير لمعبود الحرب مونتو في بلدة جنوب الأقصر، اشتهر بكنز الفضة الذي عُثر عليه تحت أساساته."
+ },
+ "description": {
+  "en": "El-Tod, ancient Djerty, lies on the east bank about 20 km south of Luxor, facing Armant across the Nile. It was one of the four cult centres of Montu, the falcon-headed war god of the Theban region. Building here goes back at least to the Old Kingdom, and Middle Kingdom kings, among them Mentuhotep II and Senusret I, raised successive temples on the spot. What stands today is mostly a Ptolemaic and Roman addition: a columned hall and vestibule set against the older facade, a bark shrine of Thutmose III, a short avenue of sphinxes and a quay that once met a canal. In 1936 French excavators found four copper chests inscribed for Amenemhat II buried in the foundations, packed with silver bowls, lapis lazuli and gold. Many pieces show Aegean or Near Eastern workmanship and are now in the Egyptian Museum in Cairo. The site sits inside the modern town and is quiet enough to explore at leisure.",
+  "ar": "تقع الطود، واسمها القديم جرتي، على البر الشرقي للنيل نحو 20 كيلومترًا جنوب الأقصر، في مواجهة أرمنت. وكانت أحد أربعة مراكز لعبادة مونتو، معبود الحرب ذي رأس الصقر في إقليم طيبة. ويرجع البناء فيها إلى الدولة القديمة على الأقل، وأقام ملوك الدولة الوسطى، ومنهم منتوحتب الثاني وسنوسرت الأول، معابد متتالية في الموضع نفسه. أما ما بقي قائمًا اليوم فمعظمه إضافات بطلمية ورومانية: صالة أعمدة ودهليز أُلحقا بواجهة المعبد الأقدم، ومقصورة للمركب المقدس من عهد تحتمس الثالث، وطريق قصير للكباش، ورصيف كان يطل على قناة. وفي عام 1936 عثرت بعثة فرنسية في الأساسات على أربعة صناديق نحاسية تحمل اسم أمنمحات الثاني، مملوءة بأوانٍ فضية وقطع من اللازورد والذهب، يحمل كثير منها طابع صناعة إيجية أو شرقية، وهي محفوظة اليوم في المتحف المصري بالقاهرة. ويقع الموقع داخل البلدة الحديثة، وهو هادئ يسمح بالتجول على مهل."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Ptolemaic columned hall",
+    "ar": "صالة الأعمدة البطلمية"
+   },
+   "desc": {
+    "en": "The best-preserved part of the temple, with reliefs of Montu and his companion goddesses.",
+    "ar": "أفضل أجزاء المعبد حفظًا، وعليها نقوش لمونتو والمعبودات المرافقة له."
+   }
+  },
+  {
+   "title": {
+    "en": "Bark shrine of Thutmose III",
+    "ar": "مقصورة المركب لتحتمس الثالث"
+   },
+   "desc": {
+    "en": "A pillared way station for the sacred boat, on the north side of the approach.",
+    "ar": "استراحة ذات أعمدة للمركب المقدس على الجانب الشمالي من الطريق المؤدي إلى المعبد."
+   }
+  },
+  {
+   "title": {
+    "en": "Sphinx avenue and quay",
+    "ar": "طريق الكباش والرصيف"
+   },
+   "desc": {
+    "en": "A short processional way leading from an ancient landing stage to the temple.",
+    "ar": "طريق موكب قصير يمتد من مرسى قديم حتى المعبد."
+   }
+  },
+  {
+   "title": {
+    "en": "Site of the Tod Treasure",
+    "ar": "موضع كنز الطود"
+   },
+   "desc": {
+    "en": "Silver and lapis lazuli found in the foundations in 1936, now shown in Cairo.",
+    "ar": "قطع من الفضة واللازورد عُثر عليها في الأساسات عام 1936، وتُعرض اليوم في القاهرة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/El-TodTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Morning, combined with Esna or the Moalla tombs further south.",
+   "ar": "الصباح، مع الجمع بين الزيارة ومعبد إسنا أو مقابر المعلا جنوبًا."
+  },
+  "crowdNotes": {
+   "en": "Rarely visited and with little shade. Buy the ticket online before setting out.",
+   "ar": "قليل الزوار وقليل الظل. اشترِ التذكرة إلكترونيًا قبل التوجه إلى الموقع."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/El-Tod_06.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:El-Tod_06.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/El-Tod_13.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:El-Tod_13.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/El-Tod_23.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:El-Tod_23.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/El-Tod",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B7%D9%88%D8%AF_(%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1)",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q287731",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (07:00-17:00, last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-الطود/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry by season),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/El-TodTemple",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/El-Tod",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://de.wikivoyage.org/wiki/%E1%B9%AC%C5%8Dd",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Booking platform shows summer last entry 17:00 (winter 16:00), but the MoTA guide gives 07:00-17:00 all year and the 24 Apr 2026 Luxor summer announcement names only the Qurna area, Luxor and Karnak temples: earlier time used, so no summer exception. Ramadan last entry 16:00 on the booking platform equals the normal week, so no Ramadan exception (batch-4 Q13a). A non-official guide (Wikivoyage, Nov 2024) says tickets had to be bought at the Luxor Temple ticket office; not confirmed, so crowdNotes only advises buying online."
+}

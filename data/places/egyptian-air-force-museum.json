@@ -1,0 +1,135 @@
+{
+ "id": "egyptian-air-force-museum",
+ "kind": "museum",
+ "wikidataId": "Q28716793",
+ "name": {
+  "en": "Egyptian Air Force Museum",
+  "ar": "متحف القوات الجوية المصرية"
+ },
+ "category": "military",
+ "operator": "defense",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Almaza, Heliopolis",
+  "ar": "ألماظة، مصر الجديدة"
+ },
+ "address": {
+  "en": "Almaza air base, Salah Salem Road, opposite the Military Academy, Cairo",
+  "ar": "قاعدة ألماظة الجوية، طريق صلاح سالم، أمام الكلية الحربية، القاهرة"
+ },
+ "lat": 30.096379,
+ "lng": 31.351944,
+ "status": "unknown",
+ "statusNote": {
+  "en": "Run by the armed forces' military museums department. Current opening days, hours and fees could not be confirmed; check before going.",
+  "ar": "تشرف عليه إدارة المتاحف العسكرية بالقوات المسلحة، ولم يتسنَّ التأكد من أيام العمل والمواعيد والرسوم الحالية، فتحقق قبل الذهاب."
+ },
+ "summary": {
+  "en": "The museum of the Egyptian Air Force at Almaza, with fighter jets, helicopters and halls on the air force's history and wars.",
+  "ar": "متحف القوات الجوية المصرية في ألماظة، ويضم طائرات مقاتلة ومروحيات وقاعات عن تاريخ القوات الجوية وحروبها."
+ },
+ "description": {
+  "en": "Set on the edge of the Almaza air base in Heliopolis, this military museum presents the history of Egyptian military aviation. An outdoor park displays aircraft that served with or were built for the air force, among them a MiG-21, an F-4 Phantom and the Helwan HA-300, a supersonic light fighter developed in Egypt in the 1960s, as well as a large Mi-6 helicopter that visitors could once enter. Indoors, a hall on the origins of the air force includes a model runway, aircraft of several types and portraits of its commanders with their decorations. Another hall gathers rare photographs of the air force's part in Egypt's wars, from the Second World War and the 1956 Suez War through the War of Attrition to the October War of 1973. It is a popular outing for families and school groups.",
+  "ar": "يقع هذا المتحف العسكري على أطراف قاعدة ألماظة الجوية في مصر الجديدة، ويعرض تاريخ الطيران العسكري المصري. ففي ساحة مكشوفة تُعرض طائرات خدمت في القوات الجوية أو صُنعت لها، منها ميج-21 وإف-4 فانتوم والطائرة حلوان-300، وهي مقاتلة خفيفة أسرع من الصوت طُوّرت في مصر في ستينيات القرن العشرين، إلى جانب مروحية مي-6 الضخمة التي كان يُسمح للزوار بدخولها. وفي الداخل قاعة عن نشأة القوات الجوية تضم مجسمًا لممر الطائرات وطائرات من طرازات مختلفة وصورًا لقادتها وأوسمتهم. وتجمع قاعة أخرى صورًا نادرة لدور القوات الجوية في حروب مصر، من الحرب العالمية الثانية والعدوان الثلاثي عام 1956 مرورًا بحرب الاستنزاف حتى حرب أكتوبر 1973. ويُعد المتحف وجهة محببة للأسر والرحلات المدرسية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Helwan HA-300",
+    "ar": "حلوان-300"
+   },
+   "desc": {
+    "en": "Prototype of an Egyptian-built supersonic light fighter from the 1960s.",
+    "ar": "نموذج لمقاتلة خفيفة أسرع من الصوت صُنعت في مصر في الستينيات."
+   }
+  },
+  {
+   "title": {
+    "en": "MiG-21 and F-4 Phantom",
+    "ar": "ميج-21 وإف-4 فانتوم"
+   },
+   "desc": {
+    "en": "Fighter jets that flew with the Egyptian Air Force.",
+    "ar": "مقاتلات خدمت في القوات الجوية المصرية."
+   }
+  },
+  {
+   "title": {
+    "en": "Mi-6 helicopter",
+    "ar": "المروحية مي-6"
+   },
+   "desc": {
+    "en": "A heavy-lift helicopter on outdoor display.",
+    "ar": "مروحية نقل ثقيل معروضة في الساحة المكشوفة."
+   }
+  },
+  {
+   "title": {
+    "en": "War photographs hall",
+    "ar": "قاعة صور الحروب"
+   },
+   "desc": {
+    "en": "Rare photographs of the air force in Egypt's wars up to 1973.",
+    "ar": "صور نادرة لدور القوات الجوية في حروب مصر حتى عام 1973."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%D8%AD%D9%84%D9%88%D8%A7%D9%86-%D9%A3%D9%A0%D9%A0_6.jpg",
+   "author": "Amr F.Nagy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%AD%D9%84%D9%88%D8%A7%D9%86-%D9%A3%D9%A0%D9%A0_6.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%D9%85%D9%8A%D8%AC-21_%D8%B1%D9%82%D9%85_8301-4.jpg",
+   "author": "Amr F.Nagy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%85%D9%8A%D8%AC-21_%D8%B1%D9%82%D9%85_8301-4.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q28716793",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,address (aircraft on display; 2019 guide - hours and prices not used)",
+   "url": "https://www.cairo360.com/ar/article/%D9%85%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9/%D8%A7%D9%84%D8%AA%D8%B0%D9%83%D8%B1%D8%A9-%D8%A8%D9%8030%D8%AC%D9%86%D9%8A%D9%87-%D9%83%D9%84-%D8%A7%D9%84%D9%84%D9%8A-%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%D9%8A%D9%86-%D8%AA%D8%B9%D8%B1%D9%81%D9%88/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos,highlights (aircraft identified in Commons file descriptions; licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Ministry of Defence (military museums department). Status 'unknown': no official or 2024-2026 source on visiting found; the only detailed visitor info (cairo360, Sept 2019: daily except Tuesday 09:00-15:00, EGP 30 adults, extra fees for aircraft hall/9D) is too old to use. Aircraft on display confirmed by 2025 Commons photos (Amr F.Nagy); the Mi-6 'visitors could enter' detail is from 2019. Photos are of aircraft (utilitarian objects), not buildings."
+}

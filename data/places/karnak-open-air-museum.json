@@ -218,9 +218,8 @@
   ],
   "freeGroups": [
    "Children under 6",
-   "Egyptians with special needs",
    "Egyptians aged 60+",
-   "Mobile-phone photography is free"
+   "Egyptians with special needs"
   ],
   "includedIn": "karnak",
   "freeGroupsLocalized": [
@@ -229,16 +228,12 @@
     "ar": "الأطفال دون 6 سنوات"
    },
    {
-    "en": "Egyptians with special needs",
-    "ar": "المصريون من ذوي الهمم"
-   },
-   {
     "en": "Egyptians aged 60+",
     "ar": "المصريون من سن 60 فأكثر"
    },
    {
-    "en": "Mobile-phone photography is free",
-    "ar": "التصوير بالهاتف المحمول مجاني"
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
    }
   ]
  },
@@ -361,5 +356,5 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "Modelled as its own place, but entry is through the main Karnak ticket (portal: 'inclusive tickets allowing entry into Karnak Temple and Open Museum in Karnak'); tiers repeat the Karnak ticket so the app can show what a visitor pays. Hours mirror karnak.json (D3: summer last entry 16:00 per booking platform). egymonuments.gov.eg '/monuments/open-air-museum/' is the Tell Basta open-air museum, not this one - do not link it. Location wording ('left of the first court') is general guidance; verify on site. Summer 2026 exception (2026-04-24 to 2026-10-29) follows the Luxor antiquities summer schedule (daylight-saving period, until the last Thursday of October); the winter 2026-27 schedule had not been announced on 2026-10-04 - recheck after 29 Oct 2026. Summer exception ends 2026-10-29, the last day of daylight-saving time (batch-7 Q7a, applied 2026-10-04 to every summer exception). Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced."
+ "curationNote": "Modelled as its own place, but entry is through the main Karnak ticket (portal: 'inclusive tickets allowing entry into Karnak Temple and Open Museum in Karnak'); tiers repeat the Karnak ticket so the app can show what a visitor pays. Hours mirror karnak.json (D3: summer last entry 16:00 per booking platform). egymonuments.gov.eg '/monuments/open-air-museum/' is the Tell Basta open-air museum, not this one - do not link it. Location wording ('left of the first court') is general guidance; verify on site. Summer 2026 exception (2026-04-24 to 2026-10-29) follows the Luxor antiquities summer schedule (daylight-saving period, until the last Thursday of October); the winter 2026-27 schedule had not been announced on 2026-10-04 - recheck after 29 Oct 2026. Summer exception ends 2026-10-29, the last day of daylight-saving time (batch-7 Q7a, applied 2026-10-04 to every summer exception). Ramadan: the official Ramadan schedule equals the normal week (same opening and last entry), so the 'same hours' Ramadan exception was removed on 2026-10-04 (batch-4 Q13a: exceptions are only for real schedule changes); recheck when Ramadan 2027 hours are announced. 2026-10-05: freeGroups aligned with karnak (same ticket)."
 }

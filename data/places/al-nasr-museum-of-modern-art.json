@@ -1,0 +1,297 @@
+{
+ "id": "al-nasr-museum-of-modern-art",
+ "kind": "museum",
+ "wikidataId": "Q6420631",
+ "name": {
+  "en": "Al-Nasr Museum of Modern Art (Port Said)",
+  "ar": "متحف النصر للفن الحديث"
+ },
+ "aliases": [
+  "Museum of Modern Art – Port Said",
+  "متحف النصر للفن الحديث ببورسعيد"
+ ],
+ "category": "modern-art",
+ "operator": "ministry-of-culture",
+ "governorate": "port-said",
+ "city": {
+  "en": "Port Said",
+  "ar": "بورسعيد"
+ },
+ "area": {
+  "en": "Obelisk Square, 23 July Street",
+  "ar": "ميدان المسلة، شارع 23 يوليو"
+ },
+ "address": {
+  "en": "23 July Street, Obelisk Square, next to the Port Said Governorate headquarters, Port Said",
+  "ar": "شارع 23 يوليو، ميدان المسلة، بجوار ديوان عام محافظة بورسعيد، بورسعيد"
+ },
+ "lat": 31.26,
+ "lng": 32.29,
+ "status": "open",
+ "statusNote": {
+  "en": "Open Saturday to Thursday except Monday; closed on Fridays and official holidays.",
+  "ar": "مفتوح من السبت إلى الخميس عدا الاثنين، ومغلق يوم الجمعة وفي العطلات الرسمية."
+ },
+ "summary": {
+  "en": "A modern-art museum set beneath Port Said's Martyrs' Obelisk, with Egyptian paintings and sculpture and a section on the city's history.",
+  "ar": "متحف للفن الحديث أسفل مسلة الشهداء في بورسعيد، يضم لوحات ومنحوتات لفنانين مصريين وقسمًا لتاريخ المدينة."
+ },
+ "description": {
+  "en": "This small art museum occupies the space beneath the Martyrs' Obelisk, the memorial raised in 1957 to the people of Port Said who died resisting the Tripartite Aggression of 1956. The space stood unused for decades until an artist proposed turning it into a gallery, and the museum opened on 25 December 1995 during the city's national-day celebrations. Run by the Fine Arts Sector of the Ministry of Culture, it holds about 120 works by leading Egyptian painters, sculptors, printmakers and ceramicists, many of them on national themes and on war and peace. A later renovation added a section on the story of Port Said itself: the digging of the Suez Canal, the 1956 and 1967 wars, the War of Attrition and the 1973 crossing, told with paintings, dioramas and statues of resistance fighters. The museum also hosts monthly art workshops and cultural evenings.",
+  "ar": "يشغل هذا المتحف الفني الصغير المساحة الواقعة أسفل مسلة الشهداء، النصب التذكاري الذي أُقيم عام 1957 تخليدًا لأبناء بورسعيد الذين استشهدوا في مواجهة العدوان الثلاثي عام 1956. وظلت هذه المساحة دون استغلال سنوات طويلة إلى أن اقترح أحد الفنانين تحويلها إلى قاعة فنية، فافتُتح المتحف في 25 ديسمبر 1995 ضمن احتفالات المدينة بعيدها القومي. ويتبع المتحف قطاع الفنون التشكيلية بوزارة الثقافة، ويضم نحو 120 عملًا لكبار المصورين والنحاتين وفناني الجرافيك والخزف المصريين، يتناول كثير منها موضوعات وطنية وقضايا الحرب والسلام. وأضاف تجديد لاحق قسمًا يروي قصة بورسعيد نفسها: حفر قناة السويس، وحربي 1956 و1967، وحرب الاستنزاف، وعبور 1973، من خلال لوحات ومجسمات وتماثيل لأبطال المقاومة الشعبية. كما يستضيف المتحف ورشًا فنية شهرية وأمسيات ثقافية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Modern Egyptian art",
+    "ar": "الفن المصري الحديث"
+   },
+   "desc": {
+    "en": "Paintings, sculpture, prints and ceramics by leading twentieth-century Egyptian artists.",
+    "ar": "لوحات ومنحوتات وأعمال جرافيك وخزف لكبار الفنانين المصريين في القرن العشرين."
+   }
+  },
+  {
+   "title": {
+    "en": "Port Said history section",
+    "ar": "قسم تاريخ بورسعيد"
+   },
+   "desc": {
+    "en": "The city's story from the canal's digging to the 1973 war.",
+    "ar": "قصة المدينة من حفر القناة حتى حرب 1973."
+   }
+  },
+  {
+   "title": {
+    "en": "Dioramas",
+    "ar": "المجسمات"
+   },
+   "desc": {
+    "en": "Scenes of the Suez Canal, the sinking of the destroyer Eilat and the October War.",
+    "ar": "مشاهد لقناة السويس وإغراق المدمرة إيلات وحرب أكتوبر."
+   }
+  },
+  {
+   "title": {
+    "en": "Martyrs' Obelisk",
+    "ar": "مسلة الشهداء"
+   },
+   "desc": {
+    "en": "The 1957 memorial to the defenders of Port Said rises above the museum.",
+    "ar": "النصب التذكاري لشهداء بورسعيد الذي أُقيم عام 1957 ويعلو المتحف."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (Fine Arts Sector museums)",
+     "ar": "مواعيد شهر رمضان (متاحف قطاع الفنون التشكيلية)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "closed": true
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 5
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 3
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "People with special needs",
+   "Veterans",
+   "Seniors over 60",
+   "Children under 12",
+   "Members of artists' professional syndicates",
+   "Members of national museum committees"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "People with special needs",
+    "ar": "ذوو الهمم"
+   },
+   {
+    "en": "Veterans",
+    "ar": "المحاربون القدامى"
+   },
+   {
+    "en": "Seniors over 60",
+    "ar": "كبار السن فوق 60 عامًا"
+   },
+   {
+    "en": "Children under 12",
+    "ar": "الأطفال دون 12 عامًا"
+   },
+   {
+    "en": "Members of artists' professional syndicates",
+    "ar": "أعضاء النقابات المهنية للفنانين"
+   },
+   {
+    "en": "Members of national museum committees",
+    "ar": "أعضاء اللجان الوطنية للمتاحف"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Morning, combined with a walk along the canal front.",
+   "ar": "الصباح، مع جولة على ممشى القناة."
+  },
+  "crowdNotes": {
+   "en": "A small museum; school groups and workshops can fill it at times.",
+   "ar": "متحف صغير قد تزدحم قاعاته أحيانًا بالرحلات المدرسية والورش."
+  }
+ },
+ "contacts": {
+  "phone": null,
+  "website": "http://www.fineart.gov.eg/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art%E2%80%94Port_Said",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%86%D8%B5%D8%B1_%D9%84%D9%84%D9%81%D9%86_%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6420631",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,hours (Fine Arts Sector schedule: daily 09:00-16:00, closed Fri and Mon and official holidays; names this museum; 4 Jun 2026)",
+   "url": "https://www.youm7.com/story/2026/6/4/x/7437546",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,freeGroups,address (official Fine Arts Sector visitor page)",
+   "url": "http://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=4",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights,status (history, 119 works, workshops; news 18 May 2025)",
+   "url": "https://www.youm7.com/story/2025/5/18/%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%84%D9%84%D9%81%D9%86-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A8%D8%A8%D9%88%D8%B1%D8%B3%D8%B9%D9%8A%D8%AF-%D9%85%D9%86-%D9%85%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D9%85%D9%86%D8%A7%D8%B1%D8%A9/6991245",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%86%D8%B5%D8%B1_%D9%84%D9%84%D9%81%D9%86_%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Ministry of Culture (Fine Arts Sector), not SCA. Hours from the Sector's dated statement (youm7, 4 Jun 2026: 09:00-16:00, closed Fri and Mon, names 'متحف النصر للفن الحديث ببورسعيد'); the undated fineart.gov.eg page says 10:00-16:00 (older). No lastEntry published. Ramadan: sector-wide 10:00-14:00 (Ramadan 2026 statement, not naming this museum). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Prices 5/3/10 and free groups from the undated official fineart.gov.eg page (no 2025-2026 price decision found). Work count: ~150 (ar-wiki, older) vs 119 (youm7 2025); 'about 120' used. Seed alias 'Museum of Modern Art in Egypt' (Wikidata label, ambiguous with the Cairo museum) replaced locally. Phone on the official page (066-347676) looks truncated, so not given. No photos: the only Commons image shows the 1995 museum/1957 obelisk structure (modern, no freedom of panorama) and the works are in copyright."
+}

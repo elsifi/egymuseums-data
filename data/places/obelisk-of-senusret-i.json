@@ -12,7 +12,11 @@
   "مسلة عين شمس",
   "مسله المطرية",
   "Misallat al Maţarīyah",
-  "Obelisk of Senusret I"
+  "Obelisk of Senusret I",
+  "Heliopolis Open Air Museum",
+  "al-Matariya Open-Air Museum",
+  "al-Mataria Obelisk Museum",
+  "متحف المطرية المكشوف"
  ],
  "category": "pharaonic",
  "operator": "mota-sca",
@@ -33,8 +37,8 @@
  "lng": 31.3075,
  "status": "open",
  "statusNote": {
-  "en": "Open daily as a small fenced archaeological site around the obelisk.",
-  "ar": "مفتوح يوميًا بوصفه موقعًا أثريًا صغيرًا مسوّرًا حول المسلة."
+  "en": "Open daily. The fenced site around the obelisk is laid out as an open-air museum of finds from ancient Heliopolis.",
+  "ar": "مفتوح يوميًا، ويضم الموقع المسوّر حول المسلة متحفًا مكشوفًا لمكتشفات هليوبوليس القديمة."
  },
  "summary": {
   "en": "A 20-metre granite obelisk raised by Senusret I almost 4,000 years ago, the oldest obelisk still standing where it was first erected in Egypt.",
@@ -53,6 +57,16 @@
    "desc": {
     "en": "A single shaft of pink Aswan granite about 20 metres high, erected around 1950 BC.",
     "ar": "عمود واحد من الجرانيت الوردي الأسواني بارتفاع نحو 20 مترًا، أُقيم نحو عام 1950 قبل الميلاد."
+   }
+  },
+  {
+   "title": {
+    "en": "Open-air museum",
+    "ar": "المتحف المكشوف"
+   },
+   "desc": {
+    "en": "About 135 statues, inscribed blocks and architectural pieces from Old to New Kingdom Heliopolis, laid out around the obelisk since 2018.",
+    "ar": "نحو 135 قطعة من التماثيل والكتل المنقوشة والعناصر المعمارية من هليوبوليس منذ الدولة القديمة حتى الدولة الحديثة، معروضة حول المسلة منذ عام 2018."
    }
   },
   {
@@ -331,9 +345,14 @@
    "field": "photos (license metadata via Commons API)",
    "url": "https://commons.wikimedia.org/w/api.php",
    "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "highlights,statusNote (open-air museum opened 17 Feb 2018, 135 objects; State Information Service)",
+   "url": "https://www.sis.gov.eg/Story/158591?lang=ar",
+   "checkedAt": "2026-10-05"
   }
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Ramadan 09:00-16:00 (MoTA guide) and last entry 15:00 (egymonuments.com) agree. The current state of any open-air display around the obelisk was not verified. Merenptah column at GEM per egymonuments.gov.eg Ayn Shams page."
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Ramadan 09:00-16:00 (MoTA guide) and last entry 15:00 (egymonuments.com) agree. The open-air museum around the obelisk (opened 17 Feb 2018 with about 135 objects, SIS) was folded in on 2026-10-05 from the excluded seed record heliopolis-open-air-museum (Q130216010; batch-9 Q5a): one highlight, statusNote and aliases. The current number of objects on display is not verified. Merenptah column at GEM per egymonuments.gov.eg Ayn Shams page."
 }

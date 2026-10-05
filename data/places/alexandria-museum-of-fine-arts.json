@@ -1,0 +1,278 @@
+{
+ "id": "alexandria-museum-of-fine-arts",
+ "kind": "museum",
+ "wikidataId": "Q28162764",
+ "name": {
+  "en": "Alexandria Museum of Fine Arts",
+  "ar": "متحف الفنون الجميلة بالاسكندرية"
+ },
+ "aliases": [
+  "متحف حسين صبحي",
+  "Hussein Sobhi Museum",
+  "مجمع الفنون الجميلة بالإسكندرية"
+ ],
+ "category": "modern-art",
+ "operator": "ministry-of-culture",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Moharram Bey",
+  "ar": "محرم بك"
+ },
+ "address": {
+  "en": "Opposite 6 Menasha Street, Moharram Bey, Alexandria",
+  "ar": "مقابل 6 شارع منشا، محرم بك، الإسكندرية"
+ },
+ "lat": 31.195012,
+ "lng": 29.913653,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily except Monday and official holidays; on Friday it opens in the afternoon only.",
+  "ar": "مفتوح يوميًا عدا يوم الإثنين والعطلات الرسمية، ويفتح يوم الجمعة في فترة ما بعد الظهر فقط."
+ },
+ "summary": {
+  "en": "Egypt's first purpose-built fine-arts museum, with European and Egyptian paintings, prints and sculpture.",
+  "ar": "أول متحف أُنشئ خصيصًا للفنون الجميلة في مصر، ويضم لوحات ومطبوعات ومنحوتات لفنانين أوروبيين ومصريين."
+ },
+ "description": {
+  "en": "The museum grew from a gift of about two hundred European paintings that a German-born collector offered to the city of Alexandria in 1904 on condition that a proper gallery be built for them. The present building in Moharram Bey was commissioned by the municipality under its director Hussein Sobhi, whose name it still carries locally, and opened in 1954. A year later it began hosting the Alexandria Biennale for Mediterranean countries. Today it belongs to the Fine Arts Sector of the Ministry of Culture and forms a complex with the Arabic Calligraphy Museum and an old municipal art library. Galleries show European works in Baroque, Rococo, Romantic and Orientalist styles beside the pioneers of modern Egyptian painting, with prints, drawings and sculpture. Temporary exhibitions, concerts and children's workshops keep the halls busy.",
+  "ar": "نشأ المتحف من مجموعة تضم نحو مئتي لوحة أوروبية أهداها جامع تحف ألماني المولد إلى مدينة الإسكندرية عام 1904، واشترط أن يُشيَّد لها مبنى لائق للعرض. وقد كلفت البلدية في عهد مديرها حسين صبحي بتصميم المبنى الحالي في حي محرم بك، ولذلك لا يزال يُعرف محليًا باسمه، وافتُتح عام 1954. وبعد عام واحد بدأ يستضيف بينالي الإسكندرية لدول البحر المتوسط. ويتبع المتحف اليوم قطاع الفنون التشكيلية بوزارة الثقافة، ويشكل مجمعًا واحدًا مع متحف الخط العربي ومكتبة فنية قديمة كانت تابعة للبلدية. وتعرض قاعاته أعمالًا أوروبية من مدارس الباروك والروكوكو والرومانسية والاستشراق، إلى جانب أعمال رواد التصوير المصري الحديث، فضلًا عن المطبوعات والرسوم والمنحوتات. وتنبض قاعاته بالحياة بفضل المعارض المؤقتة والحفلات الموسيقية وورش الأطفال."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "European collection",
+    "ar": "المجموعة الأوروبية"
+   },
+   "desc": {
+    "en": "Baroque, Rococo, Romantic and Orientalist paintings from the founding gift.",
+    "ar": "لوحات من مدارس الباروك والروكوكو والرومانسية والاستشراق من الإهداء المؤسس."
+   }
+  },
+  {
+   "title": {
+    "en": "Egyptian pioneers",
+    "ar": "رواد الفن المصري"
+   },
+   "desc": {
+    "en": "Works by the first generations of modern Egyptian painters and sculptors.",
+    "ar": "أعمال للأجيال الأولى من المصورين والنحاتين المصريين المحدثين."
+   }
+  },
+  {
+   "title": {
+    "en": "Prints and drawings",
+    "ar": "المطبوعات والرسوم"
+   },
+   "desc": {
+    "en": "Engravings and drawings by European and Egyptian artists.",
+    "ar": "أعمال حفر ورسوم لفنانين أوروبيين ومصريين."
+   }
+  },
+  {
+   "title": {
+    "en": "Alexandria Biennale",
+    "ar": "بينالي الإسكندرية"
+   },
+   "desc": {
+    "en": "The Mediterranean biennale has been linked to the museum since 1955.",
+    "ar": "ارتبط بينالي دول البحر المتوسط بالمتحف منذ عام 1955."
+   }
+  },
+  {
+   "title": {
+    "en": "Temporary exhibitions",
+    "ar": "المعارض المؤقتة"
+   },
+   "desc": {
+    "en": "Changing shows of contemporary art in the museum halls.",
+    "ar": "معارض متجددة للفن المعاصر في قاعات المتحف."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "fri",
+    "open": "13:00",
+    "close": "18:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "People with special needs",
+   "Veterans",
+   "Seniors over 60",
+   "Children under 12",
+   "Members of artists' professional syndicates",
+   "Members of ICOM national committees"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "People with special needs",
+    "ar": "ذوو الهمم"
+   },
+   {
+    "en": "Veterans",
+    "ar": "المحاربون القدامى"
+   },
+   {
+    "en": "Seniors over 60",
+    "ar": "كبار السن فوق 60 عامًا"
+   },
+   {
+    "en": "Children under 12",
+    "ar": "الأطفال دون 12 عامًا"
+   },
+   {
+    "en": "Members of artists' professional syndicates",
+    "ar": "أعضاء النقابات المهنية للفنانين"
+   },
+   {
+    "en": "Members of ICOM national committees",
+    "ar": "أعضاء اللجان الوطنية للمجلس الدولي للمتاحف"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Weekday mornings; Friday opens only in the afternoon.",
+   "ar": "صباح أيام الأسبوع، علمًا بأن المتحف لا يفتح يوم الجمعة إلا بعد الظهر."
+  },
+  "crowdNotes": {
+   "en": "Usually quiet; busier on exhibition openings and concert evenings.",
+   "ar": "هادئ عادةً، ويزداد الإقبال في افتتاح المعارض وأمسيات الحفلات."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Emile_Bernard_The_Watermelon_sellers_%2C_Cairo_1895_HST_Alexandria_museum_of_fine_arts.jpg",
+   "author": "Poro amara",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emile_Bernard_The_Watermelon_sellers_,_Cairo_1895_HST_Alexandria_museum_of_fine_arts.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 3 393 6616",
+  "website": "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=11",
+  "social": [
+   "https://www.facebook.com/fine.arts.museum.alex/"
+  ]
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Alexandria_Museum_of_Fine_Arts",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86_%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D9%84%D8%A9_%D8%A8%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9",
+  "osm": "node/11472320269"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q28162764",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (Fine Arts Sector summer 2026 statement)",
+   "url": "https://www.youm7.com/story/2026/6/4/x/7437546",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (Fine Arts Sector decision, Feb 2025)",
+   "url": "https://www.youm7.com/story/2025/2/16/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%80-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D9%8A%D8%A9/6884390",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (sector head inspection, Jun 2026)",
+   "url": "https://www.youm7.com/story/2026/6/26/x/7461667",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (complex, 2013 reopening; official Fine Arts Sector page)",
+   "url": "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=11",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,freeGroups,address,phone (official Fine Arts Sector visitor page; hours line stale)",
+   "url": "https://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=11",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Alexandria_Museum_of_Fine_Arts",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Ministry of Culture (Fine Arts Sector) museum. Hours: sector head's summer statement (youm7, 4 Jun 2026) gives daily 09:00-18:00 except Monday and official holidays; the Feb 2025 sector decision (youm7) gives the same plus Friday 13:00-18:00. The narrower Friday window (13:00) is used. No last entry or Ramadan schedule published. Prices (foreign 20, Egyptian 10, Egyptian student 5) and free groups come only from the undated official visitor page, which also still says 'closed for moving to a new building' and is visibly stale (batch-5 D1a pattern: keep and verify by phone 03-3936616). No foreign-student price is published. Photos: the 1954 building is excluded (no freedom of panorama); a public-domain 1895 painting from the collection is used. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

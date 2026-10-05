@@ -1,0 +1,289 @@
+{
+ "id": "manuscripts-museum",
+ "kind": "museum",
+ "wikidataId": "Q113290117",
+ "name": {
+  "en": "Manuscripts Museum",
+  "ar": "متحف المخطوطات"
+ },
+ "aliases": [
+  "Manuscript Museum"
+ ],
+ "category": "islamic",
+ "operator": "other",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Al-Shatby, Bibliotheca Alexandrina",
+  "ar": "الشاطبي، مكتبة الإسكندرية"
+ },
+ "address": {
+  "en": "Bibliotheca Alexandrina, Al-Shatby, Alexandria",
+  "ar": "مكتبة الإسكندرية، الشاطبي، الإسكندرية"
+ },
+ "lat": 31.208889,
+ "lng": 29.909167,
+ "status": "open",
+ "statusNote": {
+  "en": "Open Sunday to Thursday and on Saturday mornings; closed on Fridays. Children under 12 are not admitted.",
+  "ar": "مفتوح من الأحد إلى الخميس وصباح السبت، ومغلق يوم الجمعة. لا يُسمح بدخول الأطفال دون 12 عامًا."
+ },
+ "summary": {
+  "en": "Rare manuscripts, early printed books and documents at the Bibliotheca Alexandrina, with a conservation centre.",
+  "ar": "مخطوطات نادرة وكتب مطبوعة مبكرة ووثائق بمكتبة الإسكندرية، مع مركز لترميم المخطوطات."
+ },
+ "description": {
+  "en": "The Manuscripts Museum was created at the Bibliotheca Alexandrina in the early 2000s, under the law that established the new library and a 2002 presidential decree that founded its exhibition hall. It displays a selection of rare Arabic, Persian, Turkish and other manuscripts, early printed books and historical documents, chosen to show how knowledge was written, copied, illuminated and bound across the centuries. Behind the galleries, specialist sections conserve and restore fragile paper and parchment, digitise manuscripts from collections around the world for researchers, and train young conservators from Egypt and the region. The hall is dimly lit to protect the documents, flash photography is not allowed, and visits are quiet and unhurried. The museum is included in the library's inclusive ticket.",
+  "ar": "أُنشئ متحف المخطوطات بمكتبة الإسكندرية في مطلع الألفية الثالثة بموجب القانون المنظم للمكتبة الجديدة وقرار جمهوري صدر عام 2002 بإنشاء قاعة العرض. ويعرض مختارات من المخطوطات النادرة العربية والفارسية والتركية وغيرها، إلى جانب كتب مطبوعة مبكرة ووثائق تاريخية، تكشف كيف كُتبت المعرفة ونُسخت وزُخرفت وجُلّدت عبر القرون. ووراء قاعات العرض أقسام متخصصة تحفظ الورق والرق الهش وترممه، وترقمن مخطوطات من مجموعات حول العالم لتتيحها للباحثين، وتدرب جيلًا جديدًا من المرممين من مصر والمنطقة. والإضاءة في القاعة خافتة لحماية الوثائق، ولا يُسمح بالتصوير بالفلاش، والزيارة هادئة متأنية. ويشمل المتحفَ التذكرةُ الشاملة للمكتبة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Rare manuscripts",
+    "ar": "المخطوطات النادرة"
+   },
+   "desc": {
+    "en": "Illuminated Arabic, Persian and Turkish manuscripts on display.",
+    "ar": "مخطوطات عربية وفارسية وتركية مزخرفة معروضة."
+   }
+  },
+  {
+   "title": {
+    "en": "Early printed books",
+    "ar": "الكتب المطبوعة المبكرة"
+   },
+   "desc": {
+    "en": "Rare editions from the first centuries of printing.",
+    "ar": "طبعات نادرة من القرون الأولى للطباعة."
+   }
+  },
+  {
+   "title": {
+    "en": "Conservation work",
+    "ar": "أعمال الترميم"
+   },
+   "desc": {
+    "en": "Specialist sections restore fragile paper and parchment.",
+    "ar": "أقسام متخصصة ترمم الورق والرق الهش."
+   }
+  },
+  {
+   "title": {
+    "en": "Digital manuscripts",
+    "ar": "المخطوطات الرقمية"
+   },
+   "desc": {
+    "en": "Digitised manuscripts from collections worldwide for researchers.",
+    "ar": "مخطوطات مرقمنة من مجموعات حول العالم متاحة للباحثين."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "14:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "October War anniversary holiday: shortened hours",
+     "ar": "عطلة ذكرى نصر أكتوبر: مواعيد مختصرة"
+    },
+    "from": "2026-10-08",
+    "to": "2026-10-08",
+    "weekly": [
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 60
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 30
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "senior",
+    "amount": 10
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Inclusive ticket (Main Library, Antiquities Museum, Manuscripts Museum and free museums): foreign adult or senior",
+     "ar": "التذكرة الشاملة (المكتبة الرئيسية ومتحف الآثار ومتحف المخطوطات والمتاحف المجانية): زائر أجنبي أو كبير سن"
+    },
+    "audience": "foreign",
+    "amount": 300
+   },
+   {
+    "label": {
+     "en": "Inclusive ticket: foreign student",
+     "ar": "التذكرة الشاملة: طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 120
+   },
+   {
+    "label": {
+     "en": "Inclusive ticket: Egyptian adult or senior",
+     "ar": "التذكرة الشاملة: زائر مصري أو كبير سن"
+    },
+    "audience": "egyptian",
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Inclusive ticket: Egyptian student",
+     "ar": "التذكرة الشاملة: طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 25
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Weekday mornings, combined with the Antiquities Museum on the inclusive ticket.",
+   "ar": "صباح أيام الأسبوع، مع زيارة متحف الآثار بالتذكرة الشاملة."
+  },
+  "crowdNotes": {
+   "en": "Mobile phones must be switched off and flash is not allowed. Large groups are split into groups of 20.",
+   "ar": "يجب إغلاق الهواتف المحمولة ولا يُسمح بالفلاش، وتُقسم المجموعات الكبيرة إلى مجموعات من 20 شخصًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bibliotheca_Alexandrina_%E2%80%93_Manuscript_Museum_06.jpg",
+   "author": "Hassan Hamdy wahidy",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bibliotheca_Alexandrina_%E2%80%93_Manuscript_Museum_06.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bibliotheca_Alexandrina_%E2%80%93_Manuscript_Museum_28.jpg",
+   "author": "Hassan Hamdy wahidy",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bibliotheca_Alexandrina_%E2%80%93_Manuscript_Museum_28.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 3 483 9999",
+  "website": "https://www.bibalex.org/en/center/details/manuscriptsmuseum",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q113290117",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "coordinates (Bibliotheca Alexandrina building, Q501851; museum item has none)",
+   "url": "https://www.wikidata.org/wiki/Q501851",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,hours.exceptions (official BA home page, opening hours box)",
+   "url": "https://www.bibalex.org/en/Default",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,extras (official BA admission page)",
+   "url": "https://www.bibalex.org/en/Page/BA_Visiting",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,visit rules (official BA museum page)",
+   "url": "https://www.bibalex.org/en/center/details/manuscriptsmuseum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "identity (official museum site via Wikidata P856)",
+   "url": "http://manuscriptsmuseum.bibalex.org/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Bibliotheca Alexandrina museum; operator other. Prices from the BA admission page (checked 2026-10-05): Egyptians student 10, adult 20, senior 10; non-Egyptians student 30, adult 60, senior 60 (foreign senior equals adult, so no separate tier). Inclusive-ticket extras mirror bibliotheca-alexandrina-antiquities-museum. Visitor rules (no children under 12, phones off, groups of 20) from the official museum page. BA hours: the bibalex.org home page (checked 2026-10-05) gives 'Visits, Museums & Planetarium Science Center' Sun-Thu 09:30-17:00, Sat 10:00-14:00, Fri closed; no last entry and no Ramadan schedule published. TIME-LIMITED: the 2026-10-08 exception (October War anniversary, 10:00-14:00) expires after 2026-10-08; still valid on 2026-10-05; remove it then. Coordinates borrowed from the BA building (Q501851) because Q113290117 has none."
+}

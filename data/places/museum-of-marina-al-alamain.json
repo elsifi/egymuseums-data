@@ -1,0 +1,174 @@
+{
+ "id": "museum-of-marina-al-alamain",
+ "kind": "site",
+ "wikidataId": "Q778942",
+ "name": {
+  "en": "Marina el-Alamein Archaeological Site",
+  "ar": "منطقة آثار مارينا العلمين"
+ },
+ "aliases": [
+  "Museum of Marina al-Alamain",
+  "متحف مارينا العلمين",
+  "Marina el-Alamein",
+  "Leukaspis"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "matrouh",
+ "city": {
+  "en": "El Alamein",
+  "ar": "العلمين"
+ },
+ "area": {
+  "en": "Marina el-Alamein archaeological site, east of Porto Marina",
+  "ar": "منطقة آثار مارينا العلمين، شرق منتجع بورتو مارينا"
+ },
+ "address": {
+  "en": "Marina el-Alamein archaeological area, North Coast road, Matrouh Governorate",
+  "ar": "منطقة آثار مارينا العلمين، طريق الساحل الشمالي، محافظة مطروح"
+ },
+ "lat": 30.823888,
+ "lng": 29.011256,
+ "status": "renovation",
+ "statusNote": {
+  "en": "Closed to regular visits while the archaeological area is being developed; reopening is planned for the first half of 2027.",
+  "ar": "مغلق أمام الزيارة المعتادة أثناء تطوير المنطقة الأثرية، ومن المقرر افتتاحها في النصف الأول من عام 2027."
+ },
+ "summary": {
+  "en": "The ruins of a Graeco-Roman harbour town on the North Coast, rediscovered in 1986 during resort construction, with a small site museum.",
+  "ar": "أطلال مدينة ميناء يونانية رومانية على الساحل الشمالي، أعيد اكتشافها عام 1986 أثناء إنشاء المنتجعات، ويضم الموقع متحفًا صغيرًا."
+ },
+ "description": {
+  "en": "Marina el-Alamein preserves the remains of a harbour town of the Hellenistic and Roman periods, often identified with ancient Leukaspis, on the Mediterranean coast about 100 km west of Alexandria. It came to light in 1986 when the Marina holiday resort was being built, and Egyptian and Polish-Egyptian missions have worked here since. Excavations have revealed a Roman forum, public baths including a round bath, a basilica, water cisterns, houses and shops, and a large cemetery: by 2026 some 44 tombs had been recorded, many with stepped or pillared superstructures above rock-cut chambers. A small museum on the site shows coins, statuary and pottery from the digs. The whole area is now part of a development project with a visitor centre, walking and electric-car routes and a museum store, after which it is due to reopen as a cultural stop for travellers to New Alamein and the North Coast.",
+  "ar": "تحفظ منطقة مارينا العلمين بقايا مدينة ميناء من العصرين الهلنستي والروماني، يُرجَّح أنها مدينة لوكاسبيس القديمة، على ساحل البحر المتوسط على بعد نحو 100 كيلومتر غرب الإسكندرية. وقد ظهرت عام 1986 أثناء إنشاء منتجع مارينا السياحي، وتعمل فيها منذ ذلك الحين بعثات مصرية ومصرية بولندية. وكشفت الحفائر عن فوروم روماني وحمامات عامة منها حمام دائري، وبازيليكا وصهاريج للمياه ومنازل ومحال تجارية، إلى جانب جبانة كبيرة سُجلت فيها حتى عام 2026 نحو 44 مقبرة، يعلو كثيرًا منها بناء مدرج أو أعمدة فوق حجرات منحوتة في الصخر. ويعرض متحف صغير في الموقع عملات وتماثيل وأواني فخارية من الحفائر. وتخضع المنطقة كلها حاليًا لمشروع تطوير يشمل مركزًا للزوار ومسارات للمشاة والسيارات الكهربائية ومخزنًا متحفيًا، تمهيدًا لإعادة افتتاحها مزارًا ثقافيًا لزوار العلمين الجديدة والساحل الشمالي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Roman forum and basilica",
+    "ar": "الفوروم الروماني والبازيليكا"
+   },
+   "desc": {
+    "en": "The public centre of the ancient harbour town.",
+    "ar": "المركز العام لمدينة الميناء القديمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Baths and cisterns",
+    "ar": "الحمامات والصهاريج"
+   },
+   "desc": {
+    "en": "A round bath, a Roman bath and rock-cut water cisterns.",
+    "ar": "حمام دائري وحمام روماني وصهاريج مياه منحوتة في الصخر."
+   }
+  },
+  {
+   "title": {
+    "en": "Necropolis",
+    "ar": "الجبانة"
+   },
+   "desc": {
+    "en": "Tombs with stepped and pillared superstructures over burial chambers.",
+    "ar": "مقابر تعلوها مبانٍ مدرجة أو ذات أعمدة فوق حجرات الدفن."
+   }
+  },
+  {
+   "title": {
+    "en": "Site museum",
+    "ar": "متحف الموقع"
+   },
+   "desc": {
+    "en": "A small display of coins, statuary and pottery from the excavations.",
+    "ar": "عرض صغير لعملات وتماثيل وأوانٍ فخارية من الحفائر."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Early morning or late afternoon; the site is fully exposed.",
+   "ar": "الصباح الباكر أو آخر النهار، فالموقع مكشوف تمامًا."
+  },
+  "crowdNotes": {
+   "en": "Check before travelling: the area was closed for development in 2026.",
+   "ar": "تحقق قبل التوجه: المنطقة مغلقة للتطوير خلال عام 2026."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/MarinaAlameinArchSiteOverview.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MarinaAlameinArchSiteOverview.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/MarinaAlameinArchSiteTombSuperstructures.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MarinaAlameinArchSiteTombSuperstructures.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q3329730",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "coordinates (archaeological site item Q778942)",
+   "url": "https://www.wikidata.org/wiki/Q778942",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,statusNote,description (development project, reopening planned H1 2027; 44 tombs; news 19 Aug 2026)",
+   "url": "https://www.youm7.com/story/2026/8/19/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%8A%D8%AA%D9%81%D9%82%D8%AF-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%85%D8%A7%D8%B1%D9%8A%D9%86%D8%A7-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D9%84%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA/7518837",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (same visit, news 19 Aug 2026)",
+   "url": "https://www.elwatannews.com/news/details/8342639",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (site museum with coins, statues, pottery; facts only)",
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_Mar%C3%AEn%C3%A2_al-%E2%80%98Alamayn",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Leukaspis identification; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/M%C4%81r%C4%ABn%C4%81_el-%CA%BFAlamein",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "identity (re-scoped to the archaeological site)",
+   "url": "https://www.wikidata.org/wiki/Q778942",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Seed item Q3329730 ('Museum of Marina al-Alamain') has no coordinates and only a frwiki article; coordinates come from the site item Q778942. Status: MoTA minister's visit of 19 Aug 2026 describes a development project 'ahead of opening to visitors', due to finish in H1 2027; Wikivoyage said the site had been open since 2021 (EGP 20/10 in 2019, stale). Whether the museum rooms will reopen as such is not stated. Not in the MoTA Nov 2024 ticket list. Photos show the archaeological site (ancient ruins), not a modern building. Re-scoped on 2026-10-05 (batch-12 Q4a): kind 'site', name 'Marina el-Alamein Archaeological Site', wikidataId Q778942 (the site); the seed item Q3329730 (the site museum) stays in sources and the old name is an alias; the museum is a highlight. id unchanged for stability."
+}

@@ -1,0 +1,321 @@
+{
+ "id": "akhmim-meritamun",
+ "kind": "site",
+ "wikidataId": null,
+ "name": {
+  "en": "Akhmim open-air site (Statue of Meritamun)",
+  "ar": "معبد ميريت آمون بأخميم"
+ },
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "sohag",
+ "city": {
+  "en": "Akhmim",
+  "ar": "أخميم"
+ },
+ "area": {
+  "en": "Akhmim town centre",
+  "ar": "وسط مدينة أخميم"
+ },
+ "address": {
+  "en": "Akhmim town, Sohag Governorate",
+  "ar": "مدينة أخميم، محافظة سوهاج"
+ },
+ "lat": null,
+ "lng": null,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily; tickets can also be booked online.",
+  "ar": "مفتوح يوميًا، ويمكن حجز التذاكر إلكترونيًا أيضًا."
+ },
+ "summary": {
+  "en": "An open-air site in the middle of Akhmim where colossal statues of Ramesses II's daughter Meritamun and of the king himself stand among temple ruins.",
+  "ar": "موقع مكشوف وسط مدينة أخميم تقف فيه تماثيل ضخمة لميريت آمون ابنة رمسيس الثاني وللملك نفسه بين بقايا معبد."
+ },
+ "description": {
+  "en": "Akhmim, on the east bank opposite Sohag, was the ancient city of Ipu or Khent-Min, sacred to the fertility god Min, and the Greeks called it Panopolis. Almost all of its great temples have vanished beneath the modern town, but in 1981 antiquities workers digging in the centre uncovered part of a temple of Ramesses II and a colossal limestone statue of his daughter Meritamun, who became one of his Great Royal Wives. About 13 metres tall, it is one of the largest standing statues of a queen known from ancient Egypt, and traces of its original colour survive. It has been displayed where it was found since 1991, in an open-air enclosure. Beside it stands a colossal limestone statue of Ramesses II, found broken into some seventy pieces, which was restored and raised next to his daughter in April 2019. The enclosure also holds a statue first made for King Ay and later reinscribed for Ramesses II.",
+  "ar": "كانت أخميم، الواقعة على الضفة الشرقية للنيل في مواجهة سوهاج، مدينة إيبو أو خنت مين القديمة المكرسة لمعبود الخصوبة مين، وأطلق عليها الإغريق اسم بانوبوليس. وقد اختفت معظم معابدها الكبرى تحت المدينة الحديثة، لكن عمالًا من هيئة الآثار كشفوا عام 1981 في وسط المدينة عن جزء من معبد للملك رمسيس الثاني وعن تمثال ضخم من الحجر الجيري لابنته ميريت آمون التي صارت إحدى زوجاته الملكيات العظمى. ويبلغ ارتفاع التمثال نحو 13 مترًا، وهو من أضخم التماثيل الواقفة المعروفة لملكة في مصر القديمة، ولا تزال بقايا من ألوانه الأصلية ظاهرة. ويُعرض في موضع اكتشافه منذ عام 1991 داخل ساحة مكشوفة. وإلى جواره يقف تمثال ضخم من الحجر الجيري لرمسيس الثاني عُثر عليه محطمًا إلى نحو سبعين قطعة، فرُمم وأُعيد رفعه بجوار ابنته في أبريل 2019. وتضم الساحة أيضًا تمثالًا صُنع في الأصل للملك آي ثم نُقش عليه اسم رمسيس الثاني."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Statue of Meritamun",
+    "ar": "تمثال ميريت آمون"
+   },
+   "desc": {
+    "en": "A painted limestone colossus of the queen, about 13 m tall.",
+    "ar": "تمثال ضخم ملون من الحجر الجيري للملكة بارتفاع نحو 13 مترًا."
+   }
+  },
+  {
+   "title": {
+    "en": "Colossus of Ramesses II",
+    "ar": "تمثال رمسيس الثاني الضخم"
+   },
+   "desc": {
+    "en": "Reassembled from about seventy fragments and re-erected in 2019.",
+    "ar": "أُعيد تجميعه من نحو سبعين قطعة ورُفع عام 2019."
+   }
+  },
+  {
+   "title": {
+    "en": "Usurped statue of Ay",
+    "ar": "تمثال آي المغتصب"
+   },
+   "desc": {
+    "en": "A statue of King Ay later inscribed for Ramesses II.",
+    "ar": "تمثال للملك آي نُقش عليه لاحقًا اسم رمسيس الثاني."
+   }
+  },
+  {
+   "title": {
+    "en": "Temple remains",
+    "ar": "بقايا المعبد"
+   },
+   "desc": {
+    "en": "Foundations and blocks of the Ramesside temple around the statues.",
+    "ar": "أساسات وكتل من المعبد الرعمسي حول التماثيل."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/MeritAmunTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Early morning, combined with El-Hawawish or the Sohag National Museum.",
+   "ar": "الصباح الباكر، مع زيارة الحواويش أو متحف سوهاج القومي."
+  },
+  "crowdNotes": {
+   "en": "A compact open-air enclosure in the middle of town.",
+   "ar": "ساحة مكشوفة صغيرة وسط المدينة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/AkhmimMeritamun.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:AkhmimMeritamun.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/AkhmimAy.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:AkhmimAy.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/AkhmimR2.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:AkhmimR2.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (07:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing),description,address (MoTA guide)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-ميريت-آمون/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (last entry 16:00; Ramadan 09:00, last entry 15:00),tickets,freeGroups (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/MeritAmunTemple",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 list: Meritamun Temple)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (Ay statue; Commons file descriptions)",
+   "url": "https://commons.wikimedia.org/wiki/File:AkhmimAy.jpg",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Akhmim, Panopolis, Min; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Akhmim",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "No Wikidata item; seed coordinates null and kept null (no reliable coordinate found; Commons photos have no geotag). Name kept from seed; the MoTA guide calls it 'معبد ميريت آمون', the booking page 'Merit Amun Temple'. Guide, booking page and Nov 2024 list agree on hours and prices. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. No Arab tier: the SCA ended Arab = Egyptian pricing from 1 Jan 2026. Statue heights and weights differ between sources (guide: Meritamun 13 m); only the guide figure is used. 'One of the largest standing statues of a queen' is general Egyptological knowledge, not from an official page; 'traces of colour' is visible in the Commons photos."
+}

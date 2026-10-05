@@ -6780,7 +6780,7 @@
  {
   "id": "fayoum-art-center",
   "kind": "museum",
-  "wikidataId": null,
+  "wikidataId": "Q134292187",
   "name": {
    "en": "Fayoum Art Center",
    "ar": "مركز الفيوم للفنون"
@@ -6788,8 +6788,8 @@
   "category": "modern-art",
   "operator": "private",
   "governorate": "faiyum",
-  "lat": null,
-  "lng": null,
+  "lat": 29.39905,
+  "lng": 30.48958,
   "status": "unknown",
   "links": {
    "egymonuments": null,
@@ -7775,7 +7775,7 @@
  {
   "id": "ramses-wissa-wassef-art-centre",
   "kind": "museum",
-  "wikidataId": null,
+  "wikidataId": "Q126920240",
   "name": {
    "en": "Ramses Wissa Wassef Art Centre",
    "ar": "مركز رمسيس ويصا واصف للفنون"
@@ -7787,8 +7787,8 @@
    "en": "Harraniya",
    "ar": "الحرانية"
   },
-  "lat": null,
-  "lng": null,
+  "lat": 29.96914,
+  "lng": 31.17604,
   "status": "unknown",
   "links": {
    "egymonuments": null,
@@ -7966,8 +7966,8 @@
    "en": "Giza",
    "ar": "الجيزة"
   },
-  "lat": null,
-  "lng": null,
+  "lat": 30.02453,
+  "lng": 31.2139,
   "status": "unknown",
   "links": {
    "egymonuments": null,

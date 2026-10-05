@@ -1,0 +1,112 @@
+{
+ "id": "dr-naguib-pasha-mahfouz-museum",
+ "kind": "museum",
+ "wikidataId": "Q126973147",
+ "name": {
+  "en": "Dr. Naguib Pasha Mahfouz Museum",
+  "ar": "متحف نجيب باشا محفوظ"
+ },
+ "aliases": [
+  "Dr. Naguib Mahfouz Ob/Gyn Teratology and Pathology Museum",
+  "Naguib Mahfouz Museum of Obstetrics and Gynecology",
+  "Naguib Pacha Mahfouz Museum"
+ ],
+ "category": "specialised",
+ "operator": "university",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Kasr al-Ainy, Faculty of Medicine, Cairo University",
+  "ar": "القصر العيني، كلية الطب، جامعة القاهرة"
+ },
+ "address": {
+  "en": "Department of Obstetrics and Gynaecology, Kasr al-Ainy Faculty of Medicine, Cairo University, Cairo",
+  "ar": "قسم أمراض النساء والتوليد، كلية طب القصر العيني، جامعة القاهرة، القاهرة"
+ },
+ "status": "closed",
+ "statusNote": {
+  "en": "Not open to the general public: it is a teaching museum, and access is limited to medical students and doctors.",
+  "ar": "غير مفتوح لعامة الجمهور، فهو متحف تعليمي تقتصر زيارته على طلاب الطب والأطباء."
+ },
+ "summary": {
+  "en": "A century-old teaching museum of obstetrics and gynaecology at Kasr al-Ainy, built around the specimens collected by the pioneering physician Naguib Pasha Mahfouz.",
+  "ar": "متحف تعليمي لأمراض النساء والتوليد في القصر العيني عمره نحو قرن، قوامه العينات التي جمعها الطبيب الرائد نجيب باشا محفوظ."
+ },
+ "description": {
+  "en": "Naguib Mahfouz Pasha (1882–1974), not to be confused with the novelist who was named after him, founded the specialty of obstetrics and gynaecology in Egypt. At the start of the twentieth century most births took place at home with traditional midwives, and he spent years attending difficult deliveries in villages before building up a department at Kasr al-Ainy. Over his career he preserved thousands of specimens of congenital anomalies and gynaecological diseases in glass jars brought from France. The faculty set aside a space for them in 1929, and in 1932 he gave his collection to the medical school, where it became a teaching museum. The museum was renovated and reopened in 2018 and also displays historic instruments, including a birthing chair. Because of its sensitive specimens, it receives medical students and doctors rather than the general public.",
+  "ar": "يُعد نجيب باشا محفوظ (1882–1974)، الذي سُمّي الأديب نجيب محفوظ باسمه، مؤسس تخصص أمراض النساء والتوليد في مصر. ففي مطلع القرن العشرين كانت معظم الولادات تتم في البيوت على أيدي الدايات، فقضى سنوات يتنقل بين القرى لإجراء الولادات المتعسرة قبل أن يؤسس قسمًا متخصصًا في القصر العيني. وحفظ خلال مسيرته آلاف العينات من التشوهات الخلقية وأمراض النساء في أوعية زجاجية جلبها من فرنسا. وخصصت الكلية مكانًا لعرضها عام 1929، ثم أهدى مجموعته إلى مدرسة الطب عام 1932 فصارت متحفًا تعليميًا. وجُدد المتحف وأعيد افتتاحه عام 2018، ويعرض كذلك أدوات طبية تاريخية منها كرسي للولادة. ونظرًا لحساسية عيناته فإنه يستقبل طلاب الطب والأطباء لا عامة الجمهور."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Specimen collection",
+    "ar": "مجموعة العينات"
+   },
+   "desc": {
+    "en": "Thousands of preserved specimens, some more than a century old.",
+    "ar": "آلاف العينات المحفوظة، يزيد عمر بعضها على مئة عام."
+   }
+  },
+  {
+   "title": {
+    "en": "Historic instruments",
+    "ar": "الأدوات الطبية التاريخية"
+   },
+   "desc": {
+    "en": "Early obstetric tools and a traditional birthing chair.",
+    "ar": "أدوات توليد قديمة وكرسي ولادة تقليدي."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Naguib_Pasha_Mahfouz.jpg",
+   "author": "Kmabadir",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naguib_Pasha_Mahfouz.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q126973147",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (head of Kasr al-Ainy obstetrics departments on the museum; news 29 May 2026)",
+   "url": "https://www.youm7.com/story/2026/5/29/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A3%D9%82%D8%B3%D8%A7%D9%85-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D8%A8%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D9%8A-%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A9-%D9%8A%D9%88%D8%AB%D9%82-%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D9%86%D8%AC%D9%8A%D8%A8/7432315",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,description (visits limited to medical students and doctors; reopened March 2018; news 11 Oct 2022)",
+   "url": "https://www.youm7.com/story/2022/10/11/%D8%A3%D8%BA%D8%B1%D8%A8-%D9%85%D8%AA%D8%AD%D9%81-%D8%B7%D8%A8%D9%89-%D9%81%D9%89-%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D9%89-%D9%8A%D8%B9%D9%88%D8%AF-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%87-%D9%84%D9%85%D8%A7%D8%A6%D8%A9-%D8%B9%D8%A7%D9%85/5926662",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (visits not allowed for non-medical students)",
+   "url": "https://www.elwatannews.com/news/details/3973927",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Status 'closed' to the general public: elwatannews (2019) and youm7 (Oct 2022) say visits are restricted to medical students/doctors, with a study under way to open it to the public by appointment; no 2025-2026 change found (youm7 May 2026 covers a TV tour only). Coordinates null in seed/Wikidata; not added. Specimen count not given (sources vary). The 'Prof. Naguib Pasha Mahfouz lecturing' Commons file was not used (licence claim 'PD-self' for an old photo is doubtful); the PD-Egypt 1930 portrait is used. Kept as a closed record (not open to the public) (batch-9 Q4a)."
+}

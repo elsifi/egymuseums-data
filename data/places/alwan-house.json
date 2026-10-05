@@ -1,0 +1,117 @@
+{
+ "id": "alwan-house",
+ "kind": "museum",
+ "wikidataId": "Q54900513",
+ "name": {
+  "en": "Alwan House (Rosetta)",
+  "ar": "منزل علوان"
+ },
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "beheira",
+ "city": {
+  "en": "Rosetta (Rashid)",
+  "ar": "رشيد"
+ },
+ "area": {
+  "en": "Dahliz al-Mulk Street, historic centre",
+  "ar": "شارع دهليز الملك، وسط المدينة التاريخي"
+ },
+ "address": {
+  "en": "Dahliz al-Mulk Street, historic centre of Rosetta (Rashid), Beheira",
+  "ar": "شارع دهليز الملك، وسط مدينة رشيد التاريخي، محافظة البحيرة"
+ },
+ "lat": 31.4087,
+ "lng": 30.3896,
+ "status": "unknown",
+ "statusNote": {
+  "en": "Whether the interior is open to visitors could not be confirmed; the façade can be seen from the street.",
+  "ar": "تعذر التأكد مما إذا كان الداخل مفتوحًا للزوار، ويمكن مشاهدة الواجهة من الشارع."
+ },
+ "summary": {
+  "en": "An eighteenth-century merchant house in Rosetta, with a caravanserai court and rooms lined with Andalusian-style tiles.",
+  "ar": "منزل تاجر من القرن الثامن عشر في رشيد، بفناء وكالة وحجرات مكسوة ببلاطات قاشاني ذات طابع أندلسي."
+ },
+ "description": {
+  "en": "Built in the first half of the eighteenth century by Muhammad Agha Alwan, head of Rosetta's merchants, this house stands on Dahliz al-Mulk, a street of Ottoman-era mansions in the old town. Like other Rosetta houses, it combined trade and family life. One of its two street doors opens into a vaulted passage leading to a wakala, an open court surrounded by storerooms for goods, while the other leads to the stairs of the family quarters on the two upper floors. Each floor centres on a reception hall overlooking the court, with side rooms, a cupboard for passing food and wooden lattice windows. The finest room is lined with glazed tiles in Moroccan and Andalusian patterns. In 1881 Ahmed Urabi is said to have met the merchants of Rosetta here while seeking their support against the khedive. The façade shows the town's typical red and black brickwork.",
+  "ar": "شيّد هذا المنزلَ محمد أغا علوان، كبير تجار رشيد، في النصف الأول من القرن الثامن عشر، ويقع في شارع دهليز الملك الذي تصطف عليه بيوت من العصر العثماني في المدينة القديمة. وقد جمع، شأنه شأن بيوت رشيد الأخرى، بين التجارة والسكن العائلي؛ إذ يفتح أحد بابيه المطلين على الشارع على دركاه ذات أقبية متقاطعة تؤدي إلى وكالة، وهي فناء مكشوف تحيط به حواصل لتخزين البضائع، بينما يؤدي الباب الآخر إلى سلم مسكن الأسرة في الدورين العلويين. ويتوسط كل دور قاعة استقبال تطل على الفناء، وحولها حجرات جانبية ودولاب للمناولة ونوافذ من الخشب الخرط. وأجمل الحجرات مكسوة ببلاطات قاشاني ذات زخارف مغربية وأندلسية. ويُروى أن أحمد عرابي التقى تجار رشيد هنا عام 1881 طلبًا لتأييدهم في خلافه مع الخديوي. وتُظهر الواجهة الطوب الأحمر والأسود المميز للمدينة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Wakala court",
+    "ar": "فناء الوكالة"
+   },
+   "desc": {
+    "en": "An open court with storerooms for merchants' goods.",
+    "ar": "فناء مكشوف تحيط به حواصل لبضائع التجار."
+   }
+  },
+  {
+   "title": {
+    "en": "Tiled room",
+    "ar": "الحجرة المكسوة بالقاشاني"
+   },
+   "desc": {
+    "en": "Walls lined with Moroccan and Andalusian-style tiles.",
+    "ar": "جدران مكسوة ببلاطات ذات طابع مغربي وأندلسي."
+   }
+  },
+  {
+   "title": {
+    "en": "Rashidi brick façade",
+    "ar": "واجهة الطوب الرشيدي"
+   },
+   "desc": {
+    "en": "Red and black brickwork and wooden lattice windows.",
+    "ar": "طوب أحمر وأسود ونوافذ من الخشب الخرط."
+   }
+  },
+  {
+   "title": {
+    "en": "Urabi meeting",
+    "ar": "لقاء عرابي"
+   },
+   "desc": {
+    "en": "Where Urabi is said to have met Rosetta's merchants in 1881.",
+    "ar": "حيث يُروى أن عرابي التقى تجار رشيد عام 1881."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D9%86%D8%B2%D9%84_%D8%B9%D9%84%D9%88%D8%A7%D9%86",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q54900513",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,status (Dahliz al-Mulk feature, 15 Oct 2025)",
+   "url": "https://www.masrawy.com/news/news_regions/details/2025/10/15/2872892/x",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D9%86%D8%B2%D9%84_%D8%B9%D9%84%D9%88%D8%A7%D9%86",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Rosetta City Monuments ticket; coverage of this house unstated)",
+   "url": "https://egymonuments.com/details/RosettaCityMonuments",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "One of the Ottoman houses of Rosetta (see rosetta-historic-houses). Not named on the MoTA guide, portal or booking page, and which houses the 'Rosetta City Monuments' ticket (120/60, 10/5) covers is not stated officially, so no includedIn and price unconfirmed. Latest press coverage (masrawy, 15 Oct 2025) describes Dahliz al-Mulk as an 'open museum' but does not say whether the interior is open. Description facts from AR Wikipedia and press. Seed city empty; Rosetta added. No Commons photos found (photos empty; allowed for minor places, decision of 2026-10-05)."
+}

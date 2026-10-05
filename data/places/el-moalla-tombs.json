@@ -1,0 +1,329 @@
+{
+ "id": "el-moalla-tombs",
+ "kind": "site",
+ "wikidataId": "Q12193415",
+ "name": {
+  "en": "El-Mo'alla Tombs",
+  "ar": "مقابر المعلا"
+ },
+ "aliases": [
+  "المعلة، قنا",
+  "Mo'alla",
+  "المعلة"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Esna",
+  "ar": "إسنا"
+ },
+ "area": {
+  "en": "El-Hinadi village, about 10 km south-east of Esna (east bank)",
+  "ar": "قرية الهنادي، على بعد نحو 10 كم جنوب شرق إسنا (البر الشرقي)"
+ },
+ "address": {
+  "en": "El-Hinadi village, Esna, Luxor Governorate",
+  "ar": "قرية الهنادي، إسنا، محافظة الأقصر"
+ },
+ "lat": 25.472219,
+ "lng": 32.525,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "Rock-cut tombs of provincial rulers from the First Intermediate Period, led by the painted tomb of Ankhtifi with its famous account of famine and civil war.",
+  "ar": "مقابر صخرية لحكام الأقاليم من عصر الانتقال الأول، أبرزها مقبرة عنخ تيفي الملونة بنصها الشهير عن المجاعة والصراع الداخلي."
+ },
+ "description": {
+  "en": "El-Mo’alla, ancient Hefat, lies on the east bank of the Nile south of Luxor and served as the cemetery of nearby Djerty, today’s el-Tod. In the cliffs above the cultivation are rock-cut tombs of nomarchs and senior officials from the late Old Kingdom and the First Intermediate Period, a time when central power had collapsed and provincial rulers acted almost independently. The most important is the tomb of Ankhtifi, ruler of the nomes of Hierakonpolis and Edfu, whose painted pillared hall preserves a long autobiography. In it he boasts of restoring order, opposing Thebes and feeding his people during a terrible famine, making it a key text for this little-documented period. Its lively paintings show fishing, hunting, cattle and daily life in a vigorous provincial style. The neighbouring tomb of Sobekhotep is also decorated, while many other tombs were left plain or unfinished.",
+  "ar": "تقع المعلا، المعروفة قديمًا باسم «حفات»، على البر الشرقي للنيل جنوب الأقصر، وكانت جبانة لمدينة «جرتي» القريبة، أي الطود الحالية. وفي الجبال المطلة على الأراضي الزراعية مقابر منحوتة في الصخر لحكام الأقاليم وكبار الموظفين من أواخر الدولة القديمة وعصر الانتقال الأول، حين انهارت السلطة المركزية وصار حكام الأقاليم شبه مستقلين. وأهمها مقبرة عنخ تيفي حاكم إقليمي نخن وإدفو، التي تحتفظ صالتها ذات الأعمدة الملونة بسيرة ذاتية طويلة يفخر فيها بإعادة النظام ومقاومة طيبة وإطعام أهل إقليمه خلال مجاعة قاسية، فصارت نصًا أساسيًا لفهم هذه الحقبة القليلة الوثائق. وتصور رسومها الحيوية الصيد والقنص والماشية والحياة اليومية بأسلوب إقليمي نابض. كما زُينت مقبرة سوبك حتب المجاورة، بينما تُركت مقابر كثيرة أخرى بلا نقوش أو لم يكتمل العمل فيها."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Ankhtifi",
+    "ar": "مقبرة عنخ تيفي"
+   },
+   "desc": {
+    "en": "Painted pillared hall of a First Intermediate Period nomarch.",
+    "ar": "صالة أعمدة ملونة لحاكم إقليم من عصر الانتقال الأول."
+   }
+  },
+  {
+   "title": {
+    "en": "Famine autobiography",
+    "ar": "نص المجاعة"
+   },
+   "desc": {
+    "en": "Ankhtifi’s account of feeding his people during a great famine.",
+    "ar": "رواية عنخ تيفي عن إطعام أهل إقليمه خلال مجاعة كبرى."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Sobekhotep",
+    "ar": "مقبرة سوبك حتب"
+   },
+   "desc": {
+    "en": "A second decorated tomb of the same period.",
+    "ar": "مقبرة ثانية مزينة من الحقبة نفسها."
+   }
+  },
+  {
+   "title": {
+    "en": "Cliffside necropolis",
+    "ar": "الجبانة الصخرية"
+   },
+   "desc": {
+    "en": "Rows of rock tombs above the Nile valley.",
+    "ar": "صفوف من المقابر الصخرية تطل على وادي النيل."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "08:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "08:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "08:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "08:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "08:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "08:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "08:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/AlMualla",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning, on the way between Luxor and Esna or Edfu.",
+   "ar": "الصباح، في الطريق بين الأقصر وإسنا أو إدفو."
+  },
+  "crowdNotes": {
+   "en": "Seldom visited; a short climb leads up to the tombs.",
+   "ar": "قليلة الزوار، ويؤدي صعود قصير إلى المقابر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/MoallaTombAnkhtifi.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MoallaTombAnkhtifi.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/MoallaTombAnkhtifiInside2.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MoallaTombAnkhtifiInside2.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/MoallaLandscape.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MoallaLandscape.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/El_Mo%27alla",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B9%D9%84%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12193415",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (07:00-17:00),address,description,status",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مقابر-المعلا/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (08:00, last entry 16:00; Ramadan last entry 15:00),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/AlMualla",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (booking page)",
+   "url": "https://egymonuments.com/book-date/192",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list: 100/50, 10/5, 07:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Ankhtifi",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Hefat, Djerty)",
+   "url": "https://en.wikipedia.org/wiki/El_Mo%27alla",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Opening conflict: MoTA guide and Nov 2024 list 07:00-17:00; booking platform 'from 08:00, last entry 16:00' in all seasons. Narrowest window used (open 08:00, close 17:00, last entry 16:00; batch-7 Q1a). Ramadan: booking last entry 15:00, closing not published, so last entry only. No summer schedule: the booking platform shows the same hours summer and winter (Esna area, not the Qurna zone). The guide's 'buy online' link is malformed; onlineUrl uses the working booking page. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

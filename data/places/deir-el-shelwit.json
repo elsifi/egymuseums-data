@@ -1,0 +1,375 @@
+{
+ "id": "deir-el-shelwit",
+ "kind": "site",
+ "wikidataId": "Q820028",
+ "name": {
+  "en": "Temple of Isis at Deir el-Shelwit",
+  "ar": "معبد إيزيس بدير الشلويط"
+ },
+ "aliases": [
+  "Deir el-Shelwit",
+  "دير الشلويط"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor (West Bank)",
+  "ar": "الأقصر (البر الغربي)"
+ },
+ "area": {
+  "en": "West Bank, about 4 km south of Medinet Habu",
+  "ar": "البر الغربي، على بعد نحو 4 كم جنوب مدينة هابو"
+ },
+ "address": {
+  "en": "Deir el-Shelwit, Qurna, West Bank, Luxor",
+  "ar": "دير الشلويط، القرنة، البر الغربي، الأقصر"
+ },
+ "lat": 25.695219,
+ "lng": 32.578481,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A small Roman-period temple of Isis on Luxor’s West Bank, one of the last temples built in Egypt, with crisp reliefs naming emperors from Galba to Antoninus Pius.",
+  "ar": "معبد صغير لإيزيس من العصر الروماني في البر الغربي بالأقصر، من آخر المعابد التي شُيدت في مصر، بنقوش واضحة تحمل أسماء أباطرة من جالبا إلى أنطونينوس بيوس."
+ },
+ "description": {
+  "en": "The temple of Isis at Deir el-Shelwit lies on the southern edge of the Theban West Bank, about four kilometres south of Medinet Habu and close to Malkata. Building began in the first century AD and continued into the second, which makes it one of the latest temples of ancient Egyptian religion. Unusually for Thebes, it was dedicated not to the local triad of Amun, Mut and Khonsu but to Isis. The temple itself is compact: a central sanctuary surrounded by a corridor, side chapels, a purification room and a stair to the roof. Its outer walls are plain, but inside the reliefs are well preserved and recall those of Dendera and Philae. A richly carved gateway stands about sixty metres to the east, inside a mudbrick enclosure that also contains a well. Cartouches name Roman emperors such as Galba, Otho, Vespasian, Hadrian and Antoninus Pius. Some blocks in the outer wall were reused from older monuments, probably Medinet Habu.",
+  "ar": "يقع معبد إيزيس في دير الشلويط عند الطرف الجنوبي للبر الغربي بطيبة، على بعد نحو أربعة كيلومترات جنوب مدينة هابو وبالقرب من الملقطة. بدأ بناؤه في القرن الأول الميلادي واستمر حتى القرن الثاني، فهو من آخر المعابد التي شُيدت للديانة المصرية القديمة. وخلافًا للمألوف في طيبة، لم يُكرس لثالوثها آمون وموت وخونسو، بل للمعبودة إيزيس. المعبد صغير الحجم، يتوسطه قدس أقداس يحيط به ممر تنفتح عليه مقاصير جانبية وحجرة للتطهير وسلم يصعد إلى السطح. جدرانه الخارجية خالية تقريبًا من النقوش، أما نقوشه الداخلية فمحفوظة جيدًا وتذكّر بنقوش دندرة وفيلة. وعلى بعد نحو ستين مترًا شرقًا تقف بوابة غنية بالنقوش داخل سور من الطوب اللبن يضم أيضًا بئرًا. وتحمل الخراطيش أسماء أباطرة رومان مثل جالبا وأوتو وفسبازيان وهادريان وأنطونينوس بيوس. كما أُعيد استخدام بعض الكتل في الجدار الخارجي من آثار أقدم، يرجح أنها من مدينة هابو."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Sanctuary reliefs",
+    "ar": "نقوش قدس الأقداس"
+   },
+   "desc": {
+    "en": "Well-preserved Roman-period scenes inside the small temple.",
+    "ar": "مناظر من العصر الروماني محفوظة جيدًا داخل المعبد الصغير."
+   }
+  },
+  {
+   "title": {
+    "en": "Decorated gateway",
+    "ar": "البوابة المزخرفة"
+   },
+   "desc": {
+    "en": "A gateway carved on all sides, standing east of the temple.",
+    "ar": "بوابة منقوشة من جميع جوانبها تقف شرق المعبد."
+   }
+  },
+  {
+   "title": {
+    "en": "Emperors’ cartouches",
+    "ar": "خراطيش الأباطرة"
+   },
+   "desc": {
+    "en": "Names of Roman emperors written as pharaohs.",
+    "ar": "أسماء أباطرة رومان مكتوبة على طريقة الفراعنة."
+   }
+  },
+  {
+   "title": {
+    "en": "Reused blocks",
+    "ar": "الكتل المعاد استخدامها"
+   },
+   "desc": {
+    "en": "Older carved blocks, probably from Medinet Habu, in the outer wall.",
+    "ar": "كتل منقوشة أقدم، يرجح أنها من مدينة هابو، في الجدار الخارجي."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Parking: car or taxi",
+     "ar": "انتظار السيارات: ملاكي أو تاكسي"
+    },
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Parking: microbus",
+     "ar": "انتظار السيارات: ميكروباص"
+    },
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Parking: coaster",
+     "ar": "انتظار السيارات: كوستر"
+    },
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Parking: bus",
+     "ar": "انتظار السيارات: أتوبيس"
+    },
+    "amount": 100
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/DeirEl-shelwit",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Early morning, combined with Medinet Habu.",
+   "ar": "الصباح الباكر، مع زيارة مدينة هابو."
+  },
+  "crowdNotes": {
+   "en": "Off the main tourist circuit and usually empty; a guardian opens the temple.",
+   "ar": "خارج المسار السياحي المعتاد وخالٍ غالبًا من الزوار، ويفتح الحارس المعبد."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/ShelwitTemple.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ShelwitTemple.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Deir_el-Shelwit_Isis_Temple_eastern_view.jpg",
+   "author": "HoremWeb",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deir_el-Shelwit_Isis_Temple_eastern_view.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Deir_El-Shelwit_propylon_relief.jpg",
+   "author": "HoremWeb",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deir_El-Shelwit_propylon_relief.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Deir_el-Shelwit",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B4%D9%84%D9%88%D9%8A%D8%B7",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q820028",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (06:00-17:00),address,description,status",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-إيزيس-بدير-شلويط/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (lastEntry by season),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/DeirEl-shelwit",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,extras (parking) (booking page)",
+   "url": "https://egymonuments.com/book-date/40",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list: Temple of Isis 100/50, 10/5)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Deir_el-Shelwit",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Guide, booking platform and Nov 2024 list agree on prices (100/50, 10/5). Winter (standard) hours 06:00-17:00 with last entry 16:00 (MoTA guide closing 17:00 + one-hour rule; booking platform winter last entry 16:00). Summer 2026: 06:00-18:00 for the Qurna (West Bank) zone per the 24 Apr 2026 announcement, last entry 17:00 per booking platform. Ramadan on the booking platform (last entry 16:00) equals the winter week, so no Ramadan exception (batch-4 Q13a). Summer 2026 exception (2026-04-24 to 2026-10-29) follows the Luxor antiquities summer schedule (daylight-saving period, until the last Thursday of October); the winter 2026-27 schedule had not been announced on 2026-10-05 - recheck after 29 Oct 2026. Parking from the booking page (same for Egyptian and foreign). City overridden to 'Luxor (West Bank)' as in other West Bank records."
+}

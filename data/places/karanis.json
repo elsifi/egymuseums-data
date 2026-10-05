@@ -1,0 +1,296 @@
+{
+ "id": "karanis",
+ "kind": "site",
+ "wikidataId": "Q657455",
+ "name": {
+  "en": "Karanis (Kom Aushim)",
+  "ar": "كوم أوشيم (كرانيس)"
+ },
+ "aliases": [
+  "Karanis",
+  "كوم أوشيم"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "faiyum",
+ "city": {
+  "en": "Tamiya",
+  "ar": "طامية"
+ },
+ "area": {
+  "en": "Kom Aushim, on the Cairo–Faiyum desert road",
+  "ar": "كوم أوشيم، على طريق القاهرة–الفيوم الصحراوي"
+ },
+ "address": {
+  "en": "Kom Aushim, Cairo–Faiyum desert road, Tamiya, Faiyum Governorate",
+  "ar": "كوم أوشيم، طريق القاهرة–الفيوم الصحراوي، طامية، محافظة الفيوم"
+ },
+ "lat": 29.518089,
+ "lng": 30.902931,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The Kom Aushim (Karanis) site museum stands at the entrance and has its own ticket.",
+  "ar": "مفتوحة يوميًا. ويقع متحف كوم أوشيم عند مدخل الموقع وله تذكرة مستقلة."
+ },
+ "summary": {
+  "en": "The ruins of a Graeco-Roman farming town on the edge of the Faiyum, with two limestone temples to crocodile gods, houses, granaries and baths.",
+  "ar": "أطلال بلدة زراعية من العصر اليوناني الروماني على حافة الفيوم، تضم معبدين من الحجر الجيري لمعبودات التمساح ومنازل وصوامع وحمامات."
+ },
+ "description": {
+  "en": "Karanis was founded in the third century BC under Ptolemy II, one of several towns planted around the Faiyum to farm its newly reclaimed land, many of them settled by Greek veterans. It prospered in the Roman period, when the canals were cleaned and the fields restored, and survived until it was slowly abandoned in late antiquity. The mudbrick town covered around 60 hectares. Excavations from the 1920s onward, notably by the University of Michigan, uncovered streets of houses, granaries, a bath complex and thousands of papyri that document daily life in remarkable detail. Two stone temples stand out: the larger South Temple, dedicated to the crocodile gods Pnepheros and Petesouchos, and the smaller North Temple, probably also for a crocodile deity. A walk across the mounds gives a rare sense of an ordinary provincial town rather than a royal monument. The site museum at the entrance displays finds from the area.",
+  "ar": "أُسست كرانيس في القرن الثالث قبل الميلاد في عهد بطلميوس الثاني، ضمن عدد من البلدات التي أُنشئت حول الفيوم لاستزراع أراضيها المستصلحة، واستقر في كثير منها جنود إغريق قدامى. وازدهرت البلدة في العصر الروماني بعد تطهير القنوات وإصلاح الحقول، وظلت عامرة حتى هُجرت تدريجيًا في أواخر العصور القديمة. امتدت البلدة المبنية بالطوب اللبن على نحو 60 هكتارًا، وكشفت الحفائر منذ عشرينيات القرن الماضي، ولا سيما حفائر جامعة ميشيجان، عن شوارع ومنازل وصوامع غلال وحمام، إلى جانب آلاف البرديات التي تصف الحياة اليومية بتفصيل نادر. ويبرز في الموقع معبدان من الحجر: المعبد الجنوبي الأكبر المكرس لمعبودي التمساح بنفيروس وبتيسوخوس، والمعبد الشمالي الأصغر الذي يرجح أنه كُرس كذلك لمعبود تمساح. والتجول بين التلال يمنح الزائر صورة نادرة لبلدة ريفية عادية لا لأثر ملكي. ويعرض متحف الموقع عند المدخل مكتشفات المنطقة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "South Temple",
+    "ar": "المعبد الجنوبي"
+   },
+   "desc": {
+    "en": "Limestone temple of the crocodile gods Pnepheros and Petesouchos, with priests’ rooms alongside.",
+    "ar": "معبد من الحجر الجيري لمعبودي التمساح بنفيروس وبتيسوخوس، وإلى جانبه حجرات الكهنة."
+   }
+  },
+  {
+   "title": {
+    "en": "North Temple",
+    "ar": "المعبد الشمالي"
+   },
+   "desc": {
+    "en": "A smaller Roman-period temple with an altar shaped for a crocodile mummy.",
+    "ar": "معبد أصغر من العصر الروماني به مذبح يتسع لمومياء تمساح."
+   }
+  },
+  {
+   "title": {
+    "en": "Mudbrick houses and granaries",
+    "ar": "المنازل والصوامع اللبنية"
+   },
+   "desc": {
+    "en": "Streets of excavated homes and grain stores from a working farm town.",
+    "ar": "شوارع من المنازل وصوامع الغلال المكتشفة في بلدة زراعية."
+   }
+  },
+  {
+   "title": {
+    "en": "Roman baths",
+    "ar": "الحمام الروماني"
+   },
+   "desc": {
+    "en": "Remains of the town’s public bath complex.",
+    "ar": "بقايا الحمام العام للبلدة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning; combine with the site museum at the entrance.",
+   "ar": "الصباح، مع زيارة متحف الموقع عند المدخل."
+  },
+  "crowdNotes": {
+   "en": "Open mounds with loose ground and little shade; wear sturdy shoes.",
+   "ar": "تلال مكشوفة بأرض غير ثابتة وظل قليل، فيُفضل ارتداء حذاء مريح."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Karanis_001.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karanis_001.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/KaranisLandscape.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:KaranisLandscape.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Karanis_010.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karanis_010.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Karanis",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%B1%D9%86%D9%8A%D8%B3",
+  "osm": "way/1280935001"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q657455",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description,status",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/منطقة-آثار-كرانيس/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: 150/75, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Karanis",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status open: listed in the live MoTA open-sites guide (undated official page, counts as current per D6). Hours 08:00-17:00 (MoTA open-sites guide, matches Nov 2024 list); last entry 16:00 by the guide's 'last entry one hour before closing' rule. Ramadan 09:00-16:00 per guide, last entry 15:00. Prices from the Nov 2024 MoTA list, the only official price source (no egymonuments.gov.eg portal page, not on the egymonuments.com booking platform, so no onlineUrl). No Arab tier (abolished at SCA sites from 1 Jan 2026). Free groups are not stated on any official page for this site, so omitted. The MoTA guide calls the 1924-25 excavators 'the German University of Michigan mission' - an error; Wikipedia (Michigan, from 1924) followed for the description. City set to Tamiya (MoTA address). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

@@ -1,0 +1,387 @@
+{
+ "id": "el-assasif-tombs",
+ "kind": "site",
+ "wikidataId": "Q286631",
+ "name": {
+  "en": "El-Assasif Tombs",
+  "ar": "العساسيف"
+ },
+ "aliases": [
+  "Assasif",
+  "El-Assasif"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor (West Bank)",
+  "ar": "الأقصر (البر الغربي)"
+ },
+ "area": {
+  "en": "West Bank, the valley below Deir el-Bahari (Qurna)",
+  "ar": "البر الغربي، الوادي أسفل الدير البحري (القرنة)"
+ },
+ "address": {
+  "en": "El-Assasif, Qurna, West Bank, Luxor",
+  "ar": "العساسيف، القرنة، البر الغربي، الأقصر"
+ },
+ "lat": 25.735689,
+ "lng": 32.611947,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The tomb of Pabasa has its own ticket.",
+  "ar": "مفتوحة يوميًا. ولمقبرة باباسا تذكرة مستقلة."
+ },
+ "summary": {
+  "en": "A Theban necropolis in the valley leading to Deir el-Bahari, best known for the vast Late Period tombs of Theban officials and colourful New Kingdom chapels.",
+  "ar": "جبانة طيبية في الوادي المؤدي إلى الدير البحري، اشتهرت بمقابر كبار موظفي طيبة الضخمة في العصر المتأخر وبمقاصير ملونة من الدولة الحديثة."
+ },
+ "description": {
+  "en": "El-Assasif occupies the low ground in front of the temples of Deir el-Bahari, between Dra Abu el-Naga and el-Khokha. Burials here span from the New Kingdom to the Late Period, roughly 1550 to 525 BC. New Kingdom chapels are decorated with scenes of farming, harvest, hunting in the marshes and the pilgrimage to Abydos, many still bright with colour. In the Twenty-fifth and Twenty-sixth Dynasties powerful officials cut some of the largest private tombs in Egypt here, with sunken courts and long underground halls: Montuemhat, mayor of Thebes under Taharqa, and Pabasa, chief steward of the God’s Wife of Amun under Psamtik I, are the best known. Excavation continues: in 2019 a cache of thirty sealed painted coffins of the Twenty-second Dynasty was found here, and in 2025 a joint mission identified the owner of a Ramesside tomb as a mayor of Thebes. The open tombs can vary, so ask at the ticket office.",
+  "ar": "تشغل العساسيف الأرض المنخفضة أمام معابد الدير البحري، بين ذراع أبو النجا والخوخة. وتمتد الدفنات فيها من الدولة الحديثة حتى العصر المتأخر، أي من نحو 1550 إلى 525 قبل الميلاد. تزين مقاصير الدولة الحديثة مناظر الزراعة والحصاد والصيد في الأحراش والحج إلى أبيدوس، ولا يزال كثير منها محتفظًا بألوانه الزاهية. وفي عهد الأسرتين الخامسة والعشرين والسادسة والعشرين نحت كبار الموظفين هنا بعضًا من أضخم مقابر الأفراد في مصر، بأفنية غائرة وقاعات طويلة تحت الأرض، وأشهرهم منتومحات عمدة طيبة في عهد طهرقا، وباباسا رئيس خدم الزوجة الإلهية لآمون في عهد بسماتيك الأول. ولا تزال الاكتشافات مستمرة، ففي عام 2019 عُثر هنا على خبيئة من ثلاثين تابوتًا ملونًا مغلقًا من الأسرة الثانية والعشرين، وفي عام 2025 حددت بعثة مشتركة صاحب مقبرة من العصر الرعامسي بأنه أحد عمد طيبة. وقد تختلف المقابر المفتوحة من وقت لآخر، فيُستحسن السؤال في شباك التذاكر."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Pabasa",
+    "ar": "مقبرة باباسا"
+   },
+   "desc": {
+    "en": "A Twenty-sixth Dynasty steward’s tomb with a pillared court; separate ticket.",
+    "ar": "مقبرة رئيس خدم من الأسرة السادسة والعشرين بفناء ذي أعمدة، ولها تذكرة مستقلة."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Montuemhat",
+    "ar": "مقبرة منتومحات"
+   },
+   "desc": {
+    "en": "One of the largest private tombs in Egypt, built for a mayor of Thebes.",
+    "ar": "من أضخم مقابر الأفراد في مصر، شُيدت لعمدة طيبة."
+   }
+  },
+  {
+   "title": {
+    "en": "New Kingdom painted chapels",
+    "ar": "مقاصير الدولة الحديثة الملونة"
+   },
+   "desc": {
+    "en": "Scenes of harvest, marsh hunting and the Abydos pilgrimage.",
+    "ar": "مناظر الحصاد والصيد في الأحراش والحج إلى أبيدوس."
+   }
+  },
+  {
+   "title": {
+    "en": "Assasif coffin cache",
+    "ar": "خبيئة توابيت العساسيف"
+   },
+   "desc": {
+    "en": "Site of the 2019 discovery of thirty sealed painted coffins.",
+    "ar": "موقع اكتشاف ثلاثين تابوتًا ملونًا مغلقًا عام 2019."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Tomb of Pabasa — foreign adult",
+     "ar": "مقبرة باباسا — أجنبي بالغ"
+    },
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "label": {
+     "en": "Tomb of Pabasa — foreign student",
+     "ar": "مقبرة باباسا — طالب أجنبي"
+    },
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Tomb of Pabasa — Egyptian adult",
+     "ar": "مقبرة باباسا — مصري بالغ"
+    },
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "Tomb of Pabasa — Egyptian student",
+     "ar": "مقبرة باباسا — طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/ElAssasif",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Early morning, before or after Hatshepsut’s temple next door.",
+   "ar": "الصباح الباكر، قبل زيارة معبد حتشبسوت المجاور أو بعدها."
+  },
+  "crowdNotes": {
+   "en": "Much quieter than Deir el-Bahari. Late Period tombs have long stairways down to underground halls.",
+   "ar": "أهدأ كثيرًا من الدير البحري. ومقابر العصر المتأخر بها سلالم طويلة تهبط إلى قاعات تحت الأرض."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/El-Asassif_necropolis.JPG",
+   "author": "Rémih",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:El-Asassif_necropolis.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/John_Beasly_Greene_%28American%2C_born_France_-_%28El_Assasif%2C_Porte_de_Granit_Rose%2C_No._2%29_-_Google_Art_Project.jpg",
+   "author": "John Beasly Greene",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Beasly_Greene_(American,_born_France_-_(El_Assasif,_Porte_de_Granit_Rose,_No._2)_-_Google_Art_Project.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/El-Assasif",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D8%B3%D8%A7%D8%B3%D9%8A%D9%81",
+  "osm": "way/480876970"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q286631",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (06:00-17:00),address,description,status",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/جبانة-العساسيف/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (lastEntry by season),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/ElAssasif",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (booking page)",
+   "url": "https://egymonuments.com/book-date/183",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "extras (Tomb of Pabasa, official booking platform)",
+   "url": "https://egymonuments.com/details/Tombofpabasa",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "extras (Tomb of Pabasa, booking page)",
+   "url": "https://egymonuments.com/book-date/186",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list: Assasif 200/100, Pabasa 100/50, 10/5)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; 2019 cache, 2025 Kampp 23)",
+   "url": "https://en.wikipedia.org/wiki/El-Assasif",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Guide, booking platform and Nov 2024 list agree (Assasif 200/100, 10/5; Pabasa 100/50, 10/5 on its own booking page). Winter (standard) hours 06:00-17:00 with last entry 16:00 (MoTA guide closing 17:00 + one-hour rule; booking platform winter last entry 16:00). Summer 2026: 06:00-18:00 for the Qurna (West Bank) zone per the 24 Apr 2026 announcement, last entry 17:00 per booking platform. Ramadan on the booking platform (last entry 16:00) equals the winter week, so no Ramadan exception (batch-4 Q13a). Summer 2026 exception (2026-04-24 to 2026-10-29) follows the Luxor antiquities summer schedule (daylight-saving period, until the last Thursday of October); the winter 2026-27 schedule had not been announced on 2026-10-05 - recheck after 29 Oct 2026. Which tombs the main Assasif ticket opens (e.g. Kheruef, Ankh-Hor, Montuemhat) is not stated by any official page - not listed as included; Montuemhat appears as a highlight from the MoTA guide text, not as a promise of access. City overridden to 'Luxor (West Bank)'. No parking listed on the Assasif booking page."
+}

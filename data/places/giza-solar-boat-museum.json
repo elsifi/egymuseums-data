@@ -1,0 +1,108 @@
+{
+ "id": "giza-solar-boat-museum",
+ "kind": "museum",
+ "wikidataId": "Q6631530",
+ "name": {
+  "en": "Giza Solar Boat Museum",
+  "ar": "متحف مركب الجيزة الشمسي"
+ },
+ "aliases": [
+  "Khufu Boat Museum",
+  "Solar Boat Museum",
+  "متحف مركب خوفو",
+  "متحف مراكب الشمس"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "giza",
+ "city": {
+  "en": "Giza",
+  "ar": "الجيزة"
+ },
+ "area": {
+  "en": "Giza Plateau, south side of the Great Pyramid",
+  "ar": "هضبة الجيزة، الجانب الجنوبي للهرم الأكبر"
+ },
+ "lat": 29.9781,
+ "lng": 31.1344,
+ "status": "closed",
+ "statusNote": {
+  "en": "Closed permanently. Khufu’s boat was moved to the Grand Egyptian Museum in 2021 and the old museum building was dismantled.",
+  "ar": "مغلق نهائيًا. فقد نُقل مركب خوفو إلى المتحف المصري الكبير عام 2021، وأُزيل مبنى المتحف القديم."
+ },
+ "summary": {
+  "en": "The former museum beside the Great Pyramid that housed Khufu’s reassembled cedar boat from 1982 until the boat moved to the Grand Egyptian Museum in 2021.",
+  "ar": "المتحف السابق بجوار الهرم الأكبر الذي ضم مركب خوفو المصنوع من خشب الأرز منذ عام 1982 حتى نقله إلى المتحف المصري الكبير عام 2021."
+ },
+ "description": {
+  "en": "In May 1954 workers clearing the south side of the Great Pyramid found a sealed pit covered by huge limestone blocks. Inside lay the dismantled parts of a full-size cedar boat, some 1,224 pieces, buried for King Khufu more than 4,500 years ago. Conservators spent years reassembling it, completing the work in 1968, and a purpose-built museum was raised over the pit; it opened to visitors in the early 1980s. Visitors walked along galleries at several levels to view the 43-metre hull from above, from the side and from below, alongside photographs of the discovery and a scale model. In August 2021 the boat was carried in one piece to the Grand Egyptian Museum, where it is now displayed with the second Khufu boat, and the old building was then removed. The pits on the plateau remain part of the Giza Pyramids site.",
+  "ar": "في مايو 1954، وأثناء أعمال التنظيف على الجانب الجنوبي للهرم الأكبر، عُثر على حفرة مغلقة تغطيها كتل ضخمة من الحجر الجيري، وبداخلها أجزاء مفككة لمركب كامل الحجم من خشب الأرز، بلغت نحو 1224 قطعة، دُفنت للملك خوفو قبل أكثر من 4500 عام. أمضى المرممون سنوات في إعادة تركيبه حتى اكتمل العمل عام 1968، ثم شُيد متحف خاص فوق الحفرة فُتح للزيارة في مطلع الثمانينيات. وكان الزائر يتنقل بين ممرات على عدة مستويات ليشاهد بدن المركب البالغ طوله 43 مترًا من أعلى ومن الجانب ومن أسفل، إلى جانب صور الاكتشاف ونموذج مصغر. وفي أغسطس 2021 نُقل المركب قطعة واحدة إلى المتحف المصري الكبير حيث يُعرض الآن مع مركب خوفو الثاني، ثم أُزيل المبنى القديم. ولا تزال حفر المراكب جزءًا من منطقة أهرامات الجيزة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Khufu’s boat (now at the GEM)",
+    "ar": "مركب خوفو (في المتحف المصري الكبير حاليًا)"
+   },
+   "desc": {
+    "en": "The 43-metre cedar boat once shown here is now displayed at the Grand Egyptian Museum.",
+    "ar": "المركب المصنوع من خشب الأرز بطول 43 مترًا، ويُعرض الآن في المتحف المصري الكبير."
+   }
+  },
+  {
+   "title": {
+    "en": "Boat pit",
+    "ar": "حفرة المركب"
+   },
+   "desc": {
+    "en": "The rock-cut pit south of the Great Pyramid where the boat was found in 1954.",
+    "ar": "الحفرة المنحوتة في الصخر جنوب الهرم الأكبر حيث عُثر على المركب عام 1954."
+   }
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Barque_Solaire.JPG",
+   "author": "Alex Lbh (uploaded by Bradipus)",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barque_Solaire.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Giza_Solar_boat_museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D8%B1%D9%83%D8%A8_%D8%AE%D9%88%D9%81%D9%88",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6631530",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (museum dismantled after the boat moved to the GEM in Aug 2021)",
+   "url": "https://en.wikipedia.org/wiki/Giza_Solar_boat_museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (1954 discovery, 1,224 pieces, reassembly 1968)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D8%B1%D9%83%D8%A8_%D8%AE%D9%88%D9%81%D9%88",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Barque_Solaire.JPG",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Closed permanently: museum dismantled after Khufu's first boat moved to the GEM (Aug 2021); seed note (Wikidata: demolished) confirms. Kept in the catalogue as a historical record with status 'closed'; its statusNote points to the Grand Egyptian Museum (batch-11 Q8a). Opening year conflicts (1982 Wikidata/en-wiki completion vs 1985 ar-wiki) - text says 'early 1980s'. No hours/prices/tickets (not visitable). Photo: the boat inside the old museum (2005); the ship is the main subject, though the 1980s interior is visible - flagged."
+}

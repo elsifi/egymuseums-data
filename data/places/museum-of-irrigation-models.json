@@ -1,0 +1,130 @@
+{
+ "id": "museum-of-irrigation-models",
+ "kind": "museum",
+ "wikidataId": "Q139925037",
+ "name": {
+  "en": "Museum of Irrigation Models",
+  "ar": "متحف نماذج الري"
+ },
+ "aliases": [
+  "متحف الثورة",
+  "Revolution Museum",
+  "Irrigation Museum",
+  "متحف الري"
+ ],
+ "category": "specialised",
+ "operator": "other",
+ "governorate": "qalyubia",
+ "city": {
+  "en": "El Qanater El Khayreya",
+  "ar": "القناطر الخيرية"
+ },
+ "area": {
+  "en": "Delta Barrage gardens",
+  "ar": "حدائق القناطر الخيرية"
+ },
+ "address": {
+  "en": "Inside the Ministry of Water Resources and Irrigation gardens at the Delta Barrage, El Qanater El Khayreya, Qalyubia",
+  "ar": "داخل حدائق وزارة الموارد المائية والري بالقناطر الخيرية، محافظة القليوبية"
+ },
+ "lat": 30.192354,
+ "lng": 31.11636,
+ "status": "open",
+ "statusNote": {
+  "en": "Open to visitors in the barrage gardens; hours and the entry fee are not published, so ask at the gardens.",
+  "ar": "يستقبل الزوار داخل حدائق القناطر، ولم تُنشر مواعيده ولا رسوم دخوله، لذا يُنصح بالسؤال في الحدائق."
+ },
+ "summary": {
+  "en": "Egypt's historic irrigation museum at the Delta Barrage, using engineering models, maps and instruments to tell the story of water management on the Nile.",
+  "ar": "متحف الري التاريخي في القناطر الخيرية، يروي قصة إدارة مياه النيل بالنماذج الهندسية والخرائط وأدوات القياس."
+ },
+ "description": {
+  "en": "This is one of Egypt's oldest specialised museums, set among the historic gardens of the Delta Barrage, the dam that Muhammad Ali began in the 1830s where the Nile splits into its two Delta branches. A small display of irrigation models existed beside the barrage early on and was formally organised as a museum in 1929. A new museum opened in 1957 under the name Revolution Museum, but its scientific content soon made 'Irrigation Museum' the usual name. After a renovation that began in 2006 it reopened in November 2011 with a cinema hall and water features. The museum is run by the Ministry of Water Resources and Irrigation and traces the Egyptian school of hydraulic engineering from pharaonic times through the Islamic era and Muhammad Ali to modern national projects. Exhibits include wooden and modern models of barrages, dams and canal networks, historic maps and atlases, survey and measuring instruments, and archive photographs.",
+  "ar": "يُعد من أقدم المتاحف المتخصصة في مصر، ويقع وسط الحدائق التاريخية للقناطر الخيرية، السد الذي بدأ محمد علي إنشاءه في ثلاثينيات القرن التاسع عشر عند تفرع النيل إلى فرعي الدلتا. وقد وُجدت بجوار القناطر في وقت مبكر قاعة صغيرة لنماذج مشروعات الري، نُظمت رسميًا متحفًا عام 1929. ثم افتُتح متحف جديد عام 1957 باسم متحف الثورة، لكن طابعه العلمي جعل اسم متحف الري هو الأكثر تداولًا. وبعد تطوير بدأ عام 2006 أُعيد افتتاحه في نوفمبر 2011 بقاعة عرض سينمائي ونوافير ومجارٍ مائية. ويتبع المتحف وزارة الموارد المائية والري، ويتتبع مسيرة مدرسة الري المصرية من العصر الفرعوني مرورًا بالعصر الإسلامي وعصر محمد علي حتى المشروعات القومية الحديثة. ومن معروضاته نماذج خشبية وحديثة للقناطر والسدود وشبكات الترع، وخرائط وأطالس تاريخية، وأجهزة للمساحة والقياس، وصور أرشيفية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Engineering models",
+    "ar": "النماذج الهندسية"
+   },
+   "desc": {
+    "en": "Scale models of barrages, dams, pumping stations and canal networks, some from the 1929 museum.",
+    "ar": "نماذج مصغرة للقناطر والسدود ومحطات الرفع وشبكات الترع، بعضها من متحف 1929."
+   }
+  },
+  {
+   "title": {
+    "en": "Historic maps",
+    "ar": "الخرائط التاريخية"
+   },
+   "desc": {
+    "en": "Maps and atlases showing how Egypt's irrigation network grew.",
+    "ar": "خرائط وأطالس توضح تطور شبكة الري في مصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Surveying instruments",
+    "ar": "أدوات المساحة والقياس"
+   },
+   "desc": {
+    "en": "Instruments once used for surveying and measuring the Nile.",
+    "ar": "أجهزة استُخدمت في أعمال المساحة وقياس مياه النيل."
+   }
+  },
+  {
+   "title": {
+    "en": "Bengal fig tree",
+    "ar": "شجرة التين البنغالي"
+   },
+   "desc": {
+    "en": "A giant fig in the museum garden, of a species brought to Egypt in Khedive Ismail's time.",
+    "ar": "شجرة تين ضخمة في حديقة المتحف من نوع أُدخل إلى مصر في عهد الخديوي إسماعيل."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Weekday mornings; the gardens are crowded on Fridays and public holidays.",
+   "ar": "صباح أيام العمل؛ إذ تزدحم الحدائق أيام الجمعة والعطلات الرسمية."
+  },
+  "crowdNotes": {
+   "en": "Entry to the barrage gardens is charged separately at the gate.",
+   "ar": "يُدفع رسم دخول حدائق القناطر منفصلًا عند البوابة."
+  }
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%86%D9%85%D8%A7%D8%B0%D8%AC_%D8%A7%D9%84%D8%B1%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q139925037",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (museum presented to visitors by the Qanater irrigation director; garden ticket prices; news 27 May 2026)",
+   "url": "https://www.youm7.com/story/2026/5/27/%D9%86%D8%B2%D9%87%D8%A9-%D9%88%D8%B3%D8%B7-%D8%AC%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D8%A9-%D9%88%D9%86%D9%87%D8%B1-%D8%A7%D9%84%D9%86%D9%8A%D9%84-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%D9%8A%D8%A9-11-%D8%AD%D8%AF%D9%8A%D9%82%D8%A9/7429000",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%86%D9%85%D8%A7%D8%B0%D8%AC_%D8%A7%D9%84%D8%B1%D9%8A",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Operator: Ministry of Water Resources and Irrigation ('other' in the enum). Status 'open' from the Qanater irrigation director's statement (youm7, 27 May 2026) presenting the museum to Eid visitors; no hours or museum fee published. Garden entry: EGP 10-20 normal days, 20-40 on holidays (same source) - not modelled as a museum price. Not to be confused with the Children's Museum of Water Sciences in the same gardens or the planned irrigation museum in the New Administrative Capital. No photos: no Commons image of the museum or its models found."
+}

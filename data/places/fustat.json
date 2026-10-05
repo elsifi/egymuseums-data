@@ -1,0 +1,177 @@
+{
+ "id": "fustat",
+ "kind": "site",
+ "wikidataId": "Q98966100",
+ "name": {
+  "en": "Fustat archaeological site",
+  "ar": "منطقة آثار الفسطاط"
+ },
+ "aliases": [
+  "El-Fustat",
+  "الفسطاط",
+  "Al-Fusṭāṭ",
+  "الفُسْطَاطُ",
+  "Fustat ruins"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Old Cairo (Misr al-Qadima), east of the Amr ibn al-As Mosque",
+  "ar": "مصر القديمة، شرق جامع عمرو بن العاص"
+ },
+ "lat": 30.005727,
+ "lng": 31.238626,
+ "status": "renovation",
+ "statusNote": {
+  "en": "The excavation area is being developed as part of the Fustat Hills Gardens project, with a raised walkway around the ruins. No date has been announced for reopening it to visitors.",
+  "ar": "تُطوَّر منطقة الحفائر ضمن مشروع حدائق تلال الفسطاط، مع ممشى مرتفع يحيط بالأطلال. ولم يُعلن موعد لإعادة فتحها للزوار."
+ },
+ "summary": {
+  "en": "The excavated remains of Fustat, Egypt's first Islamic capital, founded in 641 beside the Roman fortress of Babylon.",
+  "ar": "أطلال الفسطاط المكشوف عنها، أول عاصمة إسلامية لمصر، التي تأسست عام 641 بجوار حصن بابليون الروماني."
+ },
+ "description": {
+  "en": "After the Arab conquest of Egypt, the general Amr ibn al-As founded Fustat in 641 next to the Roman fortress of Babylon; Caliph Umar had refused to keep the capital at Alexandria. The city took its name from the Arabic word for a tent, after the army's camp, and its first building was the mosque of Amr. For three centuries Fustat was Egypt's capital and one of the richest trading cities of the Islamic world. Much of it was burned in 1168 on the vizier's orders to keep it from a Crusader army, and the area later became a vast field of rubble mounds. Excavations through the twentieth century uncovered streets, multi-storey houses, courtyards, wells, drains and water channels, along with huge quantities of pottery, glass and imported Chinese porcelain. Today the 47-feddan excavation hill sits inside the Fustat Hills Gardens, where a one-kilometre raised walkway is being built so that visitors can look down on the restored remains.",
+  "ar": "بعد الفتح العربي لمصر أسس القائد عمرو بن العاص مدينة الفسطاط عام 641 بجوار حصن بابليون الروماني، بعدما رفض الخليفة عمر بن الخطاب إبقاء العاصمة في الإسكندرية. واشتق اسمها من «الفسطاط» أي الخيمة، نسبة إلى معسكر الجيش، وكان أول ما بُني فيها جامع عمرو. وظلت الفسطاط عاصمة مصر نحو ثلاثة قرون، ومن أغنى المدن التجارية في العالم الإسلامي. وأُحرق جزء كبير منها عام 1168 بأمر الوزير حتى لا تقع في يد جيش صليبي، ثم تحولت المنطقة لاحقًا إلى تلال واسعة من الأنقاض. وكشفت حفائر القرن العشرين عن شوارع وبيوت متعددة الطوابق وأفنية وآبار ومصارف وقنوات للمياه، إلى جانب كميات ضخمة من الفخار والزجاج والخزف الصيني المستورد. واليوم تقع تلة الحفائر، ومساحتها نحو 47 فدانًا، داخل حدائق تلال الفسطاط، حيث يُنشأ ممشى مرتفع بطول كيلومتر واحد يتيح للزوار مشاهدة الأطلال المرممة من أعلى."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Excavated houses",
+    "ar": "البيوت المكشوف عنها"
+   },
+   "desc": {
+    "en": "Foundations of courtyard houses, streets and workshops of the early Islamic city.",
+    "ar": "أساسات بيوت ذات أفنية وشوارع وورش من المدينة الإسلامية المبكرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Water systems",
+    "ar": "شبكات المياه"
+   },
+   "desc": {
+    "en": "Wells, cisterns, drains and channels that supplied a dense medieval city.",
+    "ar": "آبار وصهاريج ومصارف وقنوات كانت تخدم مدينة مكتظة في العصور الوسطى."
+   }
+  },
+  {
+   "title": {
+    "en": "City wall",
+    "ar": "سور المدينة"
+   },
+   "desc": {
+    "en": "Remains of a town wall uncovered on the edge of the site.",
+    "ar": "بقايا سور للمدينة كُشف عنها عند طرف الموقع."
+   }
+  },
+  {
+   "title": {
+    "en": "Panoramic walkway",
+    "ar": "الممشى البانورامي"
+   },
+   "desc": {
+    "en": "A raised walkway under construction around the whole excavation area.",
+    "ar": "ممشى مرتفع قيد الإنشاء يحيط بمنطقة الحفائر كلها."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Early morning or late afternoon, combined with the Amr ibn al-As Mosque and the National Museum of Egyptian Civilization.",
+   "ar": "الصباح الباكر أو آخر النهار، مع الجمع بين الزيارة وجامع عمرو بن العاص والمتحف القومي للحضارة المصرية."
+  },
+  "crowdNotes": {
+   "en": "The ruins are open-air and shadeless.",
+   "ar": "الأطلال مكشوفة وبلا ظل."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/CairoFustatArchaeologicalSite1.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoFustatArchaeologicalSite1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/CairoFustatArchaeologicalSite3.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoFustatArchaeologicalSite3.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/CairoFustatCityWall.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoFustatCityWall.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/al-fustat-old-cairo/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Fustat",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D8%B3%D8%B7%D8%A7%D8%B7",
+  "osm": "way/1080195900"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q98966100",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q839456",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/al-fustat-old-cairo/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (official portal; no hours or ticket listed)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/al-fustat-old-cairo/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (excavation hill under development, 1 km walkway), 19 Aug 2026",
+   "url": "https://www.youm7.com/story/2026/8/19/x/7517093",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: 10/5 Egyptian, 20/10 foreign, 09:00-17:00; not applied while under works)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Fustat",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status 'renovation': youm7 (19 Aug 2026) describes ongoing excavation and restoration works and walkway construction on the 'Tell al-Hafa'ir' inside Fustat Hills Gardens; no visitor opening for the archaeological zone found. The Nov 2024 MoTA list prices 'Fustat' at Egyptian 10/5, foreign 20/10, 09:00-17:00; not shown while the site is under works (prices.status unconfirmed). Recheck when the gardens' archaeological zone opens. Seed lists duplicate Wikidata item Q839456 (the historic city)."
+}

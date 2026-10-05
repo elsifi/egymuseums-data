@@ -1,0 +1,302 @@
+{
+ "id": "al-muzawwaqa-tombs",
+ "kind": "site",
+ "wikidataId": null,
+ "name": {
+  "en": "Al-Muzawwaqa Tombs",
+  "ar": "مقابر المزوقة"
+ },
+ "aliases": [
+  "Qarat el-Muzawwaqa",
+  "El-Muzawwaqa",
+  "القارة المزوقة"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "new-valley",
+ "city": {
+  "en": "Dakhla Oasis",
+  "ar": "الواحات الداخلة"
+ },
+ "area": {
+  "en": "Qarat el-Muzawwaqa, west of al-Qasr",
+  "ar": "القارة المزوقة، غرب القصر"
+ },
+ "address": {
+  "en": "Bir el-Wastani village, about 6 km south-west of al-Qasr, Dakhla Oasis, New Valley Governorate",
+  "ar": "قرية البئر الوسطاني، على بعد نحو 6 كم جنوب غرب القصر، الواحات الداخلة، محافظة الوادي الجديد"
+ },
+ "lat": 25.68099,
+ "lng": 28.83824,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The two painted tombs are protected and opened by the guards.",
+  "ar": "مفتوحة يوميًا، والمقبرتان الملونتان محميتان ويفتحهما الحراس."
+ },
+ "summary": {
+  "en": "A hill of Roman-period rock tombs in Dakhla, two of them painted with vivid funerary scenes and zodiac ceilings.",
+  "ar": "تل من المقابر الصخرية من العصر الروماني في الداخلة، اثنتان منها مزينتان بمناظر جنائزية زاهية وأسقف عليها دائرة البروج."
+ },
+ "description": {
+  "en": "Qarat el-Muzawwaqa, 'the decorated hill', is a cone of sandstone in north-western Dakhla, about 6 km south-west of al-Qasr, honeycombed with around a hundred burial caves. It served as a cemetery of the Roman town of Amheida in the first and second centuries AD. Most tombs are plain, but two side by side on the south-west slope are painted in bright colour: those of Petubastis and Petosiris, local notables whose names mean 'gift of Bastet' and 'gift of Osiris'. Their walls follow Egyptian funerary themes, with Anubis, Isis, Nephthys and the judgement of the dead, alongside scenes of harvest, grain and grapes from the oasis fields, while Petosiris himself appears frontally in Graeco-Roman dress. Both ceilings carry full zodiac circles, a rare feature in Egyptian tombs. Closed for decades to protect the fragile plaster, the tombs were restored and officially reopened in 2013 with a small visitor centre.",
+  "ar": "القارة المزوقة، أي التل المزخرف، تل مخروطي من الحجر الرملي في شمال غرب الداخلة، على بعد نحو 6 كيلومترات جنوب غرب القصر، تتخلله قرابة مئة حجرة للدفن. وكان جبانة لمدينة أمحيدة الرومانية في القرنين الأول والثاني الميلاديين. ومعظم مقابره بسيطة، غير أن مقبرتين متجاورتين على السفح الجنوبي الغربي زُينتا بألوان زاهية، هما مقبرتا بادي باستت وبادي أوزير، وهما من أعيان المنطقة ويعني اسماهما «هبة باستت» و«هبة أوزير». وتتبع جدرانهما الموضوعات الجنائزية المصرية، ففيها أنوبيس وإيزيس ونفتيس ومحاكمة المتوفى، إلى جانب مناظر الحصاد والقمح والعنب من حقول الواحة، بينما يظهر بادي أوزير نفسه بوجه أمامي في زي يوناني روماني. ويحمل سقف كل منهما دائرة كاملة للبروج السماوية، وهي سمة نادرة في المقابر المصرية. وقد ظلت المقبرتان مغلقتين عقودًا لحماية ملاطهما الهش، ثم رُممتا وافتُتحتا رسميًا عام 2013 مع مركز صغير للزوار."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Petosiris",
+    "ar": "مقبرة بادي أوزير"
+   },
+   "desc": {
+    "en": "The owner shown frontally in Roman dress beneath a zodiac ceiling.",
+    "ar": "صاحب المقبرة مصورًا بوجه أمامي في زي روماني تحت سقف عليه البروج."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Petubastis",
+    "ar": "مقبرة بادي باستت"
+   },
+   "desc": {
+    "en": "Harvest scenes and gods of the afterlife in bright colour.",
+    "ar": "مناظر الحصاد ومعبودات العالم الآخر بألوان زاهية."
+   }
+  },
+  {
+   "title": {
+    "en": "Zodiac ceilings",
+    "ar": "أسقف البروج"
+   },
+   "desc": {
+    "en": "Both painted tombs have complete zodiac circles.",
+    "ar": "في المقبرتين الملونتين دائرة كاملة للبروج السماوية."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb hill",
+    "ar": "تل المقابر"
+   },
+   "desc": {
+    "en": "Rows of plain burial caves cut into the sandstone cone.",
+    "ar": "صفوف من حجرات الدفن البسيطة المنحوتة في التل الرملي."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Morning, combined with Deir el-Hagar 3 km away.",
+   "ar": "الصباح، مع الجمع بين الزيارة ومعبد دير الحجر على بعد 3 كم."
+  },
+  "crowdNotes": {
+   "en": "Only a few visitors fit inside the painted tombs at once. Dakhla is a long drive from the Nile Valley or Kharga, so plan an overnight stay in Mut or al-Qasr.",
+   "ar": "لا تتسع المقبرتان الملونتان إلا لعدد قليل من الزوار في وقت واحد. والطريق إلى الداخلة طويل من وادي النيل أو الخارجة، فخطط للمبيت في موط أو القصر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DakhlaMuzawwaqaHill.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:DakhlaMuzawwaqaHill.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/MuzawwaqaPetosirisLeftWall.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MuzawwaqaPetosirisLeftWall.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Necropolis_at_Muzawaka_%28I%29_%284546284910%29.jpg",
+   "author": "Institute for the Study of the Ancient World from New York, United States of America",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Necropolis_at_Muzawaka_(I)_(4546284910).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00; Ramadan 09:00-16:00; last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مقابر-المزوقة/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (MoTA Nov 2024 list: 100/50, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (checked: the 9 Jul 2026 SCA board decision raising prices from 1 Oct 2026 names only Bahariya Oasis sites; not applied here)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "coordinates (tomb listings),description,highlights (Amheida cemetery, ~100 caves, zodiac ceilings, reopened Oct 2013; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Q%C4%81rat_el-Muzawwaqa",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "visit.crowdNotes (travel advice: oasis roads exempt from warnings; updated 4 Aug 2026)",
+   "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "No Wikidata item; coordinates from the German Wikivoyage tomb listings (between the two painted tombs). Prices only from the MoTA Nov 2024 list (no portal page, not on egymonuments.com); kept as confirmed (batch-7 Q4a). The 9 Jul 2026 oasis price rise covers Bahariya only (batch-7 finding), not applied. Ramadan from the MoTA guide (09:00-16:00, last entry 15:00). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Wikivoyage (Dec 2023) gave 09:00-17:00; the official guide says 08:00."
+}

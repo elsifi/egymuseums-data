@@ -1,0 +1,311 @@
+{
+ "id": "fraser-tombs",
+ "kind": "site",
+ "wikidataId": "Q675047",
+ "name": {
+  "en": "Fraser Tombs",
+  "ar": "مقابر فريزر"
+ },
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "minya",
+ "city": {
+  "en": "Minya",
+  "ar": "المنيا"
+ },
+ "area": {
+  "en": "El-Hawarta, near Tihna el-Gebel, east bank north of Minya",
+  "ar": "الحوارتة، قرب طهنا الجبل، البر الشرقي شمال المنيا"
+ },
+ "address": {
+  "en": "El-Hawarta village, about 10 km north of Minya, Minya Governorate",
+  "ar": "قرية الحوارتة، على بعد نحو 10 كم شمال المنيا، محافظة المنيا"
+ },
+ "lat": 28.161939,
+ "lng": 30.776939,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوحة يوميًا."
+ },
+ "summary": {
+  "en": "Fifteen Old Kingdom rock tombs at the edge of the eastern desert, some with statues of their owners carved from the cliff.",
+  "ar": "خمس عشرة مقبرة صخرية من الدولة القديمة عند حافة الصحراء الشرقية، في بعضها تماثيل لأصحابها منحوتة في الصخر."
+ },
+ "description": {
+  "en": "The Fraser Tombs are a group of fifteen rock-cut tombs on a low slope at the foot of the eastern desert cliffs, about 10 km north of Minya near the village of Tihna el-Gebel, the ancient town of Akoris. They date to the Fourth and Fifth Dynasties of the Old Kingdom. The German Egyptologist Heinrich Brugsch found them in 1853, but they are named after the British engineer George Willoughby Fraser, who published them in 1902. Several tombs copy the layout of the stone mastabas of Giza and Saqqara, but here everything is carved straight into the rock. Four contain statues and inscriptions. The finest belong to Nikaiankh, steward of a royal estate and priest of Hathor, whose tomb holds rock-cut figures of him and his family and a text setting out how his property and priestly duties should pass to his children. The site is quiet and is easily combined with the Monastery of the Virgin at Gebel al-Tayr.",
+  "ar": "مقابر فريزر مجموعة من خمس عشرة مقبرة منحوتة في الصخر على منحدر منخفض عند سفح جروف الصحراء الشرقية، على بعد نحو 10 كيلومترات شمال المنيا قرب قرية طهنا الجبل، موضع مدينة أكوريس القديمة. وتعود إلى الأسرتين الرابعة والخامسة من الدولة القديمة. وقد اكتشفها عالم المصريات الألماني هاينريش بروجش عام 1853، غير أنها سُميت باسم المهندس البريطاني جورج ويلوبي فريزر الذي نشرها عام 1902. ويحاكي عدد منها تخطيط المصاطب الحجرية في الجيزة وسقارة، لكنها هنا منحوتة كلها في الصخر مباشرة. وتضم أربع منها تماثيل ونقوشًا، وأهمها مقبرتا نيكاعنخ، وكيل ضيعة ملكية وكاهن حتحور، وفيهما تماثيل منحوتة في الصخر له ولأسرته، ونص يحدد كيف تنتقل أملاكه ومهامه الكهنوتية إلى أبنائه. والموقع هادئ ويسهل الجمع بينه وبين دير العذراء بجبل الطير."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Nikaiankh",
+    "ar": "مقبرة نيكاعنخ"
+   },
+   "desc": {
+    "en": "Rock-cut statues of the owner and his family.",
+    "ar": "تماثيل منحوتة في الصخر لصاحب المقبرة وأسرته."
+   }
+  },
+  {
+   "title": {
+    "en": "Inheritance text",
+    "ar": "نص الوصية"
+   },
+   "desc": {
+    "en": "An inscription arranging the succession of Nikaiankh's property and duties.",
+    "ar": "نقش ينظم انتقال أملاك نيكاعنخ ومهامه."
+   }
+  },
+  {
+   "title": {
+    "en": "Rock-cut mastaba facades",
+    "ar": "واجهات المصاطب المنحوتة"
+   },
+   "desc": {
+    "en": "Tomb fronts that imitate built mastabas.",
+    "ar": "واجهات مقابر تحاكي المصاطب المبنية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/FraserTombs",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Morning, combined with Gebel al-Tayr or Zawyet Sultan.",
+   "ar": "الصباح، مع الجمع بين الزيارة وجبل الطير أو زاوية سلطان."
+  },
+  "crowdNotes": {
+   "en": "Few visitors and little shade; a torch helps inside the tombs. Foreign visitors travelling by road in Minya governorate may be asked by police to register their route or travel with an escort, so allow extra time.",
+   "ar": "قليلة الزوار وقليلة الظل، ويفيد المصباح اليدوي داخل المقابر. قد تطلب الشرطة من الزوار الأجانب المسافرين برًا في محافظة المنيا تسجيل خط سيرهم أو التنقل بمرافقة أمنية، فاحسب وقتًا إضافيًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/FraserTombs1.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:FraserTombs1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/FraserTombs2.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:FraserTombs2.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/FraserNekaAnkh1Inside.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:FraserNekaAnkh1Inside.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Fraser_Tombs",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%A8%D9%88%D8%B1_%D9%81%D8%B1%D9%8A%D8%B2%D8%B1",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q675047",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00; Ramadan 09:00-16:00; last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مقابر-فريزر/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Egyptian 10/5),hours (last entry 16:00; Ramadan 09:00, last entry 15:00),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/FraserTombs",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Nov 2024 list: Egyptian 20/10, foreign 100/50),hours",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Fraser_Tombs",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Egyptian price: booking platform 10/5 vs Nov 2024 list 20/10, no portal page -> 10/5, the only live official price (batch-7 Q3a, as at Amarna and Tuna el-Gebel). Hours: guide and booking platform agree. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Minya escort note follows batch-7 Q9a."
+}

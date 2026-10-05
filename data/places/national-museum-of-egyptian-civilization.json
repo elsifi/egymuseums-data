@@ -30,7 +30,7 @@
  "lng": 31.248333,
  "status": "open",
  "statusNote": {
-  "en": "Open daily, with an extra evening session on Fridays (18:00-21:00). Home of the royal mummies since the April 2021 Pharaohs' Golden Parade.",
+  "en": "Open daily, with an extra evening session on Fridays (18:00–21:00). Home of the royal mummies since the April 2021 Pharaohs' Golden Parade.",
   "ar": "مفتوح يوميًا، مع فترة مسائية إضافية يوم الجمعة (18:00–21:00). ويضم المومياوات الملكية منذ موكب المومياوات الملكية الذهبي في أبريل 2021."
  },
  "summary": {
@@ -290,7 +290,7 @@
   "standardMinutes": 120,
   "deepMinutes": 180,
   "bestTime": {
-   "en": "Weekday mornings, or the Friday evening session (18:00-21:00) for a quieter visit to the mummies.",
+   "en": "Weekday mornings, or the Friday evening session (18:00–21:00) for a quieter visit to the mummies.",
    "ar": "صباح أيام الأسبوع، أو الفترة المسائية يوم الجمعة (من السادسة حتى التاسعة مساءً) لزيارة أهدأ لقاعة المومياوات."
   },
   "crowdNotes": {

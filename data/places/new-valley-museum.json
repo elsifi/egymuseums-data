@@ -1,0 +1,201 @@
+{
+ "id": "new-valley-museum",
+ "kind": "museum",
+ "wikidataId": "Q57395129",
+ "name": {
+  "en": "New Valley Museum",
+  "ar": "متحف آثار الوادي الجديد"
+ },
+ "aliases": [
+  "متحف الاثار بالخارجة",
+  "متحف الخارجة",
+  "Kharga Museum",
+  "Kharga Museum of Antiquities",
+  "Museum of Alwady Algadid"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "new-valley",
+ "city": {
+  "en": "Kharga",
+  "ar": "الخارجة"
+ },
+ "area": {
+  "en": "Kharga town centre",
+  "ar": "وسط مدينة الخارجة"
+ },
+ "address": {
+  "en": "Kharga town, New Valley Governorate (opposite the tourist information office)",
+  "ar": "مدينة الخارجة، محافظة الوادي الجديد (في مواجهة مكتب الاستعلامات السياحية)"
+ },
+ "lat": 25.45675,
+ "lng": 30.545838,
+ "status": "renovation",
+ "statusNote": {
+  "en": "Closed for development works; a reopening date has not been announced.",
+  "ar": "مغلق لأعمال التطوير، ولم يُعلن موعد إعادة الافتتاح."
+ },
+ "summary": {
+  "en": "The regional museum of the New Valley oases, with finds from Old Kingdom Balat to Ottoman-era Dakhla, now being modernised.",
+  "ar": "المتحف الإقليمي لواحات الوادي الجديد، يضم مكتشفات تمتد من بلاط في الدولة القديمة حتى الداخلة في العصر العثماني، ويخضع حاليًا للتطوير."
+ },
+ "description": {
+  "en": "Opened in 1993 in Kharga town, the New Valley Museum gathers some four thousand objects from Kharga, Dakhla and the surrounding desert, from prehistoric tools to the time of Muhammad Ali's dynasty. The pharaonic galleries are strongest on Balat in Dakhla, seat of Old Kingdom governors: the tomb door and a pair statue of the governor Ima-Pepi and his wife, and the false-door stela of Khentika. Graeco-Roman finds include a limestone sphinx from Deir el-Hagar, a painted ba-bird and funerary stelae from the oasis cemeteries. Upstairs, Coptic and Islamic rooms show inscribed wooden boards from early Christian sites, glass and crystal vessels, coins, jewellery and weapons, together with nineteenth-century tableware and silver lent from the Manial Palace in Cairo. In 2026 the museum was closed for development works on its security systems, displays and visitor services, ahead of a reopening.",
+  "ar": "افتُتح متحف الوادي الجديد عام 1993 في مدينة الخارجة، ويضم نحو أربعة آلاف قطعة من الخارجة والداخلة والصحراء المحيطة، تمتد من أدوات ما قبل التاريخ حتى عصر أسرة محمد علي. وتتميز قاعات الآثار المصرية القديمة بمكتشفات بلاط في الداخلة، مقر حكام الواحة في الدولة القديمة، ومنها باب مقبرة الحاكم إيما بيبي وتمثال مزدوج له ولزوجته، ولوحة الباب الوهمي لخنتيكا. ومن آثار العصر اليوناني الروماني تمثال أبي الهول من الحجر الجيري من دير الحجر، وطائر البا الملون، ولوحات جنائزية من جبانات الواحات. وفي الطابق العلوي قاعات للآثار القبطية والإسلامية تعرض ألواحًا خشبية منقوشة من مواقع مسيحية مبكرة، وأواني من الزجاج والكريستال، وعملات وحليًا وأسلحة، إلى جانب أدوات مائدة وفضيات من القرن التاسع عشر معارة من قصر المنيل بالقاهرة. وفي عام 2026 أُغلق المتحف لأعمال تطوير تشمل منظومات التأمين وأساليب العرض والخدمات تمهيدًا لإعادة افتتاحه."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Ima-Pepi pair statue",
+    "ar": "تمثال إيما بيبي المزدوج"
+   },
+   "desc": {
+    "en": "The Old Kingdom governor of Dakhla seated with his wife.",
+    "ar": "حاكم الداخلة في الدولة القديمة جالسًا مع زوجته."
+   }
+  },
+  {
+   "title": {
+    "en": "False door of Khentika",
+    "ar": "الباب الوهمي لخنتيكا"
+   },
+   "desc": {
+    "en": "A limestone stela from the governors' cemetery at Balat.",
+    "ar": "لوحة من الحجر الجيري من جبانة الحكام في بلاط."
+   }
+  },
+  {
+   "title": {
+    "en": "Sphinx from Deir el-Hagar",
+    "ar": "أبو الهول من دير الحجر"
+   },
+   "desc": {
+    "en": "A limestone sphinx from the Roman temple in Dakhla.",
+    "ar": "تمثال لأبي الهول من الحجر الجيري من المعبد الروماني في الداخلة."
+   }
+  },
+  {
+   "title": {
+    "en": "Painted ba-bird",
+    "ar": "طائر البا الملون"
+   },
+   "desc": {
+    "en": "A Graeco-Roman figure of the human-headed soul bird.",
+    "ar": "تمثال من العصر اليوناني الروماني لطائر الروح ذي الرأس البشري."
+   }
+  },
+  {
+   "title": {
+    "en": "Coptic and Islamic rooms",
+    "ar": "القاعات القبطية والإسلامية"
+   },
+   "desc": {
+    "en": "Inscribed wooden boards, glass, coins and jewellery.",
+    "ar": "ألواح خشبية منقوشة وزجاج وعملات وحلي."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Once it reopens, mornings before visiting Hibis and al-Bagawat.",
+   "ar": "بعد إعادة افتتاحه، في الصباح قبل زيارة معبد هيبس والبجوات."
+  },
+  "crowdNotes": {
+   "en": "Check the reopening before travelling. Bring water and sun protection: there are no facilities at most desert sites.",
+   "ar": "تحقق من إعادة الافتتاح قبل السفر. احمل الماء وواقيًا من الشمس، فمعظم المواقع الصحراوية بلا خدمات."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/KhargaMuseumKhentika.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:KhargaMuseumKhentika.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/KhargaMuseumSphinx.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:KhargaMuseumSphinx.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/ChargaMuseumBaBird.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ChargaMuseumBaBird.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Kharga_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q57395129",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,statusNote (governor inspects development works and opening preparations; news 8 Apr 2026)",
+   "url": "https://www.dostor.org/5497666",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (pre-closure, MoTA Nov 2024 list: 150/75, 10/5, 09:00-15:00; not used)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (collection by floor; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Ch%C4%81rga_(Stadt)",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (opened 1993; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Kharga_Museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status from a dated press report (dostor, 8 Apr 2026): the governor inspected development works 'and opening preparations', so the museum is treated as closed for renovation; the start date of the closure and the reopening date were not found - recheck. The Nov 2024 list still priced it (150/75, 10/5, 09:00-15:00); hours and prices omitted until it reopens. Opening date 17 Feb 1993 and '4,087 objects' come from search summaries of dostor/akhbarelyom reports; prose says 1993 and 'some four thousand'. Photos show objects only (the 1993 building is excluded)."
+}

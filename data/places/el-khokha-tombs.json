@@ -1,0 +1,344 @@
+{
+ "id": "el-khokha-tombs",
+ "kind": "site",
+ "wikidataId": "Q1323768",
+ "name": {
+  "en": "El-Khokha Tombs",
+  "ar": "مقابر الخوخة"
+ },
+ "aliases": [
+  "El-Khokha"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor (West Bank)",
+  "ar": "الأقصر (البر الغربي)"
+ },
+ "area": {
+  "en": "West Bank, between el-Assasif and Sheikh Abd el-Qurna",
+  "ar": "البر الغربي، بين العساسيف والشيخ عبد القرنة"
+ },
+ "address": {
+  "en": "El-Khokha, Qurna, West Bank, Luxor",
+  "ar": "الخوخة، القرنة، البر الغربي، الأقصر"
+ },
+ "lat": 25.732684,
+ "lng": 32.612709,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Tickets are sold as one of the Tombs of the Nobles groups.",
+  "ar": "مفتوحة يوميًا. وتُباع تذكرتها ضمن مجموعات مقابر النبلاء."
+ },
+ "summary": {
+  "en": "A small hill of nobles’ tombs on the Theban West Bank, with some of the oldest rock tombs at Thebes and fine New Kingdom painted chapels.",
+  "ar": "تل صغير يضم مقابر النبلاء في البر الغربي بطيبة، وفيه بعض أقدم المقابر الصخرية في طيبة ومقاصير ملونة رائعة من الدولة الحديثة."
+ },
+ "description": {
+  "en": "El-Khokha is a low hill between el-Assasif and Sheikh Abd el-Qurna and, with Dra Abu el-Naga, one of the most densely packed parts of the Theban necropolis. It holds some of the earliest rock-cut tombs at Thebes, dating to the end of the Old Kingdom and the First Intermediate Period, and more than fifty tombs of officials from the Eighteenth to the Twentieth Dynasties. Among them is the tomb of Unas-ankh from the reign of Pepi II, with scenes of music, dancing and bread-making. The New Kingdom chapel of Userhat shows the owner presenting offerings to Amenhotep III and Queen Tiye, while the tomb of Neferhotep, a chief scribe of Amun under Ay, has refined reliefs that reflect changes in funerary practice after the Amarna period. Hungarian and other missions continue to work here. The tombs open to visitors are a selection and can change, so check which are open when buying the ticket.",
+  "ar": "الخوخة تل منخفض يقع بين العساسيف والشيخ عبد القرنة، وتُعد مع ذراع أبو النجا من أكثر أجزاء جبانة طيبة ازدحامًا بالمقابر. وتضم بعضًا من أقدم المقابر الصخرية في طيبة، التي تعود إلى نهاية الدولة القديمة وعصر الانتقال الأول، إلى جانب أكثر من خمسين مقبرة لموظفين من الأسرة الثامنة عشرة حتى العشرين. ومن بينها مقبرة أوناس عنخ من عهد الملك ببي الثاني، وفيها مناظر للموسيقى والرقص وإعداد الخبز. وتصور مقصورة أوسرحات من الدولة الحديثة صاحبها يقدم القرابين للملك أمنحتب الثالث والملكة تي، أما مقبرة نفر حتب، كبير كتبة آمون في عهد الملك آي، فتحمل نقوشًا دقيقة تعكس تغير الممارسات الجنائزية بعد عصر العمارنة. ولا تزال بعثات مجرية وغيرها تعمل في الموقع. والمقابر المفتوحة للزيارة مختارة وقد تتغير، فيُستحسن السؤال عنها عند شراء التذكرة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Unas-ankh",
+    "ar": "مقبرة أوناس عنخ"
+   },
+   "desc": {
+    "en": "An Old Kingdom tomb with scenes of music, dance and bread-making.",
+    "ar": "مقبرة من الدولة القديمة بمناظر الموسيقى والرقص وإعداد الخبز."
+   }
+  },
+  {
+   "title": {
+    "en": "Chapel of Userhat",
+    "ar": "مقصورة أوسرحات"
+   },
+   "desc": {
+    "en": "Scene of offerings to Amenhotep III and Queen Tiye.",
+    "ar": "منظر تقديم القرابين للملك أمنحتب الثالث والملكة تي."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Neferhotep",
+    "ar": "مقبرة نفر حتب"
+   },
+   "desc": {
+    "en": "Fine reliefs of a chief scribe of Amun from the reign of Ay.",
+    "ar": "نقوش دقيقة لكبير كتبة آمون من عهد الملك آي."
+   }
+  },
+  {
+   "title": {
+    "en": "Early rock tombs",
+    "ar": "المقابر الصخرية المبكرة"
+   },
+   "desc": {
+    "en": "Among the oldest rock-cut tombs in the Theban necropolis.",
+    "ar": "من أقدم المقابر المنحوتة في الصخر في جبانة طيبة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/TombsOfTheNobles",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning, combined with the other Tombs of the Nobles.",
+   "ar": "الصباح، مع زيارة مقابر النبلاء الأخرى."
+  },
+  "crowdNotes": {
+   "en": "Quiet. Paths on the hillside are uneven, and guardians unlock each tomb.",
+   "ar": "هادئة. والممرات على سفح التل غير ممهدة، ويفتح الحراس كل مقبرة على حدة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/El-Khokha_2023.jpg",
+   "author": "Tamás Zomborácz and Ákos Török",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:El-Khokha_2023.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Az_El-Khokha_domb.jpeg",
+   "author": "Kingtut at Hungarian Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Az_El-Khokha_domb.jpeg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Saff-1.jpg",
+   "author": "Tamás Zomborácz and Ákos Török",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saff-1.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/El-Khokha",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%A8%D8%B1_%D8%A7%D9%84%D8%AE%D9%88%D8%AE%D8%A9",
+  "osm": "way/1558365042"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1323768",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (06:00-17:00),address,description,status",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/جبانة-الخوخة/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (lastEntry by season),tickets,freeGroups (official booking platform; El-Khokha group)",
+   "url": "https://egymonuments.com/details/TombsOfTheNobles",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (booking page, El Khokha group 120/60, 10/5)",
+   "url": "https://egymonuments.com/book-date/24",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list: Tombs of al-Khokha 120/60, 10/5)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (Luxor summer 2026 schedule)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (tomb list; facts only)",
+   "url": "https://en.wikipedia.org/wiki/El-Khokha",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "El-Khokha is sold as one group on the Tombs of the Nobles booking page (/book-date/24); the same ticket is listed as an extra in tombs-of-the-nobles-luxor. Prices agree with the Nov 2024 list. Winter (standard) hours 06:00-17:00 with last entry 16:00 (MoTA guide closing 17:00 + one-hour rule; booking platform winter last entry 16:00). Summer 2026: 06:00-18:00 for the Qurna (West Bank) zone per the 24 Apr 2026 announcement, last entry 17:00 per booking platform. Ramadan on the booking platform (last entry 16:00) equals the winter week, so no Ramadan exception (batch-4 Q13a). Summer 2026 exception (2026-04-24 to 2026-10-29) follows the Luxor antiquities summer schedule (daylight-saving period, until the last Thursday of October); the winter 2026-27 schedule had not been announced on 2026-10-05 - recheck after 29 Oct 2026. Which Khokha tombs the ticket opens is not stated officially (commonly Neferrenpet TT178, Dhutmosi TT295, Nefersekheru TT296 - unverified, not listed). Highlights follow the tombs named in the MoTA guide; they are not promised as open. Parking extras appear on /book-date/24 but are kept only in the parent record. City overridden to 'Luxor (West Bank)'."
+}

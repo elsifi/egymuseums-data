@@ -1,0 +1,162 @@
+{
+ "id": "beit-el-umma",
+ "kind": "museum",
+ "wikidataId": "Q4881432",
+ "name": {
+  "en": "Beit El-Umma",
+  "ar": "بيت الأمة"
+ },
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Al-Munira, near Sayyida Zaynab",
+  "ar": "المنيرة، بالقرب من السيدة زينب"
+ },
+ "address": {
+  "en": "2 Saad Zaghloul Street, al-Munira, Sayyida Zaynab, Cairo — opposite Saad Zaghloul's mausoleum",
+  "ar": "2 شارع سعد زغلول، المنيرة، السيدة زينب، القاهرة — بجوار ضريح سعد زغلول"
+ },
+ "lat": 30.0375,
+ "lng": 31.2378,
+ "status": "renovation",
+ "statusNote": {
+  "en": "Under development by the Fine Arts Sector; in August 2026 the works were expected to finish within about a year. Check before visiting.",
+  "ar": "قيد التطوير من قطاع الفنون التشكيلية، وفي أغسطس 2026 أُعلن أن الأعمال ستنتهي خلال عام تقريبًا، فتحقق قبل الزيارة."
+ },
+ "summary": {
+  "en": "The home of the nationalist leader Saad Zaghloul, a centre of the 1919 revolution, kept as a museum with its original furniture.",
+  "ar": "منزل الزعيم الوطني سعد زغلول، أحد مراكز ثورة 1919، ويُحفظ متحفًا بأثاثه الأصلي."
+ },
+ "description": {
+  "en": "Saad Zaghloul, founder of the Wafd and leader of the 1919 revolution, moved into this house in Munira in 1902. It earned the name House of the Nation during the debates of 1918, when nationalists objected to a remark by Zaghloul with the reply that this was the people's house, and he accepted the title. Through the revolution and the years that followed, delegations, crowds and political meetings filled its rooms and garden. His widow Safiya Zaghloul, called Mother of the Egyptians, asked in 1944 that it become a museum after her death; it became a national museum after 1952 and reopened in 2003 after long restoration works. The rooms keep the couple's furniture, a library of rare books, documents, photographs, medals and personal belongings, and a cultural centre occupies the basement. Zaghloul's pharaonic-style mausoleum stands next door.",
+  "ar": "انتقل سعد زغلول، مؤسس حزب الوفد وقائد ثورة 1919، إلى هذا البيت في حي المنيرة عام 1902. واكتسب اسم «بيت الأمة» خلال نقاشات عام 1918، حين اعترض بعض الوطنيين على عبارة قالها زغلول بأن هذا بيت الأمة، فقبل التسمية. وطوال الثورة والسنوات التالية امتلأت قاعاته وحديقته بالوفود والجماهير والاجتماعات السياسية. وأوصت أرملته صفية زغلول، الملقبة بأم المصريين، عام 1944 بأن يصبح متحفًا بعد وفاتها، فصار متحفًا قوميًا بعد عام 1952، ثم أعيد افتتاحه عام 2003 بعد أعمال ترميم طويلة. وتحتفظ قاعاته بأثاث الزوجين ومكتبة تضم كتبًا نادرة ووثائق وصورًا وأوسمة ومتعلقات شخصية، ويشغل البدروم مركز ثقافي. ويجاوره ضريح سعد زغلول المشيد على الطراز الفرعوني."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Period rooms",
+    "ar": "القاعات بأثاثها الأصلي"
+   },
+   "desc": {
+    "en": "Reception rooms, dining room and bedrooms furnished as the Zaghlouls left them.",
+    "ar": "قاعات الاستقبال والطعام وغرف النوم بأثاثها كما تركها آل زغلول."
+   }
+  },
+  {
+   "title": {
+    "en": "Library",
+    "ar": "المكتبة"
+   },
+   "desc": {
+    "en": "Saad Zaghloul's library of rare books.",
+    "ar": "مكتبة سعد زغلول التي تضم كتبًا نادرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Documents and medals",
+    "ar": "الوثائق والأوسمة"
+   },
+   "desc": {
+    "en": "Papers, photographs, decorations and gifts linked to the 1919 revolution and his career.",
+    "ar": "أوراق وصور وأوسمة وهدايا ترتبط بثورة 1919 ومسيرته."
+   }
+  },
+  {
+   "title": {
+    "en": "Saad Zaghloul's mausoleum",
+    "ar": "ضريح سعد زغلول"
+   },
+   "desc": {
+    "en": "A pharaonic-style tomb completed in 1931, beside the house.",
+    "ar": "ضريح على الطراز الفرعوني اكتمل عام 1931 بجوار البيت."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "After the reopening is announced; until then the mausoleum next door can be seen from outside.",
+   "ar": "بعد الإعلان عن إعادة الافتتاح، وحتى ذلك الحين يمكن مشاهدة الضريح المجاور من الخارج."
+  },
+  "crowdNotes": {
+   "en": "Close to Saad Zaghloul metro station on line 1.",
+   "ar": "قريب من محطة مترو سعد زغلول على الخط الأول."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Saad_Zaghlul.jpg",
+   "author": "W. Hanselman",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saad_Zaghlul.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Beit_El-Umma",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D8%A3%D9%85%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q4881432",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (renovation of Beit al-Umma museum to finish within a year; Fine Arts Sector head, news 16 Aug 2026)",
+   "url": "https://www.youm7.com/story/2026/8/16/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D9%8A%D8%A9-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D8%AA%D8%AD%D9%81%D9%89-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%A9-%D9%88%D8%B3%D8%B1%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9/7513806",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (first phase of development expected in April 2026; news 13 Feb 2026)",
+   "url": "https://www.youm7.com/story/2026/2/13/%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%A9-%D9%8A%D8%AA%D8%B5%D8%AF%D8%B1-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%B8%D8%B1%D8%A9-%D9%81%D9%89-%D8%A3%D8%A8%D8%B1%D9%8A%D9%84-%D8%A7%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D8%AD%D9%83%D8%A7%D9%8A%D8%A9/7303209",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,address (official Fine Arts Sector pages: history, 2003 reopening, cultural centre)",
+   "url": "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDs=31",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "address,prices context (official Fine Arts Sector visitor page)",
+   "url": "https://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=31",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Beit_El-Umma",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Ministry of Culture (Fine Arts Sector). Status 'renovation': youm7 13 Feb 2026 (first phase expected in April) and 16 Aug 2026 (works to finish within a year) - whether the museum is fully closed during works is not stated; a youm7 listicle of 18 Sep 2026 still recommends it. Hours and prices withheld while under development: the official fineart.gov.eg visitor page (undated) gives 10:00-16:00 except Monday and Friday and 5/3/10 EGP - restore these (or newer figures) on reopening. Date conflict: EN wiki says Beit al-Umma museum; AR wiki article is mainly about the 1931 mausoleum. Photo: Commons has only a photo of the mausoleum (a different building), so a public-domain 1920s portrait of Saad Zaghloul is used."
+}

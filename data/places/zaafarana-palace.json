@@ -1,0 +1,141 @@
+{
+ "id": "zaafarana-palace",
+ "kind": "museum",
+ "wikidataId": "Q6508630",
+ "name": {
+  "en": "Zaafarana Palace",
+  "ar": "قصر الزعفران"
+ },
+ "category": "royal-palace",
+ "operator": "university",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Ain Shams University main campus, Abbasiya",
+  "ar": "الحرم الرئيسي لجامعة عين شمس، العباسية"
+ },
+ "address": {
+  "en": "Ain Shams University, Khalifa al-Maamoun Street, Abbasiya, Cairo",
+  "ar": "جامعة عين شمس، شارع الخليفة المأمون، العباسية، القاهرة"
+ },
+ "lat": 30.0768,
+ "lng": 31.2844,
+ "status": "unknown",
+ "statusNote": {
+  "en": "The palace houses the university administration. A small antiquities museum opened in its basement in May 2023 and was announced as free and open to the public, but no visiting hours are published.",
+  "ar": "يضم القصر إدارة الجامعة. وافتُتح في طابقه السفلي متحف صغير للآثار في مايو 2023، وأُعلن أنه مجاني ومفتوح للجمهور، لكن لا تُنشر مواعيد للزيارة."
+ },
+ "summary": {
+  "en": "A Khedivial palace of 1870, now Ain Shams University's headquarters, with a small archaeological museum in its basement.",
+  "ar": "قصر خديوي من عام 1870 يضم اليوم إدارة جامعة عين شمس، وفي طابقه السفلي متحف أثري صغير."
+ },
+ "description": {
+  "en": "The Zaafarana, or Saffron, Palace was built around 1870 under Khedive Ismail, designed by the French-trained architect Mughirbi Bey Saad and named after the saffron fields that once surrounded it. Its three-storey French facade, often compared to Versailles, faces a formal garden and fountain. The palace has a notable political history: it hosted the administration of the young Egyptian University from 1925, the Anglo-Egyptian Treaty of 1936 was signed here, and in March 1945 the Arab League was founded within its walls. Since 1952 it has been the headquarters of Ain Shams University. In May 2023 the Ministry of Tourism and Antiquities and the university opened the Zaafarana Palace Antiquities Museum in the basement, under a cooperation protocol with the Supreme Council of Antiquities. Its cases hold pieces from prehistory to the modern era and serve students of the Faculty of Archaeology, while the public was promised free access.",
+  "ar": "شُيّد قصر الزعفران نحو عام 1870 في عهد الخديوي إسماعيل، وصممه المعماري مغربي بك سعد الذي درس في فرنسا، وسُمي بهذا الاسم نسبة إلى حقول الزعفران التي كانت تحيط به. وتطل واجهته الفرنسية ذات الطوابق الثلاثة، التي كثيرًا ما تُقارن بقصر فرساي، على حديقة منسقة ونافورة. وللقصر تاريخ سياسي بارز، فقد ضم إدارة الجامعة المصرية الناشئة منذ عام 1925، وفيه وُقعت معاهدة 1936 بين مصر وبريطانيا، وفي مارس 1945 تأسست فيه جامعة الدول العربية. ومنذ عام 1952 أصبح مقرًا لإدارة جامعة عين شمس. وفي مايو 2023 افتتحت وزارة السياحة والآثار والجامعة متحف قصر الزعفران الأثري في الطابق السفلي، في إطار بروتوكول تعاون مع المجلس الأعلى للآثار. وتضم خزاناته قطعًا من عصور ما قبل التاريخ حتى العصر الحديث، ويخدم طلاب كلية الآثار، مع إعلان إتاحته للجمهور مجانًا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Palace facade",
+    "ar": "واجهة القصر"
+   },
+   "desc": {
+    "en": "A French-style three-storey facade and garden fountain from Khedive Ismail's reign.",
+    "ar": "واجهة فرنسية الطراز من ثلاثة طوابق ونافورة في الحديقة من عهد الخديوي إسماعيل."
+   }
+  },
+  {
+   "title": {
+    "en": "Arab League birthplace",
+    "ar": "مهد جامعة الدول العربية"
+   },
+   "desc": {
+    "en": "The building where the Arab League was founded in March 1945.",
+    "ar": "المبنى الذي شهد تأسيس جامعة الدول العربية في مارس 1945."
+   }
+  },
+  {
+   "title": {
+    "en": "Antiquities museum",
+    "ar": "المتحف الأثري"
+   },
+   "desc": {
+    "en": "A basement museum with objects from prehistory to the modern era, opened in 2023.",
+    "ar": "متحف في الطابق السفلي يضم قطعًا من عصور ما قبل التاريخ حتى العصر الحديث، افتُتح عام 2023."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ain_Shams_University-Zafarana_Palace.JPG",
+   "author": "Ashashyou",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ain_Shams_University-Zafarana_Palace.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Zafaran_palace.jpg",
+   "author": "Doaa Elhami",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zafaran_palace.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ain_Shams_University-Zafarana_Palace2.JPG",
+   "author": "Ashashyou",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ain_Shams_University-Zafarana_Palace2.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Saffron_Palace",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6508630",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (museum inauguration; official portal news)",
+   "url": "https://egymonuments.gov.eg/en/news/the-zaafaran-palace-museum-at-ain-shams-university/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,statusNote (museum opened May 2023, public access free)",
+   "url": "https://www.shorouknews.com/news/view.aspx?cdate=09052023&id=84885ecd-ec2b-4333-a2b7-20452f606f64",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "statusNote (free and not limited to students)",
+   "url": "https://www.eldyar.net/563477",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Saffron_Palace",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Ain Shams University administration building; public access unclear. Status unknown: the basement antiquities museum opened 9 May 2023 with public access announced as free (shorouk, eldyar 2023); no 2024-2026 source on visiting hours or current access was found. Architect name spelled 'Moghri bey Saad' in en-wiki; given as Mughirbi Bey Saad (Arabic مغربي سعد). Farouk-birth claim in en-wiki not used (he was born at Abdeen). Price unconfirmed (2023 'free' is press-reported only)."
+}

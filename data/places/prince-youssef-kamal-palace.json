@@ -1,0 +1,279 @@
+{
+ "id": "prince-youssef-kamal-palace",
+ "kind": "site",
+ "wikidataId": "Q118640137",
+ "name": {
+  "en": "Prince Youssef Kamal Palace (Nag Hammadi)",
+  "ar": "قصر الأمير يوسف كمال"
+ },
+ "aliases": [
+  "قصر البرينس يوسف كمال",
+  "Palace of prince Yusuf Kamal"
+ ],
+ "category": "royal-palace",
+ "operator": "mota-sca",
+ "governorate": "qena",
+ "city": {
+  "en": "Nag Hammadi",
+  "ar": "نجع حمادي"
+ },
+ "area": {
+  "en": "Nile Corniche, Nag Hammadi",
+  "ar": "كورنيش النيل، نجع حمادي"
+ },
+ "address": {
+  "en": "Nile Corniche, Nag Hammadi, Qena Governorate",
+  "ar": "كورنيش النيل، نجع حمادي، محافظة قنا"
+ },
+ "lat": 26.051043,
+ "lng": 32.244245,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily, including during Ramadan.",
+  "ar": "مفتوح يوميًا، بما في ذلك شهر رمضان."
+ },
+ "summary": {
+  "en": "The Nile-side country estate of Prince Youssef Kamal, a walled complex of palace buildings mixing European and Islamic styles in striped brick.",
+  "ar": "القصر الريفي للأمير يوسف كمال على ضفة النيل، مجمع مسوّر من المباني يمزج بين الطرازين الأوروبي والإسلامي بالطوب المشهّر."
+ },
+ "description": {
+  "en": "Prince Youssef Kamal (1882–1967), a grandson of Khedive Ibrahim's line and a noted traveller, collector and patron, owned large farmland around Nag Hammadi and built this residence on the bank of the Nile in the early twentieth century. The architect is identified as Antonio Lasciac, designer of many khedivial palaces. The walled estate once covered about ten feddans and contains several separate buildings set in a garden of ornamental trees: a salamlek for receiving men, a residence for the prince's mother, a dining hall, kitchens and service wings, the estate office, a sabil, and the older tomb of Sheikh Imran with its minaret and prayer room. The buildings are laid in alternating bands of red and black brick, known as ablaq, and finished with woodwork, marble, stained glass, tiles and mosaic in an Islamic revival manner. Registered as a monument in 1988, the palace was restored and reopened in September 2019.",
+  "ar": "كان الأمير يوسف كمال (1882–1967) من أمراء أسرة محمد علي، ورحالةً وجامعًا للتحف وراعيًا للفنون، وامتلك أراضي زراعية واسعة حول نجع حمادي، فشيد هذا المقر على ضفة النيل في مطلع القرن العشرين. ويُنسب تصميمه إلى المعماري أنطونيو لاشياك، مصمم كثير من السرايات الخديوية. وكانت مساحة المجمع المسوّر نحو عشرة أفدنة، ويضم عدة مبانٍ منفصلة وسط حديقة من الأشجار النادرة: السلاملك لاستقبال الرجال، وسراي الوالدة، وقاعة الطعام، والمطبخ وملحقات الخدم، والدفترخانة، والسبيل، إضافة إلى ضريح الشيخ عمران الأقدم ومئذنته ومصلاه. وقد بُنيت المباني بصفوف متناوبة من الطوب الأحمر والأسود تُعرف بالأبلق، وزُينت بالأخشاب والرخام والزجاج الملون والبلاطات الخزفية والفسيفساء على طراز إحياء الفن الإسلامي. وسُجل القصر أثرًا عام 1988، ثم رُمم وأُعيد افتتاحه في سبتمبر 2019."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Salamlek",
+    "ar": "السلاملك"
+   },
+   "desc": {
+    "en": "The prince's reception building, the most richly decorated of the complex.",
+    "ar": "مبنى الاستقبال الخاص بالأمير، وأغنى مباني المجمع زخرفة."
+   }
+  },
+  {
+   "title": {
+    "en": "Dining hall",
+    "ar": "قاعة الطعام"
+   },
+   "desc": {
+    "en": "A separate hall with tiled façades on all four sides.",
+    "ar": "قاعة مستقلة تكسو واجهاتها الأربع البلاطات الخزفية."
+   }
+  },
+  {
+   "title": {
+    "en": "Residence of the prince's mother",
+    "ar": "سراي الوالدة"
+   },
+   "desc": {
+    "en": "The family wing, said to have a wooden lift made for the prince's mother.",
+    "ar": "جناح الأسرة، ويُذكر أنه يضم مصعدًا خشبيًا صُنع لوالدة الأمير."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Sheikh Imran",
+    "ar": "ضريح الشيخ عمران"
+   },
+   "desc": {
+    "en": "An older shrine kept inside the estate, with a minaret and prayer room.",
+    "ar": "ضريح أقدم احتُفظ به داخل المجمع، تلحق به مئذنة ومصلى."
+   }
+  },
+  {
+   "title": {
+    "en": "Sabil and gardens",
+    "ar": "السبيل والحديقة"
+   },
+   "desc": {
+    "en": "A public water fountain in the outer wall and a garden of ornamental trees.",
+    "ar": "سبيل للمياه في السور الخارجي وحديقة من أشجار الزينة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/PrinceYoussefPalace",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning or late afternoon.",
+   "ar": "الصباح أو آخر العصر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/%D8%AA%D8%A3%D8%B7%D9%8A%D8%B1_%D9%84%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D9%8A%D9%88%D8%B3%D9%81_%D9%83%D9%85%D8%A7%D9%84_%D8%A8%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D9%82%D9%86%D8%A7.jpg",
+   "author": "Mogad14",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:تأطير_لقصر_الأمير_يوسف_كمال_بمحافظة_قنا.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/the-architectural-complex-of-prince-youssef-kamal/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D9%8A%D9%88%D8%B3%D9%81_%D9%83%D9%85%D8%A7%D9%84_(%D9%82%D9%86%D8%A7)",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q118640137",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q131592844",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-architectural-complex-of-prince-youssef-kamal/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00, last entry 1 h before closing),description,address (MoTA guide)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/قصر-الأمير-يوسف-كمال/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (last entry 16:00, Ramadan same),prices,tickets,freeGroups (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/PrinceYoussefPalace",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-architectural-complex-of-prince-youssef-kamal/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 cross-check)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (architect, 1988 registration, 2019 reopening; facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D9%8A%D9%88%D8%B3%D9%81_%D9%83%D9%85%D8%A7%D9%84_(%D9%82%D9%86%D8%A7)",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "MoTA guide (08:00-17:00), portal (08:00-17:00), booking page (last entry 16:00; Ramadan 08:00, last entry 16:00) and Nov 2024 list agree; no Ramadan exception because Ramadan hours equal normal hours. No Arab tier: the SCA ended Arab = Egyptian pricing from 1 Jan 2026. Construction date conflicts: ar-wiki says 1908, the MoTA guide says 1343-1344 AH / 1925; the description says 'early twentieth century'. The wooden lift is from ar-wiki only, so the highlight says 'said to'. cashAccepted not set (no 2025-2026 official statement). Only one compliant photo (WLM 2025); the 1929 PD portrait of the prince exists but shows a person, not the place."
+}

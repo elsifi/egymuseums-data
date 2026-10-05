@@ -1,0 +1,312 @@
+{
+ "id": "deir-el-hagar",
+ "kind": "site",
+ "wikidataId": "Q14207694",
+ "name": {
+  "en": "Deir el-Hagar Temple",
+  "ar": "دير الحجر"
+ },
+ "aliases": [
+  "Deir el-Hagar",
+  "Deir el-Haggar",
+  "معبد دير الحجر"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "new-valley",
+ "city": {
+  "en": "Dakhla Oasis",
+  "ar": "الواحات الداخلة"
+ },
+ "area": {
+  "en": "Al-Mushiya, west of al-Qasr",
+  "ar": "الموشية، غرب القصر"
+ },
+ "address": {
+  "en": "Al-Mushiya village, west of al-Qasr, Dakhla Oasis, New Valley Governorate",
+  "ar": "قرية الموشية، غرب القصر، الواحات الداخلة، محافظة الوادي الجديد"
+ },
+ "lat": 25.664831,
+ "lng": 28.813311,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "The best-preserved temple in Dakhla, a Roman sandstone temple of the Theban triad set inside a mud-brick enclosure.",
+  "ar": "أفضل معابد الداخلة حفظًا، معبد روماني من الحجر الرملي للثالوث الطيبي داخل سور من الطوب اللبن."
+ },
+ "description": {
+  "en": "Deir el-Hagar, 'the stone monastery', is the modern name of a Roman temple at the western end of the Dakhla Oasis, dedicated to the Theban triad of Amun-Re, Mut and Khonsu. Building started under Nero in the first century AD and continued under Vespasian, Titus and Domitian, whose names appear in the reliefs. The plan follows the classic Egyptian pattern on a small scale: a gateway in a mud-brick enclosure, a court, a columned pronaos, a hypostyle hall and the sanctuary. Scenes show the emperors as pharaohs making offerings, such as Titus presenting the wedjat eye to the Theban gods. The sanctuary once had an astronomical ceiling of the second century, whose blocks now lie in a corner of the enclosure. On one column, members of Gerhard Rohlfs's expedition carved their names in January 1874, showing how deep the sand then lay. The Dakhleh Oasis Project cleared and restored the temple between 1992 and 1995.",
+  "ar": "دير الحجر اسم حديث لمعبد روماني في الطرف الغربي من الواحات الداخلة، كُرس للثالوث الطيبي آمون رع وموت وخونسو. وبدأ بناؤه في عهد نيرون في القرن الأول الميلادي، واستمر في عهود فسبسيان وتيتوس ودوميتيان الذين تظهر أسماؤهم في النقوش. ويتبع تخطيطه النموذج المصري التقليدي على نطاق صغير: بوابة في سور من الطوب اللبن، ثم فناء، فرواق أمامي ذو أعمدة، فصالة أعمدة، ثم قدس الأقداس. وتصور المناظر الأباطرة في هيئة فراعنة يقدمون القرابين، ومنها تيتوس يقدم عين الوجات إلى معبودات طيبة. وكان لقدس الأقداس سقف فلكي من القرن الثاني الميلادي، ترقد كتله اليوم في ركن من الساحة. وعلى أحد الأعمدة نقش أعضاء بعثة جيرهارد رولفس أسماءهم في يناير 1874، فتكشف نقوشهم عن ارتفاع الرمال آنذاك. وقد أزال مشروع واحة الداخلة الرمال عن المعبد ورممه بين عامي 1992 و1995."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Pronaos reliefs",
+    "ar": "نقوش الرواق الأمامي"
+   },
+   "desc": {
+    "en": "Roman emperors shown as pharaohs before the Theban triad.",
+    "ar": "أباطرة الرومان في هيئة فراعنة أمام الثالوث الطيبي."
+   }
+  },
+  {
+   "title": {
+    "en": "Sanctuary gateway",
+    "ar": "بوابة قدس الأقداس"
+   },
+   "desc": {
+    "en": "A carved doorway leading to the inner shrine.",
+    "ar": "مدخل منقوش يفضي إلى المقصورة الداخلية."
+   }
+  },
+  {
+   "title": {
+    "en": "Astronomical ceiling",
+    "ar": "السقف الفلكي"
+   },
+   "desc": {
+    "en": "Second-century ceiling blocks, now displayed in the enclosure.",
+    "ar": "كتل سقف من القرن الثاني الميلادي معروضة الآن في الساحة."
+   }
+  },
+  {
+   "title": {
+    "en": "Rohlfs expedition graffiti",
+    "ar": "نقوش بعثة رولفس"
+   },
+   "desc": {
+    "en": "Names carved by European explorers in 1874.",
+    "ar": "أسماء نقشها مستكشفون أوروبيون عام 1874."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Morning or late afternoon, with the Muzawwaqa tombs nearby.",
+   "ar": "الصباح أو آخر النهار، مع مقابر المزوقة القريبة."
+  },
+  "crowdNotes": {
+   "en": "Quiet, with a small visitor centre at the entrance. Dakhla is a long drive from the Nile Valley or Kharga, so plan an overnight stay in Mut or al-Qasr.",
+   "ar": "هادئ، وعند المدخل مركز صغير للزوار. والطريق إلى الداخلة طويل من وادي النيل أو الخارجة، فخطط للمبيت في موط أو القصر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/DeirHagarPronaos.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:DeirHagarPronaos.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/DeirHagarGateway1.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:DeirHagarGateway1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Deir_el-Haggar_%28XXII%29_%288157829211%29.jpg",
+   "author": "Institute for the Study of the Ancient World from New York, United States of America",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deir_el-Haggar_(XXII)_(8157829211).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%AD%D8%AC%D8%B1_(%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF)",
+  "osm": "way/265726300"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q14207694",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00; Ramadan 09:00-16:00; last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-دير-الحجر/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (MoTA Nov 2024 list: 100/50, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (checked: the 9 Jul 2026 SCA board decision raising prices from 1 Oct 2026 names only Bahariya Oasis sites; not applied here)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (emperors, astronomical ceiling, Rohlfs graffiti, DOP 1992-1995; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Deir_el-%E1%B8%A4agar",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%AD%D8%AC%D8%B1_(%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF)",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "visit.crowdNotes (travel advice: oasis roads exempt from warnings; updated 4 Aug 2026)",
+   "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Distance conflict: MoTA guide says about 20 km from al-Qasr, Wikivoyage about 7 km south-west; prose avoids a figure. Prices only from the MoTA Nov 2024 list (no portal page, not on egymonuments.com); kept as confirmed (batch-7 Q4a). The 9 Jul 2026 oasis price rise covers Bahariya only (batch-7 finding), not applied. Ramadan from the MoTA guide (09:00-16:00, last entry 15:00). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. 'Small visitor centre' from Wikivoyage, verify."
+}

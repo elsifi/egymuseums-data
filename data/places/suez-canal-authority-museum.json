@@ -1,0 +1,103 @@
+{
+ "id": "suez-canal-authority-museum",
+ "kind": "museum",
+ "wikidataId": "Q28715618",
+ "name": {
+  "en": "Suez Canal Authority Museum",
+  "ar": "متحف هيئة قناة السويس"
+ },
+ "category": "specialised",
+ "operator": "other",
+ "governorate": "port-said",
+ "city": {
+  "en": "Port Said",
+  "ar": "بورسعيد"
+ },
+ "area": {
+  "en": "Bazaar Street and Safiya Zaghloul Street",
+  "ar": "تقاطع شارعي البازار وصفية زغلول"
+ },
+ "address": {
+  "en": "Corner of Bazaar Street and Safiya Zaghloul Street, Port Said",
+  "ar": "تقاطع شارعي البازار وصفية زغلول، بورسعيد"
+ },
+ "lat": 31.25717,
+ "lng": 32.3086,
+ "status": "unknown",
+ "statusNote": {
+  "en": "Run by the Suez Canal Authority and may not open for regular visits, so ask locally before going.",
+  "ar": "يتبع هيئة قناة السويس وقد لا يستقبل الزيارات المنتظمة، لذا يُنصح بالسؤال محليًا قبل الذهاب."
+ },
+ "summary": {
+  "en": "A Suez Canal Authority museum in a nineteenth-century villa associated with Empress Eugénie, with furniture and memorabilia from the canal's early years.",
+  "ar": "متحف تابع لهيئة قناة السويس في فيلا من القرن التاسع عشر ارتبط اسمها بالإمبراطورة أوجيني، يضم أثاثًا ومقتنيات من السنوات الأولى للقناة."
+ },
+ "description": {
+  "en": "The Suez Canal Authority opened this museum on 6 August 2015, the day the New Suez Canal was inaugurated. It occupies a historic building at the corner of Bazaar and Safiya Zaghloul streets, long known as the villa of Empress Eugénie. In fact it housed the French consulate in Port Said, but the empress is said to have rested there during the canal's opening ceremonies in 1869, which gave the house its popular name. The ground floor recreates the world of Ferdinand de Lesseps, the promoter of the canal, with period furniture, vases and gifts presented to him, Persian carpets, candelabra and crystal, an alabaster statue of de Lesseps, and portraits of the company's early presidents, as well as a phonograph and a piano. The upper floor uses models, maps and photographs to tell the history of the waterway from the first blow of the pick in 1859 through nationalisation in 1956 to the present.",
+  "ar": "افتتحت هيئة قناة السويس هذا المتحف في 6 أغسطس 2015، يوم افتتاح قناة السويس الجديدة. ويشغل مبنى تاريخيًا عند تقاطع شارعي البازار وصفية زغلول اشتهر طويلًا باسم فيلا الإمبراطورة أوجيني، مع أنه كان في الواقع مقرًا للقنصلية الفرنسية في بورسعيد، غير أن الإمبراطورة يُقال إنها استراحت فيه خلال مراسم افتتاح القناة عام 1869، ومن هنا جاءت شهرته. ويستعيد الطابق الأول عالم فرديناند ديليسبس صاحب مشروع القناة، بأثاث من تلك الحقبة وفازات وهدايا قُدمت إليه وسجاد فارسي وشمعدانات وقطع من الكريستال وتمثال لديليسبس من المرمر، ولوحات لرؤساء الشركة الأوائل، إلى جانب فونوغراف وبيانو. أما الطابق الثاني فيروي بالمجسمات والخرائط والصور تاريخ المجرى الملاحي منذ ضربة المعول الأولى عام 1859 مرورًا بالتأميم عام 1956 وحتى اليوم."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "De Lesseps rooms",
+    "ar": "قاعات ديليسبس"
+   },
+   "desc": {
+    "en": "Period furniture, gifts and an alabaster statue of the canal's promoter.",
+    "ar": "أثاث من الحقبة وهدايا وتمثال من المرمر لصاحب مشروع القناة."
+   }
+  },
+  {
+   "title": {
+    "en": "Canal history floor",
+    "ar": "طابق تاريخ القناة"
+   },
+   "desc": {
+    "en": "Models, maps and photographs from 1859 to nationalisation and beyond.",
+    "ar": "مجسمات وخرائط وصور من عام 1859 حتى التأميم وما بعده."
+   }
+  },
+  {
+   "title": {
+    "en": "The villa",
+    "ar": "الفيلا"
+   },
+   "desc": {
+    "en": "The former French consulate where Empress Eugénie is said to have rested in 1869.",
+    "ar": "مقر القنصلية الفرنسية السابق الذي يُقال إن الإمبراطورة أوجيني استراحت فيه عام 1869."
+   }
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%87%D9%8A%D8%A6%D8%A9_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q28715618",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights,address (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%87%D9%8A%D8%A6%D8%A9_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "curationNote (separate project: the Dome building of the Suez Canal Authority to become a museum; news 25 Oct 2025)",
+   "url": "https://www.youm7.com/story/2025/10/25/%D9%85%D8%A8%D9%86%D9%89-%D8%A7%D9%84%D9%82%D8%A8%D8%A9-%D8%A3%D9%8A%D9%82%D9%88%D9%86%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D8%A5%D9%84%D9%89-%D9%85%D8%AA%D8%AD%D9%81-%D9%82%D9%88%D9%85%D9%89-%D8%A8%D9%8F%D9%86%D9%89/7167809",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Status 'unknown': no 2024-2026 source on this 2015 villa museum was found (two WebSearches). Recent news is about other projects: the Suez Canal Authority's large Suez Canal Museum in Ismailia (egymonuments.com 'Suez canal Museum | Ismailia') and the plan, under restoration since 2025, to turn the domed Suez Canal Authority building in Port Said into a national museum. It is unclear whether the villa collection moved. Wikidata coordinates (31.25717, 32.3086) sit on the canal front near the Dome building rather than the Bazaar Street villa; kept as seed, needs checking. Ar-wiki hours (working days, half day Thursday, closed Fri-Sat) are undated and not used. No photos: no Commons image identified as this villa."
+}

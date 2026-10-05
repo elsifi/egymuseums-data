@@ -1,0 +1,242 @@
+{
+ "id": "naguib-mahfouz-museum",
+ "kind": "museum",
+ "wikidataId": "Q83766468",
+ "name": {
+  "en": "Naguib Mahfouz Museum",
+  "ar": "متحف نجيب محفوظ"
+ },
+ "aliases": [
+  "Nagib Mahfuz museum"
+ ],
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "al-Azhar, in the Takiyya of Muhammad Bey Abu al-Dahab",
+  "ar": "الأزهر، داخل تكية محمد بك أبو الدهب"
+ },
+ "address": {
+  "en": "Takiyya of Muhammad Bey Abu al-Dahab, opposite al-Azhar Mosque, Cairo",
+  "ar": "تكية محمد بك أبو الدهب، أمام الجامع الأزهر، القاهرة"
+ },
+ "lat": 30.045823,
+ "lng": 31.261683,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily in two sessions, morning and evening, and busy with talks and workshops during 2026, the 'Year of Naguib Mahfouz'.",
+  "ar": "مفتوح يوميًا على فترتين صباحية ومسائية، ويشهد ندوات وورشًا كثيرة خلال عام 2026 «عام نجيب محفوظ»."
+ },
+ "summary": {
+  "en": "The Nobel laureate's museum and creative centre, set in an 18th-century Sufi lodge in the old city he wrote about.",
+  "ar": "متحف ومركز إبداع الأديب الحائز على نوبل، في تكية من القرن الثامن عشر وسط الحي القديم الذي كتب عنه."
+ },
+ "description": {
+  "en": "Naguib Mahfouz (1911–2006), the first Arab writer to win the Nobel Prize for Literature in 1988, grew up in the Gamaliya quarter and set many of his novels in its lanes. His museum opened in 2019 in the takiyya, or Sufi lodge, of the Ottoman-era complex of Muhammad Bey Abu al-Dahab, built in 1774 facing al-Azhar Mosque. The display is built around objects his family gave to the ministry in 2011: pens given to him by Tawfiq al-Hakim, his clothes, watch, glasses and reading lens, prayer beads, shaving kit and a fragment of the Berlin Wall. Rooms also hold libraries of his works and of criticism about them, an audiovisual hall with film adaptations and interviews, a shop selling his books and a children's library. The museum doubles as a cultural centre, and in 2026, twenty years after his death, it hosts a year-long programme of storytelling sessions, workshops and talks.",
+  "ar": "نجيب محفوظ (1911–2006) أول أديب عربي ينال جائزة نوبل للآداب عام 1988، نشأ في حي الجمالية وجعل كثيرًا من رواياته تدور في حواريه. افتُتح متحفه عام 2019 في التكية التابعة لمجموعة محمد بك أبو الدهب العثمانية التي شُيدت عام 1774 أمام الجامع الأزهر. ويقوم العرض على مقتنيات سلمتها أسرته للوزارة عام 2011، منها قلمان أهداهما إليه توفيق الحكيم، وملابسه وساعته ونظاراته وعدسة القراءة، ومسبحته وأدوات حلاقته، وقطعة من سور برلين. وتضم القاعات كذلك مكتبة لأعماله وأخرى للدراسات النقدية عنها، وقاعة سمعية بصرية تعرض الأفلام المأخوذة عن رواياته وحواراته، ومنفذًا لبيع كتبه، ومكتبة للطفل. والمتحف مركز ثقافي أيضًا، ويستضيف في عام 2026، بعد عشرين عامًا على رحيله، برنامجًا ممتدًا من أمسيات الحكي والورش والندوات."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Personal belongings",
+    "ar": "المقتنيات الشخصية"
+   },
+   "desc": {
+    "en": "Pens from Tawfiq al-Hakim, his clothes, watch, glasses and a piece of the Berlin Wall.",
+    "ar": "قلمان من توفيق الحكيم، وملابسه وساعته ونظاراته، وقطعة من سور برلين."
+   }
+  },
+  {
+   "title": {
+    "en": "Libraries",
+    "ar": "المكتبات"
+   },
+   "desc": {
+    "en": "His complete works alongside a library of critical studies about them.",
+    "ar": "أعماله الكاملة إلى جانب مكتبة للدراسات النقدية التي تناولتها."
+   }
+  },
+  {
+   "title": {
+    "en": "Audiovisual hall",
+    "ar": "القاعة السمعية البصرية"
+   },
+   "desc": {
+    "en": "Clips from films based on his novels and recorded interviews.",
+    "ar": "مقاطع من الأفلام المأخوذة عن رواياته وحوارات مسجلة معه."
+   }
+  },
+  {
+   "title": {
+    "en": "The takiyya",
+    "ar": "التكية"
+   },
+   "desc": {
+    "en": "An 18th-century Sufi lodge with a courtyard, part of the Abu al-Dahab complex.",
+    "ar": "تكية صوفية من القرن الثامن عشر ذات فناء، ضمن مجموعة أبو الدهب."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "14:00"
+   },
+   {
+    "day": "sat",
+    "open": "17:00",
+    "close": "21:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "14:00"
+   },
+   {
+    "day": "sun",
+    "open": "17:00",
+    "close": "21:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "14:00"
+   },
+   {
+    "day": "mon",
+    "open": "17:00",
+    "close": "21:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "14:00"
+   },
+   {
+    "day": "tue",
+    "open": "17:00",
+    "close": "21:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "14:00"
+   },
+   {
+    "day": "wed",
+    "open": "17:00",
+    "close": "21:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "14:00"
+   },
+   {
+    "day": "thu",
+    "open": "17:00",
+    "close": "21:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "14:00"
+   },
+   {
+    "day": "fri",
+    "open": "17:00",
+    "close": "21:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Evening session, when cultural events are held; combine with al-Azhar and the Ghuri complex nearby.",
+   "ar": "الفترة المسائية حين تُقام الفعاليات الثقافية، مع الجمع بين الزيارة والجامع الأزهر ومجموعة الغوري القريبة."
+  },
+  "crowdNotes": {
+   "en": "Check the museum's page for the evening programme; some events fill the rooms.",
+   "ar": "يُستحسن متابعة صفحة المتحف لمعرفة برنامج الأمسيات، فبعض الفعاليات تزدحم بها القاعات."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Muhammad_Bek_Abu_El_Dahab_Complex.jpg",
+   "author": "Ahmedfahmy81",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muhammad_Bek_Abu_El_Dahab_Complex.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mosque_of_abu_dhahab_DSCF7769.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosque_of_abu_dhahab_DSCF7769.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "https://www.mahfouzmuseum.gov.eg/",
+  "social": [
+   "https://www.facebook.com/p/%D9%85%D8%AA%D8%AD%D9%81-%D9%86%D8%AC%D9%8A%D8%A8-%D9%85%D8%AD%D9%81%D9%88%D8%B8-%D8%A8%D8%AA%D9%83%D9%8A%D8%A9-%D8%A7%D8%A8%D9%88-%D8%A7%D9%84%D8%AF%D9%87%D8%A8-100063817890084/"
+  ]
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q83766468",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (official museum site: 09:00-14:00 and 17:00-21:00)",
+   "url": "https://mahfouzmuseum.gov.eg/?q=node/2768",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (events, Sept 2026),operator (Cultural Development Fund)",
+   "url": "https://www.youm7.com/story/2026/9/5/x/7535516",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (Year of Naguib Mahfouz launched at the museum), 28 Aug 2026",
+   "url": "https://www.youm7.com/story/2026/8/28/x/7527644",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (collection, libraries); 2020 hours and price not used",
+   "url": "https://www.elwatannews.com/news/details/4966559",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "contacts.website (CDF venue list)",
+   "url": "https://www.cdf.gov.eg/?q=node/29",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "HOURS CONFLICT: the official site (page dated 2019-07-14, still live) gives daily 09:00-14:00 and 17:00-21:00; elwatannews (Aug 2020, Covid period) gave 09:00-17:00 daily except Tuesday and EGP 5. The live official page is used (decision 6) as two split sessions; whether Tuesday is a closing day now is unknown. No lastEntry. Price unconfirmed (EGP 5 in 2020). Relationship to the SCA ticket for the Abu al-Dahab complex (abu-al-dahab-mosque) not confirmed; kept separate, ask hotline 19654 (batch-10 Q13a). Photos show the historic takiyya and complex (1774), not modern displays."
+}

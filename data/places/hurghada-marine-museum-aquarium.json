@@ -1,0 +1,155 @@
+{
+ "id": "hurghada-marine-museum-aquarium",
+ "kind": "museum",
+ "wikidataId": "Q132042514",
+ "name": {
+  "en": "Hurghada Marine Museum & Aquarium",
+  "ar": "متحف الأحياء البحرية بالغردقة"
+ },
+ "aliases": [
+  "المتحف البحري والأكواريوم بالغردقة",
+  "متحف الأحياء المائية بمعهد علوم البحار",
+  "NIOF Marine Museum"
+ ],
+ "category": "science-natural",
+ "operator": "other",
+ "governorate": "red-sea",
+ "city": {
+  "en": "Hurghada",
+  "ar": "الغردقة"
+ },
+ "area": {
+  "en": "National Institute of Oceanography and Fisheries, north Hurghada",
+  "ar": "المعهد القومي لعلوم البحار والمصايد، شمال الغردقة"
+ },
+ "address": {
+  "en": "Red Sea branch of the National Institute of Oceanography and Fisheries, Hurghada",
+  "ar": "فرع البحر الأحمر للمعهد القومي لعلوم البحار والمصايد، الغردقة"
+ },
+ "lat": 27.28364,
+ "lng": 33.77223,
+ "status": "open",
+ "statusNote": {
+  "en": "Visits are possible; school trips are regular. Opening hours are not published, so ask at the institute gate.",
+  "ar": "الزيارة متاحة، وتنظم إليه رحلات مدرسية بانتظام. ولم تُنشر مواعيد العمل، لذا يُنصح بالسؤال عند بوابة المعهد."
+ },
+ "summary": {
+  "en": "The marine museum of Egypt's oceanography institute in Hurghada, with preserved sharks, rays, turtles and dugongs from the Red Sea.",
+  "ar": "متحف الأحياء البحرية التابع لمعهد علوم البحار في الغردقة، ويضم أسماك قرش وشفنينيات وسلاحف وأطوم محنطة من البحر الأحمر."
+ },
+ "description": {
+  "en": "Hurghada's marine museum belongs to the Red Sea branch of the National Institute of Oceanography and Fisheries, which grew from a marine research station founded in 1928, long before the town became a resort. It is one of the oldest attractions in Hurghada and a regular stop for school trips. The halls display preserved specimens of the creatures of the Red Sea and the Indian Ocean: a large mako shark, a sawfish, several species of sea turtle, dolphins, dugongs, the 'mermaid' of local lore, and a Napoleon wrasse, together with corals and shells. A famous exhibit is a giant manta ray caught in 1954 on a trip by Field Marshal Abdel Hakim Amer, who is said to have seen it leap above the water. The institute's research vessel, named after the marine scientist Hamed Gohar, is moored nearby and still collects samples in the Red Sea.",
+  "ar": "يتبع متحف الأحياء البحرية في الغردقة فرع البحر الأحمر للمعهد القومي لعلوم البحار والمصايد، الذي نشأ من محطة أبحاث بحرية تأسست عام 1928، قبل أن تصبح الغردقة مدينة سياحية بزمن طويل. ويُعد من أقدم المزارات في الغردقة ومحطة دائمة للرحلات المدرسية. وتعرض قاعاته عينات محنطة من كائنات البحر الأحمر والمحيط الهندي: قرش ماكو ضخم، وسمكة المنشار، وأنواع من السلاحف البحرية، والدلافين، وعروس البحر (الأطوم) التي تدور حولها الحكايات الشعبية، وسمكة نابليون، إلى جانب المرجان والأصداف. ومن أشهر معروضاته سمكة مانتا عملاقة اصطيدت عام 1954 خلال رحلة للمشير عبد الحكيم عامر، ويُروى أنه رآها تقفز فوق سطح الماء. وترسو بالقرب منه سفينة الأبحاث التابعة للمعهد التي تحمل اسم عالم البحار حامد جوهر، ولا تزال تجمع العينات من البحر الأحمر."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Giant manta ray",
+    "ar": "سمكة المانتا العملاقة"
+   },
+   "desc": {
+    "en": "A huge ray caught in the Red Sea in 1954.",
+    "ar": "شفنينة ضخمة اصطيدت من البحر الأحمر عام 1954."
+   }
+  },
+  {
+   "title": {
+    "en": "Dugongs",
+    "ar": "عروس البحر (الأطوم)"
+   },
+   "desc": {
+    "en": "Preserved dugongs, the rare sea cows of the Red Sea.",
+    "ar": "أطوم محنطة، وهي من الثدييات البحرية النادرة في البحر الأحمر."
+   }
+  },
+  {
+   "title": {
+    "en": "Sharks and sawfish",
+    "ar": "أسماك القرش والمنشار"
+   },
+   "desc": {
+    "en": "A large mako shark and a sawfish among the preserved fish.",
+    "ar": "قرش ماكو ضخم وسمكة منشار بين الأسماك المحنطة."
+   }
+  },
+  {
+   "title": {
+    "en": "Sea turtles",
+    "ar": "السلاحف البحرية"
+   },
+   "desc": {
+    "en": "Several species of turtle that live in the Red Sea.",
+    "ar": "أنواع من السلاحف التي تعيش في البحر الأحمر."
+   }
+  },
+  {
+   "title": {
+    "en": "Research vessel",
+    "ar": "سفينة الأبحاث"
+   },
+   "desc": {
+    "en": "The institute ship named after the scientist Hamed Gohar.",
+    "ar": "سفينة المعهد التي تحمل اسم العالم حامد جوهر."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Morning, outside school-trip times.",
+   "ar": "الصباح، بعيدًا عن مواعيد الرحلات المدرسية."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Dugongs_at_the_National_Institute_of_Oceanography_and_Fisheries%2C_Egypt.jpg",
+   "author": "Miramikhail",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dugongs_at_the_National_Institute_of_Oceanography_and_Fisheries,_Egypt.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Dugong_dugon_%28dead%29.jpg",
+   "author": "Miramikhail",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dugong_dugon_(dead).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/20072007%28015%29.jpg",
+   "author": "Miramikhail",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:20072007(015).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q132042514",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,description,highlights (entry about EGP 20 per person, school trips; news 23 Aug 2025)",
+   "url": "https://www.youm7.com/story/2025/8/23/%D8%A8%D9%80-20-%D8%AC%D9%86%D9%8A%D9%87-%D8%A8%D8%B3-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A8%D9%85%D8%B9%D9%87%D8%AF/7097104",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Operator: National Institute of Oceanography and Fisheries (Ministry of Higher Education and Scientific Research; 'other'). Status 'open' from youm7 (23 Aug 2025); no 2026 source. Price: youm7 says EGP 20 per person, but no official price, so prices.status = unconfirmed. Not to be confused with the private Hurghada Grand Aquarium (EGP 275 / USD 32), which search engines mix up with this museum. Seed Arabic name 'المتحف البحري والأكواريوم بالغردقة' (editor-added) kept; the name used locally and in the press is 'متحف الأحياء البحرية' (added as alias). Whether live aquarium tanks are still shown is not confirmed, so the text does not mention them. Wikidata phone (+20-114-989-8003) not verified, so contacts omitted. Photos show taxidermied specimens (Commons category of this museum). name.ar switched to the press and local form 'متحف الأحياء البحرية بالغردقة'; the seed's editor-added form is kept as an alias (batch-13 A9a)."
+}

@@ -1,0 +1,237 @@
+{
+ "id": "sira-hilaliya-museum-abnoudi",
+ "kind": "museum",
+ "wikidataId": "Q140227871",
+ "name": {
+  "en": "Al-Sira al-Hilaliya Museum (Abnoudi Museum)",
+  "ar": "متحف السيرة الهلالية"
+ },
+ "aliases": [
+  "متحف ومركز الأبنودي للسيرة الهلالية"
+ ],
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "qena",
+ "city": {
+  "en": "Abnud",
+  "ar": "أبنود"
+ },
+ "area": {
+  "en": "Abnud village",
+  "ar": "قرية أبنود"
+ },
+ "address": {
+  "en": "Abnud village, Qena Governorate",
+  "ar": "قرية أبنود، محافظة قنا"
+ },
+ "lat": null,
+ "lng": null,
+ "status": "open",
+ "statusNote": {
+  "en": "Free entry. The museum also runs workshops for children; opening on a given day is not guaranteed, so check locally before travelling.",
+  "ar": "الدخول مجاني، وينظم المتحف ورشًا للأطفال. ولا يُضمن فتحه في كل الأيام، لذا يُنصح بالتحقق محليًا قبل السفر."
+ },
+ "summary": {
+  "en": "A museum and cultural centre in the poet Abdel Rahman El-Abnoudi's home village, devoted to the Hilali epic he spent decades recording.",
+  "ar": "متحف ومركز ثقافي في قرية الشاعر عبد الرحمن الأبنودي، مخصص للسيرة الهلالية التي أمضى عقودًا في جمعها وتسجيلها."
+ },
+ "description": {
+  "en": "The poet Abdel Rahman El-Abnoudi spent some thirty years collecting the Sirat Bani Hilal, the great Arabic folk epic sung by rababa poets in the villages of Upper Egypt, and he chose his birthplace, Abnud near Qena, for a centre that would keep it alive. Built with local effort and support from the Cultural Development Fund, the 640-square-metre building passed to the Fine Arts Sector of the Ministry of Culture and opened on 30 May 2015, weeks after the poet's death. The main hall presents the epic and its narrators through volumes and manuscripts, 132 audio tapes of the rababa poet Gaber Abu Hussein with El-Abnoudi's commentary, 67 artworks and photographs of the collecting journeys. A wing holds the poet's personal belongings, from his clothes and glasses to his pen and walking stick. Libraries for adults and children hold thousands of books, and the centre runs talks, poetry evenings and art workshops.",
+  "ar": "أمضى الشاعر عبد الرحمن الأبنودي نحو ثلاثين عامًا في جمع سيرة بني هلال، الملحمة الشعبية العربية الكبرى التي يرويها شعراء الربابة في قرى الصعيد، واختار مسقط رأسه أبنود قرب قنا لإقامة مركز يحفظها من الاندثار. وقد شُيد المبنى الذي تبلغ مساحته 640 مترًا مربعًا بالجهود الذاتية وبدعم من صندوق التنمية الثقافية، ثم آلت تبعيته إلى قطاع الفنون التشكيلية بوزارة الثقافة، وافتُتح في 30 مايو 2015 بعد أسابيع من رحيل الشاعر. وتعرض القاعة الرئيسية السيرة ورواتها من خلال مجلدات ومخطوطات، و132 شريطًا صوتيًا بصوت شاعر الربابة جابر أبو حسين مع شروح الأبنودي، و67 عملًا فنيًا، وصورًا لرحلات الجمع. ويضم جناح آخر متعلقات الشاعر الشخصية من ملابسه ونظارته إلى قلمه وعصاه. وتحتوي مكتبتا الكبار والأطفال على آلاف الكتب، وينظم المركز ندوات وأمسيات شعرية وورشًا فنية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Hilali epic recordings",
+    "ar": "تسجيلات السيرة الهلالية"
+   },
+   "desc": {
+    "en": "Tapes of the rababa poet Gaber Abu Hussein with El-Abnoudi's commentary.",
+    "ar": "أشرطة بصوت شاعر الربابة جابر أبو حسين مع شروح الأبنودي."
+   }
+  },
+  {
+   "title": {
+    "en": "Manuscripts and volumes",
+    "ar": "المخطوطات والمجلدات"
+   },
+   "desc": {
+    "en": "Written versions of the epic gathered in Egypt and across the Arab world.",
+    "ar": "نصوص مكتوبة للسيرة جُمعت من مصر ومن أنحاء العالم العربي."
+   }
+  },
+  {
+   "title": {
+    "en": "The poet's belongings",
+    "ar": "متعلقات الشاعر"
+   },
+   "desc": {
+    "en": "Clothes, glasses, pen, walking stick and honours of Abdel Rahman El-Abnoudi.",
+    "ar": "ملابس عبد الرحمن الأبنودي ونظارته وقلمه وعصاه والأوسمة التي نالها."
+   }
+  },
+  {
+   "title": {
+    "en": "Libraries",
+    "ar": "المكتبات"
+   },
+   "desc": {
+    "en": "Reading rooms for adults and children, partly from the libraries of El-Abnoudi and Gamal El-Ghitani.",
+    "ar": "قاعات اطلاع للكبار والأطفال، بعض كتبها من مكتبتي الأبنودي وجمال الغيطاني."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (Fine Arts Sector museums)",
+     "ar": "مواعيد شهر رمضان (متاحف قطاع الفنون التشكيلية)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "closed": true
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "free",
+  "currency": "EGP"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Weekday mornings.",
+   "ar": "صباح أيام العمل."
+  }
+ },
+ "contacts": {
+  "phone": null,
+  "website": "http://www.fineart.gov.eg/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A9_%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84%D9%8A%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q140227871",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (10:00-16:00 except Mon and Fri),prices (free entry),address (official Fine Arts Sector visitor page)",
+   "url": "http://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=38",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (children's workshop held by the museum; news 27 Sep 2026)",
+   "url": "https://www.elnabaa.net/1195539/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (doors found closed to visitors on 21 Apr 2026, the poet's anniversary)",
+   "url": "https://www.youm7.com/story/2026/4/21/%D8%BA%D9%84%D9%82-%D9%85%D8%AA%D8%AD%D9%81-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%A8%D9%86%D9%88%D8%AF%D9%8A-%D8%A8%D9%82%D9%86%D8%A7-%D9%81%D9%8A-%D8%B0%D9%83%D8%B1%D9%89-%D8%B1%D8%AD%D9%8A%D9%84%D9%87-%D8%A7%D9%84%D9%80/7385458",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A9_%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84%D9%8A%D8%A9",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Ministry of Culture (Fine Arts Sector). Status 'open' because the museum held a children's workshop in Sept 2026 (elnabaa, 27 Sep 2026), but youm7 reported its doors closed to visitors on Tue 21 Apr 2026 (a normal opening day per the official hours), so day-to-day opening is uncertain. Hours and free entry from the undated official fineart.gov.eg page; the Sector's June 2026 schedule does not name this museum. Ramadan: sector-wide 10:00-14:00 (Ramadan 2026). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Location: ar-wiki says Qift district, youm7 says Qena district; address kept to 'Abnud village, Qena'. Seed coordinates null and kept null. No photos: no Commons image of the museum (2015 building, modern)."
+}

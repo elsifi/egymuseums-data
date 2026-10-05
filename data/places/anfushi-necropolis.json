@@ -1,0 +1,290 @@
+{
+ "id": "anfushi-necropolis",
+ "kind": "site",
+ "wikidataId": "Q20424374",
+ "name": {
+  "en": "Anfushi Necropolis",
+  "ar": "مقابر الأنفوشي"
+ },
+ "aliases": [
+  "necropolis of al-Anfushi"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Ras el-Tin, Al-Gomrok",
+  "ar": "رأس التين، الجمرك"
+ },
+ "address": {
+  "en": "Anfushi, near Ras el-Tin Palace, Al-Gomrok, Alexandria",
+  "ar": "الأنفوشي، بالقرب من قصر رأس التين، حي الجمرك، الإسكندرية"
+ },
+ "lat": 31.202159,
+ "lng": 29.874009,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Some tombs are affected by groundwater, so not every chamber may be accessible.",
+  "ar": "مفتوح يوميًا، وتتأثر بعض المقابر بالمياه الجوفية، لذا قد لا تكون كل الحجرات متاحة للزيارة."
+ },
+ "summary": {
+  "en": "Ptolemaic rock-cut family tombs near the Anfushi shore, painted to imitate marble and alabaster.",
+  "ar": "مقابر عائلية منحوتة في الصخر من العصر البطلمي قرب شاطئ الأنفوشي، زُيّنت جدرانها بألوان تحاكي الرخام والمرمر."
+ },
+ "description": {
+  "en": "On the Anfushi peninsula, close to Ras el-Tin Palace, lies a group of rock-cut tombs from the Ptolemaic period that once belonged to the western cemetery of ancient Alexandria. Like other Alexandrian tombs of the time, they were laid out like the houses of the living. A stair cut into the rock leads down to an open court with a water cistern, and from the court open pairs of rooms: an outer hall where funerary rites and prayers were held and an inner chamber for burial, either in a sarcophagus or in narrow niches cut into the walls. The walls were painted to resemble panels of alabaster and marble, and some scenes mix Egyptian and Greek styles, showing the deceased before Osiris, Isis and Horus. Sketches of ships scratched on the plaster recall the nearby harbour. Groundwater and the sea air have damaged several tombs.",
+  "ar": "في شبه جزيرة الأنفوشي، بالقرب من قصر رأس التين، تقع مجموعة من المقابر المنحوتة في الصخر من العصر البطلمي كانت جزءًا من الجبانة الغربية للإسكندرية القديمة. وقد صُممت كغيرها من مقابر المدينة في ذلك العصر على غرار منازل الأحياء؛ إذ يهبط سلم منحوت في الصخر إلى فناء مكشوف به صهريج للمياه، وتنفتح على الفناء مقبرتان تتكون كل منهما من حجرتين: حجرة خارجية لإقامة الطقوس الجنائزية والصلاة على المتوفى، وحجرة داخلية للدفن إما في تابوت أو في فتحات ضيقة منحوتة في الجدران. ولُوّنت الجدران لتحاكي ألواح المرمر والرخام، وتجمع بعض المناظر بين الطرازين المصري واليوناني، فتُظهر المتوفى أمام أوزير وإيزيس وحورس. وتذكّر رسوم السفن المحفورة على الملاط بالميناء القريب. وقد ألحقت المياه الجوفية وهواء البحر أضرارًا بعدد من المقابر."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Painted walls",
+    "ar": "الجدران الملونة"
+   },
+   "desc": {
+    "en": "Plaster painted to imitate alabaster and marble panels.",
+    "ar": "ملاط ملون يحاكي ألواح المرمر والرخام."
+   }
+  },
+  {
+   "title": {
+    "en": "Egyptian-Greek scenes",
+    "ar": "المناظر المصرية اليونانية"
+   },
+   "desc": {
+    "en": "The deceased presented to Osiris, Isis and Horus.",
+    "ar": "المتوفى يُقدَّم إلى أوزير وإيزيس وحورس."
+   }
+  },
+  {
+   "title": {
+    "en": "Ship graffiti",
+    "ar": "رسوم السفن"
+   },
+   "desc": {
+    "en": "Ancient sketches of ships scratched into the plaster.",
+    "ar": "رسوم قديمة لسفن محفورة في الملاط."
+   }
+  },
+  {
+   "title": {
+    "en": "House-like plan",
+    "ar": "التخطيط المنزلي"
+   },
+   "desc": {
+    "en": "Stair, open court and paired rooms modelled on homes.",
+    "ar": "سلم وفناء مكشوف وحجرات مزدوجة على غرار المنازل."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Morning, combined with the Qaitbay Citadel and Ras el-Tin area.",
+   "ar": "الصباح، مع الجمع بين الزيارة وقلعة قايتباي ومنطقة رأس التين."
+  },
+  "crowdNotes": {
+   "en": "Small and rarely visited. Steps down into the tombs can be damp and slippery.",
+   "ar": "موقع صغير قليل الزوار، وقد تكون درجات النزول إلى المقابر رطبة وزلقة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/AlexGraeberAnfuschi.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:AlexGraeberAnfuschi.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Alexandria_4.jpg",
+   "author": "Abdelrhman 1990",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexandria_4.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/AlexAnfushiTombs.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:AlexAnfushiTombs.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%A8%D8%B1_%D8%A7%D9%84%D8%A3%D9%86%D9%81%D9%88%D8%B4%D9%8A",
+  "osm": "node/12235059013"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q20424374",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan),address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D9%82%D8%A7%D8%A8%D8%B1-%D8%A7%D9%84%D8%A3%D9%86%D9%81%D9%88%D8%B4%D9%8A/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Opening-time conflict: MoTA guide 08:00-17:00 vs Nov 2024 list 09:00-17:00; the narrower window (09:00) is used (batch-7 D1a). Last entry one hour before closing (guide). Ramadan 09:00-16:00 (guide). Prices 100/50 and 10/5 come only from the Nov 2024 MoTA list (no portal or booking page; same pattern as temple-of-hibis); no free groups are listed because no source names them for this site. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

@@ -1,0 +1,338 @@
+{
+ "id": "athribis-sohag",
+ "kind": "site",
+ "wikidataId": "Q755738",
+ "name": {
+  "en": "Athribis (El-Sheikh Hamad)",
+  "ar": "أتريبس"
+ },
+ "aliases": [
+  "Athribis"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "sohag",
+ "city": {
+  "en": "Sohag",
+  "ar": "سوهاج"
+ },
+ "area": {
+  "en": "Wannina al-Sharqiya, west bank, south-west of Sohag",
+  "ar": "قرية ونينة الشرقية، البر الغربي، جنوب غرب سوهاج"
+ },
+ "address": {
+  "en": "Wannina al-Sharqiya village, Sohag Governorate",
+  "ar": "قرية ونينة الشرقية، محافظة سوهاج"
+ },
+ "lat": 26.511375,
+ "lng": 31.6653,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily; tickets can also be booked online.",
+  "ar": "مفتوحة يوميًا، ويمكن حجز التذاكر إلكترونيًا أيضًا."
+ },
+ "summary": {
+  "en": "A late Ptolemaic and Roman temple town near Sohag, with a temple of unusual design, rock-cut tombs and a small open-air museum.",
+  "ar": "مدينة معابد من أواخر العصر البطلمي والعصر الروماني قرب سوهاج، تضم معبدًا ذا تصميم فريد ومقابر صخرية ومتحفًا مفتوحًا صغيرًا."
+ },
+ "description": {
+  "en": "Athribis, called Hut-Repyt by the ancient Egyptians, lies on the west bank of the Nile south-west of Sohag, a few kilometres from the White Monastery. The town was founded relatively late, around the fourth century BC, and its mud-brick houses remain largely unexcavated. Its chief monument is a large temple begun under Ptolemy XII and completed by Roman emperors from Tiberius to Hadrian. An earthquake later brought it down, but its plan survives: the inner walls are surrounded by 26 columns, an arrangement unique in Egyptian architecture, and the sanctuary walls show a procession of gods, one for each day of the calendar. To the west lies an older temple of Ptolemy IX, dedicated to Min-Re and still largely under sand. The site also includes a rock-cut temple to Asclepius, a Coptic basilica of the fifth or sixth century, Ptolemaic and Roman tombs in the hill above, and an open-air museum of carved blocks.",
+  "ar": "تقع أتريبس، التي سماها المصريون القدماء حوت ربيت، على الضفة الغربية للنيل جنوب غرب سوهاج، على بعد بضعة كيلومترات من الدير الأبيض. وقد تأسست المدينة في وقت متأخر نسبيًا، نحو القرن الرابع قبل الميلاد، ولا تزال بيوتها المبنية بالطوب اللبن غير منقبة في معظمها. وأبرز آثارها معبد كبير بدأه بطلميوس الثاني عشر وأكمله أباطرة الرومان من تيبريوس حتى هادريان. وقد انهار المعبد لاحقًا بسبب زلزال، لكن تخطيطه بقي واضحًا؛ إذ تحيط بجدرانه الداخلية 26 عمودًا في ترتيب فريد في العمارة المصرية، وتصوّر جدران قدس الأقداس موكبًا من المعبودات، معبودًا لكل يوم من أيام التقويم. وإلى الغرب يقع معبد أقدم لبطلميوس التاسع مكرس للمعبود مين رع، ولا يزال معظمه مطمورًا بالرمال. ويضم الموقع كذلك معبدًا صخريًا للإله أسكليبيوس، وكنيسة قبطية على الطراز البازيليكي من القرن الخامس أو السادس، ومقابر بطلمية ورومانية في التل المجاور، ومتحفًا مفتوحًا للكتل المنقوشة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Temple of Ptolemy XII",
+    "ar": "معبد بطلميوس الثاني عشر"
+   },
+   "desc": {
+    "en": "A late temple whose inner walls are ringed by 26 columns.",
+    "ar": "معبد متأخر تحيط بجدرانه الداخلية 26 عمودًا."
+   }
+  },
+  {
+   "title": {
+    "en": "Calendar procession",
+    "ar": "موكب معبودات التقويم"
+   },
+   "desc": {
+    "en": "Sanctuary reliefs of gods, each standing for a day of the year.",
+    "ar": "نقوش في قدس الأقداس لمعبودات يمثل كل منها يومًا من أيام السنة."
+   }
+  },
+  {
+   "title": {
+    "en": "Rock temple of Asclepius",
+    "ar": "المعبد الصخري لأسكليبيوس"
+   },
+   "desc": {
+    "en": "A late Ptolemaic temple cut into the hillside.",
+    "ar": "معبد من أواخر العصر البطلمي منحوت في الجبل."
+   }
+  },
+  {
+   "title": {
+    "en": "Coptic basilica",
+    "ar": "الكنيسة البازيليكية القبطية"
+   },
+   "desc": {
+    "en": "Remains of a fifth- or sixth-century church south of the temple.",
+    "ar": "بقايا كنيسة من القرن الخامس أو السادس جنوب المعبد."
+   }
+  },
+  {
+   "title": {
+    "en": "Open-air museum",
+    "ar": "المتحف المفتوح"
+   },
+   "desc": {
+    "en": "Blocks from the temple façade with Hathor-headed capitals.",
+    "ar": "كتل من واجهة المعبد وتيجان أعمدة على هيئة رأس حتحور."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/ElSheikhHamad",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Early morning, combined with the White and Red Monasteries nearby.",
+   "ar": "الصباح الباكر، مع زيارة الديرين الأبيض والأحمر القريبين."
+  },
+  "crowdNotes": {
+   "en": "An open site with little shade.",
+   "ar": "موقع مكشوف قليل الظل."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/AthribisViewToNW.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:AthribisViewToNW.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Athribis_Tempel_%28C%29_Kolanthes.jpg",
+   "author": "Christian Leitz",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Athribis_Tempel_(C)_Kolanthes.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/el-sheikh-hamad-athribis/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Athribis_(Upper_Egypt)",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A3%D8%AA%D8%B1%D9%8A%D8%A8%D8%B3",
+  "osm": "node/5017212409"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q755738",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/el-sheikh-hamad-athribis/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (07:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing),address,description (MoTA guide)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/منطقة-الشيخ-حمد/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices,description,highlights (official portal)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/el-sheikh-hamad-athribis/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (last entry 16:00; Ramadan 09:00, last entry 15:00),tickets,freeGroups (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/ElSheikhHamad",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 cross-check)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (location, Hut-Repyt; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Athribis_(Upper_Egypt)",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal, MoTA guide, booking page and Nov 2024 list agree on 07:00-17:00 and 150/75/10/5. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. No Arab tier: the SCA ended Arab = Egyptian pricing from 1 Jan 2026. Temple attribution: the portal says Ptolemy XII; en-wiki says Ptolemy XV Caesarion - the official attribution is used. The 2021 find of some 13,000 ostraca (en-wiki) is not used in user text. A portal news item on free entry for Egyptians 'until the end of March' is undated and old; ignored. cashAccepted not set."
+}

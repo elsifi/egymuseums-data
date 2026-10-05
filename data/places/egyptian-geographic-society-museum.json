@@ -1,0 +1,143 @@
+{
+ "id": "egyptian-geographic-society-museum",
+ "kind": "museum",
+ "wikidataId": "Q22689510",
+ "name": {
+  "en": "Egyptian Geographic Society Museum",
+  "ar": "متحف الجمعية الجغرافية المصرية"
+ },
+ "aliases": [
+  "National Geographic Society Museum"
+ ],
+ "category": "specialised",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Qasr al-Aini Street, near Tahrir Square",
+  "ar": "شارع القصر العيني، بالقرب من ميدان التحرير"
+ },
+ "address": {
+  "en": "Egyptian Geographic Society, Qasr al-Aini Street, in the historic Parliament compound, Cairo",
+  "ar": "الجمعية الجغرافية المصرية، شارع القصر العيني، داخل حرم مجلس النواب التاريخي، القاهرة"
+ },
+ "lat": 30.041128,
+ "lng": 31.236035,
+ "status": "unknown",
+ "statusNote": {
+  "en": "The building stands inside a guarded government compound, and current visiting arrangements for the public could not be confirmed. Contact the Society before going.",
+  "ar": "يقع المبنى داخل حرم حكومي مؤمَّن، ولم يتسنَّ التأكد من ترتيبات زيارة الجمهور حاليًا، فتواصل مع الجمعية قبل الذهاب."
+ },
+ "summary": {
+  "en": "The museum of one of the world's oldest geographical societies, founded by Khedive Ismail in 1875, with ethnographic collections, African expedition finds and historic maps.",
+  "ar": "متحف إحدى أقدم الجمعيات الجغرافية في العالم، أسسها الخديوي إسماعيل عام 1875، ويضم مجموعات إثنوغرافية ومقتنيات من البعثات الأفريقية وخرائط تاريخية."
+ },
+ "description": {
+  "en": "Khedive Ismail founded the Geographical Society of Egypt in 1875 to encourage the exploration of Egypt and Africa at a time when Egypt was extending its reach up the Nile. Its museum, in the Society's building on Qasr al-Aini Street, gathers maps, publications and objects mostly dating from the eighteenth to the early twentieth century. One hall is devoted to Egyptian customs and crafts, with smoking tools, games, costumes, jewellery and amulets, and a corridor shows figures dressed in the traditional costumes of different regions. The most striking room holds objects brought back by the Society's expeditions: stuffed animals, shields, spears and hunting weapons from across Africa, behind a door decorated with ivory. A Suez Canal hall, a gift of the canal company, displays maps and models of the works, and the upper floor houses the library and historic maps.",
+  "ar": "أسس الخديوي إسماعيل الجمعية الجغرافية المصرية عام 1875 لتشجيع استكشاف أقاليم مصر وأفريقيا، في وقت كانت فيه مصر تمد نفوذها جنوبًا على امتداد النيل. ويضم متحفها، في مبنى الجمعية بشارع القصر العيني، خرائط ومطبوعات ومقتنيات يرجع معظمها إلى الفترة من القرن الثامن عشر حتى أوائل القرن العشرين. وتُخصص إحدى القاعات للعادات والحرف المصرية، ففيها أدوات التدخين والألعاب والملابس والحلي والتمائم، ويعرض ممر تماثيل ترتدي الأزياء التقليدية لأقاليم مصر المختلفة. وأكثر القاعات إثارة تلك التي تضم ما جلبته بعثات الجمعية من حيوانات محنطة ودروع ورماح وأدوات صيد من أنحاء أفريقيا، ويزين بابها العاج. وتعرض قاعة قناة السويس، وهي هدية من شركة القناة، خرائط ونماذج لمواقع العمل في القناة، بينما يضم الطابق العلوي المكتبة والخرائط التاريخية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Africa hall",
+    "ar": "القاعة الأفريقية"
+   },
+   "desc": {
+    "en": "Expedition finds from across Africa, behind an ivory-decorated door.",
+    "ar": "مقتنيات البعثات من أنحاء أفريقيا خلف باب مزين بالعاج."
+   }
+  },
+  {
+   "title": {
+    "en": "Egyptian folk life",
+    "ar": "الحياة الشعبية المصرية"
+   },
+   "desc": {
+    "en": "Costumes, jewellery, games and everyday objects of nineteenth-century Egypt.",
+    "ar": "أزياء وحلي وألعاب وأدوات يومية من مصر في القرن التاسع عشر."
+   }
+  },
+  {
+   "title": {
+    "en": "Suez Canal hall",
+    "ar": "قاعة قناة السويس"
+   },
+   "desc": {
+    "en": "Maps and models of the canal works, given by the canal company.",
+    "ar": "خرائط ونماذج لأعمال حفر القناة، أهدتها شركة القناة."
+   }
+  },
+  {
+   "title": {
+    "en": "Historic maps and library",
+    "ar": "الخرائط التاريخية والمكتبة"
+   },
+   "desc": {
+    "en": "Old maps, relief maps of Egypt and early census records.",
+    "ar": "خرائط قديمة ومجسمات بارزة لتضاريس مصر وتعدادات سكانية قديمة."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Egpytiangeography.JPG",
+   "author": "Hasnain0786",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egpytiangeography.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Egyptian_geographic_society.jpg",
+   "author": "Ashashyou",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egyptian_geographic_society.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q22689510",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (museum visit scheduled at the Society during an international congress, 15 Apr 2025)",
+   "url": "https://iguegypt2025.org/programme/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Society founded by Khedive Ismail's decree of 19 May 1875)",
+   "url": "https://en.wikipedia.org/wiki/Egyptian_Geographic_Society",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Status 'unknown': no official visitor information found; the only 2025 evidence is a museum visit scheduled for congress delegates (IGU 2025 programme, 15 Apr 2025). The building lies within the Shura/Parliament compound, so public access may need prior arrangement. Seed alias 'National Geographic Society Museum' kept (a common English mistranslation used by Tripadvisor). Relief maps and census records from EN wiki/AR wiki library description."
+}

@@ -1,0 +1,269 @@
+{
+ "id": "sadat-museum",
+ "kind": "museum",
+ "wikidataId": "Q7397611",
+ "name": {
+  "en": "Sadat Museum",
+  "ar": "متحف السادات"
+ },
+ "category": "specialised",
+ "operator": "other",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Al-Shatby, Bibliotheca Alexandrina",
+  "ar": "الشاطبي، مكتبة الإسكندرية"
+ },
+ "address": {
+  "en": "Bibliotheca Alexandrina, beside the Planetarium, Al-Shatby, Alexandria",
+  "ar": "مكتبة الإسكندرية، بجوار القبة السماوية، الشاطبي، الإسكندرية"
+ },
+ "lat": 31.208834,
+ "lng": 29.909122,
+ "status": "open",
+ "statusNote": {
+  "en": "Open Sunday to Thursday and on Saturday mornings; closed on Fridays. Entry is with the library's Main Library ticket, and visits start with a short film about Sadat. Throughout October 2026 the library runs a special Sadat panorama programme.",
+  "ar": "مفتوح من الأحد إلى الخميس وصباح السبت، ومغلق يوم الجمعة. ويكون الدخول بتذكرة المكتبة الرئيسية، وتبدأ الزيارة بعرض قصير عن السادات. وطوال أكتوبر 2026 تقدم المكتبة برنامجًا خاصًا بعنوان «بانوراما السادات»."
+ },
+ "summary": {
+  "en": "A small museum at the Bibliotheca Alexandrina devoted to President Anwar Sadat, including the uniform he wore on 6 October 1981.",
+  "ar": "متحف صغير بمكتبة الإسكندرية مخصص للرئيس أنور السادات، ويضم البدلة العسكرية التي ارتداها يوم 6 أكتوبر 1981."
+ },
+ "description": {
+  "en": "Opened in February 2009 with the support of the Sadat family, this compact museum was the first in Alexandria devoted to Anwar Sadat, president of Egypt from 1970 until his assassination in 1981. It is part of the Bibliotheca Alexandrina's work to document modern Egyptian history and sits beside the planetarium. Visits open with a short audiovisual show about his life. The rooms display medals and decorations awarded in Egypt and abroad, his civilian suits and military uniforms, including the bloodstained uniform he wore at the October parade in 1981, and personal objects such as his desk, radio, pipe, walking stick and village cloak. Gifts from his visit to Jerusalem, recordings of his voice and documents on the October War and the peace process complete the display.",
+  "ar": "افتُتح هذا المتحف الصغير في فبراير 2009 بدعم من أسرة السادات، وكان أول متحف في الإسكندرية يُخصص للرئيس أنور السادات الذي حكم مصر من عام 1970 حتى اغتياله عام 1981. ويأتي ضمن جهود مكتبة الإسكندرية لتوثيق تاريخ مصر الحديث، ويقع بجوار القبة السماوية. وتبدأ الزيارة بعرض سمعي بصري قصير عن حياته. وتضم القاعات الأوسمة والنياشين التي نالها في مصر وخارجها، وبدلاته المدنية والعسكرية، ومنها البدلة الملطخة بالدماء التي كان يرتديها في العرض العسكري في أكتوبر 1981، إلى جانب مقتنيات شخصية مثل مكتبه والمذياع والغليون والعصا والعباءة التي كان يرتديها في قريته. وتكتمل المعروضات بهدايا من زيارته للقدس وتسجيلات بصوته ووثائق عن حرب أكتوبر ومسيرة السلام."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "October 1981 uniform",
+    "ar": "بدلة أكتوبر 1981"
+   },
+   "desc": {
+    "en": "The bloodstained uniform he wore on the day of his assassination.",
+    "ar": "البدلة الملطخة بالدماء التي ارتداها يوم اغتياله."
+   }
+  },
+  {
+   "title": {
+    "en": "Medals and decorations",
+    "ar": "الأوسمة والنياشين"
+   },
+   "desc": {
+    "en": "Honours received in Egypt and from other countries.",
+    "ar": "أوسمة حصل عليها في مصر ومن دول أخرى."
+   }
+  },
+  {
+   "title": {
+    "en": "Personal belongings",
+    "ar": "المقتنيات الشخصية"
+   },
+   "desc": {
+    "en": "His desk, radio, pipe, walking stick and village cloak.",
+    "ar": "مكتبه والمذياع والغليون والعصا وعباءة القرية."
+   }
+  },
+  {
+   "title": {
+    "en": "Jerusalem lanterns",
+    "ar": "فوانيس القدس"
+   },
+   "desc": {
+    "en": "Three lanterns, Islamic, Christian and Jewish, given during his 1977 visit.",
+    "ar": "ثلاثة فوانيس إسلامي ومسيحي ويهودي أُهديت إليه في زيارته عام 1977."
+   }
+  },
+  {
+   "title": {
+    "en": "Audiovisual archive",
+    "ar": "الأرشيف السمعي البصري"
+   },
+   "desc": {
+    "en": "Speeches, recordings and documents on war and peace.",
+    "ar": "خطب وتسجيلات ووثائق عن الحرب والسلام."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "14:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "October War anniversary holiday: shortened hours",
+     "ar": "عطلة ذكرى نصر أكتوبر: مواعيد مختصرة"
+    },
+    "from": "2026-10-08",
+    "to": "2026-10-08",
+    "weekly": [
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "egyptian",
+    "group": "senior",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "People with special needs"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "People with special needs",
+    "ar": "ذوو الهمم"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Weekday mornings; book the Sadat Culturama show at the guided-tours desk.",
+   "ar": "صباح أيام الأسبوع، مع حجز عرض السادات في مكتب الجولات الإرشادية."
+  },
+  "crowdNotes": {
+   "en": "Busy around the 6 October anniversary. Children under 4 are not admitted to the library.",
+   "ar": "يزدحم في ذكرى السادس من أكتوبر، ولا يُسمح بدخول الأطفال دون الرابعة إلى المكتبة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anwar_Sadat_cropped.jpg",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anwar_Sadat_cropped.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Begin%2C_Carter_and_Sadat_at_Camp_David_1978.jpg",
+   "author": "Fitz-Patrick, Bill, photographer",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Begin,_Carter_and_Sadat_at_Camp_David_1978.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 3 483 9999",
+  "website": "https://www.bibalex.org/en/center/details/sadatmuseum",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Sadat_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q7397611",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,hours.exceptions,status (official BA home page; news 1 Oct 2026)",
+   "url": "https://www.bibalex.org/en/Default",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,freeGroups (official BA admission page: Main Library ticket includes the Sadat Museum)",
+   "url": "https://www.bibalex.org/en/Page/BA_Visiting",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (official BA museum page)",
+   "url": "https://www.bibalex.org/en/center/details/sadatmuseum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (opened 17 Feb 2009; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Sadat_Museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Location resolved: this is the Bibliotheca Alexandrina's Sadat Museum (Wikidata P361 = BA, P856 = bibalex.org); the Sadat museum at Mit Abu al-Kum (Monufia) is a different place. Prices = BA Main Library ticket, which the BA admission page says includes the Sadat Museum (checked 2026-10-05): Egyptians student 5, adult 10, senior 5; non-Egyptians student 20, adult 150, senior 150; special needs free. Operator changed from the seed's ministry-of-culture to other (BA). BA hours: the bibalex.org home page (checked 2026-10-05) gives 'Visits, Museums & Planetarium Science Center' Sun-Thu 09:30-17:00, Sat 10:00-14:00, Fri closed; no last entry and no Ramadan schedule published. TIME-LIMITED: the 2026-10-08 exception (October War anniversary, 10:00-14:00) expires after 2026-10-08; still valid on 2026-10-05; remove it then. TIME-LIMITED: the 'Sadat panorama throughout October 2026' sentence in statusNote (BA news, 1 Oct 2026) expires after 2026-10-31; still valid on 2026-10-05. Photos: the modern museum interior is not used; two public-domain photos of Sadat (US government) are used, as for gamal-abdel-nasser-museum."
+}

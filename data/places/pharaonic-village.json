@@ -1,0 +1,162 @@
+{
+ "id": "pharaonic-village",
+ "kind": "museum",
+ "wikidataId": "Q12191277",
+ "name": {
+  "en": "Pharaonic Village",
+  "ar": "القرية الفرعونية"
+ },
+ "category": "pharaonic",
+ "operator": "private",
+ "governorate": "giza",
+ "city": {
+  "en": "Giza",
+  "ar": "الجيزة"
+ },
+ "area": {
+  "en": "Jacob’s Island (Gezirat Yaqub), Nile, Giza",
+  "ar": "جزيرة يعقوب، النيل، الجيزة"
+ },
+ "address": {
+  "en": "Jacob’s Island, off Al-Bahr Al-Aazam Street, Giza",
+  "ar": "جزيرة يعقوب، أمام شارع البحر الأعظم، الجيزة"
+ },
+ "lat": 29.997295,
+ "lng": 31.215216,
+ "status": "unknown",
+ "statusNote": {
+  "en": "A privately run living-history park. Current opening hours and ticket prices could not be confirmed; check with the village before visiting.",
+  "ar": "متنزه خاص لإحياء التاريخ. تعذر التأكد من مواعيد العمل وأسعار التذاكر الحالية، فيُرجى التواصل مع القرية قبل الزيارة."
+ },
+ "summary": {
+  "en": "A living-history park on a Nile island in Giza, where costumed actors recreate daily life in ancient Egypt along a boat tour, with replica temples and themed museums.",
+  "ar": "متنزه لإحياء التاريخ على جزيرة نيلية بالجيزة، يجسد فيه ممثلون بأزياء فرعونية الحياة اليومية في مصر القديمة خلال جولة بالقارب، مع نماذج لمعابد ومتاحف موضوعية."
+ },
+ "description": {
+  "en": "The Pharaonic Village was created by Hassan Ragab, an engineer and diplomat who revived the making of papyrus in Egypt. In 1974 he chose Jacob’s Island in the Nile at Giza and planted thousands of willows, sycamores and palms to screen out the modern city. After a decade of work the village opened in 1984 with a nobleman’s house and garden, a market, fields, a boat-building area and a large white temple that became its emblem. The main visit is a boat ride along canals while actors in costume show papyrus-making, farming, fishing, pottery, glassmaking, sculpture and mummification. Later additions include a full-scale replica of Tutankhamun’s tomb as it was found, and a series of themed museums covering periods from the pyramids and the Ptolemies to Coptic and Islamic Egypt and modern presidents. It is an entertainment and education park, not an archaeological site; all buildings and objects are modern reconstructions.",
+  "ar": "أنشأ القرية الفرعونية الدكتور حسن رجب، المهندس والدبلوماسي الذي أحيا صناعة ورق البردي في مصر. ففي عام 1974 اختار جزيرة يعقوب في نيل الجيزة، وزرع آلاف الأشجار من الصفصاف والجميز والنخيل لتحجب مشهد المدينة الحديثة. وبعد عشر سنوات من العمل افتُتحت القرية عام 1984، وفيها بيت أحد النبلاء وحديقته وسوق وحقول ومكان لصناعة القوارب ومعبد أبيض كبير صار رمزًا لها. وتقوم الزيارة الرئيسية على جولة بالقارب عبر القنوات، يعرض خلالها ممثلون بأزياء فرعونية صناعة البردي والزراعة والصيد والفخار والزجاج والنحت والتحنيط. ومن الإضافات اللاحقة نموذج بالحجم الطبيعي لمقبرة توت عنخ آمون كما اكتُشفت، وسلسلة من المتاحف الموضوعية تغطي حقبًا من عصر الأهرامات والبطالمة إلى مصر القبطية والإسلامية ورؤساء مصر في العصر الحديث. والقرية متنزه ترفيهي وتعليمي وليست موقعًا أثريًا، فجميع مبانيها ومعروضاتها نماذج حديثة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Boat tour of daily life",
+    "ar": "جولة القارب في الحياة اليومية"
+   },
+   "desc": {
+    "en": "Costumed actors demonstrate ancient crafts and farming along the canals.",
+    "ar": "ممثلون بأزياء فرعونية يعرضون الحرف والزراعة القديمة على ضفاف القنوات."
+   }
+  },
+  {
+   "title": {
+    "en": "Replica of Tutankhamun’s tomb",
+    "ar": "نموذج مقبرة توت عنخ آمون"
+   },
+   "desc": {
+    "en": "A full-scale reconstruction of the tomb as discovered in 1922.",
+    "ar": "نموذج بالحجم الطبيعي للمقبرة كما اكتُشفت عام 1922."
+   }
+  },
+  {
+   "title": {
+    "en": "Village temple",
+    "ar": "معبد القرية"
+   },
+   "desc": {
+    "en": "A large white temple built as the park’s centrepiece.",
+    "ar": "معبد أبيض كبير شُيد ليكون قلب المتنزه."
+   }
+  },
+  {
+   "title": {
+    "en": "Themed museums",
+    "ar": "المتاحف الموضوعية"
+   },
+   "desc": {
+    "en": "Small museums on periods from the pyramids to modern Egypt.",
+    "ar": "متاحف صغيرة عن حقب تمتد من عصر الأهرامات إلى مصر الحديثة."
+   }
+  },
+  {
+   "title": {
+    "en": "Papyrus plantations",
+    "ar": "مزارع البردي"
+   },
+   "desc": {
+    "en": "Papyrus grown on the island, recalling Ragab’s revival of the craft.",
+    "ar": "نبات البردي المزروع على الجزيرة، تذكيرًا بإحياء رجب لهذه الصناعة."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "other",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 120,
+  "standardMinutes": 180,
+  "deepMinutes": 240,
+  "bestTime": {
+   "en": "Mornings, especially with children; allow half a day.",
+   "ar": "الفترة الصباحية، خاصة مع الأطفال، مع تخصيص نصف يوم."
+  },
+  "crowdNotes": {
+   "en": "Popular with school trips and families; the tour runs in groups with a guide.",
+   "ar": "مقصد شائع للرحلات المدرسية والعائلات، وتجري الجولة في مجموعات مع مرشد."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Guiza_1999_02.jpg",
+   "author": "LBM1948",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guiza_1999_02.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Pharaonic_Village",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D8%B9%D9%88%D9%86%D9%8A%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12191277",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (history, museums; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Pharaonic_Village",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (2020 price list - outdated, not used)",
+   "url": "https://www.masrawy.com/news/news_egypt/details/2020/8/5/1846687/x",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (official site checked: blocked by a browser challenge, 5 Oct 2026)",
+   "url": "https://www.pharaonicvillage.com/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (papyrus on Jacob’s Island; licence via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Private attraction. Status unknown: no dated 2024-2026 first-hand or official source could be read (official site behind a Cloudflare challenge; third-party tour listings only). Prices: the last dated list found is from Aug 2020 (packages from EGP 100) and third-party 2026 listings conflict (150, 200, 600), so prices are 'unconfirmed'; hours (09:00-17:00 or 09:00-20:00 in third-party guides) not given. Address 'Al-Bahr Al-Aazam St' is general knowledge, not from an official page. Category kept 'pharaonic' (seed) although it is a modern reconstruction. Photo: papyrus planted on Jacob's Island (1999); all built features are modern and excluded (no FoP). City added."
+}

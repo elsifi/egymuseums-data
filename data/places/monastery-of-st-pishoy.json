@@ -1,0 +1,202 @@
+{
+ "id": "monastery-of-st-pishoy",
+ "kind": "site",
+ "wikidataId": "Q3320206",
+ "name": {
+  "en": "Monastery of St. Pishoy",
+  "ar": "دير الأنبا بيشوي"
+ },
+ "aliases": [
+  "دير القديس أنبا بيشوي",
+  "Monastery of Saint Bishoy",
+  "Monastery of Saint Pishoy"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "beheira",
+ "city": {
+  "en": "Wadi el-Natrun",
+  "ar": "وادي النطرون"
+ },
+ "area": {
+  "en": "Wadi el-Natrun (ancient Scetis), Western Desert",
+  "ar": "وادي النطرون (برية شيهيت)، الصحراء الغربية"
+ },
+ "address": {
+  "en": "Wadi el-Natrun monasteries road, Beheira Governorate, about 500 m south-east of the Syrian Monastery",
+  "ar": "طريق الأديرة، وادي النطرون، محافظة البحيرة، على بعد نحو 500 متر جنوب شرق دير السريان"
+ },
+ "lat": 30.310278,
+ "lng": 30.355278,
+ "status": "open",
+ "statusNote": {
+  "en": "Working Coptic Orthodox monastery, open to individual visitors and groups outside Holy Week. Like other Coptic monasteries it may restrict or suspend visits during the great fasts and closes completely in Holy Week, so check before travelling.",
+  "ar": "دير قبطي أرثوذكسي عامر، مفتوح للأفراد والرحلات في غير أسبوع الآلام. وكسائر الأديرة القبطية قد يقيّد الزيارة أو يعلّقها في الأصوام الكبرى ويغلق تمامًا في أسبوع الآلام، فتحقق قبل السفر."
+ },
+ "summary": {
+  "en": "The largest active monastery of Wadi el-Natrun, founded by Saint Pishoy in the late fourth century around his desert cell.",
+  "ar": "أكبر الأديرة العامرة في وادي النطرون، أسسه القديس الأنبا بيشوي أواخر القرن الرابع الميلادي حول قلايته في البرية."
+ },
+ "description": {
+  "en": "Saint Pishoy, a disciple of Saint Macarius, gathered a community of hermits in Scetis in the late fourth century, and the monastery that bears his name is now the largest active one in Wadi el-Natrun. Like its neighbours it was destroyed and rebuilt several times after desert raids, which is why a keep and thick walls enclose the old core. Its main church, rebuilt in the ninth century, keeps the relics of Saint Pishoy and of Saint Paul of Tammah, and a well inside the walls is linked to the martyrdom of the Forty-Nine Elders. Visitors also see the ancient refectory with its long stone table and the domed buildings of the old monastery. In the late twentieth century Pope Shenouda III often retired here and restored the monks' cells, and the holy chrism of the Coptic Church was prepared at the monastery several times.",
+  "ar": "جمع القديس الأنبا بيشوي، تلميذ القديس مقاريوس، جماعة من المتوحدين في برية شيهيت أواخر القرن الرابع الميلادي، وصار الدير الذي يحمل اسمه اليوم أكبر الأديرة العامرة في وادي النطرون. وكجيرانه تعرّض للتخريب ثم أعيد بناؤه مرات عدة بعد غارات البدو، ولذلك يحيط بقلبه القديم حصن وأسوار سميكة. وتحفظ كنيسته الكبرى، التي أعيد بناؤها في القرن التاسع، رفات القديس الأنبا بيشوي والقديس بولا الطموهي، وترتبط بئر داخل الأسوار بقصة استشهاد الشيوخ التسعة والأربعين. ويشاهد الزائر كذلك المائدة الأثرية بطاولتها الحجرية الطويلة والمباني القديمة ذات القباب. وفي أواخر القرن العشرين كان البابا شنودة الثالث يعتكف فيه كثيرًا، فرمّم قلالي الرهبان، كما أُعدّ فيه زيت الميرون المقدس للكنيسة القبطية أكثر من مرة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Church of Saint Pishoy",
+    "ar": "كنيسة الأنبا بيشوي"
+   },
+   "desc": {
+    "en": "The largest church in Wadi el-Natrun, holding the relics of Saint Pishoy and Saint Paul of Tammah.",
+    "ar": "أكبر كنائس وادي النطرون، وتضم رفات الأنبا بيشوي والأنبا بولا الطموهي."
+   }
+  },
+  {
+   "title": {
+    "en": "The keep",
+    "ar": "الحصن"
+   },
+   "desc": {
+    "en": "A fortified tower in the north of the monastery, built as a refuge during raids.",
+    "ar": "برج محصّن في شمال الدير شُيّد ملجأً للرهبان وقت الغارات."
+   }
+  },
+  {
+   "title": {
+    "en": "Ancient refectory",
+    "ar": "المائدة الأثرية"
+   },
+   "desc": {
+    "en": "The old monks' dining hall with its long stone table.",
+    "ar": "قاعة طعام الرهبان القديمة بطاولتها الحجرية الطويلة."
+   }
+  },
+  {
+   "title": {
+    "en": "Well of the Martyrs",
+    "ar": "بئر الشهداء"
+   },
+   "desc": {
+    "en": "A well linked by tradition to the massacre of the Forty-Nine Elders of Scetis.",
+    "ar": "بئر يربطها التقليد باستشهاد شيوخ شيهيت التسعة والأربعين."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Weekday mornings, combined with the Syrian Monastery a short walk away.",
+   "ar": "صباح أيام الأسبوع، مع الجمع بين الزيارة ودير السريان القريب سيرًا على الأقدام."
+  },
+  "crowdNotes": {
+   "en": "Fridays, Sundays and Coptic feasts bring large church trips. Dress modestly and respect services in progress. There is no public transport.",
+   "ar": "تزدحم أيام الجمعة والأحد والأعياد القبطية برحلات الكنائس. التزم بالملابس المحتشمة واحترم الصلوات القائمة. ولا توجد مواصلات عامة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bischoy_Kloster_BW_6.jpg",
+   "author": "Berthold Werner",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bischoy_Kloster_BW_6.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bischoy_Kloster_BW_9.jpg",
+   "author": "Berthold Werner",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bischoy_Kloster_BW_9.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Pishoy",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7_%D8%A8%D9%8A%D8%B4%D9%88%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q3320206",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00 daily, no ticket listed; Nov 2024 MoTA ticket list, Beheira section)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,hours.exceptions context (monastery statement: visitors suspended in Holy Week 2025, reopening afterwards; news 7 Apr 2025)",
+   "url": "https://www.youm7.com/story/2025/4/7/%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7-%D8%A8%D9%8A%D8%B4%D9%88%D9%89-%D8%A8%D9%88%D8%A7%D8%AF%D9%89-%D8%A7%D9%84%D9%86%D8%B7%D8%B1%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8%D9%87-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9/6945524",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Pishoy",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7_%D8%A8%D9%8A%D8%B4%D9%88%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Hours 08:00-17:00 from the Nov 2024 MoTA ticket list only; an aggregator gives 08:00-16:00 (not used). No ticket listed: prices.status = unconfirmed. Status: monastery statement (youm7, 7 Apr 2025) suspended visits for Holy Week 2025 and reopened afterwards, so the monastery receives visitors normally. No Holy Week 2027 exception entered (dates and rules not yet announced). The monastery website avabishoy.com was not verified, so no contacts. Photos: modern bell towers and new church domes excluded; old domed buildings and roof view used."
+}

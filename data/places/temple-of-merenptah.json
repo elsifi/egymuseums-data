@@ -1,0 +1,263 @@
+{
+ "id": "temple-of-merenptah",
+ "kind": "site",
+ "wikidataId": "Q2065935",
+ "name": {
+  "en": "Mortuary Temple of Merenptah",
+  "ar": "معبد مرنبتاح الجنائزي"
+ },
+ "aliases": [
+  "معبدمرنبتاح الجنائزي"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor (West Bank)",
+  "ar": "الأقصر (البر الغربي)"
+ },
+ "area": {
+  "en": "Mortuary temples row, behind the Colossi of Memnon",
+  "ar": "صف المعابد الجنائزية، خلف تمثالي ممنون"
+ },
+ "address": {
+  "en": "West Bank, Qurna, Luxor (between the Ramesseum and the temple of Amenhotep III)",
+  "ar": "البر الغربي، القرنة، الأقصر (بين الرامسيوم ومعبد أمنحتب الثالث)"
+ },
+ "lat": 25.724961,
+ "lng": 32.606572,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "The foundations of Merenptah's memorial temple, largely built from blocks taken from the neighbouring temple of Amenhotep III.",
+  "ar": "أساسات المعبد الجنائزي للملك مرنبتاح، الذي بُني في معظمه بأحجار أُخذت من معبد أمنحتب الثالث المجاور."
+ },
+ "description": {
+  "en": "Merenptah, son and successor of Ramesses II, built his memorial temple on the Theban west bank in about five years around 1210 BC, between the Ramesseum and the ruined temple of Amenhotep III. His builders took much of their stone from that older temple, re-carving blocks, statues and stelae for the new king. The temple itself was later quarried away, so today visitors walk over restored foundations that trace the pylons, courts, hypostyle halls and sanctuary, with the mud-brick palace and storerooms alongside. The site's fame rests on Flinders Petrie's work here in 1896, when he found the granite Victory Stela, now in the Egyptian Museum, whose text includes one of the earliest mentions of the name Israel. A Swiss team led by Horst Jaritz excavated and conserved the site from 1971 and opened it to visitors in 2002, setting reused blocks with their original decoration on display.",
+  "ar": "شيّد مرنبتاح، ابن رمسيس الثاني وخليفته، معبده الجنائزي في البر الغربي بطيبة خلال نحو خمس سنوات قرابة عام 1210 قبل الميلاد، بين الرامسيوم ومعبد أمنحتب الثالث المتهدم. وأخذ بناؤوه كثيرًا من أحجارهم من ذلك المعبد الأقدم، فأعادوا نحت الكتل والتماثيل واللوحات باسم الملك الجديد. ثم تعرض المعبد نفسه للنهب واستُخدم محجرًا، فلا يرى الزائر اليوم إلا أساسات رُممت ترسم مواضع الصرحين والفناءين وصالتي الأعمدة وقدس الأقداس، وإلى جانبها القصر والمخازن المبنية بالطوب اللبن. وتعود شهرة الموقع إلى أعمال فلندرز بتري عام 1896، حين عثر على لوحة النصر المصنوعة من الجرانيت، المحفوظة في المتحف المصري، وفي نصها من أقدم الإشارات المعروفة إلى اسم إسرائيل. وقد نقّبت بعثة سويسرية بقيادة هورست ياريتز في الموقع ورممته منذ عام 1971، وافتُتح للزيارة عام 2002 مع عرض كتل أعيد استخدامها تحتفظ بزخارفها الأصلية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Restored ground plan",
+    "ar": "المخطط المرمم"
+   },
+   "desc": {
+    "en": "Foundations that let you trace pylons, courts and halls.",
+    "ar": "أساسات تتيح تتبع الصرحين والفناءين والقاعات."
+   }
+  },
+  {
+   "title": {
+    "en": "Reused blocks of Amenhotep III",
+    "ar": "كتل أمنحتب الثالث المعاد استخدامها"
+   },
+   "desc": {
+    "en": "Decorated stones taken from the older temple next door.",
+    "ar": "أحجار مزخرفة أُخذت من المعبد الأقدم المجاور."
+   }
+  },
+  {
+   "title": {
+    "en": "Find-spot of the Victory Stela",
+    "ar": "موضع لوحة النصر"
+   },
+   "desc": {
+    "en": "The stela naming Israel was found here; the original is in Cairo.",
+    "ar": "هنا عُثر على اللوحة التي ورد فيها اسم إسرائيل، والأصل في القاهرة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Merenptah",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Early morning, before the open site heats up.",
+   "ar": "الصباح الباكر قبل أن يشتد الحر في الموقع المكشوف."
+  },
+  "crowdNotes": {
+   "en": "Few visitors. Mainly foundations, so it rewards readers of a plan more than casual sightseers; little shade.",
+   "ar": "قليل الزوار. معظمه أساسات، لذا يفيد أكثر من يتابع مخطط المعبد، والظل فيه قليل."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Temple_Mortuaire_Merenptah_-_Louxor_%28EG%29_-_2025-12-11_-_1.jpg",
+   "author": "Chabe01",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_Mortuaire_Merenptah_-_Louxor_(EG)_-_2025-12-11_-_1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Temple_Mortuaire_Merenptah_-_Louxor_%28EG%29_-_2025-12-11_-_3.jpg",
+   "author": "Chabe01",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_Mortuaire_Merenptah_-_Louxor_(EG)_-_2025-12-11_-_3.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mortuary_Temple_of_Merneptah",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A8%D8%AF_%D9%85%D8%B1%D9%86%D8%A8%D8%AA%D8%A7%D8%AD_%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%D9%8A",
+  "osm": "way/89828347"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2065935",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (06:00-17:00, last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-مرنبتاح/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry 16:00 in every season),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/Merenptah",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Qurna area summer 2026; not applied, see curationNote)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Mortuary_Temple_of_Merneptah",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (site museum closed in 2023; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Totentempel_des_Merenptah",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Booking platform gives last entry 16:00 in summer, winter and Ramadan; the 24 Apr 2026 Qurna summer schedule (06:00-18:00) would allow 17:00. Conflict resolved with the earlier time, so no summer or Ramadan exception. A small on-site display (lapidarium) was reported closed in 2023 by Wikivoyage; not mentioned as a highlight. Commons photos of 11 Dec 2025 show the site open."
+}

@@ -1,0 +1,278 @@
+{
+ "id": "sehel-island",
+ "kind": "site",
+ "wikidataId": "Q1476222",
+ "name": {
+  "en": "Sehel Island",
+  "ar": "جزيرة سهيل"
+ },
+ "aliases": [
+  "Seheil"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Aswan",
+  "ar": "أسوان"
+ },
+ "area": {
+  "en": "First Cataract, south of Aswan",
+  "ar": "منطقة الجندل الأول، جنوب أسوان"
+ },
+ "address": {
+  "en": "Sehel Island, in the Nile about 4 km south-west of Aswan; reached by boat",
+  "ar": "جزيرة سهيل في النيل على بعد نحو 4 كم جنوب غرب أسوان، ويمكن الوصول إليها بالقارب"
+ },
+ "lat": 24.06,
+ "lng": 32.871111,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Reached by motorboat or felucca from Aswan.",
+  "ar": "مفتوح يوميًا، ويمكن الوصول إليها بالقارب أو الفلوكة من أسوان."
+ },
+ "summary": {
+  "en": "A granite island at the First Cataract covered with hundreds of ancient inscriptions, including the famous Famine Stela.",
+  "ar": "جزيرة جرانيتية عند الجندل الأول تغطيها مئات النقوش القديمة، ومنها لوحة المجاعة الشهيرة."
+ },
+ "description": {
+  "en": "Sehel is one of the largest islands of the First Cataract, the rocky stretch of the Nile just upstream of Aswan. Its granite was quarried in antiquity, and it became a resting place for royal armies and trading expeditions heading south into Nubia. Officials and soldiers left their names, titles and prayers on the boulders, and hundreds of inscriptions survive, from the Middle Kingdom to the Graeco-Roman period. Many honour Anuket, goddess of the cataract, whose temple stood on the island. One records an overseer of works under Hatshepsut and Thutmose III who extracted obelisks from the Aswan quarries. The most famous text is the Famine Stela, carved in Ptolemaic times but set in the reign of Djoser: during seven years of drought, the king consults his sage Imhotep, makes offerings to Khnum, and the flood returns. A Nubian village shares the island.",
+  "ar": "سهيل من أكبر جزر الجندل الأول، وهو الجزء الصخري من النيل جنوب أسوان مباشرة. وقد قُطع جرانيتها في العصور القديمة، وصارت محطة استراحة للجيوش الملكية والبعثات التجارية المتجهة جنوبًا إلى النوبة. فترك الموظفون والجنود أسماءهم وألقابهم وأدعيتهم على الصخور، ولا تزال مئات النقوش باقية من الدولة الوسطى حتى العصر اليوناني الروماني. ويمجد كثير منها عنقت، ربة الجندل التي كان لها معبد في الجزيرة. ويسجل أحدها مشرفًا على الأعمال في عهد حتشبسوت وتحتمس الثالث استخرج مسلات من محاجر أسوان. وأشهر هذه النصوص لوحة المجاعة التي نُقشت في العصر البطلمي لكن أحداثها تدور في عهد زوسر؛ إذ يستشير الملك حكيمه إيمحتب خلال سبع سنوات من الجفاف، ويقدم القرابين لخنوم، فيعود الفيضان. ويشارك الجزيرةَ قريةٌ نوبية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Famine Stela",
+    "ar": "لوحة المجاعة"
+   },
+   "desc": {
+    "en": "A Ptolemaic text on seven years of drought under Djoser.",
+    "ar": "نص بطلمي عن سبع سنوات من الجفاف في عهد زوسر."
+   }
+  },
+  {
+   "title": {
+    "en": "Rock inscriptions",
+    "ar": "النقوش الصخرية"
+   },
+   "desc": {
+    "en": "Hundreds of texts left by officials and expeditions.",
+    "ar": "مئات النصوص التي تركها الموظفون والبعثات."
+   }
+  },
+  {
+   "title": {
+    "en": "Cult of Anuket",
+    "ar": "عبادة عنقت"
+   },
+   "desc": {
+    "en": "Dedications to the goddess of the cataract.",
+    "ar": "إهداءات لربة الجندل."
+   }
+  },
+  {
+   "title": {
+    "en": "Cataract views",
+    "ar": "مشاهد الجندل"
+   },
+   "desc": {
+    "en": "Granite boulders and channels of the First Cataract.",
+    "ar": "صخور جرانيتية وقنوات الجندل الأول."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/SehelIsland",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning, by boat from Aswan; combine with a visit to the Nubian village.",
+   "ar": "الصباح بالقارب من أسوان، مع زيارة القرية النوبية."
+  },
+  "crowdNotes": {
+   "en": "Boat fares are separate from the site ticket. The inscriptions are on a rocky hill with uneven steps.",
+   "ar": "أجرة القارب منفصلة عن تذكرة الموقع، والنقوش على تل صخري بدرجات غير مستوية."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Sehel-steleFamine.jpg",
+   "author": "Morburre",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sehel-steleFamine.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sehel_enscriptions.jpg",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sehel_enscriptions.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/3_Kilometer_s%C3%BCdlich_von_Assuan_legt_die_Insel_Sehel._01.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:3_Kilometer_s%C3%BCdlich_von_Assuan_legt_die_Insel_Sehel._01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/rock-inscriptions-of-sehel-island/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Sehel_Island",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D8%B3%D9%87%D9%8A%D9%84",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1476222",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/rock-inscriptions-of-sehel-island/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices,description (official portal page)",
+   "url": "https://egymonuments.gov.eg/en/monuments/rock-inscriptions-of-sehel-island/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),freeGroups (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/SehelIsland",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/120",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Sehel_Island",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal 07:00-16:00, booking page last entry 15:00 (Ramadan row identical, so no exception), Nov 2024 list 07:00-16:00; prices 100/50 and 10/5 everywhere. No MoTA guide page found. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

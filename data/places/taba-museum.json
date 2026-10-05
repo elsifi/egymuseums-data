@@ -1,0 +1,127 @@
+{
+ "id": "taba-museum",
+ "kind": "museum",
+ "wikidataId": "Q139960154",
+ "name": {
+  "en": "Taba Museum",
+  "ar": "متحف آثار طابا"
+ },
+ "aliases": [
+  "متحف طابا",
+  "متحف طابا الكبير"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "south-sinai",
+ "city": {
+  "en": "Taba",
+  "ar": "طابا"
+ },
+ "area": {
+  "en": "Taba, about 2 km from the Mövenpick resort",
+  "ar": "طابا، على بعد نحو كيلومترين من منتجع موفنبيك"
+ },
+ "address": {
+  "en": "Taba, South Sinai Governorate",
+  "ar": "طابا، محافظة جنوب سيناء"
+ },
+ "lat": 29.492946,
+ "lng": 34.895647,
+ "status": "unknown",
+ "statusNote": {
+  "en": "Not among the antiquities museums currently listed as open to visitors; check before travelling.",
+  "ar": "غير مدرج ضمن متاحف الآثار المعلنة حاليًا كمفتوحة للزيارة، لذا يُنصح بالتحقق قبل السفر."
+ },
+ "summary": {
+  "en": "A regional antiquities museum in Taba, created after the town's return to Egypt, presenting about 700 objects from Sinai's history.",
+  "ar": "متحف آثار إقليمي في طابا أُنشئ بعد عودتها إلى مصر، ويعرض نحو 700 قطعة من تاريخ سيناء."
+ },
+ "description": {
+  "en": "The idea of a museum in Taba came in 1994, a few years after international arbitration returned the town to Egypt, and the result was the first antiquities museum in this corner of north-east Sinai. Run by the Supreme Council of Antiquities, it was meant to serve visitors to the Gulf of Aqaba resorts and to tell the story of Sinai as a crossing point between Africa and Asia, used by traders, pilgrims and armies. Three galleries present about 700 objects from pharaonic times to the modern era. They include pharaonic pieces linked to mining and trade routes, Graeco-Roman finds from Egyptian excavations in Sinai, a mosaic floor from Pelusium, and Islamic material from the Japanese excavations at El-Tor dating to the Ayyubid, Mamluk and Ottoman periods. Among the most prized items are Ayyubid manuscripts, a letter of Saladin, a warrior's shield found on the hill facing Pharaoh's Island, and documents used in the Taba arbitration.",
+  "ar": "جاءت فكرة إنشاء متحف في طابا عام 1994، بعد سنوات قليلة من عودة المدينة إلى مصر بحكم التحكيم الدولي، فكان أول متحف أثري في هذه الزاوية من شمال شرق سيناء. ويتبع المجلس الأعلى للآثار، وأُريد له أن يخدم زوار منتجعات خليج العقبة وأن يروي قصة سيناء بوصفها معبرًا بين أفريقيا وآسيا سلكه التجار والحجاج والجيوش. وتعرض قاعاته الثلاث نحو 700 قطعة من العصر الفرعوني حتى العصر الحديث، منها قطع فرعونية مرتبطة بالتعدين وطرق التجارة، ومكتشفات يونانية رومانية من حفائر البعثات المصرية في سيناء، وأرضية من الفسيفساء من بلوزيوم (تل الفرما)، ومواد إسلامية من حفائر البعثة اليابانية في الطور ترجع إلى العصور الأيوبي والمملوكي والعثماني. ومن أثمن مقتنياته مخطوطات من العصر الأيوبي، ومكاتبة لصلاح الدين، ودرع محارب عُثر عليه على التل المواجه لجزيرة فرعون، ومستندات استُخدمت في قضية تحكيم طابا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Ayyubid manuscripts",
+    "ar": "المخطوطات الأيوبية"
+   },
+   "desc": {
+    "en": "Manuscripts of the Ayyubid period, including a letter of Saladin.",
+    "ar": "مخطوطات من العصر الأيوبي، منها مكاتبة لصلاح الدين."
+   }
+  },
+  {
+   "title": {
+    "en": "Warrior's shield",
+    "ar": "درع المحارب"
+   },
+   "desc": {
+    "en": "Found on the hill facing Pharaoh's Island.",
+    "ar": "عُثر عليه على التل المواجه لجزيرة فرعون."
+   }
+  },
+  {
+   "title": {
+    "en": "Pelusium mosaic",
+    "ar": "فسيفساء بلوزيوم"
+   },
+   "desc": {
+    "en": "A mosaic floor from Tell el-Farama in north Sinai.",
+    "ar": "أرضية فسيفساء من تل الفرما بشمال سيناء."
+   }
+  },
+  {
+   "title": {
+    "en": "Taba arbitration documents",
+    "ar": "مستندات تحكيم طابا"
+   },
+   "desc": {
+    "en": "Papers used in Egypt's case for the return of Taba.",
+    "ar": "وثائق استخدمتها مصر في قضية استعادة طابا."
+   }
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A2%D8%AB%D8%A7%D8%B1_%D8%B7%D8%A7%D8%A8%D8%A7",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q139960154",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A2%D8%AB%D8%A7%D8%B1_%D8%B7%D8%A7%D8%A8%D8%A7",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (700 objects, three halls, idea 1994)",
+   "url": "https://m.akhbarelyom.com/news/newdetails/2731909/1/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (not in the MoTA ticket list, Nov 2024)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (no page in the MoTA guide to open museums, checked 2026-10-05)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Status 'unknown': not in the Nov 2024 MoTA ticket list nor the MoTA guide to open museums; no 2024-2026 news on visits found (one WebSearch). Ar-wiki gives hours (09:00-16:00 except Friday) and prices (Egyptian 10/5, foreign 160/80) without a source; not used. No photos: nothing on Commons."
+}

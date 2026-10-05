@@ -1,0 +1,292 @@
+{
+ "id": "sohag-national-museum",
+ "kind": "museum",
+ "wikidataId": "Q56115644",
+ "name": {
+  "en": "Sohag National Museum",
+  "ar": "متحف سوهاج القومي"
+ },
+ "aliases": [
+  "Sohag Pharaonic Museum"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "sohag",
+ "city": {
+  "en": "Sohag",
+  "ar": "سوهاج"
+ },
+ "area": {
+  "en": "Nile Corniche, Nasr City district",
+  "ar": "كورنيش النيل، حي مدينة ناصر"
+ },
+ "address": {
+  "en": "Nile Corniche, Nasr City, Sohag",
+  "ar": "كورنيش النيل، مدينة ناصر، سوهاج"
+ },
+ "lat": 26.561273,
+ "lng": 31.706349,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily in the morning, with an extra evening session on Fridays and Saturdays.",
+  "ar": "مفتوح يوميًا في الفترة الصباحية، مع فترة مسائية إضافية يومي الجمعة والسبت."
+ },
+ "summary": {
+  "en": "One of Egypt's largest regional museums, on the Nile at Sohag, showing finds from Abydos, Akhmim and the governorate's other sites.",
+  "ar": "من أكبر المتاحف الإقليمية في مصر، على نيل سوهاج، ويعرض مكتشفات أبيدوس وأخميم وغيرهما من مواقع المحافظة."
+ },
+ "description": {
+  "en": "Sohag National Museum stands on the Nile corniche and is one of the largest regional museums in Egypt. The project began in 1993 but stalled for years; work resumed in 2016 and the museum was inaugurated by the President of Egypt in August 2018. Its galleries, on a basement and two floors, present nearly a thousand objects, all excavated in the governorate at sites such as Abydos, Akhmim, El-Hawawish, El-Sheikh Hamad and Mansha, with many more in the storerooms. Rather than following a strict timeline, the display is arranged by themes: kings and notable people, family and social life, the ancient Egyptian kitchen, crafts and industries, textiles, local heritage, and the pilgrimage across the ages. Among the best-known pieces are a pink granite statue of Ramesses II and reliefs from the Abydos tomb of Weni, a governor and army commander of the Sixth Dynasty. Coptic textiles from Akhmim and Islamic objects bring the story to later centuries.",
+  "ar": "يقع متحف سوهاج القومي على كورنيش النيل، ويُعد من أكبر المتاحف الإقليمية في مصر. بدأ مشروعه عام 1993 لكنه تعثر سنوات، ثم استؤنفت الأعمال عام 2016، وافتتحه رئيس الجمهورية في أغسطس 2018. وتعرض قاعاته الموزعة على بدروم وطابقين نحو ألف قطعة، كلها مستخرجة من مواقع المحافظة مثل أبيدوس وأخميم والحواويش والشيخ حمد والمنشاة، إلى جانب أعداد أكبر في المخازن. ولا يتبع العرض تسلسلًا زمنيًا صارمًا، بل ينتظم حول موضوعات: الملوك والشخصيات، والأسرة والحياة الاجتماعية، والمطبخ المصري القديم، والحرف والصناعات، والنسيج، والتراث، ورحلة الحج عبر العصور. ومن أشهر قطعه تمثال من الجرانيت الوردي للملك رمسيس الثاني، ونقوش من مقبرة وني في أبيدوس، حاكم الإقليم وقائد الجيش في الأسرة السادسة. وتمد المنسوجات القبطية من أخميم والتحف الإسلامية الحكاية إلى العصور اللاحقة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Statue of Ramesses II",
+    "ar": "تمثال رمسيس الثاني"
+   },
+   "desc": {
+    "en": "A pink granite statue of the king holding a standard.",
+    "ar": "تمثال من الجرانيت الوردي للملك يحمل شارة."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Weni",
+    "ar": "مقبرة وني"
+   },
+   "desc": {
+    "en": "Reliefs from the Abydos tomb of a Sixth Dynasty governor and general.",
+    "ar": "نقوش من مقبرة حاكم وقائد جيش من الأسرة السادسة في أبيدوس."
+   }
+  },
+  {
+   "title": {
+    "en": "Pyramidion of Badiset",
+    "ar": "هريم باديست"
+   },
+   "desc": {
+    "en": "A small capstone pyramid from a private tomb at Abydos.",
+    "ar": "قمة هرمية صغيرة من مقبرة خاصة في أبيدوس."
+   }
+  },
+  {
+   "title": {
+    "en": "Coptic textiles",
+    "ar": "المنسوجات القبطية"
+   },
+   "desc": {
+    "en": "Woven fragments from Akhmim, a centre of textile making.",
+    "ar": "قطع منسوجة من أخميم، أحد مراكز صناعة النسيج."
+   }
+  },
+  {
+   "title": {
+    "en": "Pilgrimage gallery",
+    "ar": "قاعة رحلة الحج"
+   },
+   "desc": {
+    "en": "Objects tracing the journey to the holy places across the ages.",
+    "ar": "مقتنيات تتتبع رحلة الحج إلى الأراضي المقدسة عبر العصور."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "sat",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "fri",
+    "open": "17:00",
+    "close": "21:00",
+    "lastEntry": "20:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/SohagNationalMuseum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning; on Friday and Saturday the evening session is cooler.",
+   "ar": "الصباح، والفترة المسائية يومي الجمعة والسبت ألطف حرارة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/SohagNatlMuseumStatueRamses2.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SohagNatlMuseumStatueRamses2.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SohagNatlMuseumTombWeniOfferingBearers.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SohagNatlMuseumTombWeniOfferingBearers.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/SohagNatlMuseumPyramidionBadiset.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SohagNatlMuseumPyramidionBadiset.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B3%D9%88%D9%87%D8%A7%D8%AC_%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q56115644",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-15:00; evening 17:00-21:00 Fri and Sat; last entry 1 h before closing),description,address,tickets (MoTA guide)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-سوهاج-القومي/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (last entry: summer 16:00, winter 14:30, Ramadan 14:00),tickets,freeGroups (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/SohagNationalMuseum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 cross-check)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B3%D9%88%D9%87%D8%A7%D8%AC_%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Last-entry conflict: the MoTA guide (close 15:00, last entry one hour before) implies 14:00; the booking page says winter 14:30 and summer 16:00. House rule: earlier time, so 14:00 all year and no summer exception. Ramadan: booking page last entry 14:00 (same as normal) and the guide gives no Ramadan schedule, so no Ramadan exception; whether the Fri/Sat evening session runs in Ramadan is unknown. Evening session last entry 20:00 inferred from the one-hour rule. No Arab tier: the SCA ended Arab = Egyptian pricing from 1 Jan 2026. Photos show artefacts only (Ramesses II statue, Weni reliefs, Badiset pyramidion); the 2018 building and its interior are not shown (no freedom of panorama). cashAccepted not set."
+}

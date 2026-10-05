@@ -1,0 +1,292 @@
+{
+ "id": "mohamed-nagy-museum",
+ "kind": "museum",
+ "wikidataId": "Q6891395",
+ "name": {
+  "en": "Mohamed Nagy Museum",
+  "ar": "متحف محمد ناجي"
+ },
+ "aliases": [
+  "Mohamed Naghi Museum",
+  "متحف محمد ناجي"
+ ],
+ "category": "modern-art",
+ "operator": "ministry-of-culture",
+ "governorate": "giza",
+ "city": {
+  "en": "Giza",
+  "ar": "الجيزة"
+ },
+ "area": {
+  "en": "Kafr Ghatati, Hadayek al-Ahram, near the Giza Plateau",
+  "ar": "كفر غطاطي، حدائق الأهرام، بالقرب من هضبة الجيزة"
+ },
+ "address": {
+  "en": "Kafr Ghatati, Hadayek al-Ahram, Haram district, Giza",
+  "ar": "كفر غطاطي، حدائق الأهرام، حي الهرم، الجيزة"
+ },
+ "lat": 29.976935,
+ "lng": 31.132651,
+ "status": "open",
+ "statusNote": {
+  "en": "Open five days a week; closed on Mondays, Fridays and official holidays.",
+  "ar": "مفتوح خمسة أيام في الأسبوع، ويُغلق يومي الاثنين والجمعة والعطلات الرسمية."
+ },
+ "summary": {
+  "en": "The studio-home of the pioneering painter Mohamed Nagy near the Pyramids, kept as a museum of his paintings and sketches.",
+  "ar": "مرسم الفنان الرائد محمد ناجي بالقرب من الأهرامات، وقد صار متحفًا للوحاته ورسوماته."
+ },
+ "description": {
+  "en": "Mohamed Nagy (1888–1956) was one of the founders of modern Egyptian painting. Trained in Florence and influenced by Impressionism, he sought a national style rooted in Egyptian life, travelled widely, and served as director of the Museum of Modern Art in Cairo. In the early 1950s he built a studio on his land near the Giza Plateau, within sight of the Pyramids, and he died there in 1956. The Ministry of Culture bought the studio and opened it as a museum in 1968; it was refurbished and reopened in 1991. The collection, built up from works donated by his sister, the painter Effat Nagy, and later purchases, includes oil paintings, studies and sketches of village scenes, portraits, landscapes and historical subjects, along with personal belongings. The intimate setting of an artist’s workplace, set in a garden, is a quiet counterpoint to a day at the Pyramids.",
+  "ar": "يُعد محمد ناجي (1888–1956) من رواد فن التصوير المصري الحديث، فقد درس في فلورنسا وتأثر بالمدرسة الانطباعية، وسعى إلى أسلوب وطني يستلهم الحياة المصرية، وأكثر من الأسفار، وتولى إدارة متحف الفن الحديث بالقاهرة. وفي مطلع الخمسينيات شيد مرسمًا على أرض يملكها قرب هضبة الجيزة على مرأى من الأهرامات، وتوفي فيه عام 1956. اشترت وزارة الثقافة المرسم وافتتحته متحفًا عام 1968، ثم جُدد وأُعيد افتتاحه عام 1991. وتضم المجموعة، التي تكونت من أعمال أهدتها شقيقته الفنانة عفت ناجي ثم من مقتنيات اشترتها الوزارة لاحقًا، لوحات زيتية ودراسات ورسومًا تحضيرية لمشاهد ريفية وصور شخصية ومناظر طبيعية وموضوعات تاريخية، إلى جانب بعض متعلقاته الشخصية. ويمنح جو مرسم الفنان وسط حديقته الزائرَ استراحة هادئة بعد يوم في منطقة الأهرامات."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "The artist’s studio",
+    "ar": "مرسم الفنان"
+   },
+   "desc": {
+    "en": "The workspace Nagy built near the Pyramids, where he spent his last years.",
+    "ar": "المرسم الذي شيده ناجي قرب الأهرامات وقضى فيه سنواته الأخيرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Oil paintings",
+    "ar": "اللوحات الزيتية"
+   },
+   "desc": {
+    "en": "Scenes of Egyptian village life, portraits and landscapes.",
+    "ar": "مشاهد من الريف المصري وصور شخصية ومناظر طبيعية."
+   }
+  },
+  {
+   "title": {
+    "en": "Sketches and studies",
+    "ar": "الرسوم والدراسات"
+   },
+   "desc": {
+    "en": "Preparatory drawings that show how his compositions developed.",
+    "ar": "رسوم تحضيرية تكشف تطور تكويناته."
+   }
+  },
+  {
+   "title": {
+    "en": "Personal belongings",
+    "ar": "المتعلقات الشخصية"
+   },
+   "desc": {
+    "en": "Objects from the painter’s life donated by his family.",
+    "ar": "مقتنيات من حياة الفنان أهدتها أسرته."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (Fine Arts Sector museums)",
+     "ar": "مواعيد شهر رمضان (متاحف قطاع الفنون التشكيلية)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "closed": true
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 5
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 3
+   }
+  ],
+  "freeGroups": [
+   "People with special needs",
+   "Veterans",
+   "Seniors over 60",
+   "Children under 12",
+   "Members of artists' professional syndicates",
+   "Members of national museum committees"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "People with special needs",
+    "ar": "ذوو الهمم"
+   },
+   {
+    "en": "Veterans",
+    "ar": "المحاربون القدامى"
+   },
+   {
+    "en": "Seniors over 60",
+    "ar": "كبار السن فوق 60 عامًا"
+   },
+   {
+    "en": "Children under 12",
+    "ar": "الأطفال دون 12 عامًا"
+   },
+   {
+    "en": "Members of artists' professional syndicates",
+    "ar": "أعضاء النقابات المهنية للفنانين"
+   },
+   {
+    "en": "Members of national museum committees",
+    "ar": "أعضاء اللجان الوطنية للمتاحف"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "After a morning at the Giza Pyramids, on any day except Monday or Friday.",
+   "ar": "بعد صباح في أهرامات الجيزة، في أي يوم عدا الاثنين والجمعة."
+  },
+  "crowdNotes": {
+   "en": "Small and rarely busy; it is tucked into a residential area, so a taxi is easiest.",
+   "ar": "متحف صغير قليل الزحام، ويقع داخل منطقة سكنية، فالأسهل الوصول إليه بسيارة أجرة."
+  }
+ },
+ "contacts": {
+  "phone": "+20 2 3383 3484",
+  "website": "http://www.fineart.gov.eg/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mohamed_Nagy_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D8%AD%D9%85%D8%AF_%D9%86%D8%A7%D8%AC%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6891395",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,freeGroups,address,phone (official Fine Arts Sector visitor page; older hours 10:00-16:00 superseded)",
+   "url": "http://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=2",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,status (Fine Arts Sector summer-2026 statement naming this museum: 09:00-16:00, closed Fri and Mon)",
+   "url": "https://www.youm7.com/story/2026/6/4/x/7437546",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (studio 1952, museum 1968, reopened 1991; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Mohamed_Nagy_Museum",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Ministry of Culture (Fine Arts Sector) museum, not SCA: the SCA Arab-tier rule does not apply. Prices 5 Egyptian / 3 Egyptian student / 10 foreign and free groups from the undated official fineart.gov.eg visitor page (live official page, D6); no 2025-2026 price decision found, and the page also shows outdated hours, so prices should be confirmed by phone. No foreign-student price published. Ramadan: sector-wide 10:00-14:00 (Ramadan 2026 statement), Mon/Fri closed as in the normal week. No last entry published. Hours: the sector's 4 Jun 2026 statement names this museum (09:00-16:00, closed Fri and Mon), which supersedes the undated page's 10:00-16:00. Wikipedia's street address (9 Mahmoud El Gendi St) differs in form from the official page (Kafr Ghatati, Hadayek al-Ahram); the official form is used. Nagy's birth year 1888 from general sources. NO PHOTO: no compliant image on Commons (no collection or portrait files; the 1950s studio building is excluded under the no-FoP rule) - photos are left empty (allowed for minor places, decision of 2026-10-05). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

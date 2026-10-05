@@ -1,0 +1,122 @@
+{
+ "id": "egx-museum",
+ "kind": "museum",
+ "wikidataId": "Q126950042",
+ "name": {
+  "en": "EGX Museum",
+  "ar": "متحف البورصة المصرية"
+ },
+ "category": "specialised",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Downtown, al-Sherifein Street",
+  "ar": "وسط البلد، شارع الشريفين"
+ },
+ "address": {
+  "en": "Egyptian Exchange headquarters, al-Sherifein Street, Downtown Cairo",
+  "ar": "مقر البورصة المصرية، شارع الشريفين، وسط القاهرة"
+ },
+ "status": "unknown",
+ "statusNote": {
+  "en": "Housed inside the working stock exchange; visits appear to be arranged in advance, mainly for groups. Contact the Egyptian Exchange before going.",
+  "ar": "يقع داخل مقر البورصة العامل، ويبدو أن الزيارات تُرتَّب مسبقًا وللمجموعات غالبًا، فتواصل مع البورصة المصرية قبل الذهاب."
+ },
+ "summary": {
+  "en": "A small museum inside the historic Egyptian Exchange building downtown, telling the story of Egypt's stock market since the nineteenth century.",
+  "ar": "متحف صغير داخل المبنى التاريخي للبورصة المصرية في وسط البلد، يروي قصة سوق المال المصرية منذ القرن التاسع عشر."
+ },
+ "description": {
+  "en": "Egypt's stock exchanges are among the oldest in the region: the Cairo exchange was founded in 1903 and moved in 1928 into a neoclassical building with Ionic columns on al-Sherifein Street, designed by the French architect Georges Parcq. The museum, opened in 2016 inside this headquarters, keeps the memory of more than a century of trading. Its first hall is the old trading floor, the corbeille, which still has its original price boards; facing it, a second former trading room shows how share certificates changed over time, with rare photographs of the early market. Documents on display include certificates of companies such as the Suez Canal Company, and cotton and futures contracts in Arabic, French and English, many of them restored with the Bibliotheca Alexandrina.",
+  "ar": "تُعد البورصات المصرية من أقدم بورصات المنطقة، فقد تأسست بورصة القاهرة عام 1903، وانتقلت عام 1928 إلى مبنى على الطراز الكلاسيكي الجديد بأعمدة أيونية في شارع الشريفين صممه المعماري الفرنسي جورج بارك. ويحفظ المتحف الذي افتُتح عام 2016 داخل هذا المقر ذاكرة أكثر من قرن من التداول. وأولى قاعاته هي صالة التداول القديمة المعروفة بالكروبيه، وما زالت تحتفظ بشاشات الأسعار الأصلية، وتقابلها قاعة تداول سابقة أخرى تعرض تطور أشكال الأسهم عبر الزمن وصورًا نادرة لبدايات السوق. ومن الوثائق المعروضة أسهم شركات مثل شركة قناة السويس، وعقود القطن والعقود الآجلة بالعربية والفرنسية والإنجليزية، وقد رُمم كثير منها بالتعاون مع مكتبة الإسكندرية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "The corbeille",
+    "ar": "الكروبيه"
+   },
+   "desc": {
+    "en": "The old trading floor with its original price boards.",
+    "ar": "صالة التداول القديمة بشاشات الأسعار الأصلية."
+   }
+  },
+  {
+   "title": {
+    "en": "Historic share certificates",
+    "ar": "الأسهم التاريخية"
+   },
+   "desc": {
+    "en": "Certificates of companies such as the Suez Canal Company.",
+    "ar": "أسهم شركات مثل شركة قناة السويس."
+   }
+  },
+  {
+   "title": {
+    "en": "Cotton contracts",
+    "ar": "عقود القطن"
+   },
+   "desc": {
+    "en": "Trilingual cotton and futures contracts from the market's early decades.",
+    "ar": "عقود قطن وعقود آجلة بثلاث لغات من العقود الأولى للسوق."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Egypt_SE_HQ.png",
+   "author": "DEMETERE",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egypt_SE_HQ.png"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q126950042",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (museum opened 8 May 2016; open to the public from 15 July 2016; news)",
+   "url": "https://www.elwatannews.com/news/details/1158527",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (organised group visits by a university career centre; Jan 2025)",
+   "url": "https://www.capu.edu.eg/index.php/ar/news-blog-ar/2025-01-27-10-41-56",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Operator: Egyptian Exchange (seed 'other'). Status 'unknown': opened to the public in July 2016 (elwatan), but the only 2025 evidence is organised university group visits; no public hours or booking procedure found. Founding year: 1903 per AR wiki (Alexandria exchange 1883 not mentioned). The Sherifein street address is the EGX headquarters; seed lat/lng null, not added. Photo: 1928 building facade (CC BY 4.0, 2025)."
+}

@@ -1,0 +1,148 @@
+{
+ "id": "talaat-harb-pasha-museum",
+ "kind": "museum",
+ "wikidataId": "Q126979995",
+ "name": {
+  "en": "Talaat Harb Pasha Museum",
+  "ar": "متحف طلعت حرب باشا"
+ },
+ "aliases": [
+  "متحف بنك مصر",
+  "Banque Misr Museum"
+ ],
+ "category": "specialised",
+ "operator": "private",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Banque Misr head office, Downtown",
+  "ar": "المقر الرئيسي لبنك مصر، وسط البلد"
+ },
+ "address": {
+  "en": "Banque Misr historic head office, 151 Mohamed Farid Street, Downtown Cairo",
+  "ar": "المبنى التاريخي للمركز الرئيسي لبنك مصر، 151 شارع محمد فريد، وسط القاهرة"
+ },
+ "status": "unknown",
+ "statusNote": {
+  "en": "The museum is inside Banque Misr's working head office and has no public opening hours; visits are arranged through the bank, mostly for groups. The bank also offers an online virtual tour.",
+  "ar": "يقع المتحف داخل المقر الرئيسي العامل لبنك مصر، ولا توجد له مواعيد زيارة عامة، وتُرتب الزيارات عن طريق البنك وغالبًا للمجموعات. كما يتيح البنك جولة افتراضية عبر الإنترنت."
+ },
+ "summary": {
+  "en": "Banque Misr's museum of its founder Talaat Harb, in the bank's 1927 head office in downtown Cairo.",
+  "ar": "متحف بنك مصر لمؤسسه طلعت حرب، داخل المقر الرئيسي للبنك الذي شُيّد عام 1927 في وسط القاهرة."
+ },
+ "description": {
+  "en": "Banque Misr was founded on 13 April 1920 by the economist Muhammad Talaat Harb as the first bank owned and run entirely by Egyptians, with a starting capital of 80,000 pounds. Over the next two decades it created a family of Egyptian companies, among them the national airline, Studio Misr and the Misr Spinning and Weaving Company in al-Mahalla. The bank's museum opened in May 2011 inside its first purpose-built head office on Mohamed Farid Street, an ornate building designed by the architect Antonio Lasciac and completed in 1927. It documents the founding of the bank and its companies through original documents and rare photographs, and shows Talaat Harb's personal belongings, decorations and medals. The museum also touches on the national movement of the early twentieth century, including Saad Zaghlul's visit to the new building in 1927. Because it sits in a working bank, access is by arrangement; the bank's heritage website offers a virtual tour.",
+  "ar": "تأسس بنك مصر في 13 أبريل 1920 على يد الاقتصادي محمد طلعت حرب، ليكون أول بنك يملكه المصريون ويديرونه بالكامل، برأسمال قدره 80 ألف جنيه. وخلال العقدين التاليين أنشأ مجموعة من الشركات المصرية، منها شركة الطيران الوطنية واستوديو مصر وشركة مصر للغزل والنسيج بالمحلة الكبرى. وافتُتح متحف البنك في مايو 2011 داخل أول مقر رئيسي شُيّد له في شارع محمد فريد، وهو مبنى غني بالزخارف صممه المعماري أنطونيو لاشياك واكتمل عام 1927. ويوثق المتحف تأسيس البنك وشركاته بوثائق أصلية وصور نادرة، ويعرض مقتنيات طلعت حرب الشخصية وأوسمته ونياشينه. كما يتناول جانبًا من الحركة الوطنية في مطلع القرن العشرين، ومن ذلك زيارة سعد زغلول للمبنى الجديد عام 1927. ولأنه يقع داخل بنك عامل، تتم الزيارة بالتنسيق المسبق، ويقدم موقع البنك التراثي جولة افتراضية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Historic banking hall",
+    "ar": "صالة البنك التاريخية"
+   },
+   "desc": {
+    "en": "The richly decorated hall of Lasciac's 1927 head office.",
+    "ar": "الصالة الغنية بالزخارف في المقر الرئيسي الذي صممه لاشياك عام 1927."
+   }
+  },
+  {
+   "title": {
+    "en": "Talaat Harb's belongings",
+    "ar": "مقتنيات طلعت حرب"
+   },
+   "desc": {
+    "en": "Personal objects, decorations and medals of the bank's founder.",
+    "ar": "مقتنيات شخصية وأوسمة ونياشين لمؤسس البنك."
+   }
+  },
+  {
+   "title": {
+    "en": "Founding documents",
+    "ar": "وثائق التأسيس"
+   },
+   "desc": {
+    "en": "Original papers and photographs on the bank and the companies it created.",
+    "ar": "وثائق وصور أصلية عن البنك والشركات التي أسسها."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Banque_Misr_building_Cairo.jpg",
+   "author": "Boubloub",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banque_Misr_building_Cairo.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Banque_Misr_Cairo.jpg",
+   "author": "Boubloub",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banque_Misr_Cairo.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Main_Bank_of_Egypt.jpg",
+   "author": "Ahmed Yousry Mahfouz",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_Bank_of_Egypt.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "https://bmhistorical.banquemisr.com/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B7%D9%84%D8%B9%D8%AA_%D8%AD%D8%B1%D8%A8",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q126979995",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B7%D9%84%D8%B9%D8%AA_%D8%AD%D8%B1%D8%A8",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (opening, May 2011)",
+   "url": "https://www.youm7.com/story/2011/5/27/x/422032",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "contacts.website,status (official museum website with virtual tour)",
+   "url": "https://bmhistorical.banquemisr.com/museum-visitors/historical-visits/new-building/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (group visits organised by the bank)",
+   "url": "https://www.banker.news/36568",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Coordinates null in seed and Wikidata; not filled (151 Mohamed Farid St). Status unknown: museum exists and the bank organises group visits (banker.news, date not checked), but no public opening hours. Photos show the 1927 Lasciac building (architect d. 1946, so out of copyright) and its banking hall."
+}

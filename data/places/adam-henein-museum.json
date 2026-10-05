@@ -1,0 +1,218 @@
+{
+ "id": "adam-henein-museum",
+ "kind": "museum",
+ "wikidataId": null,
+ "name": {
+  "en": "Adam Henein Museum",
+  "ar": "متحف آدم حنين"
+ },
+ "category": "modern-art",
+ "operator": "other",
+ "governorate": "giza",
+ "city": {
+  "en": "Harraniya",
+  "ar": "الحرانية"
+ },
+ "area": {
+  "en": "Harraniya, off the Saqqara road",
+  "ar": "الحرانية، على طريق سقارة"
+ },
+ "address": {
+  "en": "Harraniya, about 300 m past the Ramses Wissa Wassef Art Centre, off the Marioutiya–Saqqara road, Giza",
+  "ar": "الحرانية، على بعد نحو 300 متر بعد مركز رمسيس ويصا واصف، من طريق المريوطية–سقارة، الجيزة"
+ },
+ "lat": null,
+ "lng": null,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Ticket sales stop 30 minutes before closing.",
+  "ar": "مفتوح يوميًا. ويتوقف بيع التذاكر قبل الإغلاق بثلاثين دقيقة."
+ },
+ "summary": {
+  "en": "The home and studio of the sculptor Adam Henein in rural Harraniya, turned by the artist himself into a museum of more than 4,000 of his works.",
+  "ar": "بيت النحات آدم حنين ومرسمه في ريف الحرانية، حوّله الفنان بنفسه إلى متحف يضم أكثر من أربعة آلاف من أعماله."
+ },
+ "description": {
+  "en": "Adam Henein (1929–2020) was one of the leading Egyptian sculptors of the twentieth century, known for granite and bronze forms that draw on ancient Egyptian art and for founding the Aswan International Sculpture Symposium. After about twenty-five years in Paris he returned to Egypt and settled in a house among the fields of Harraniya, with the Pyramids on the horizon, designed for him by the architect Ramses Wissa Wassef. Henein founded and funded the museum himself, a rare gesture in Egypt, giving his life’s work to the public rather than selling it. It opened on 18 January 2014 and is run by the Adam Henein Foundation for Fine Arts. A three-storey gallery of about 700 square metres shows sculpture, drawings, paintings on papyrus with natural pigments, prints and textiles, while more works stand in the garden, where visitors can sit with a coffee. The museum blends quietly into its village setting.",
+  "ar": "كان آدم حنين (1929–2020) من أبرز النحاتين المصريين في القرن العشرين، وعُرف بأعماله من الجرانيت والبرونز المستلهمة من الفن المصري القديم، وبتأسيسه سمبوزيوم أسوان الدولي للنحت. وبعد نحو خمسة وعشرين عامًا قضاها في باريس عاد إلى مصر واستقر في بيت بين حقول الحرانية تلوح الأهرامات في أفقه، صممه له المعماري رمسيس ويصا واصف. أسس حنين المتحف ومَوّله بنفسه، في مبادرة نادرة في مصر، فأهدى أعمال حياته إلى الجمهور بدلًا من بيعها. وافتُتح المتحف في 18 يناير 2014، وتديره مؤسسة آدم حنين للفنون التشكيلية. يعرض مبنى من ثلاثة طوابق تبلغ مساحته نحو 700 متر مربع منحوتات ورسومًا ولوحات على ورق البردي بألوان طبيعية ومطبوعات ومنسوجات، وتنتشر أعمال أخرى في الحديقة حيث يمكن للزوار الجلوس وتناول القهوة. ويندمج المتحف بهدوء في محيطه الريفي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Sculpture galleries",
+    "ar": "قاعات النحت"
+   },
+   "desc": {
+    "en": "Granite, bronze and stone sculptures from across Henein’s career.",
+    "ar": "منحوتات من الجرانيت والبرونز والحجر من مختلف مراحل مسيرة حنين."
+   }
+  },
+  {
+   "title": {
+    "en": "Sculpture garden",
+    "ar": "حديقة المنحوتات"
+   },
+   "desc": {
+    "en": "Large works set among trees and lawns.",
+    "ar": "أعمال كبيرة موزعة بين الأشجار والمساحات الخضراء."
+   }
+  },
+  {
+   "title": {
+    "en": "Paintings on papyrus",
+    "ar": "اللوحات على البردي"
+   },
+   "desc": {
+    "en": "Works in natural pigments and acacia gum on papyrus.",
+    "ar": "أعمال بألوان طبيعية وصمغ عربي على ورق البردي."
+   }
+  },
+  {
+   "title": {
+    "en": "Drawings and sketchbooks",
+    "ar": "الرسوم والكراسات"
+   },
+   "desc": {
+    "en": "Studies and notes that reveal the artist’s working process.",
+    "ar": "دراسات وملاحظات تكشف طريقة عمل الفنان."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "16:00",
+    "lastEntry": "15:30"
+   },
+   {
+    "day": "sun",
+    "open": "10:00",
+    "close": "16:00",
+    "lastEntry": "15:30"
+   },
+   {
+    "day": "mon",
+    "open": "10:00",
+    "close": "16:00",
+    "lastEntry": "15:30"
+   },
+   {
+    "day": "tue",
+    "open": "10:00",
+    "close": "16:00",
+    "lastEntry": "15:30"
+   },
+   {
+    "day": "wed",
+    "open": "10:00",
+    "close": "16:00",
+    "lastEntry": "15:30"
+   },
+   {
+    "day": "thu",
+    "open": "10:00",
+    "close": "16:00",
+    "lastEntry": "15:30"
+   },
+   {
+    "day": "fri",
+    "open": "10:00",
+    "close": "16:00",
+    "lastEntry": "15:30"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning or early afternoon; combine with the Wissa Wassef Art Centre nearby.",
+   "ar": "الصباح أو أول بعد الظهر، مع زيارة مركز ويصا واصف القريب."
+  },
+  "crowdNotes": {
+   "en": "Calm and uncrowded. A lift serves the gallery floors, and there are accessible toilets on the ground floor.",
+   "ar": "هادئ وغير مزدحم. ويخدم مصعد طوابق العرض، وتوجد دورات مياه مجهزة لذوي الهمم في الطابق الأرضي."
+  }
+ },
+ "facilities": {
+  "giftShop": true,
+  "lift": true,
+  "toilets": true,
+  "accessibleToilets": true
+ },
+ "contacts": {
+  "phone": "+20 12 1173 7708",
+  "website": "https://www.adamheneinmuseum.com/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": "node/12299523401"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "enumeration",
+   "url": "https://www.openstreetmap.org/node/12299523401",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-16:00 daily, ticket sales stop 30 min before closing),prices (Egyptians 10, non-Egyptians 50),opening date",
+   "url": "https://www.adamheneinmuseum.com/opening-hours-rates",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "address,directions",
+   "url": "https://www.adamheneinmuseum.com/getting-here",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (house by Ramses Wissa Wassef, 3 floors, 700 m2, self-funded)",
+   "url": "https://www.adamheneinmuseum.com/about-museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "facilities (lift, toilets)",
+   "url": "https://www.adamheneinmuseum.com/museum-facilities",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,hours (10:00-16:00 daily; free entry 1-7 Nov 2025; 30 Oct 2025)",
+   "url": "https://cairoscene.com/ArtsAndCulture/Adam-Henein-Museum-Opens-for-Free-Ahead-of-GEM-Launch",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (biography; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Adam_Henein",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Private museum (Adam Henein Foundation for Fine Arts). Hours conflict: official site 'open daily 9.00 am to 4.00 pm' (undated); CairoScene 30 Oct 2025 '10:00 AM to 4:00 PM daily'. Narrowest window used: 10:00-16:00, last entry 15:30 (official: ticket sales stop 30 min before closing). Prices from the official site: Egyptians 10, non-Egyptians 50 (no student or child rates published). No Wikidata item and no coordinates found (OSM node 12299523401 is kept as an id only; coordinates not copied from OSM). NO PHOTO: the 2014 building and Henein's sculptures are in copyright (no FoP in Egypt; Henein d. 2020), and Commons has no compliant image - photos are left empty (allowed for minor places, decision of 2026-10-05)."
+}

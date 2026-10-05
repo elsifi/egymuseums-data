@@ -1,0 +1,292 @@
+{
+ "id": "wadi-el-sebua",
+ "kind": "site",
+ "wikidataId": "Q1728322",
+ "name": {
+  "en": "Temples of Wadi el-Sebua",
+  "ar": "وادي السبوع"
+ },
+ "aliases": [
+  "Wadi el Seboua",
+  "Wadi es-Sebua",
+  "Wádí es Sebua"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "area": {
+  "en": "New Wadi el-Sebua, Lake Nasser",
+  "ar": "وادي السبوع الجديدة، بحيرة ناصر"
+ },
+ "address": {
+  "en": "New Wadi el-Sebua, on the west shore of Lake Nasser, about 140 km south of Aswan",
+  "ar": "وادي السبوع الجديدة على الشاطئ الغربي لبحيرة ناصر، على بعد نحو 140 كم جنوب أسوان"
+ },
+ "lat": 22.79319,
+ "lng": 32.54528,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Most visitors arrive on Lake Nasser cruise boats.",
+  "ar": "مفتوح يوميًا، ويصل معظم الزوار على متن سفن الرحلات النيلية في بحيرة ناصر."
+ },
+ "summary": {
+  "en": "A Ramesses II temple approached by an avenue of sphinxes, rebuilt beside Lake Nasser with the temples of Dakka and Maharraqa.",
+  "ar": "معبد لرمسيس الثاني يتقدمه طريق من تماثيل أبي الهول، أعيد بناؤه على ضفاف بحيرة ناصر مع معبدي الدكة والمحرقة."
+ },
+ "description": {
+  "en": "Wadi el-Sebua, the valley of the lions, takes its name from the sphinxes that line the approach to its main temple. Ramesses II built it for Amun-Ra and Ra-Horakhty and for his own deified self. Its front parts, the pylon and courts, were built of stone, while the inner halls and sanctuary were cut into the rock. In Christian times it served as a church, and painted saints still look out from among the pharaonic scenes. In the 1960s the temple was moved about four kilometres to a new site above the rising lake, together with two others: the temple of Dakka, begun under the Meroitic king Arkamani and enlarged by the Ptolemies and Romans for the god Thoth, and the small Roman temple of Maharraqa, dedicated to Isis and Serapis. All belong to the Nubian Monuments World Heritage Site.",
+  "ar": "يعني اسم وادي السبوع «وادي الأسود»، نسبة إلى تماثيل أبي الهول التي تصطف على الطريق المؤدي إلى معبده الرئيسي. وقد شيده رمسيس الثاني لآمون رع ورع حور آختي ولشخصه المؤلَّه. وبُنيت أجزاؤه الأمامية، أي الصرح والأفنية، من الحجر، بينما نُحتت الصالات الداخلية وقدس الأقداس في الصخر. واستُخدم في العصر المسيحي كنيسة، فلا تزال صور القديسين الملونة تطل من بين المناظر الفرعونية. وفي ستينيات القرن العشرين نُقل المعبد نحو أربعة كيلومترات إلى موقع جديد فوق مياه البحيرة المرتفعة، ومعه معبدان آخران: معبد الدكة الذي بدأه الملك المروي أركاماني ووسعه البطالمة والرومان للمعبود تحوت، ومعبد المحرقة الروماني الصغير المكرس لإيزيس وسرابيس. وجميعها ضمن موقع آثار النوبة المسجل على قائمة التراث العالمي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Avenue of sphinxes",
+    "ar": "طريق أبي الهول"
+   },
+   "desc": {
+    "en": "Human- and falcon-headed sphinxes leading to the pylon.",
+    "ar": "تماثيل لأبي الهول برؤوس بشرية وبرؤوس صقور تؤدي إلى الصرح."
+   }
+  },
+  {
+   "title": {
+    "en": "Rock-cut sanctuary",
+    "ar": "قدس الأقداس الصخري"
+   },
+   "desc": {
+    "en": "Inner halls carved into the hillside by Ramesses II.",
+    "ar": "صالات داخلية نحتها رمسيس الثاني في سفح التل."
+   }
+  },
+  {
+   "title": {
+    "en": "Christian paintings",
+    "ar": "الرسوم المسيحية"
+   },
+   "desc": {
+    "en": "Saints painted over pharaonic reliefs when it became a church.",
+    "ar": "صور قديسين رُسمت فوق النقوش الفرعونية حين صار كنيسة."
+   }
+  },
+  {
+   "title": {
+    "en": "Temple of Dakka",
+    "ar": "معبد الدكة"
+   },
+   "desc": {
+    "en": "A temple of Thoth begun by a Meroitic king.",
+    "ar": "معبد لتحوت بدأه ملك مروي."
+   }
+  },
+  {
+   "title": {
+    "en": "Temple of Maharraqa",
+    "ar": "معبد المحرقة"
+   },
+   "desc": {
+    "en": "A small Roman temple of Isis and Serapis.",
+    "ar": "معبد روماني صغير لإيزيس وسرابيس."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/TempleOfWadiEl-Sebua",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning, before the desert heat.",
+   "ar": "الصباح، قبل اشتداد حرارة الصحراء."
+  },
+  "crowdNotes": {
+   "en": "Very remote: most visitors come on Lake Nasser cruises. The walk between the three temples crosses open sand.",
+   "ar": "موقع ناءٍ جدًا ويأتي معظم الزوار ضمن رحلات بحيرة ناصر، والمسير بين المعابد الثلاثة يمر عبر رمال مكشوفة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flickr_-_archer10_%28Dennis%29_-_Egypt-9A-013_-_Wadi_el-Sebua.jpg",
+   "author": "Dennis G. Jarvis",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)_-_Egypt-9A-013_-_Wadi_el-Sebua.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flickr_-_archer10_%28Dennis%29_-_Egypt-9A-019.jpg",
+   "author": "Dennis G. Jarvis",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)_-_Egypt-9A-019.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Edward_Lear_-_Sabooa_-_Google_Art_Project_%282421371%29.jpg",
+   "author": "Edward Lear",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edward_Lear_-_Sabooa_-_Google_Art_Project_(2421371).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/temples-of-wadi-al-sebua/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Temples_of_Wadi_es-Sebua",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%88%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%B3%D8%A8%D9%88%D8%B9",
+  "osm": "way/1079851911"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1728322",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/temples-of-wadi-al-sebua/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices,description (official portal page)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/temples-of-wadi-al-sebua/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D8%B9%D8%A8%D8%AF-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B3%D8%A8%D9%88%D8%B9/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),freeGroups (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/TempleOfWadiEl-Sebua",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/60",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Temples_of_Wadi_es-Sebua",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal and booking page agree: 07:00-16:00, last entry 15:00 (booking page), 150/75 and 10/5; the booking page's Ramadan row equals the normal schedule, so there is no Ramadan exception (batch-4 D13). MoTA guide also gives 07:00-16:00 and the one-hour last-entry rule. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

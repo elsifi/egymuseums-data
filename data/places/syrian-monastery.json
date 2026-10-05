@@ -1,0 +1,206 @@
+{
+ "id": "syrian-monastery",
+ "kind": "site",
+ "wikidataId": "Q1885762",
+ "name": {
+  "en": "Monastery of the Syrians",
+  "ar": "دير العذراء - السريان"
+ },
+ "aliases": [
+  "دير العذراء السريان",
+  "Syrian Monastery"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "beheira",
+ "city": {
+  "en": "Wadi el-Natrun",
+  "ar": "وادي النطرون"
+ },
+ "area": {
+  "en": "Wadi el-Natrun (ancient Scetis), Western Desert",
+  "ar": "وادي النطرون (برية شيهيت)، الصحراء الغربية"
+ },
+ "address": {
+  "en": "Wadi el-Natrun monasteries road, Beheira Governorate, about 500 m north-west of the Monastery of Saint Pishoy",
+  "ar": "طريق الأديرة، وادي النطرون، محافظة البحيرة، على بعد نحو 500 متر شمال غرب دير الأنبا بيشوي"
+ },
+ "lat": 30.318889,
+ "lng": 30.352778,
+ "status": "open",
+ "statusNote": {
+  "en": "Working Coptic Orthodox monastery, open daily to visitors. Like other Coptic monasteries it may restrict or suspend visits during the great fasts and closes completely in Holy Week, so check before travelling.",
+  "ar": "دير قبطي أرثوذكسي عامر، مفتوح للزوار يوميًا. وكسائر الأديرة القبطية قد يقيّد الزيارة أو يعلّقها في الأصوام الكبرى ويغلق تمامًا في أسبوع الآلام، فتحقق قبل السفر."
+ },
+ "summary": {
+  "en": "A small monastery dedicated to the Virgin Mary, famous for its medieval wall paintings, its carved Door of Prophecies and its library of Syriac manuscripts.",
+  "ar": "دير صغير مكرس للسيدة العذراء، يشتهر بلوحاته الجدارية من العصور الوسطى وباب النبوات المطعّم ومكتبة المخطوطات السريانية."
+ },
+ "description": {
+  "en": "The Monastery of the Virgin Mary of the Syrians was founded, most likely in the sixth century, by monks of the neighbouring Monastery of Saint Pishoy who rejected a doctrinal dispute of their time. In the early eighth century it was bought by wealthy Syrian merchants from Tikrit, and for several centuries Syriac monks lived here beside Egyptian ones, which gave the monastery its name. In the tenth century its abbot Moses of Nisibis brought back about 250 Syriac manuscripts from Mesopotamia, and the library became famous; much of it is now in European collections. The main Church of the Virgin preserves plaster-covered wall paintings that restorers have uncovered since the 1990s, among them scenes of the Annunciation and the death of the Virgin. Its carved and inlaid Door of Prophecies, a fortified keep and the cave of Saint Pishoy complete the visit.",
+  "ar": "أسس دير السيدة العذراء الشهير بدير السريان، على الأرجح في القرن السادس الميلادي، رهبانٌ من دير الأنبا بيشوي المجاور رفضوا بدعة عقائدية انتشرت في عصرهم. وفي مطلع القرن الثامن اشتراه تجار سريان أثرياء من تكريت، فعاش فيه رهبان سريان إلى جانب المصريين قرونًا عدة، ومن هنا جاء اسمه. وفي القرن العاشر عاد رئيسه موسى النصيبيني من بلاد الرافدين بنحو 250 مخطوطًا سريانيًا، فذاع صيت مكتبته، ويوجد كثير منها اليوم في مجموعات أوروبية. وتحتفظ كنيسة العذراء الرئيسية بلوحات جدارية كانت مغطاة بطبقات الجص، وكشف عنها المرممون منذ تسعينيات القرن العشرين، ومنها مشاهد البشارة ونياحة العذراء. ويكمل الزيارةَ بابُ النبوات المنحوت والمطعّم، والحصن، ومغارة الأنبا بيشوي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Church of the Virgin",
+    "ar": "كنيسة السيدة العذراء"
+   },
+   "desc": {
+    "en": "The main church, with medieval wall paintings revealed beneath later plaster.",
+    "ar": "الكنيسة الرئيسية، وبها لوحات جدارية من العصور الوسطى كُشف عنها تحت طبقات الجص."
+   }
+  },
+  {
+   "title": {
+    "en": "Door of Prophecies",
+    "ar": "باب النبوات"
+   },
+   "desc": {
+    "en": "A tenth-century wooden door inlaid with ivory, its panels illustrating the eras of Christian history.",
+    "ar": "باب خشبي من القرن العاشر مطعّم بالعاج، تصور حشواته عصور التاريخ المسيحي."
+   }
+  },
+  {
+   "title": {
+    "en": "Cave of Saint Pishoy",
+    "ar": "مغارة الأنبا بيشوي"
+   },
+   "desc": {
+    "en": "The small cell where Saint Pishoy is said to have prayed, inside the monastery.",
+    "ar": "القلاية الصغيرة التي يُروى أن الأنبا بيشوي كان يصلي فيها، داخل الدير."
+   }
+  },
+  {
+   "title": {
+    "en": "The keep",
+    "ar": "الحصن"
+   },
+   "desc": {
+    "en": "A fortified tower that protected the monks and their manuscripts during raids.",
+    "ar": "برج محصّن كان يحمي الرهبان ومخطوطاتهم وقت الغارات."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Weekday mornings; easy to combine with the Monastery of Saint Pishoy nearby.",
+   "ar": "صباح أيام الأسبوع، ويسهل الجمع بين الزيارة ودير الأنبا بيشوي القريب."
+  },
+  "crowdNotes": {
+   "en": "A monk usually guides visitors through the churches. Dress modestly and respect services in progress. There is no public transport.",
+   "ar": "يصحب أحد الرهبان الزوار عادة في جولة داخل الكنائس. التزم بالملابس المحتشمة واحترم الصلوات القائمة. ولا توجد مواصلات عامة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Deir_as_Suriani.jpg",
+   "author": "Lumen roma",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deir_as_Suriani.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Door_of_Prophecies_complete_view.jpg",
+   "author": "松照庵",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Door_of_Prophecies_complete_view.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/monastery-of-the-syrians/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Mary_Deipara",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B9%D8%B0%D8%B1%D8%A7%D8%A1_-_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%A7%D9%86",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1885762",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/monastery-of-the-syrians/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,description (08:00-17:00 daily; official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/monastery-of-the-syrians/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (08:00-17:00 daily, no ticket listed; Nov 2024 MoTA ticket list, Beheira section)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Mary_Deipara",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B9%D8%B0%D8%B1%D8%A7%D8%A1_-_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%A7%D9%86",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Hours 08:00-17:00 on the official portal and the Nov 2024 MoTA list (no ticket listed: prices.status = unconfirmed). Date conflict: the portal dates the Church of the Virgin to 645 AD, while EN Wikipedia dates the monastery's foundation to the sixth century and the church later; the description avoids a precise church date. Portal says the manuscripts went to the Vatican Library 'and other institutions' (the largest group is in the British Library); prose says 'European collections'. Guided-by-a-monk note is general advice. No fast-period exception (no monastery-specific 2025-2026 notice found). Modern paintings and figures excluded from photos."
+}

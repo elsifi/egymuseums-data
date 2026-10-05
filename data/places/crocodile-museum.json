@@ -225,10 +225,8 @@
   ],
   "freeGroups": [
    "Children under 6",
-   "Egyptians aged 60+",
    "Egyptians with special needs",
-   "Orphaned children",
-   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform"
+   "Egyptians aged 60+"
   ],
   "includedIn": "kom-ombo-temple",
   "freeGroupsLocalized": [
@@ -237,20 +235,12 @@
     "ar": "الأطفال دون 6 سنوات"
    },
    {
-    "en": "Egyptians aged 60+",
-    "ar": "المصريون من سن 60 فأكثر"
-   },
-   {
     "en": "Egyptians with special needs",
     "ar": "المصريون من ذوي الهمم"
    },
    {
-    "en": "Orphaned children",
-    "ar": "الأطفال الأيتام"
-   },
-   {
-    "en": "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
-    "ar": "رحلات المدارس الحكومية والأزهرية للمرحلتين الابتدائية والإعدادية المحجوزة عبر منصة «رحلة»"
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
    }
   ]
  },
@@ -357,5 +347,5 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "high",
- "curationNote": "Ticket = Kom Ombo Temple area ticket (portal: 'inclusive tickets allowing entry into Kom Ombo Temple and Crocodile Museum'). Ramadan 09:00-15:00 (last ticket 14:00) comes from the museum's portal page and MoTA's museum guide; the Kom Ombo Temple record uses the booking page's Ramadan row (07:00, last entry 20:00), so the two records differ in Ramadan. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+ "curationNote": "Ticket = Kom Ombo Temple area ticket (portal: 'inclusive tickets allowing entry into Kom Ombo Temple and Crocodile Museum'). Ramadan 09:00-15:00 (last ticket 14:00) comes from the museum's portal page and MoTA's museum guide; the Kom Ombo Temple record uses the booking page's Ramadan row (07:00, last entry 20:00), so the two records differ in Ramadan. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. 2026-10-05: freeGroups aligned with kom-ombo-temple (same ticket)."
 }

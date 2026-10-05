@@ -1,0 +1,212 @@
+{
+ "id": "cavafy-museum",
+ "kind": "museum",
+ "wikidataId": "Q16327758",
+ "name": {
+  "en": "Cavafy Museum",
+  "ar": "متحف قسطنطين كفافيس"
+ },
+ "aliases": [
+  "متحف كفافيس",
+  "متحف كڤافيس",
+  "منزل كافافيس",
+  "Museum of Constantine P. Cavafy"
+ ],
+ "category": "specialised",
+ "operator": "private",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Attarin, near Raml Station",
+  "ar": "العطارين، بالقرب من محطة الرمل"
+ },
+ "address": {
+  "en": "Constantine Cavafy Street (formerly Sharm El Sheikh Street), off Fouad Street, Attarin, Alexandria",
+  "ar": "شارع قسطنطين كفافيس (شارع شرم الشيخ سابقًا)، متفرع من شارع فؤاد، العطارين، الإسكندرية"
+ },
+ "lat": 31.197582,
+ "lng": 29.90128,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily except Monday. Reopened in May 2024 after a two-year restoration.",
+  "ar": "مفتوح يوميًا عدا يوم الإثنين، وأعيد افتتاحه في مايو 2024 بعد ترميم استمر عامين."
+ },
+ "summary": {
+  "en": "The restored apartment where the Greek poet Constantine Cavafy lived and wrote for the last decades of his life.",
+  "ar": "الشقة المرممة التي عاش فيها الشاعر اليوناني قسطنطين كفافيس وكتب أشعاره في العقود الأخيرة من حياته."
+ },
+ "description": {
+  "en": "Constantine Cavafy, born in Alexandria in 1863 to Greek parents, became one of the great poets of the modern Greek language while working quietly as a clerk in the city. From 1907 until his death in 1933 he lived in a modest first-floor flat on a narrow street behind Fouad Street, then called Rue Lepsius. After his death the rooms were let several times and even served as a guesthouse, until Greek diplomats and admirers recovered the apartment and opened it as a museum in 1992; the street now bears his name. The Onassis Foundation restored and redisplayed the rooms, which reopened in May 2024 in the presence of the President of Greece. Visitors see his furniture, manuscripts, photographs and first editions, translations of his poems into many languages, and his death mask, in rooms that evoke the cosmopolitan Alexandria he wrote about.",
+  "ar": "وُلد قسطنطين كفافيس في الإسكندرية عام 1863 لأبوين يونانيين، وصار واحدًا من كبار شعراء اللغة اليونانية الحديثة بينما كان يعمل موظفًا هادئًا في المدينة. ومن عام 1907 حتى وفاته عام 1933 سكن شقة متواضعة في الطابق الأول بشارع ضيق خلف شارع فؤاد كان يُسمى آنذاك شارع لبسيوس. وبعد وفاته أُجّرت الشقة عدة مرات وتحولت إلى بنسيون، إلى أن استعادها دبلوماسيون يونانيون ومحبون لشعره وافتُتحت متحفًا عام 1992، وصار الشارع يحمل اسمه. وتولت مؤسسة أوناسيس ترميم القاعات وإعادة عرضها، فأعيد افتتاحها في مايو 2024 بحضور رئيسة الجمهورية اليونانية. ويشاهد الزائر أثاثه ومخطوطاته وصوره وطبعات دواوينه الأولى، وترجمات قصائده إلى لغات عديدة، وقناع الوجه الذي صُنع له بعد وفاته، في قاعات تستحضر الإسكندرية الكوزموبوليتانية التي كتب عنها."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Poet's rooms",
+    "ar": "غرف الشاعر"
+   },
+   "desc": {
+    "en": "Living and writing rooms furnished with his own furniture.",
+    "ar": "غرف المعيشة والكتابة مؤثثة بأثاثه الأصلي."
+   }
+  },
+  {
+   "title": {
+    "en": "Manuscripts and first editions",
+    "ar": "المخطوطات والطبعات الأولى"
+   },
+   "desc": {
+    "en": "Handwritten drafts and the small editions he printed himself.",
+    "ar": "مسودات بخط يده والطبعات الصغيرة التي طبعها بنفسه."
+   }
+  },
+  {
+   "title": {
+    "en": "Translations",
+    "ar": "الترجمات"
+   },
+   "desc": {
+    "en": "His poems in dozens of languages, including Arabic.",
+    "ar": "قصائده بعشرات اللغات ومنها العربية."
+   }
+  },
+  {
+   "title": {
+    "en": "Death mask",
+    "ar": "قناع الوجه"
+   },
+   "desc": {
+    "en": "A cast made of the poet's face after his death in 1933.",
+    "ar": "قالب لوجه الشاعر صُنع بعد وفاته عام 1933."
+   }
+  },
+  {
+   "title": {
+    "en": "Photographs",
+    "ar": "الصور الفوتوغرافية"
+   },
+   "desc": {
+    "en": "Portraits of Cavafy and views of the Alexandria he knew.",
+    "ar": "صور شخصية لكفافيس ومشاهد من الإسكندرية التي عرفها."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "17:00"
+   },
+   {
+    "day": "sun",
+    "open": "10:00",
+    "close": "17:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "10:00",
+    "close": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "10:00",
+    "close": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "10:00",
+    "close": "17:00"
+   },
+   {
+    "day": "fri",
+    "open": "10:00",
+    "close": "17:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "free"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Late morning, combined with a walk along Fouad Street.",
+   "ar": "أواخر الصباح، مع جولة سيرًا في شارع فؤاد."
+  },
+  "crowdNotes": {
+   "en": "A small upstairs apartment; Greek tour groups can fill it briefly.",
+   "ar": "شقة صغيرة في طابق علوي، وقد تزدحم لفترة قصيرة بالمجموعات السياحية اليونانية."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/AlexCavafyHouse.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:AlexCavafyHouse.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Alexandria_-_The_Kavafy_Museum%2C_1995.jpg",
+   "author": "DIMSFIKAS",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexandria_-_The_Kavafy_Museum,_1995.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Cavafy_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%82%D8%B3%D8%B7%D9%86%D8%B7%D9%8A%D9%86_%D9%83%D9%81%D8%A7%D9%81%D9%8A%D8%B3",
+  "osm": "node/9629067137"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q16327758",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,hours,prices (regional tourism authority head, 17 May 2024)",
+   "url": "https://www.elwatannews.com/news/details/7333900",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (reopening 12 May 2024)",
+   "url": "https://www.masrawy.com/news/news_regions/details/2024/5/12/2581241/x",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Cavafy_Museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Run by the Onassis Foundation (reopened 12 May 2024). Hours (daily except Monday, 10:00-17:00) and free entry come from the head of the Alexandria regional tourism promotion authority quoted by elwatannews on 17 May 2024; the Onassis web pages are script-rendered and could not be read. Before the 2022 closure entry was paid (EN Wikipedia: 15/5 EGP), so 'free' should be rechecked. Seed operator 'private' kept (foundation). Last entry not published."
+}

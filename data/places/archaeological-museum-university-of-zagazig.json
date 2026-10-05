@@ -1,0 +1,103 @@
+{
+ "id": "archaeological-museum-university-of-zagazig",
+ "kind": "museum",
+ "wikidataId": "Q130216530",
+ "name": {
+  "en": "Archaeological Museum, University of Zagazig",
+  "ar": "المتحف الأثري بجامعة الزقازيق"
+ },
+ "category": "mixed",
+ "operator": "university",
+ "governorate": "sharqia",
+ "city": {
+  "en": "Zagazig",
+  "ar": "الزقازيق"
+ },
+ "area": {
+  "en": "Zagazig University main campus",
+  "ar": "الحرم الرئيسي لجامعة الزقازيق"
+ },
+ "address": {
+  "en": "University administration building, Zagazig University, Zagazig, Sharqia Governorate",
+  "ar": "مبنى إدارة الجامعة، جامعة الزقازيق، الزقازيق، محافظة الشرقية"
+ },
+ "lat": null,
+ "lng": null,
+ "status": "unknown",
+ "statusNote": {
+  "en": "A university museum used mainly for teaching and research; contact the university to arrange a visit.",
+  "ar": "متحف جامعي يُستخدم أساسًا في التعليم والبحث، لذا يُنصح بالتواصل مع الجامعة لترتيب الزيارة."
+ },
+ "summary": {
+  "en": "Zagazig University's archaeological museum, holding the finds of its own excavations at Tell Basta, including a hoard of gold and silver jewellery.",
+  "ar": "المتحف الأثري لجامعة الزقازيق، ويضم مكتشفات بعثة حفائر الجامعة في تل بسطة، ومنها كنز من الحلي الذهبية والفضية."
+ },
+ "description": {
+  "en": "Since 1978 Zagazig University has run its own archaeological mission at Tell Basta, ancient Bubastis, and at Kufur Nigm in Sharqia, and this museum was created to keep and display what it found. The collection began in the early 1980s in the old administration building, moved to a hall of the Faculty of Arts, and later to a larger gallery in the university administration building, with a main exhibition hall and a storeroom where objects are conserved before display. It holds some 2,500 registered pieces from many periods of ancient Egypt. Its best-known group is the Tell Basta treasure, found in 1992 in two alabaster jars near the great temple of the goddess Bastet: about 140 pieces of jewellery in gold, silver, semi-precious stones and faience, among them an honorific necklace of nineteen golden flies. Pottery amulet moulds, coffin lids, ushabtis, seals and scarabs complete the display. The museum mainly serves the university's archaeology students and researchers.",
+  "ar": "منذ عام 1978 تدير جامعة الزقازيق بعثة حفائر خاصة بها في تل بسطة، مدينة بوباستيس القديمة، وفي كفور نجم بالشرقية، وقد أُنشئ هذا المتحف لحفظ ما عثرت عليه وعرضه. وبدأت المجموعة في مطلع الثمانينيات في مبنى الإدارة القديم، ثم نُقلت إلى قاعة بكلية الآداب، ومنها إلى قاعة أكبر في مبنى إدارة الجامعة تضم قاعة عرض رئيسية ومخزنًا تُرمم فيه القطع قبل عرضها. ويضم المتحف نحو 2500 قطعة مسجلة من عصور مختلفة من الحضارة المصرية القديمة. وأشهر مجموعاته كنز تل بسطة الذي عُثر عليه عام 1992 داخل إناءين من الألبستر قرب المعبد الكبير للمعبودة باستت، ويضم نحو 140 قطعة من الحلي المصنوعة من الذهب والفضة والأحجار شبه الكريمة والقاشاني، منها قلادة شرفية من تسع عشرة ذبابة ذهبية. وتكمل العرضَ قوالبُ فخارية للتمائم وأغطية توابيت وتماثيل أوشابتي وأختام وجعارين. ويخدم المتحف أساسًا طلاب الآثار والباحثين بالجامعة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tell Basta treasure",
+    "ar": "كنز تل بسطة"
+   },
+   "desc": {
+    "en": "About 140 pieces of gold and silver jewellery found in two alabaster jars in 1992.",
+    "ar": "نحو 140 قطعة من الحلي الذهبية والفضية عُثر عليها داخل إناءين من الألبستر عام 1992."
+   }
+  },
+  {
+   "title": {
+    "en": "Order of the Golden Fly",
+    "ar": "وسام الذبابة الذهبية"
+   },
+   "desc": {
+    "en": "A necklace of nineteen gold fly pendants, an award for valour.",
+    "ar": "قلادة من تسع عشرة دلاية ذهبية على هيئة ذبابة، كانت تُمنح تقديرًا للشجاعة."
+   }
+  },
+  {
+   "title": {
+    "en": "Seals and scarabs",
+    "ar": "الأختام والجعارين"
+   },
+   "desc": {
+    "en": "Cylinder, button and stamp seals and scarabs used as amulets.",
+    "ar": "أختام أسطوانية وزرية ورأسية وجعارين استُخدمت تمائم."
+   }
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q130216530",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (history, 2,537 objects, Tell Basta treasure; news 29 Dec 2017)",
+   "url": "https://www.youm7.com/story/2017/12/29/10-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%84%D8%A7-%D8%AA%D8%B9%D8%B1%D9%81%D9%87%D8%A7-%D8%B9%D9%86-%D9%85%D8%AA%D8%AD%D9%81-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B2%D9%82%D8%A7%D8%B2%D9%8A%D9%82-%D8%B5%D9%88%D8%B1/3576550",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (university statement on inventory and a 2021 SCA review committee; 13 Jun 2022)",
+   "url": "https://www.elbalad.news/5318407",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "contacts (university museum website; unreachable on 2026-10-05)",
+   "url": "https://museum.zu.edu.eg/",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "University museum. Status 'unknown': no 2024-2026 source on public access; the museum website museum.zu.edu.eg refused connections on 2026-10-05. A 2022 dispute over the collection (an SCA transfer decision of 2019 cancelled in 2021, committee to re-evaluate) is noted but not in user text. Object count: 2,537 (youm7 2017) vs 2,173 (search snippet of a later source); 'some 2,500' used. Floor (4th or 5th) inconsistent in the same 2017 article, so not given. Wikidata P571 = 1992 conflicts with the 1981 start; description says 'early 1980s'. Seed coordinates null, kept. Seed Arabic name editor-added; matches usage. No photos: no Commons image."
+}

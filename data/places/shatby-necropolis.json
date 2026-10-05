@@ -1,0 +1,305 @@
+{
+ "id": "shatby-necropolis",
+ "kind": "site",
+ "wikidataId": "Q105202124",
+ "name": {
+  "en": "Shatby Necropolis",
+  "ar": "مقابر الشاطبي"
+ },
+ "aliases": [
+  "جبانة الشاطبي",
+  "مقابر نيكروبوليس",
+  "Cemetery of Shatby",
+  "Chatby Necropolis",
+  "Chatby Tombs",
+  "El Shatby Tombs",
+  "Tombs of Al-Shatby"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Al-Shatby, beside Collège Saint-Marc",
+  "ar": "الشاطبي، بجوار كلية سان مارك"
+ },
+ "address": {
+  "en": "Al-Shatby, Azarita, Bab Sharq district, Alexandria — next to Collège Saint-Marc",
+  "ar": "الشاطبي، الأزاريطة، حي باب شرق، الإسكندرية — بجوار كلية سان مارك"
+ },
+ "lat": 31.211556,
+ "lng": 29.916889,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "Alexandria's oldest known cemetery, begun within decades of the city's founding by Alexander the Great.",
+  "ar": "أقدم جبانة معروفة في الإسكندرية، بدأ استخدامها بعد عقود قليلة من تأسيس الإسكندر الأكبر للمدينة."
+ },
+ "description": {
+  "en": "Within a few decades of Alexander the Great founding his city in 331 BC, its first settlers, Greeks from Macedonia, Thessaly, Crete and Asia Minor, began burying their dead here, just outside the eastern walls. Used for about three centuries, the Shatby cemetery shows how Alexandrian tombs evolved, from simple shafts and corridor graves to the hypogeum, a group of underground rooms cut into the rock around an open court where funeral rites were held. The largest, dating to about 280 BC, probably served one extended family over several generations and has walls carved with half-columns, friezes and false windows. Above ground, stepped bases once carried gravestones and altars. The Italian archaeologist Evaristo Breccia excavated the site between 1904 and 1910; painted stelae, urns, figurines and glass from the tombs went to the Graeco-Roman Museum. A recent project restored the site for visitors.",
+  "ar": "بعد عقود قليلة من تأسيس الإسكندر الأكبر مدينته عام 331 قبل الميلاد، بدأ مستوطنوها الأوائل من اليونانيين القادمين من مقدونيا وثيساليا وكريت وآسيا الصغرى يدفنون موتاهم هنا خارج أسوارها الشرقية. وقد استُخدمت جبانة الشاطبي نحو ثلاثة قرون، ويمكن فيها تتبع تطور المقابر السكندرية من آبار الدفن والممرات البسيطة إلى «الهيبوجيوم»، وهو مجموعة من الحجرات تحت الأرض منحوتة في الصخر حول فناء مكشوف كانت تقام فيه الطقوس الجنائزية. ويرجع أكبرها إلى نحو عام 280 قبل الميلاد، وربما خصص لعائلة ممتدة توارثته عدة أجيال، وتزين جدرانه أنصاف أعمدة وأفاريز ونوافذ وهمية منحوتة. وفوق الأرض كانت قواعد مدرجة تحمل شواهد القبور والمذابح. وقد نقّب الأثري الإيطالي إيفاريستو بريشيا في الموقع بين عامي 1904 و1910، وانتقلت الشواهد الملونة والجرار والتماثيل الصغيرة والزجاج المكتشفة إلى المتحف اليوناني الروماني. وأعاد مشروع حديث تأهيل الموقع للزيارة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Great hypogeum",
+    "ar": "الهيبوجيوم الكبير"
+   },
+   "desc": {
+    "en": "Underground family rooms around a court, about 280 BC.",
+    "ar": "حجرات عائلية تحت الأرض حول فناء، نحو عام 280 قبل الميلاد."
+   }
+  },
+  {
+   "title": {
+    "en": "Carved façades",
+    "ar": "الواجهات المنحوتة"
+   },
+   "desc": {
+    "en": "Half-columns, friezes and false windows cut into the rock.",
+    "ar": "أنصاف أعمدة وأفاريز ونوافذ وهمية منحوتة في الصخر."
+   }
+  },
+  {
+   "title": {
+    "en": "Stepped monuments",
+    "ar": "القواعد المدرجة"
+   },
+   "desc": {
+    "en": "Bases of gravestones and altars above the burials.",
+    "ar": "قواعد لشواهد القبور والمذابح فوق المدافن."
+   }
+  },
+  {
+   "title": {
+    "en": "Earliest Alexandria",
+    "ar": "الإسكندرية الأولى"
+   },
+   "desc": {
+    "en": "Burials of the city's first Greek settlers.",
+    "ar": "مدافن المستوطنين اليونانيين الأوائل في المدينة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Morning, combined with the Bibliotheca Alexandrina nearby.",
+   "ar": "الصباح، مع الجمع بين الزيارة ومكتبة الإسكندرية القريبة."
+  },
+  "crowdNotes": {
+   "en": "Compact and quiet, set below street level beside the corniche.",
+   "ar": "موقع صغير وهادئ يقع أسفل مستوى الشارع بجوار الكورنيش."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/The_Chatby_Tombs_at_Alexandria_%28I%29.jpg",
+   "author": "isawnyu",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Chatby_Tombs_at_Alexandria_(I).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/The_Chatby_Tombs_at_Alexandria_%28II%29.jpg",
+   "author": "isawnyu",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Chatby_Tombs_at_Alexandria_(II).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/the-cemetery-of-shatby/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Shatby_Necropolis",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%A8%D8%B1_%D8%A7%D9%84%D8%B4%D8%A7%D8%B7%D8%A8%D9%8A",
+  "osm": "way/265236553"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q105202124",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-cemetery-of-shatby/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices,description (official portal page)",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-cemetery-of-shatby/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Ramadan),address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D9%82%D8%A7%D8%A8%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D8%B7%D8%A8%D9%8A/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Shatby_Necropolis",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal (09:00-17:00; 100/50 and 20/10), MoTA guide (09:00-17:00, Ramadan 09:00-16:00, last entry one hour before closing) and the Nov 2024 list agree. Not on egymonuments.com, so no online ticket. No free groups listed for this site. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

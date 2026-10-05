@@ -1,0 +1,322 @@
+{
+ "id": "temple-of-seti-i-qurna",
+ "kind": "site",
+ "wikidataId": "Q375642",
+ "name": {
+  "en": "Temple of Seti I (Qurna)",
+  "ar": "معبد سيتي الأول بالقرنة"
+ },
+ "aliases": [
+  "Funerary Temple of Seti I",
+  "Mortuary Temple of Seti I",
+  "المعبد الجنائزي لسيتي الأول"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor (West Bank)",
+  "ar": "الأقصر (البر الغربي)"
+ },
+ "area": {
+  "en": "Qurna, northern end of the mortuary temples",
+  "ar": "القرنة، الطرف الشمالي لصف المعابد الجنائزية"
+ },
+ "address": {
+  "en": "Qurna, West Bank, Luxor (on the road towards the Valley of the Kings)",
+  "ar": "القرنة، البر الغربي، الأقصر (على الطريق المؤدي إلى وادي الملوك)"
+ },
+ "lat": 25.732778,
+ "lng": 32.628056,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Cleaning and restoration of the reliefs began in April 2026, so some areas may be screened.",
+  "ar": "مفتوح يوميًا، وقد بدأت في أبريل 2026 أعمال تنظيف النقوش وترميمها، لذا قد تُحجب بعض الأجزاء."
+ },
+ "summary": {
+  "en": "The northernmost of the Theban memorial temples, built by Seti I for himself and his father Ramesses I and finished by Ramesses II.",
+  "ar": "أقصى المعابد الجنائزية شمالًا في طيبة، شيّده سيتي الأول لنفسه ولأبيه رمسيس الأول وأتمه رمسيس الثاني."
+ },
+ "description": {
+  "en": "Seti I began his 'temple of millions of years' at Qurna, at the northern end of the line of memorial temples on the Theban west bank, and his son Ramesses II completed it after his death. Dedicated to Amun-Re, it also served the cults of Seti and of his father Ramesses I, whose reign was too short for a temple of his own; a chapel for him lies on the south side. The mud-brick pylons and courts have largely gone, and part of the east is under the modern village, but the stone temple house survives well. Its portico of papyrus columns leads into a six-column hall flanked by chapels and the bark room of Amun, with fine raised reliefs of the king before the gods and painted cornices. After long restoration by a German team the temple opened to visitors in 2004. It is rarely busy, and its quality of carving rivals Seti's better-known temple at Abydos.",
+  "ar": "بدأ سيتي الأول بناء «معبد ملايين السنين» الخاص به في القرنة، عند الطرف الشمالي لصف المعابد الجنائزية في البر الغربي بطيبة، وأتمه ابنه رمسيس الثاني بعد وفاته. وكُرّس المعبد لآمون رع، وخُصص كذلك لعبادة سيتي وأبيه رمسيس الأول الذي لم يتسع حكمه القصير لبناء معبد له، وله مقصورة في الجانب الجنوبي. وقد اندثر معظم الصرحين والفناءين المبنيين بالطوب اللبن، ويقع جزء من القسم الشرقي تحت القرية الحديثة، غير أن مبنى المعبد الحجري بقي في حالة جيدة. ويفضي رواقه ذو الأعمدة البردية إلى صالة من ستة أعمدة تحيط بها مقاصير وحجرة مركب آمون، وعلى جدرانها نقوش بارزة دقيقة للملك أمام المعبودات وأفاريز ملونة. وبعد ترميم طويل قامت به بعثة ألمانية افتُتح المعبد للزوار عام 2004. ونادرًا ما يزدحم، وتضاهي جودة نقوشه معبد سيتي الأشهر في أبيدوس."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Papyrus-column portico",
+    "ar": "الرواق ذو الأعمدة البردية"
+   },
+   "desc": {
+    "en": "The surviving facade of the stone temple house.",
+    "ar": "الواجهة الباقية من مبنى المعبد الحجري."
+   }
+  },
+  {
+   "title": {
+    "en": "Hypostyle hall reliefs",
+    "ar": "نقوش صالة الأعمدة"
+   },
+   "desc": {
+    "en": "Finely carved scenes of Seti before Amun and other gods.",
+    "ar": "مناظر دقيقة النحت لسيتي أمام آمون ومعبودات أخرى."
+   }
+  },
+  {
+   "title": {
+    "en": "Chapel of Ramesses I",
+    "ar": "مقصورة رمسيس الأول"
+   },
+   "desc": {
+    "en": "Rooms dedicated to the cult of Seti's father.",
+    "ar": "حجرات مخصصة لعبادة والد سيتي."
+   }
+  },
+  {
+   "title": {
+    "en": "Painted cornices",
+    "ar": "الأفاريز الملونة"
+   },
+   "desc": {
+    "en": "Cavetto cornices that keep much of their original colour.",
+    "ar": "أفاريز مقعرة احتفظت بكثير من ألوانها الأصلية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Morning, before or after the Valley of the Kings.",
+   "ar": "الصباح، قبل زيارة وادي الملوك أو بعدها."
+  },
+  "crowdNotes": {
+   "en": "One of the quietest temples on the West Bank. Tickets are sold at the West Bank ticket office rather than online.",
+   "ar": "من أهدأ معابد البر الغربي، وتُباع التذاكر في مكتب التذاكر بالبر الغربي وليس إلكترونيًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Temple_of_Sethi_I_01%2C_egypt_forever.jpg",
+   "author": "Forever Egypt",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_Sethi_I_01,_egypt_forever.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Temple_of_Sethi_I_03%2C_egypt_forever.jpg",
+   "author": "Forever Egypt",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_Sethi_I_03,_egypt_forever.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Souls_of_Nekhen_in_Seti_I%27s_temple_at_Gourna.jpg",
+   "author": "HoremWeb",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Souls_of_Nekhen_in_Seti_I's_temple_at_Gourna.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mortuary_Temple_of_Seti_I",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%D9%8A_%D9%84%D8%B3%D9%8A%D8%AA%D9%8A_%D8%A7%D9%84%D8%A3%D9%88%D9%84",
+  "osm": "way/89828325"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q375642",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (MoTA Nov 2024 list: 200/100, 10/5, 06:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "statusNote (restoration project started, news 11 Apr 2026)",
+   "url": "https://www.elnabaa.net/1166897/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Qurna area summer 2026: 06:00-18:00 from 24 Apr 2026)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Qurna area summer 2026)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Mortuary_Temple_of_Seti_I",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (opened 2004 after DAI restoration; facts only)",
+   "url": "https://de.wikipedia.org/wiki/Totentempel_des_Sethos_I._(Qurna)",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "visit (ticket office on the West Bank; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Totentempel_Sethos%E2%80%99_I.",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "No egymonuments.gov.eg page, no booking product, no MoTA guide page found. Prices and hours from the MoTA Nov 2024 list only (kept as confirmed, batch-7 Q4a). Restoration (soot and bird-dropping cleaning) announced 11 Apr 2026 by MoTA via elnabaa, to finish before the winter season; no closure was announced. Summer Qurna schedule applied as at the Ramesseum. Summer exception dated 2026-04-24 to 2026-10-29 (daylight-saving period, until the last Thursday of October, as all other summer exceptions); the winter 2026-27 schedule had not been announced on 2026-10-05: recheck after 29 Oct 2026. Do not confuse the 'Tomb of Sety I' ticket (KV17, EGP 2,000) with this temple."
+}

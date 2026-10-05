@@ -1,0 +1,128 @@
+{
+ "id": "ahmed-orabi-museum",
+ "kind": "museum",
+ "wikidataId": "Q6852382",
+ "name": {
+  "en": "Sharqia National Museum",
+  "ar": "متحف الشرقية القومي"
+ },
+ "aliases": [
+  "Ahmed Orabi Museum",
+  "متحف أحمد عرابي",
+  "Heriyet Rezna Museum",
+  "متحف هرية رزنة",
+  "متحف هرية"
+ ],
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "sharqia",
+ "city": {
+  "en": "Hurriya Razna, Zagazig",
+  "ar": "هرية رزنة، الزقازيق"
+ },
+ "area": {
+  "en": "Hurriya Razna village",
+  "ar": "قرية هرية رزنة"
+ },
+ "address": {
+  "en": "Hurriya Razna village, Zagazig district, Sharqia Governorate",
+  "ar": "قرية هرية رزنة، مركز الزقازيق، محافظة الشرقية"
+ },
+ "lat": 30.604241,
+ "lng": 31.535877,
+ "status": "closed",
+ "statusNote": {
+  "en": "Closed since 2000; the planned renovation was never completed and the collections are in storage.",
+  "ar": "مغلق منذ عام 2000، ولم يكتمل التطوير المخطط له، والمقتنيات محفوظة في المخازن."
+ },
+ "summary": {
+  "en": "The Sharqia National Museum in Hurriya Razna, Ahmed Orabi's birthplace, closed since 2000; its antiquities later formed the core of the Tell Basta Museum.",
+  "ar": "متحف الشرقية القومي في هرية رزنة، مسقط رأس أحمد عرابي، مغلق منذ عام 2000، وشكلت آثاره لاحقًا نواة متحف تل بسطة."
+ },
+ "description": {
+  "en": "Hurriya Razna, a village about 2 km from Zagazig, is the birthplace of Ahmed Orabi, the army officer who led the national movement of 1879–1882 against foreign control and confronted Khedive Tawfiq at Abdeen. For that reason it was chosen as the seat of the Sharqia National Museum, opened in September 1973 by President Sadat on a plot of about 5,000 square metres. The museum had four sections. The first was devoted to Orabi, with history paintings, a panorama of the revolt, busts of him and his companions, and documents in his own hand. The second showed the customs, dress and crafts of Sharqia. The third honoured the children of Bahr el-Baqar school, killed by an Israeli air raid in 1970. The fourth displayed antiquities from Tell Basta and San el-Hagar. The museum closed in 2000 for a renovation that was never completed, its contents went into storage, and the building has since fallen into neglect.",
+  "ar": "هرية رزنة قرية تبعد نحو كيلومترين عن الزقازيق، وهي مسقط رأس أحمد عرابي، الضابط الذي قاد الحركة الوطنية بين عامي 1879 و1882 ضد التدخل الأجنبي ووقف في وجه الخديوي توفيق في عابدين. ولهذا اختيرت مقرًا لمتحف الشرقية القومي الذي افتتحه الرئيس السادات في سبتمبر 1973 على مساحة نحو 5000 متر مربع. وضم المتحف أربعة أقسام؛ خُصص الأول لعرابي، وفيه لوحات تاريخية وبانوراما للثورة العرابية وتماثيل نصفية له ولرفاقه ووثائق بخط يده. وعرض الثاني عادات أهل الشرقية وأزياءهم وحرفهم. وكرّم الثالث أطفال مدرسة بحر البقر الذين استشهدوا في غارة إسرائيلية عام 1970. أما الرابع فضم آثارًا من تل بسطة وصان الحجر. وقد أُغلق المتحف عام 2000 لتطوير لم يكتمل، ونُقلت محتوياته إلى المخازن، وتعرض المبنى منذ ذلك الحين للإهمال."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Orabi collection",
+    "ar": "مجموعة الزعيم أحمد عرابي"
+   },
+   "desc": {
+    "en": "Paintings, busts and documents in the leader's own hand, now in storage.",
+    "ar": "لوحات وتماثيل نصفية ووثائق بخط الزعيم، وهي الآن في المخازن."
+   }
+  },
+  {
+   "title": {
+    "en": "Bahr el-Baqar wing",
+    "ar": "جناح شهداء بحر البقر"
+   },
+   "desc": {
+    "en": "Belongings of the schoolchildren killed in the 1970 air raid.",
+    "ar": "متعلقات تلاميذ المدرسة الذين استشهدوا في غارة عام 1970."
+   }
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Ahmed-orabi-portrait-egyptian-army-general-and-nationalist-led-a-revolt-1879.jpg",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ahmed-orabi-portrait-egyptian-army-general-and-nationalist-led-a-revolt-1879.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A3%D8%AD%D9%85%D8%AF_%D8%B9%D8%B1%D8%A7%D8%A8%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6852382",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (closed since 2000, building neglected; residents' appeal; news 10 Sep 2026)",
+   "url": "https://almawq3.com/%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A8%D9%87%D9%8E%D8%B1%D9%8A%D8%A9-%D8%B1%D8%B2%D9%86%D8%A9-%D9%85%D9%86-%D8%B5/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,description (closed for 17 years, collections in storage; news 9 Sep 2022)",
+   "url": "https://www.youm7.com/story/2022/9/9/%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%D8%B2%D8%B9%D9%8A%D9%85-%D8%AA%D8%AD%D8%AA%D9%81%D9%84-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%A8%D8%B9%D9%8A%D8%AF%D9%87%D8%A7-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%81%D9%89-%D8%B0%D9%83%D8%B1%D8%A7%D9%87-%D8%A3%D8%AD%D9%85%D8%AF/5900214",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A3%D8%AD%D9%85%D8%AF_%D8%B9%D8%B1%D8%A7%D8%A8%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "identity (duplicate Wikidata item of this museum, \"Heriyet Rezna Museum\", dissolved 2006)",
+   "url": "https://www.wikidata.org/wiki/Q130218217",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary (Tell Basta Museum created as the replacement of the Sharqia National Museum)",
+   "url": "https://en.wikipedia.org/wiki/Museum_of_Tal_Basta_Antiquities",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Canonical record of the Sharqia National Museum at Hurriya Razna (Ahmed Orabi's birthplace). Merged 2026-10-05 (batch-13 G2a): the seed record heriyet-rezna-museum (Wikidata Q130218217, 'Heriyet Rezna Museum', P576 dissolved 2006) is the same institution and is excluded from the catalogue (tools/seed/excluded.json); its summary (Tell Basta link) was folded in. Name changed from the seed's 'Ahmed Orabi Museum' to the institution's name, which is kept as an alias. Status 'closed' from almawq3 (10 Sep 2026) and youm7 (Sep 2022). Area 5,148 m² per almawq3; 'about 5,000'. Operator: seed says ministry-of-culture (the duplicate seed record said mota-sca); the museum held SCA antiquities; left as seed. Photo: 1879 public-domain portrait of Ahmed Orabi (the building is closed and no image of it exists on Commons)."
+}

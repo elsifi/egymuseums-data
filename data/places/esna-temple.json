@@ -90,6 +90,16 @@
     "en": "The hall lies some nine metres below the modern town, reached by a stairway.",
     "ar": "يقع البهو على عمق نحو تسعة أمتار تحت المدينة الحديثة، ويُنزل إليه عبر درج."
    }
+  },
+  {
+   "title": {
+    "en": "Nearby: Wikalat al-Gedawi",
+    "ar": "بالقرب: وكالة الجداوي"
+   },
+   "desc": {
+    "en": "A late eighteenth-century merchants' caravanserai a short walk away, entered on the same ticket.",
+    "ar": "وكالة تجارية من أواخر القرن الثامن عشر على بعد خطوات، ويُدخل إليها بالتذكرة نفسها."
+   }
   }
  ],
  "hours": {
@@ -349,5 +359,5 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "Hours conflict on Sun/Tue/Fri: booking platform 07:00-18:00, MoTA guide 07:00-19:00, MoTA Nov 2024 list repeats 07:00-17:00 - the earlier official 18:00 is used (D3 rule), with lastEntry 17:00 from the guide's one-hour rule. Other days: 07:00-17:00, last entry 16:00 (booking platform + guide). Reason for the longer days not found (possibly cruise schedules). No summer exception: the booking platform shows identical summer/winter rows. Ramadan: last entry 16:00 only (closing not published). The 2018 start date of the Egyptian-German (Tübingen) project is from general knowledge/Wikipedia-level sources; the official news pages are undated. Wikalat al-Gedawi is 'within Esna Temple ticket' on the Nov 2024 list only - not claimed. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+ "curationNote": "Hours conflict on Sun/Tue/Fri: booking platform 07:00-18:00, MoTA guide 07:00-19:00, MoTA Nov 2024 list repeats 07:00-17:00 - the earlier official 18:00 is used (D3 rule), with lastEntry 17:00 from the guide's one-hour rule. Other days: 07:00-17:00, last entry 16:00 (booking platform + guide). Reason for the longer days not found (possibly cruise schedules). No summer exception: the booking platform shows identical summer/winter rows. Ramadan: last entry 16:00 only (closing not published). The 2018 start date of the Egyptian-German (Tübingen) project is from general knowledge/Wikipedia-level sources; the official news pages are undated. Wikalat al-Gedawi is 'within Esna Temple ticket' on the Nov 2024 list; wikalat-al-gidawi has includedIn esna-temple and this record has a 'Nearby' highlight saying so (batch-12 Q7a). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
 }

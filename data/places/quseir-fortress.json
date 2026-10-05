@@ -1,0 +1,306 @@
+{
+ "id": "quseir-fortress",
+ "kind": "site",
+ "wikidataId": "Q68171278",
+ "name": {
+  "en": "Al-Quseir Fortress",
+  "ar": "قلعة القصير"
+ },
+ "aliases": [
+  "El Qoseir Fort"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "red-sea",
+ "city": {
+  "en": "El-Quseir",
+  "ar": "القصير"
+ },
+ "area": {
+  "en": "Old town, El-Quseir",
+  "ar": "البلدة القديمة، القصير"
+ },
+ "address": {
+  "en": "El-Quseir town, Red Sea Governorate",
+  "ar": "مدينة القصير، محافظة البحر الأحمر"
+ },
+ "lat": 26.1052,
+ "lng": 34.2832,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily; tickets are sold at the gate.",
+  "ar": "مفتوحة يوميًا، وتُباع التذاكر عند البوابة."
+ },
+ "summary": {
+  "en": "An Ottoman fortress built in the 1570s to guard El-Quseir's port and the pilgrims and caravans crossing to Arabia.",
+  "ar": "قلعة عثمانية شُيدت في سبعينيات القرن السادس عشر لحماية ميناء القصير والحجاج والقوافل المتجهة إلى الجزيرة العربية."
+ },
+ "description": {
+  "en": "El-Quseir was for centuries the Red Sea port where the grain sent each year from Upper Egypt to the holy cities of Arabia was shipped, and where pilgrims from the Nile Valley embarked. After attacks on the town and its caravans, the Ottoman sultan Selim II ordered a fortress to be built there in 1571, on the advice of Sinan Pasha, governor of Egypt, and a garrison to be stationed in it. The fort is a square stone enclosure strengthened by four corner towers, with narrow slits in the walls for archers. Inside are rooms that housed the soldiers, a tall watchtower in the courtyard and a cistern for storing water. In 1799 French troops sent by Bonaparte took the fort and held it against a British naval bombardment, and two years later an Anglo-Indian army landed here. The restored fort now works as a small museum of the town's history.",
+  "ar": "كانت القصير على مدى قرون ميناء البحر الأحمر الذي تُشحن منه الغلال المرسلة سنويًا من الصعيد إلى الحرمين الشريفين، ويبحر منه حجاج وادي النيل. وبعد تكرار الاعتداءات على المدينة وقوافلها أمر السلطان العثماني سليم الثاني عام 1571 ببناء قلعة فيها بناءً على اقتراح سنان باشا والي مصر، وبإقامة حامية بها. والقلعة سور حجري مربع تدعمه أربعة أبراج في الأركان، وفي جدرانه فتحات ضيقة لرمي السهام. وفي داخلها حجرات كانت مساكن للجنود، وبرج مراقبة مرتفع في الفناء، وصهريج لتخزين المياه. وفي عام 1799 استولت القوات الفرنسية التي أرسلها بونابرت على القلعة وصمدت فيها أمام قصف بحري بريطاني، وبعد عامين نزل بها جيش إنجليزي هندي. وتعمل القلعة بعد ترميمها متحفًا صغيرًا لتاريخ المدينة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Corner towers and walls",
+    "ar": "الأبراج والأسوار"
+   },
+   "desc": {
+    "en": "A square stone enclosure with four towers and arrow slits.",
+    "ar": "سور حجري مربع بأربعة أبراج وفتحات لرمي السهام."
+   }
+  },
+  {
+   "title": {
+    "en": "Watchtower",
+    "ar": "برج المراقبة"
+   },
+   "desc": {
+    "en": "A tall tower in the courtyard with views over the town and the sea.",
+    "ar": "برج مرتفع في الفناء يطل على المدينة والبحر."
+   }
+  },
+  {
+   "title": {
+    "en": "Soldiers' quarters",
+    "ar": "مساكن الجنود"
+   },
+   "desc": {
+    "en": "Rooms around the courtyard that housed the garrison.",
+    "ar": "حجرات حول الفناء كانت تسكنها الحامية."
+   }
+  },
+  {
+   "title": {
+    "en": "Cistern",
+    "ar": "الصهريج"
+   },
+   "desc": {
+    "en": "The water tank that supplied the fort.",
+    "ar": "خزان المياه الذي كان يمد القلعة."
+   }
+  },
+  {
+   "title": {
+    "en": "Old cannons",
+    "ar": "المدافع القديمة"
+   },
+   "desc": {
+    "en": "European cannons displayed in the fort.",
+    "ar": "مدافع أوروبية معروضة في القلعة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Morning, combined with a walk through the old town and the seafront.",
+   "ar": "الصباح، مع جولة في البلدة القديمة وعلى الشاطئ."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Festung_El_Quseir_Bild_1.JPG",
+   "author": "Magellan",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Festung_El_Quseir_Bild_1.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Festung_El_Quseir_Bild_6.JPG",
+   "author": "Magellan",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Festung_El_Quseir_Bild_6.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Festung_El_Quseir_Bild_3.JPG",
+   "author": "Magellan",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Festung_El_Quseir_Bild_3.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/El_Qoseir_Fort",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D8%A9_%D8%A7%D9%84%D9%82%D8%B5%D9%8A%D8%B1",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q68171278",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing),description,address (MoTA guide)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/قلعة-القصير/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (MoTA ticket list, Nov 2024; only official price source)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/El_Qoseir_Fort",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (Selim II decree, 1799-1801 events; facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D9%84%D8%B9%D8%A9_%D8%A7%D9%84%D9%82%D8%B5%D9%8A%D8%B1",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Prices 100/50 foreign, 10/5 Egyptian only from the Nov 2024 MoTA list (no portal or booking page), kept as confirmed as for Hibis and Al-Qasr (batch-7 Q4a). No Arab tier: the SCA ended Arab = Egyptian pricing from 1 Jan 2026. Hours: MoTA guide and list agree (09:00-17:00). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Construction date: the decree is dated 979 AH (1571-72); ar-wiki also mentions a later reading of the fort's history (1710-1797), so the text keeps to the 1571 decree. freeGroups omitted (no official list for this site). The en-wiki note that the fort displays a replica dhow is not confirmed by an official source and is not used. cashAccepted not set."
+}

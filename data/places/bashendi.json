@@ -1,0 +1,239 @@
+{
+ "id": "bashendi",
+ "kind": "site",
+ "wikidataId": "Q14203699",
+ "name": {
+  "en": "Bashendi Tombs",
+  "ar": "مقابر بشندي"
+ },
+ "aliases": [
+  "El-Bashandi",
+  "البشندي",
+  "Ezbet Bashendi",
+  "عزبة البشندي",
+  "Tomb of Kitines"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "new-valley",
+ "city": {
+  "en": "Dakhla Oasis",
+  "ar": "الواحات الداخلة"
+ },
+ "area": {
+  "en": "Ezbet Bashendi, east of Balat",
+  "ar": "عزبة بشندي، شرق بلاط"
+ },
+ "address": {
+  "en": "Ezbet Bashendi village, east of Balat, Dakhla Oasis, New Valley Governorate",
+  "ar": "قرية عزبة بشندي، شرق بلاط، الواحات الداخلة، محافظة الوادي الجديد"
+ },
+ "lat": 25.5494,
+ "lng": 29.2992,
+ "status": "open",
+ "statusNote": {
+  "en": "Usually open daily; the Roman tomb is opened by the guard.",
+  "ar": "مفتوحة يوميًا في العادة، ويفتح الحارس المقبرة الرومانية."
+ },
+ "summary": {
+  "en": "A mud-brick village in eastern Dakhla built among Roman tombs, one of which, the tomb of Kitines, keeps its carved reliefs.",
+  "ar": "قرية من الطوب اللبن في شرق الداخلة شُيدت بين مقابر رومانية، تحتفظ إحداها، مقبرة كيتينس، بنقوشها البارزة."
+ },
+ "description": {
+  "en": "Ezbet Bashendi is a small farming village in the north-east of the Dakhla Oasis, a few kilometres east of Balat, named after Sheikh el-Bashendi, a local holy man whose domed tomb stands among the houses. Its northern lanes keep two-storey mud-brick houses with small windows and roofs of palm trunks. The village grew up over a cemetery of the first and second centuries AD, when stone tomb-houses were built here for wealthy families. Of five such tombs, the best preserved belongs to Kitines, son of an Egyptian father named Petosiris and a mother with a probably Libyan name. Found in 1947 with a house built on its roof, it is a square sandstone building of about 8.5 metres, divided into six rooms. Only the cult room is decorated, with sunk reliefs of the owner before Horus, Osiris and the souls of Pe and Nekhen. It is one of only two accessible decorated Roman-period tombs in Dakhla.",
+  "ar": "عزبة بشندي قرية زراعية صغيرة في شمال شرق الواحات الداخلة، على بعد بضعة كيلومترات شرق بلاط، وتحمل اسم الشيخ البشندي، أحد أولياء المنطقة، الذي يقوم ضريحه المقبب بين البيوت. وتحتفظ حاراتها الشمالية ببيوت من الطوب اللبن من طابقين، بنوافذ صغيرة وأسقف من جذوع النخيل. وقد نشأت القرية فوق جبانة من القرنين الأول والثاني الميلاديين، شُيدت فيها مقابر حجرية على هيئة بيوت للأسر الثرية. ومن بين خمس مقابر من هذا النوع، أفضلها حفظًا مقبرة كيتينس، ابن أب مصري يُدعى بادي أوزير وأم يُرجح أن اسمها ليبي. وقد عُثر عليها عام 1947 وفوق سقفها بيت مسكون، وهي مبنى مربع من الحجر الرملي يبلغ طول ضلعه نحو 8.5 أمتار، مقسم إلى ست حجرات. ولا تُزين بالنقوش إلا حجرة العبادة، ففيها نقوش غائرة لصاحب المقبرة أمام حورس وأوزير وأرواح بي ونخن. وهي واحدة من مقبرتين فقط مزخرفتين من العصر الروماني يمكن زيارتهما في الداخلة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Kitines",
+    "ar": "مقبرة كيتينس"
+   },
+   "desc": {
+    "en": "A Roman stone tomb-house with a carved cult room.",
+    "ar": "مقبرة حجرية رومانية على هيئة بيت بحجرة عبادة منقوشة."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Sheikh el-Bashendi",
+    "ar": "ضريح الشيخ البشندي"
+   },
+   "desc": {
+    "en": "The domed shrine of the village's holy man.",
+    "ar": "الضريح المقبب لولي القرية."
+   }
+  },
+  {
+   "title": {
+    "en": "Old mud-brick lanes",
+    "ar": "الحارات الطينية القديمة"
+   },
+   "desc": {
+    "en": "Two-storey houses with palm-trunk roofs.",
+    "ar": "بيوت من طابقين بأسقف من جذوع النخيل."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Morning, combined with Qila al-Dabba and the old town of Balat.",
+   "ar": "الصباح، مع الجمع بين الزيارة وقلع الضبة وبلدة بلاط القديمة."
+  },
+  "crowdNotes": {
+   "en": "A lived-in village: ask before photographing people. Dakhla is a long drive from the Nile Valley or Kharga, so plan an overnight stay in Mut or al-Qasr.",
+   "ar": "قرية مأهولة، فاستأذن قبل تصوير الناس. والطريق إلى الداخلة طويل من وادي النيل أو الخارجة، فخطط للمبيت في موط أو القصر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bashandi02Tombs.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bashandi02Tombs.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/BashandiTomb.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BashandiTomb.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/BashandiOldVillage1.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BashandiOldVillage1.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q14203699",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (MoTA Nov 2024 list: 'Ezbet Bashendi' 100/50, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (checked: the 9 Jul 2026 SCA board decision raising prices from 1 Oct 2026 names only Bahariya Oasis sites; not applied here)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (Kitines tomb, five tombs, 1947 find, village; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Baschand%C4%AB",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "visit.crowdNotes (travel advice: oasis roads exempt from warnings; updated 4 Aug 2026)",
+   "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Only official source: the MoTA Nov 2024 list (no portal, booking or guide page found under several slugs); status 'open' rests on that list plus Wikivoyage (Dec 2023: open daily 08:00-17:00, LE 100/50). Prices only from the MoTA Nov 2024 list (no portal page, not on egymonuments.com); kept as confirmed (batch-7 Q4a). The 9 Jul 2026 oasis price rise covers Bahariya only (batch-7 finding), not applied. Last entry 16:00 by MoTA's general one-hour rule. No Ramadan schedule published, so no exception."
+}

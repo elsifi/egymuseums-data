@@ -1,0 +1,308 @@
+{
+ "id": "qasr-el-zayyan",
+ "kind": "site",
+ "wikidataId": "Q14218440",
+ "name": {
+  "en": "Qasr el-Zayyan Temple",
+  "ar": "قصر الزيان"
+ },
+ "aliases": [
+  "Qasr el-Zayyan",
+  "Qasr ez-Zaiyan",
+  "Tchonemyris",
+  "معبد الزيان"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "new-valley",
+ "city": {
+  "en": "Kharga",
+  "ar": "الخارجة"
+ },
+ "area": {
+  "en": "Qasr el-Zayyan village, south of Kharga town",
+  "ar": "قرية قصر الزيان، جنوب مدينة الخارجة"
+ },
+ "address": {
+  "en": "Qasr el-Zayyan village, about 25 km south of Kharga town, New Valley Governorate",
+  "ar": "قرية قصر الزيان، على بعد نحو 25 كم جنوب مدينة الخارجة، محافظة الوادي الجديد"
+ },
+ "lat": 25.25145,
+ "lng": 30.5709,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A small sandstone temple of Amun of Hibis inside a mud-brick enclosure, restored by the emperor Antoninus Pius in AD 140.",
+  "ar": "معبد صغير من الحجر الرملي لآمون هيبس داخل سور من الطوب اللبن، رممه الإمبراطور أنطونينوس بيوس عام 140 للميلاد."
+ },
+ "description": {
+  "en": "Qasr el-Zayyan lies in the low centre of the Kharga depression, a few kilometres south of Qasr el-Ghueita, at a point some 18 metres below sea level. The ancient settlement was called Tchonemyris, 'the great well', and a deep brick-lined well still survives within the walls. The temple was founded in the Ptolemaic period for Amenibis, the ram-headed Amun of Hibis, together with the Theban triad. Under the emperor Antoninus Pius it was enlarged, decorated and restored; a Greek inscription over the doorway to the inner court names him and gives the year AD 140. The temple itself is a small sandstone building of a hall and a sanctuary with a niche that once held the cult statue, surrounded by mud-brick storerooms, houses and a tall enclosure wall with a stone gateway. Early travellers such as Frederic Cailliaud copied the Greek inscription in 1818, and it remains the key to the site's history.",
+  "ar": "يقع قصر الزيان في وسط منخفض الخارجة المنخفض، على بعد بضعة كيلومترات جنوب قصر الغويطة، عند نقطة تنخفض نحو 18 مترًا عن سطح البحر. وكانت المستوطنة القديمة تُدعى تشونمريس، أي «البئر الكبيرة»، ولا تزال بئر عميقة مبطنة بالطوب قائمة داخل الأسوار. وقد أُسس المعبد في العصر البطلمي للمعبود آمون هيبس ذي رأس الكبش مع الثالوث الطيبي، ثم وُسّع وزُين ورُمم في عهد الإمبراطور أنطونينوس بيوس، ويذكره نقش يوناني فوق مدخل الفناء الداخلي مع تاريخ 140 للميلاد. والمعبد نفسه مبنى صغير من الحجر الرملي يتكون من صالة وقدس أقداس فيه كوة كانت تضم تمثال المعبود، وتحيط به مخازن وبيوت من الطوب اللبن وسور مرتفع ذو بوابة حجرية. وقد نسخ الرحالة الأوائل، ومنهم فريدريك كايو عام 1818، النقش اليوناني الذي يبقى مفتاح تاريخ الموقع."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Antoninus Pius inscription",
+    "ar": "نقش أنطونينوس بيوس"
+   },
+   "desc": {
+    "en": "A Greek text of AD 140 over the inner gateway.",
+    "ar": "نص يوناني من عام 140 للميلاد فوق البوابة الداخلية."
+   }
+  },
+  {
+   "title": {
+    "en": "Sanctuary niche",
+    "ar": "كوة قدس الأقداس"
+   },
+   "desc": {
+    "en": "The recess that held the statue of Amun of Hibis.",
+    "ar": "التجويف الذي كان يضم تمثال آمون هيبس."
+   }
+  },
+  {
+   "title": {
+    "en": "The great well",
+    "ar": "البئر الكبيرة"
+   },
+   "desc": {
+    "en": "The ancient brick-lined well that gave the town its name.",
+    "ar": "البئر القديمة المبطنة بالطوب التي منحت المدينة اسمها."
+   }
+  },
+  {
+   "title": {
+    "en": "Mud-brick enclosure",
+    "ar": "السور الطيني"
+   },
+   "desc": {
+    "en": "Storerooms and houses inside a high mud-brick wall.",
+    "ar": "مخازن وبيوت داخل سور مرتفع من الطوب اللبن."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Together with Qasr el-Ghueita, late in the afternoon.",
+   "ar": "مع قصر الغويطة، في آخر النهار."
+  },
+  "crowdNotes": {
+   "en": "Small and very quiet. Bring water and sun protection: there are no facilities at most desert sites.",
+   "ar": "موقع صغير وهادئ جدًا. احمل الماء وواقيًا من الشمس، فمعظم المواقع الصحراوية بلا خدمات."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/ZaiyanTemple.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZaiyanTemple.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/ZaiyanSanctuaryLintel.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZaiyanSanctuaryLintel.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/ZaiyanCourt.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZaiyanCourt.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q14218440",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00; Ramadan 09:00-16:00; last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-الزيان/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (MoTA Nov 2024 list: 'Temple of Qasr al-Zayyan' 100/50, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (checked: the 9 Jul 2026 SCA board decision raising prices from 1 Oct 2026 names only Bahariya Oasis sites; not applied here)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (Tchonemyris, -18 m, AD 140, Cailliaud 1818, well; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Qa%E1%B9%A3r_ez-Zaiy%C4%81n",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "visit.crowdNotes (travel advice: oasis roads exempt from warnings; updated 4 Aug 2026)",
+   "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Distance from Kharga: Wikivoyage about 21 km, other references 25-30 km; address says 'about 25 km'. Prices only from the MoTA Nov 2024 list (no portal page, not on egymonuments.com); kept as confirmed (batch-7 Q4a). The 9 Jul 2026 oasis price rise covers Bahariya only (batch-7 finding), not applied. Ramadan from the MoTA guide (09:00-16:00, last entry 15:00). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

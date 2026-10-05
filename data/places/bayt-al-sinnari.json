@@ -1,0 +1,164 @@
+{
+ "id": "bayt-al-sinnari",
+ "kind": "museum",
+ "wikidataId": "Q16126483",
+ "name": {
+  "en": "Bayt al-Sinnari",
+  "ar": "بيت السناري"
+ },
+ "aliases": [
+  "منزل ابراهيم كتخدا السناري",
+  "al-Sinnary house",
+  "House of al-Sinnary"
+ ],
+ "category": "islamic",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Al-Nasiriya, Sayyida Zaynab",
+  "ar": "الناصرية، السيدة زينب"
+ },
+ "address": {
+  "en": "Haret Monge (a dead-end lane), al-Nasiriya, Sayyida Zaynab, Cairo",
+  "ar": "حارة منج، الناصرية، السيدة زينب، القاهرة"
+ },
+ "lat": 30.032886,
+ "lng": 31.242649,
+ "status": "open",
+ "statusNote": {
+  "en": "Used as a cultural centre of the Bibliotheca Alexandrina, with exhibitions, talks and workshops; the house can be seen during its activities.",
+  "ar": "يعمل مركزًا ثقافيًا تابعًا لمكتبة الإسكندرية، يستضيف المعارض والندوات وورش العمل، ويمكن مشاهدة البيت خلال أنشطته."
+ },
+ "summary": {
+  "en": "A merchant's mansion of 1794 where Napoleon's scholars and artists worked, now a cultural centre of the Bibliotheca Alexandrina.",
+  "ar": "قصر لأحد الأعيان شُيّد عام 1794 وعمل فيه علماء الحملة الفرنسية وفنانوها، وهو اليوم مركز ثقافي تابع لمكتبة الإسكندرية."
+ },
+ "description": {
+  "en": "Ibrahim Katkhuda al-Sinnari, a wealthy notable whose name recalls the Sudanese city of Sennar, built this house in 1794 at the end of a dead-end lane in Sayyida Zaynab. Only four years later the French expedition requisitioned it for members of its Commission of Sciences and Arts, and artists working on the Description de l'Égypte drew and painted here; the lane is still named after the mathematician Gaspard Monge. Between the World Wars a collector ran a small Napoleon museum in the house. After damage from the 1992 earthquake it was restored with French and UNESCO help and handed to the Bibliotheca Alexandrina. Its reception halls on the ground floor, the private rooms above with their mashrabiya and small bath, and a courtyard with a marble fountain now host exhibitions, talks and craft workshops.",
+  "ar": "شيّد إبراهيم كتخدا السناري، أحد أعيان القاهرة الأثرياء الذي يرجع لقبه إلى مدينة سنار السودانية، هذا البيت عام 1794 في نهاية حارة غير نافذة بالسيدة زينب. وبعد أربع سنوات فقط صادرته الحملة الفرنسية لإسكان أعضاء لجنة العلوم والفنون، فرسم فيه فنانو كتاب «وصف مصر» لوحاتهم، وما زالت الحارة تحمل اسم العالم الرياضي جاسبار مونج. وبين الحربين العالميتين أقام فيه أحد هواة الجمع متحفًا صغيرًا باسم نابليون. وبعد أضرار زلزال 1992 رُمم بالتعاون مع فرنسا واليونسكو، ثم سُلّم إلى مكتبة الإسكندرية. وتستضيف اليوم قاعات الاستقبال في طابقه الأرضي، والغرف الخاصة في الطابق العلوي بمشربياتها وحمامها الصغير، والفناء الذي تتوسطه نافورة رخامية، معارض وندوات وورشًا للحرف."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Courtyard and fountain",
+    "ar": "الفناء والنافورة"
+   },
+   "desc": {
+    "en": "An inner courtyard centred on a marble fountain.",
+    "ar": "فناء داخلي تتوسطه نافورة من الرخام."
+   }
+  },
+  {
+   "title": {
+    "en": "Mashrabiya",
+    "ar": "المشربيات"
+   },
+   "desc": {
+    "en": "Finely turned wooden screens on the upper floor.",
+    "ar": "ستائر خشبية دقيقة الخرط في الطابق العلوي."
+   }
+  },
+  {
+   "title": {
+    "en": "Carved stone doorway",
+    "ar": "المدخل الحجري المنحوت"
+   },
+   "desc": {
+    "en": "A door framed by sculpted stone.",
+    "ar": "باب يحيط به إطار من الحجر المنحوت."
+   }
+  },
+  {
+   "title": {
+    "en": "French expedition link",
+    "ar": "صلة بالحملة الفرنسية"
+   },
+   "desc": {
+    "en": "Rooms where scholars and artists of Napoleon's expedition lived and worked in 1798–1801.",
+    "ar": "غرف أقام فيها علماء الحملة الفرنسية وفنانوها وعملوا بين عامي 1798 و1801."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "During a scheduled exhibition or event, which makes it easier to see the rooms.",
+   "ar": "خلال معرض أو فعالية معلنة، فذلك يسهّل مشاهدة القاعات."
+  },
+  "crowdNotes": {
+   "en": "The house sits at the end of a narrow lane off al-Nasiriya; ask locals for Haret Monge.",
+   "ar": "يقع البيت في نهاية حارة ضيقة متفرعة من الناصرية، فاسأل الأهالي عن حارة منج."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/BaytalSinnari1.jpg",
+   "author": "Clemens Schmillen",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BaytalSinnari1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/BaytalSinnari2.jpg",
+   "author": "Clemens Schmillen",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BaytalSinnari2.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/BaytalSinnari3.jpg",
+   "author": "Clemens Schmillen",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BaytalSinnari3.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Bayt_al-Sinnari",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D8%B3%D9%86%D8%A7%D8%B1%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q16126483",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "operator,status,description (Bibliotheca Alexandrina centre page; events listed to May 2026)",
+   "url": "https://www.bibalex.org/ar/center/details/sinnarihouse/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (cultural programme at the house; news 9 Sep 2025)",
+   "url": "https://www.youm7.com/story/2025/9/9/%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%B3%D9%86%D8%A7%D8%B1%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%BA%D8%AF%D8%A7/7114921",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Bayt_al-Sinnari",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D8%B3%D9%86%D8%A7%D8%B1%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Operator: Bibliotheca Alexandrina (seed 'other' kept). Seed note 'museum status to verify' answered: it works as a BA cultural centre, not a museum with set visiting hours; status open because BA lists events at the house to May 2026. No public visiting hours or entry fee published: hours omitted, prices.status = unconfirmed. Napoleon museum dates conflict (EN wiki 1917-1933; AR wiki/BA 1917-1926, emptied 1933); prose says 'between the World Wars'. AR wiki says the Institut d'Egypte moved here in 2012 after its fire; not confirmed by BA page, so not stated."
+}

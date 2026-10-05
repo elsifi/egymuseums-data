@@ -1,0 +1,279 @@
+{
+ "id": "mostafa-kamel-museum",
+ "kind": "museum",
+ "wikidataId": "Q59049963",
+ "name": {
+  "en": "Mostafa Kamel Museum",
+  "ar": "متحف مصطفى كامل"
+ },
+ "aliases": [
+  "Mathaf Mustafa Kamil",
+  "Museum of Mustafa Kamil"
+ ],
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Salah al-Din Square, Citadel, al-Khalifa",
+  "ar": "ميدان صلاح الدين، القلعة، حي الخليفة"
+ },
+ "address": {
+  "en": "Salah al-Din Street, next to Salah al-Din Garden, Citadel, al-Khalifa, Cairo",
+  "ar": "شارع صلاح الدين، بجوار حديقة صلاح الدين، القلعة، حي الخليفة، القاهرة"
+ },
+ "lat": 30.02957,
+ "lng": 31.25735,
+ "status": "open",
+ "statusNote": {
+  "en": "Open five days a week; closed on Mondays and Fridays. Entry is free.",
+  "ar": "مفتوح خمسة أيام في الأسبوع، ويُغلق يومي الاثنين والجمعة. والدخول مجاني."
+ },
+ "summary": {
+  "en": "The domed mausoleum of the nationalist leader Mustafa Kamel, below the Citadel, with his papers and belongings.",
+  "ar": "الضريح ذو القبة للزعيم الوطني مصطفى كامل أسفل القلعة، ويضم أوراقه ومقتنياته الشخصية."
+ },
+ "description": {
+  "en": "Mustafa Kamel (1874–1908) was the young lawyer and journalist who founded the National Party and the newspaper al-Liwa and campaigned abroad against the British occupation, most famously after the Denshawai incident of 1906. He died at 34 and was first buried in the Imam al-Shafi'i cemetery. In the 1940s parliament funded a worthier tomb, and the domed mausoleum on Salah al-Din Square was completed in 1949; his remains were moved here in a military procession in 1953. Two years later the tomb was turned into a museum, which opened in April 1956. Under the great dome lie Mustafa Kamel, his successor Muhammad Farid, the historian Abd al-Rahman al-Rafei and Fathi Radwan, Egypt's first post-1952 culture minister. Side halls display Kamel's letters, books and photographs, his clothes and tableware, the furniture of his office and paintings recalling Denshawai. The museum was restored and reopened in 2001 and again in 2016, after objects stolen in 2011 were recovered.",
+  "ar": "كان مصطفى كامل (1874–1908) محاميًا وصحفيًا شابًا أسس الحزب الوطني وجريدة «اللواء»، وقاد حملة في الخارج ضد الاحتلال البريطاني، ولا سيما بعد حادثة دنشواي عام 1906. تُوفي في الرابعة والثلاثين ودُفن أولًا في مقابر الإمام الشافعي، ثم خصص البرلمان في أربعينيات القرن الماضي اعتمادًا لبناء ضريح يليق به، فاكتمل الضريح ذو القبة في ميدان صلاح الدين عام 1949، ونُقل إليه رفاته في موكب عسكري عام 1953. وبعد عامين تقرر تحويل الضريح إلى متحف افتُتح في أبريل 1956. وتحت القبة الكبيرة يرقد مصطفى كامل ورفيقه وخليفته محمد فريد والمؤرخ عبد الرحمن الرافعي وفتحي رضوان أول وزير للثقافة بعد عام 1952. وتعرض القاعات الجانبية رسائل مصطفى كامل وكتبه وصوره وملابسه وأدوات مائدته وأثاث مكتبه، إلى جانب لوحات تستعيد حادثة دنشواي. وقد رُمم المتحف وأعيد افتتاحه عام 2001 ثم عام 2016، بعد استعادة مقتنيات سُرقت منه عام 2011."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Mausoleum hall",
+    "ar": "قاعة الضريح"
+   },
+   "desc": {
+    "en": "The tombs of four nationalist figures beneath a large gilded dome hung with a pierced brass chandelier.",
+    "ar": "مدافن أربعة من رموز الحركة الوطنية أسفل قبة كبيرة مذهبة تتدلى منها ثريا نحاسية مفرغة."
+   }
+  },
+  {
+   "title": {
+    "en": "Letters and manuscripts",
+    "ar": "الرسائل والمخطوطات"
+   },
+   "desc": {
+    "en": "Mustafa Kamel's handwritten letters, books and photographs of his friends and family.",
+    "ar": "رسائل مصطفى كامل بخط يده وكتبه وصور لأصدقائه وأقاربه."
+   }
+  },
+  {
+   "title": {
+    "en": "Personal belongings",
+    "ar": "المقتنيات الشخصية"
+   },
+   "desc": {
+    "en": "His clothes, tableware and the furniture of his office.",
+    "ar": "ملابسه وأدوات مائدته وأثاث مكتبه."
+   }
+  },
+  {
+   "title": {
+    "en": "Denshawai paintings",
+    "ar": "لوحات دنشواي"
+   },
+   "desc": {
+    "en": "Oil paintings recalling the 1906 Denshawai incident that made his campaign famous abroad.",
+    "ar": "لوحات زيتية تستعيد حادثة دنشواي عام 1906 التي جعلت حملته معروفة في الخارج."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "closed": true
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "free",
+  "currency": "EGP"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Late morning, combined with the Sultan Hassan and al-Rifai mosques across the square.",
+   "ar": "أواخر الصباح، مع الجمع بين الزيارة ومسجدي السلطان حسن والرفاعي على الجانب الآخر من الميدان."
+  },
+  "crowdNotes": {
+   "en": "Usually quiet; school groups visit on some mornings. The museum is a burial place, so dress and behave respectfully.",
+   "ar": "هادئ عادةً، وتزوره مجموعات مدرسية في بعض الأيام صباحًا. والمتحف مدفن، فيُرجى الالتزام بالاحتشام والهدوء."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mostafa_Kamel_Museum%2C_photo_by_Hatem_Moushir_02.jpg",
+   "author": "Hatem Moushir",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mostafa_Kamel_Museum,_photo_by_Hatem_Moushir_02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Facade_of_Mustafa_Kamel_Museum%2C_Cairo_01.jpg",
+   "author": "Hassan Hamdy wahidy",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Facade_of_Mustafa_Kamel_Museum,_Cairo_01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Mostafa_Kamel_Museum.jpg",
+   "author": "LittleT889",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mostafa_Kamel_Museum.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 2 25109943",
+  "website": null,
+  "social": [
+   "https://www.facebook.com/61553904223662/"
+  ]
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mostafa_Kamel_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D8%B5%D8%B7%D9%81%D9%89_%D9%83%D8%A7%D9%85%D9%84",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q59049963",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,hours (Fine Arts Sector summer 2026 schedule for national museums: 10:00-16:00, closed Mon and Fri; museum listed as open), 5 Jun 2026",
+   "url": "https://www.youm7.com/story/2026/6/5/x/7438469",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices (free entry),address,contacts.phone (official Fine Arts Sector visitor page)",
+   "url": "https://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=6",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (official Fine Arts Sector museum page)",
+   "url": "https://www.fineart.gov.eg/Arb/Musem/Musem.asp?IDS=6",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "contacts.social (official museum Facebook page; event 6 Jun 2026)",
+   "url": "https://www.facebook.com/61553904223662/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Mostafa_Kamel_Museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (building and burial history; facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D8%B5%D8%B7%D9%81%D9%89_%D9%83%D8%A7%D9%85%D9%84",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Ramadan: Fine Arts Sector statement (youm7 21 Feb 2026) gives 10:00-14:00 for the sector's museums; assumed to apply here with the same closed days. Hours agree between the sector's dated summer-2026 statement and the undated official visitor page (10:00-16:00, closed Mon and Fri). No lastEntry published. prices.status 'free' rests on the official fineart.gov.eg visitor page ('الدخول مجاناً'), also stated by en-wiki. PHOTOS: the mausoleum was completed in 1949 (before the post-1950s no-FoP cut-off); kept (batch-10 Q6a). The Denshawai mural photo on Commons was not used (painting date and author unknown)."
+}

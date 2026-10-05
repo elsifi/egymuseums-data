@@ -1,0 +1,305 @@
+{
+ "id": "abu-al-dahab-mosque",
+ "kind": "site",
+ "wikidataId": "Q138137013",
+ "name": {
+  "en": "Mosque of Muhammad Bey Abu al-Dahab",
+  "ar": "مسجد محمد بك أبو الدهب"
+ },
+ "aliases": [
+  "Abu Dahab Mosque"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "al-Azhar, opposite al-Azhar Mosque",
+  "ar": "الأزهر، أمام الجامع الأزهر"
+ },
+ "address": {
+  "en": "Gawhar al-Qa'id Street, al-Azhar, Cairo",
+  "ar": "شارع جوهر القائد، الأزهر، القاهرة"
+ },
+ "lat": 30.046035,
+ "lng": 31.261898,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Ticketed at the entrance; the complex's takiyya now houses the Naguib Mahfouz Museum.",
+  "ar": "مفتوح يوميًا، وتُشترى التذكرة عند المدخل، وتضم تكية المجموعة اليوم متحف نجيب محفوظ."
+ },
+ "summary": {
+  "en": "An Ottoman-era mosque complex of 1774 facing al-Azhar, raised above shops and crowned by a unique five-finial minaret.",
+  "ar": "مجموعة معمارية عثمانية من عام 1774 أمام الجامع الأزهر، يرتفع مسجدها فوق صف من الحوانيت وتعلوه مئذنة فريدة بخمس قمم."
+ },
+ "description": {
+  "en": "Muhammad Bey Abu al-Dahab, a Mamluk of Ali Bey al-Kabir, built this complex between 1773 and 1774 across the street from al-Azhar Mosque. It is one of the largest Ottoman-period foundations in Cairo and combined a mosque, the founder's tomb, a sabil for passers-by, a trough for animals and a takiyya to house Sufis and dervishes. The mosque is a 'hanging' mosque: it stands on a raised platform above a row of shops. Its plan follows the imperial mosques of Istanbul, with a large central dome over a square prayer hall, but its minaret is unlike any other in Cairo, ending in five bulb-shaped finials. Inside are coloured marble floors and mihrab, gilded wooden bands with Qur'anic verses, and a minbar inlaid with ivory and ebony; the tomb dome is painted with floral and geometric designs, and the sabil has Turkish-style tiles and bronze window grilles. The restored takiyya is now the Naguib Mahfouz Museum.",
+  "ar": "شيّد محمد بك أبو الدهب، أحد مماليك علي بك الكبير، هذه المجموعة بين عامي 1773 و1774 في مواجهة الجامع الأزهر. وهي من أكبر المنشآت الباقية من العصر العثماني في القاهرة، وتضم مسجدًا ومدفنًا للمنشئ وسبيلًا لسقاية المارة وحوضًا لسقي الدواب وتكية لإعاشة المتصوفة والدراويش. والمسجد من المساجد المعلقة، إذ يقوم على مصطبة مرتفعة فوق صف من الحوانيت. ويحاكي تخطيطه مساجد إسطنبول السلطانية بقبة مركزية كبيرة فوق بيت صلاة مربع، أما مئذنته فلا مثيل لها في القاهرة، إذ تنتهي بخمسة رؤوس على هيئة القلة. وفي الداخل أرضيات ومحراب من الرخام الملون، وأشرطة خشبية مذهبة بآيات قرآنية، ومنبر مطعم بالعاج والأبنوس، كما زُين باطن قبة الضريح بزخارف نباتية وهندسية ملونة، ويضم السبيل بلاطات خزفية على الطراز التركي وشبابيك بتغشيات نحاسية. أما التكية المرممة فصارت اليوم متحف نجيب محفوظ."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Five-finial minaret",
+    "ar": "المئذنة ذات الرؤوس الخمسة"
+   },
+   "desc": {
+    "en": "A minaret topped by five bulb-shaped finials, unique in Cairo.",
+    "ar": "مئذنة تنتهي بخمسة رؤوس على هيئة القلة، فريدة في القاهرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Ottoman-style prayer hall",
+    "ar": "بيت الصلاة العثماني"
+   },
+   "desc": {
+    "en": "A square hall under a single large dome, modelled on Istanbul's mosques.",
+    "ar": "بيت صلاة مربع تعلوه قبة واحدة كبيرة على غرار مساجد إسطنبول."
+   }
+  },
+  {
+   "title": {
+    "en": "Inlaid minbar",
+    "ar": "المنبر المطعم"
+   },
+   "desc": {
+    "en": "A wooden pulpit inlaid with ivory and ebony.",
+    "ar": "منبر خشبي مطعم بالعاج والأبنوس."
+   }
+  },
+  {
+   "title": {
+    "en": "Founder's tomb",
+    "ar": "ضريح المنشئ"
+   },
+   "desc": {
+    "en": "A domed burial chamber painted with floral and geometric designs.",
+    "ar": "مدفن تعلوه قبة زُين باطنها بزخارف نباتية وهندسية ملونة."
+   }
+  },
+  {
+   "title": {
+    "en": "Sabil",
+    "ar": "السبيل"
+   },
+   "desc": {
+    "en": "A public water fountain with Turkish-style tiles and bronze-covered window grilles.",
+    "ar": "سبيل لسقاية المارة ببلاطات خزفية تركية الطراز وشبابيك بتغشيات نحاسية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Mid-morning; combine with al-Azhar Mosque and the Naguib Mahfouz Museum in the same complex.",
+   "ar": "منتصف الصباح، مع الجمع بين الزيارة والجامع الأزهر ومتحف نجيب محفوظ في المجموعة نفسها."
+  },
+  "crowdNotes": {
+   "en": "A working mosque: dress modestly, remove shoes in the prayer hall and avoid prayer times, especially Friday noon.",
+   "ar": "مسجد تُقام فيه الصلاة: يُرجى ارتداء ملابس محتشمة وخلع الأحذية في بيت الصلاة وتجنب أوقات الصلاة، خاصة صلاة الجمعة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mosque_of_abu_dhahab_DSCF7769.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosque_of_abu_dhahab_DSCF7769.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Mosque_of_abu_dhahab_DSCF4031.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosque_of_abu_dhahab_DSCF4031.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mosque_of_abu_dhahab_DSCF5480.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosque_of_abu_dhahab_DSCF5480.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q138137013",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan 09:00-16:00),address,description (MoTA open-sites guide; last entry one hour before closing)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%83-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%AF%D9%87%D8%A8/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: 10/5 Egyptian, 100/50 foreign, 09:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (listed among Cairo heritage sites open at student rates), 25 Mar 2026",
+   "url": "https://www.cairo360.com/ar/article/%D9%85%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9/cairo-museums-5-egp-students-budget-guide/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Price source is the Nov 2024 MoTA list only (no portal page, not on the egymonuments.com booking platform) - same treatment as Hibis/Al-Qasr (batch-7 Q4a: confirmed with PDF source). Free groups not stated for this site, so omitted. Ramadan close 16:00 (MoTA guide), last entry 15:00 by the guide's one-hour rule. Whether the SCA ticket also covers the Naguib Mahfouz Museum in the takiyya is not stated. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

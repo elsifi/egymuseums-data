@@ -1,0 +1,121 @@
+{
+ "id": "arabic-calligraphy-museum",
+ "kind": "museum",
+ "wikidataId": "Q63967838",
+ "name": {
+  "en": "Arabic Calligraphy Museum",
+  "ar": "متحف الخط العربي"
+ },
+ "aliases": [
+  "Museum of Arabic Calligraphy",
+  "متحف الخط العربي بالإسكندرية"
+ ],
+ "category": "islamic",
+ "operator": "ministry-of-culture",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Moharram Bey, Fine Arts complex",
+  "ar": "محرم بك، مجمع الفنون الجميلة"
+ },
+ "address": {
+  "en": "Fine Arts Museum complex, opposite 6 Menasha Street, Moharram Bey, Alexandria",
+  "ar": "مجمع متحف الفنون الجميلة، مقابل 6 شارع منشا، محرم بك، الإسكندرية"
+ },
+ "lat": 31.195118,
+ "lng": 29.913089,
+ "status": "renovation",
+ "statusNote": {
+  "en": "Closed for renovation and a new display; no reopening date has been announced.",
+  "ar": "مغلق للتجديد وإعادة العرض المتحفي، ولم يُعلن موعد لإعادة افتتاحه."
+ },
+ "summary": {
+  "en": "Egypt's first museum devoted to Arabic calligraphy, inside the Fine Arts complex in Moharram Bey.",
+  "ar": "أول متحف في مصر مخصص للخط العربي، داخل مجمع الفنون الجميلة بمحرم بك."
+ },
+ "description": {
+  "en": "Opened in August 2015 as part of the Fine Arts complex in Moharram Bey, this was the first museum in Egypt dedicated to the history of Arabic calligraphy. Its panels trace the Egyptian school over roughly two centuries, beginning with the masters who worked under the dynasty of Muhammad Ali, when the court gave calligraphy special patronage. Works by Ottoman-trained calligraphers such as Abdallah Zuhdi hang alongside pieces by later Egyptian names, among them Muhammad Mahfouz, credited with devising the ornamental Taj script, and twentieth-century teachers whose students filled Cairo's schools of calligraphy. The display shows how the main scripts, from thuluth and naskh to diwani and ruq'a, were adapted for books, buildings and official documents. The museum is closed while the Ministry of Culture renews its galleries.",
+  "ar": "افتُتح هذا المتحف في أغسطس 2015 ضمن مجمع الفنون الجميلة بمحرم بك، وكان أول متحف في مصر يُخصص لتاريخ الخط العربي. وتتتبع لوحاته المدرسة المصرية على مدى قرنين تقريبًا، بدءًا من الخطاطين الذين عملوا في عهد أسرة محمد علي حين أولى البلاط فن الخط رعاية خاصة. وتُعرض أعمال خطاطين تتلمذوا على المدرسة العثمانية مثل عبد الله زهدي إلى جانب أعمال أسماء مصرية لاحقة، منها محمد محفوظ الذي يُنسب إليه ابتكار خط التاج، وأساتذة من القرن العشرين ملأ تلاميذهم مدارس تحسين الخطوط. ويبين العرض كيف طُوّعت الخطوط الرئيسية، من الثلث والنسخ إلى الديواني والرقعة، للكتب والعمائر والوثائق الرسمية. والمتحف مغلق حاليًا ريثما تُجدد وزارة الثقافة قاعاته."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Muhammad Ali era masters",
+    "ar": "رواد عصر أسرة محمد علي"
+   },
+   "desc": {
+    "en": "Panels by calligraphers patronised by the khedivial court.",
+    "ar": "لوحات لخطاطين حظوا برعاية البلاط الخديوي."
+   }
+  },
+  {
+   "title": {
+    "en": "Abdallah Zuhdi",
+    "ar": "عبد الله زهدي"
+   },
+   "desc": {
+    "en": "Works by the Ottoman master who shaped calligraphy in Egypt.",
+    "ar": "أعمال للخطاط العثماني الذي أثر في فن الخط بمصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Taj script",
+    "ar": "خط التاج"
+   },
+   "desc": {
+    "en": "Examples of the ornamental script credited to Muhammad Mahfouz.",
+    "ar": "نماذج من الخط الزخرفي المنسوب إلى محمد محفوظ."
+   }
+  },
+  {
+   "title": {
+    "en": "Egyptian school",
+    "ar": "المدرسة المصرية"
+   },
+   "desc": {
+    "en": "Twentieth-century calligraphers who taught generations of students.",
+    "ar": "خطاطون من القرن العشرين علّموا أجيالًا من الطلاب."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [],
+ "contacts": {
+  "phone": "+20 3 393 6616",
+  "website": "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=11",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q63967838",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (Fine Arts Sector inspection, 26 Jun 2026)",
+   "url": "https://www.youm7.com/story/2026/6/26/x/7461667",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,operator (official Fine Arts Sector page: complex, opened 22 Aug 2015, calligraphers)",
+   "url": "https://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=11",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Part of the Fine Arts complex (Ministry of Culture, Fine Arts Sector); opened 22 Aug 2015 (official sector page). Status from youm7, 26 Jun 2026: the sector head inspected 'renovation and development works in the Arabic Calligraphy Museum inside the Hussein Sobhi museum'. No reopening date found. The seed operator 'other' was changed to ministry-of-culture on that basis. Photos: the only Commons photo shows the modern facade under works (no freedom of panorama), so photos are empty; allowed for minor places (decision of 2026-10-05). City added (Alexandria)."
+}

@@ -1,0 +1,121 @@
+{
+ "id": "aswan-nile-museum",
+ "kind": "museum",
+ "wikidataId": "Q97750772",
+ "name": {
+  "en": "Aswan Nile Museum",
+  "ar": "متحف النيل الوثائقي"
+ },
+ "aliases": [
+  "متحف النيل",
+  "Documentary Museum of the High Dam and Aswan Reservoir"
+ ],
+ "category": "specialised",
+ "operator": "other",
+ "governorate": "aswan",
+ "city": {
+  "en": "Aswan",
+  "ar": "أسوان"
+ },
+ "area": {
+  "en": "Aswan Reservoir (old dam) area",
+  "ar": "منطقة خزان أسوان"
+ },
+ "address": {
+  "en": "Beside the Aswan Reservoir (old dam), south of Aswan city",
+  "ar": "بجوار خزان أسوان، جنوب مدينة أسوان"
+ },
+ "lat": 24.041212,
+ "lng": 32.8837,
+ "status": "unknown",
+ "statusNote": {
+  "en": "Opening days and times could not be confirmed; check locally before visiting.",
+  "ar": "تعذر التأكد من أيام ومواعيد الزيارة، لذا يُنصح بالتحقق محليًا قبل الزيارة."
+ },
+ "summary": {
+  "en": "A documentary museum of the Nile and its great water projects, overlooking the old Aswan Dam.",
+  "ar": "متحف وثائقي عن نهر النيل ومشروعاته المائية الكبرى، يطل على خزان أسوان."
+ },
+ "description": {
+  "en": "Built by the Ministry of Water Resources and Irrigation and opened in January 2016 in the presence of delegates from the Nile Basin countries, this museum tells the story of the river from its sources in East and Central Africa to the Mediterranean. It stands in landscaped grounds of about 146,000 square metres overlooking the Aswan Reservoir, the old dam begun in 1898. Three floors of galleries combine photographs, models, maps and documents with about 250 antiquities and objects related to the Nile, and a set of paintings by Egyptian artists inspired by the river. Large sections cover the building of the High Dam and those who died during its construction, Egypt's barrages and canals from the time of Muhammad Ali onwards, flood protection, and the treaties that govern the river's waters. The site also includes a conference hall, a library and an open-air theatre.",
+  "ar": "أنشأت وزارة الموارد المائية والري هذا المتحف، وافتُتح في يناير 2016 بحضور ممثلين عن دول حوض النيل، ليروي قصة النهر من منابعه في شرق أفريقيا ووسطها حتى البحر المتوسط. ويقع وسط مساحات منسقة تبلغ نحو 146 ألف متر مربع تطل على خزان أسوان الذي بدأ بناؤه عام 1898. وتجمع قاعاته الموزعة على ثلاثة طوابق بين الصور والمجسمات والخرائط والوثائق ونحو 250 قطعة أثرية ومقتنيات ترتبط بالنيل، إلى جانب مجموعة من اللوحات لفنانين مصريين استلهموا النهر. وتخصص أقسام كبيرة لبناء السد العالي وتخليد من استشهدوا خلال إنشائه، وللقناطر والترع المصرية منذ عهد محمد علي، وحماية البلاد من السيول، والاتفاقيات المنظمة لمياه النهر. ويضم الموقع أيضًا قاعة مؤتمرات ومكتبة ومسرحًا مكشوفًا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Journey of the Nile",
+    "ar": "رحلة النيل"
+   },
+   "desc": {
+    "en": "Displays following the river from its sources to the sea.",
+    "ar": "عرض يتتبع النهر من منابعه حتى البحر."
+   }
+  },
+  {
+   "title": {
+    "en": "High Dam gallery",
+    "ar": "قاعة السد العالي"
+   },
+   "desc": {
+    "en": "The story of the dam and a memorial to those who died building it.",
+    "ar": "قصة السد وتخليد لمن استشهدوا أثناء بنائه."
+   }
+  },
+  {
+   "title": {
+    "en": "Water projects",
+    "ar": "المشروعات المائية"
+   },
+   "desc": {
+    "en": "Barrages, canals and irrigation works from Muhammad Ali to today.",
+    "ar": "القناطر والترع ومشروعات الري من عهد محمد علي حتى اليوم."
+   }
+  },
+  {
+   "title": {
+    "en": "Nile paintings",
+    "ar": "لوحات النيل"
+   },
+   "desc": {
+    "en": "Works by Egyptian artists inspired by the river.",
+    "ar": "أعمال لفنانين مصريين استلهموا النهر."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%86%D9%8A%D9%84_%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q97750772",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%86%D9%8A%D9%84_%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,hours (2019 report, not used for hours)",
+   "url": "https://www.youm7.com/story/2019/12/4/%D8%AC%D9%88%D9%84%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%86%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%B7%D9%84-%D8%B9%D9%84%D9%89-%D8%AE%D8%B2%D8%A7%D9%86-%D8%A3%D8%B3%D9%88%D8%A7%D9%86-%D9%8A%D8%B6%D9%85-%D8%A3%D8%A8%D8%B1%D8%B2/4530361",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Run by the Ministry of Water Resources and Irrigation (operator other). No 2024-2026 source on opening, hours or prices was found (one web search; newest items 2019-2022); a 2019 report gave 09:00-21:00 daily and other pages give 07:00-17:00 (summer) / 07:00-16:00 (winter) for the grounds, so hours are omitted. Status unknown. Photos: none on Commons (modern 2016 building in any case), so photos are empty; allowed for minor places (decision of 2026-10-05)."
+}

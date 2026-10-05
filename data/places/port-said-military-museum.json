@@ -1,0 +1,219 @@
+{
+ "id": "port-said-military-museum",
+ "kind": "museum",
+ "wikidataId": "Q12238627",
+ "name": {
+  "en": "Port Said Military Museum",
+  "ar": "متحف بورسعيد الحربي"
+ },
+ "category": "military",
+ "operator": "defense",
+ "governorate": "port-said",
+ "city": {
+  "en": "Port Said",
+  "ar": "بورسعيد"
+ },
+ "area": {
+  "en": "Al-Arab district, 23 July Street",
+  "ar": "حي العرب، شارع 23 يوليو"
+ },
+ "address": {
+  "en": "23 July Street, opposite the military hospital, Al-Arab district, Port Said",
+  "ar": "شارع 23 يوليو، أمام المستشفى العسكري، حي العرب، بورسعيد"
+ },
+ "lat": 31.269903,
+ "lng": 32.299837,
+ "status": "open",
+ "statusNote": {
+  "en": "Open in a morning and an evening session. Run by the Egyptian Armed Forces rather than the antiquities authority.",
+  "ar": "مفتوح على فترتين صباحية ومسائية، وتديره القوات المسلحة المصرية لا هيئة الآثار."
+ },
+ "summary": {
+  "en": "The Armed Forces museum of Port Said's resistance in 1956 and of the canal-zone battles of 1967–1973, with captured weapons in its garden.",
+  "ar": "متحف القوات المسلحة لمقاومة بورسعيد عام 1956 ومعارك منطقة القناة بين 1967 و1973، وتُعرض في حديقته أسلحة مستولى عليها."
+ },
+ "description": {
+  "en": "Opened on 23 December 1964, the city's national day, this museum commemorates the resistance of Port Said during the Tripartite Aggression of 1956. It covers about 7,000 square metres on 23 July Street. A hall on the October War was added in 1978 and the displays were renewed in 2009. Four halls lead visitors through the story. The main hall sketches the history of Port Said from antiquity to the 1952 revolution around a statue symbolising the unity of the people. The Suez Canal hall follows the canal from its planning to nationalisation and shows dioramas of the battles of El-Gamil and of the naval engagement off Burullus. Further halls are devoted to the popular resistance of 1956 and to the Port Said sector in the War of Attrition and the 1973 war. Outside, the garden displays guns, armour and aircraft captured in 1956 and 1973, along with cannons from the era of Muhammad Ali.",
+  "ar": "افتُتح هذا المتحف في 23 ديسمبر 1964، يوم العيد القومي للمدينة، تخليدًا لصمود بورسعيد في مواجهة العدوان الثلاثي عام 1956. ويقع على مساحة نحو 7000 متر مربع في شارع 23 يوليو. وأُضيفت إليه قاعة لحرب أكتوبر عام 1978، ثم جُدد العرض عام 2009. وتقود أربع قاعات الزائر عبر القصة؛ فالبهو الرئيسي يعرض لمحة عن تاريخ بورسعيد منذ العصور القديمة حتى ثورة 1952 حول تمثال يرمز إلى تلاحم قوى الشعب. وتتتبع قاعة قناة السويس مسيرة القناة من التخطيط حتى التأميم، وتضم مجسمات لمعركة الجميل والمعركة البحرية أمام البرلس. وتُخصص قاعات أخرى للمقاومة الشعبية عام 1956 ولقطاع بورسعيد في حرب الاستنزاف وحرب 1973. وفي الحديقة تُعرض مدافع ومدرعات وطائرات استولت عليها القوات المصرية في حربي 1956 و1973، إلى جانب مدافع من عصر محمد علي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Main hall",
+    "ar": "البهو الرئيسي"
+   },
+   "desc": {
+    "en": "Port Said's history from antiquity to 1952, around a statue of the people's unity.",
+    "ar": "تاريخ بورسعيد من العصور القديمة حتى 1952 حول تمثال تلاحم قوى الشعب."
+   }
+  },
+  {
+   "title": {
+    "en": "Suez Canal hall",
+    "ar": "قاعة قناة السويس"
+   },
+   "desc": {
+    "en": "The canal from planning to nationalisation, with battle dioramas.",
+    "ar": "القناة من التخطيط حتى التأميم، مع مجسمات للمعارك."
+   }
+  },
+  {
+   "title": {
+    "en": "1956 hall",
+    "ar": "قاعة العدوان الثلاثي"
+   },
+   "desc": {
+    "en": "Portraits, weapons and personal items from the popular resistance of 1956.",
+    "ar": "صور وأسلحة ومقتنيات شخصية من المقاومة الشعبية عام 1956."
+   }
+  },
+  {
+   "title": {
+    "en": "October 1973 hall",
+    "ar": "قاعة أكتوبر 1973"
+   },
+   "desc": {
+    "en": "The Port Said sector in the War of Attrition and the October War.",
+    "ar": "قطاع بورسعيد في حرب الاستنزاف وحرب أكتوبر."
+   }
+  },
+  {
+   "title": {
+    "en": "Open-air display",
+    "ar": "ساحة العرض المكشوف"
+   },
+   "desc": {
+    "en": "Captured guns, armour and aircraft, and Muhammad Ali-era cannons.",
+    "ar": "مدافع ومدرعات وطائرات مستولى عليها، ومدافع من عصر محمد علي."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "sat",
+    "open": "18:00",
+    "close": "21:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "18:00",
+    "close": "21:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "18:00",
+    "close": "21:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "18:00",
+    "close": "21:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "18:00",
+    "close": "21:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "18:00",
+    "close": "21:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "18:00",
+    "close": "21:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "The evening session in summer, when the garden display is cooler.",
+   "ar": "الفترة المسائية في الصيف، حين تكون ساحة العرض المكشوف ألطف حرارة."
+  }
+ },
+ "contacts": {
+  "phone": "+20 66 322 4657",
+  "website": "https://www.mod.gov.eg/modwebsite/MuseumDetailsAr.aspx?id=4",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A8%D9%88%D8%B1%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12238627",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,hours (morning 09:00-15:00, evening 18:00-21:00),address,contacts (official Armed Forces museum page)",
+   "url": "https://www.mod.gov.eg/modwebsite/MuseumDetailsAr.aspx?id=4",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A8%D9%88%D8%B1%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Operator is the Ministry of Defence, not the SCA. Hours from the live, undated MoD page (no days off or last entry published; treated as daily). Not in the Armed Forces free-entry list for 3-6 Oct 2026 (egypttelegraph 283696). An Ahram Gate article (News/5002957, 'free entry for the October victories', blocked to fetch) suggests a recent October opening. Price: a 2026 blog quotes EGP 10 per person, but no official amount was found, so prices.status = unconfirmed. No photos: nothing on Commons for this museum; the museum building is modern."
+}

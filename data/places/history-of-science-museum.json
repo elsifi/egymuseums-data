@@ -1,0 +1,112 @@
+{
+ "id": "history-of-science-museum",
+ "kind": "museum",
+ "wikidataId": "Q113290464",
+ "name": {
+  "en": "History of Science Museum",
+  "ar": "متحف تاريخ العلوم"
+ },
+ "category": "science-natural",
+ "operator": "other",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Al-Shatby, Bibliotheca Alexandrina",
+  "ar": "الشاطبي، مكتبة الإسكندرية"
+ },
+ "address": {
+  "en": "Planetarium Science Center, Bibliotheca Alexandrina, Al-Shatby, Alexandria",
+  "ar": "مركز القبة السماوية العلمي، مكتبة الإسكندرية، الشاطبي، الإسكندرية"
+ },
+ "lat": 31.208889,
+ "lng": 29.909167,
+ "status": "renovation",
+ "statusNote": {
+  "en": "Closed for maintenance; no reopening date has been announced.",
+  "ar": "مغلق للصيانة، ولم يُعلن موعد لإعادة افتتاحه."
+ },
+ "summary": {
+  "en": "A small museum of science in ancient Egypt, Hellenistic Alexandria and the Arab-Muslim world, at the Bibliotheca Alexandrina.",
+  "ar": "متحف صغير لتاريخ العلوم في مصر القديمة والإسكندرية الهلنستية والعالم العربي الإسلامي، بمكتبة الإسكندرية."
+ },
+ "description": {
+  "en": "Housed in the lower level of the Planetarium Science Center at the Bibliotheca Alexandrina, this permanent exhibition tells the story of science in Egypt across three great periods. The first covers ancient Egyptian knowledge of astronomy, mathematics, medicine and engineering. The second turns to Hellenistic Alexandria, when scholars at the ancient Museum and Library measured the Earth, studied geometry and mechanics and catalogued the stars. The third follows the scholars of the Arab-Muslim world who translated, preserved and extended that learning. Rather than a traditional gallery, it was designed as a learning space, with guided tours and activities aimed mainly at school groups. The museum is currently closed for maintenance; the rest of the Planetarium Science Center remains open.",
+  "ar": "يقع هذا المعرض الدائم في المستوى السفلي لمركز القبة السماوية العلمي بمكتبة الإسكندرية، ويروي قصة العلوم في مصر عبر ثلاث حقب كبرى. تتناول الأولى معارف المصريين القدماء في الفلك والرياضيات والطب والهندسة، وتنتقل الثانية إلى الإسكندرية الهلنستية حين قاس علماء الموسيون والمكتبة القديمة محيط الأرض ودرسوا الهندسة والميكانيكا ورصدوا النجوم، بينما تتابع الثالثة علماء العالم العربي الإسلامي الذين ترجموا ذلك التراث وحفظوه وأضافوا إليه. ولم يُصمم المتحف قاعة عرض تقليدية، بل مساحة تعليمية تقدم جولات إرشادية وأنشطة موجهة أساسًا إلى طلاب المدارس. والمتحف مغلق حاليًا للصيانة، في حين تظل بقية أقسام مركز القبة السماوية مفتوحة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Ancient Egyptian science",
+    "ar": "العلوم في مصر القديمة"
+   },
+   "desc": {
+    "en": "Astronomy, mathematics and medicine in the age of the pharaohs.",
+    "ar": "الفلك والرياضيات والطب في عصر الفراعنة."
+   }
+  },
+  {
+   "title": {
+    "en": "Hellenistic Alexandria",
+    "ar": "الإسكندرية الهلنستية"
+   },
+   "desc": {
+    "en": "The scholars of the ancient Library and their discoveries.",
+    "ar": "علماء المكتبة القديمة واكتشافاتهم."
+   }
+  },
+  {
+   "title": {
+    "en": "Arab-Muslim scholars",
+    "ar": "علماء العالم العربي الإسلامي"
+   },
+   "desc": {
+    "en": "Translators and scientists who carried learning forward.",
+    "ar": "المترجمون والعلماء الذين حملوا المعرفة إلى الأمام."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q113290464",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "coordinates (Bibliotheca Alexandrina building, Q501851; museum item has none)",
+   "url": "https://www.wikidata.org/wiki/Q501851",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,prices (official BA admission page)",
+   "url": "https://www.bibalex.org/en/Page/BA_Visiting",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,description (official BA museum page)",
+   "url": "https://www.bibalex.org/en/center/details/HistoryofScienceMuseum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "identity (official PSC page via Wikidata P856)",
+   "url": "https://www.bibalex.org/psc/en/PlanYourVisit/historyofsciencemuseum-M.aspx",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Bibliotheca Alexandrina (PSC) museum; operator other. Status: the BA admission page and the museum's BA page both label it 'closed for maintenance' (checked 2026-10-05); no reopening date. While closed, hours and prices are omitted (precedent: rashid-national-museum); the BA list still shows Egyptian 5/10, senior 10 and non-Egyptian 50 for all groups. Coordinates borrowed from the BA building (Q501851) because Q113290464 has none. Photos: none on Commons that avoid the modern BA/PSC building (no freedom of panorama), so photos are empty; allowed for minor places (decision of 2026-10-05)."
+}

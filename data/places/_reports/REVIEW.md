@@ -258,3 +258,146 @@ The validator now also checks:
 - **Mid-Nov 2026:** confirm the Nativity Fast rules at St Anthony and St Paul.
 - **End of Nov 2026:** remove the Sharm exhibition sentence.
 - **Early 2027:** the Mursi square works; Ramadan 2027 announcements, including the 20 records whose same-hours Ramadan exceptions were removed.
+
+## Batches 8–13: applied decisions (2026-10-05)
+
+166 new minor places (batch reports `batch-8.md` to `batch-13.md`) were reviewed together with the 108 earlier ones. 14 seed records were excluded from the catalogue (see below), so 152 of the new places remain. After the changes, `python3 tools/validate_all.py` reports 0 errors (260 place files + 274 seed records, 14 seed ids excluded), and `v1/` was rebuilt: 260 places, all enriched.
+
+**Rule used:** every multiple-choice question in the six reports takes its recommended answer, except where a rule above or one of Mo's decisions of 2026-10-05 wins (photo rule, exclusions).
+
+### New house rules
+
+- **Photos for minor places (decided).** A place with `tier: "minor"` may have an empty `photos` list when no compliant photo exists; its `curationNote` says why. Major and notable places still need at least one photo. The validator enforces this. 27 minor places currently have no photo.
+- **Exclusions (decided).** Duplicates and records that are not real visitable places are listed in `tools/seed/excluded.json` as `{id, reason}`. `tools/build_catalog.py` leaves them out of `v1/`. The seed record stays in `data/seed/places.json` for provenance, and the `data/places/<id>.json` file is deleted. Useful facts are folded into the parent record first, and the old names become aliases so search still finds them. When it is unclear whether a place exists, it is kept as `unknown`/`low` instead.
+- **Validator additions:**
+  - `freeGroups` needs a matching `freeGroupsLocalized`.
+  - `prices.includedIn` must name an existing, non-excluded place.
+  - `excluded.json` ids must be seed ids, carry a reason and have no place file.
+- `v1/meta.json` gains an additive `excluded` count.
+
+### Exclusions (14)
+
+| id | reason | folded into |
+|---|---|---|
+| heriyet-rezna-museum | duplicate (same Sharqia National Museum) | ahmed-orabi-museum: summary, duplicate Wikidata item Q130218217 in sources, aliases |
+| minya-museum | duplicate of the Aten Museum project | aten-museum: alias "Minya Museum" |
+| san-el-hagar-museum | duplicate: Tanis itself is the open-air museum | tanis: aliases |
+| heliopolis-open-air-museum | part of the obelisk site, same ticket | obelisk-of-senusret-i: "Open-air museum" highlight (about 135 objects, opened Feb 2018), statusNote, aliases, SIS source |
+| hunting-museum-manial | part of the palace museum, same ticket | manial-palace-museum: aliases and its one photo (the highlight already existed) |
+| mashrabia-art-gallery | commercial gallery | — |
+| espace-karim-francis | commercial gallery | — |
+| science-museum | no evidence that it exists | — |
+| damietta-science-museum | no evidence that it exists today | — |
+| al-turathiya-museum-ismailia | unverifiable | — |
+| suez-canal-historical-exhibition | superseded by the Suez Canal Museum | — |
+| confiscated-antiquities-museum | no longer exists (batch-9 Q4a) | — |
+| college-museum-university-of-assiut | not identifiable as a visitable museum (batch-8 Q7a) | — |
+| alexandria-underwater-museum | never built. Mo's exclusion rule wins over batch-8 Q6a. | — |
+
+**Canonical Sharqia record.** `ahmed-orabi-museum` is now named "Sharqia National Museum" / "متحف الشرقية القومي", with status `closed`. "Ahmed Orabi Museum" and "Heriyet Rezna Museum" are kept as aliases.
+
+### Decisions applied
+
+| Report | Question | Applied |
+|---|---|---|
+| all | photo questions (b8 Q1, b9 Q1, b10 Q1, b11 Q1, b12 Q1, b13 G1) | The minor-photo rule above. Stand-in and borderline photos are kept (b10 Q2a, b11 Q6a, b12 Q6a, b13 A7a). |
+| batch-8 | 2–5, 8–10 | Kept as recorded: <ul><li>Aswan annex `includedIn: elephantine-island`</li><li>Cavafy `free`</li><li>hydrobiological museum's winter hours in `weekly`</li><li>Abu Mena `unconfirmed`</li><li>Alwan House `unknown`/`low`</li><li>Rosetta fort confirmed</li><li>borrowed coordinates noted</li></ul> |
+| batch-8 | 6, 7 | Underwater museum and College Museum excluded. |
+| batch-9 | 2, 3, 6–9 | Kept as recorded: <ul><li>airport museums: Egyptian tier plus `usdAmount` 5</li><li>Farouk Corner 17:00 / 16:00</li><li>no monastery fast exceptions</li><li>Aisha Fahmy July 2026 hours</li><li>Beit el-Umma `renovation`</li><li>EGX, Air Force and Geographic Society `unknown`</li></ul> |
+| batch-9 | 4 | Karim Francis and Confiscated Antiquities excluded. The former Citadel carriage museum, the Textile Museum and the Naguib Pasha Mahfouz museum stay `closed`; their statusNotes point to Bulaq, to NMEC and to "not open to the public". |
+| batch-9 | 5 | Heliopolis open-air museum and Hunting Museum folded into their parents and excluded. |
+| batch-10 | 3 | Mashrabia and the Science Museum excluded. |
+| batch-10 | 5 | National Library museum: <ul><li>name "Museum of the National Library of Egypt"</li><li>coordinates 30.044722, 31.252778, the historic Bab al-Khalq Dar al-Kutub building it shares with the Museum of Islamic Art (ar-wiki; Wikidata Q3330629)</li></ul> Seed and Wikidata are unchanged. |
+| batch-10 | 12 | Prince Wahid Selim operator is `ministry-of-culture`. |
+| batch-10 | 2, 4, 6–11, 13, 14 | Kept as recorded. |
+| batch-11 | 5 | Damietta Science Museum, Al-Turathiya and the Suez Canal historical exhibition excluded. |
+| batch-11 | 7 | Wikidata ids and coordinates backported to `data/seed/places.json`: <ul><li>Wissa Wassef: Q126920240</li><li>Fayoum Art Center: Q134292187</li><li>Giza Zoo museum: coordinates</li></ul> The seed has been hand-edited before (commit 41ca824). |
+| batch-11 | 2–4, 6, 8, 9 | Kept as recorded (Bahariya keeps `effectiveFrom` 2026-10-01; Solar Boat Museum stays `closed` and points to GEM). |
+| batch-12 | 2 | minya-museum excluded. |
+| batch-12 | 4 | Re-scoped as "Marina el-Alamein Archaeological Site": <ul><li>`kind: site`, Q778942</li><li>"Site museum" highlight</li><li>the old museum name is an alias</li><li>id unchanged</li></ul> |
+| batch-12 | 5 | Re-scoped as "El-Ashmunein (Hermopolis Magna)": <ul><li>`kind: site`, Q732908</li><li>`renovation`/`low`</li><li>id unchanged</li></ul> |
+| batch-12 | 7 | esna-temple gains a "Nearby: Wikalat al-Gedawi … same ticket" highlight, and its curationNote no longer says "not claimed". |
+| batch-12 | 3, 6, 8 | Kept as recorded (Matrouh 180/90; Denshway photo; PDF-only places `open`/`medium`). |
+| batch-13 | G2, G3 | Sharqia merge and San el-Hagar exclusion (above). |
+| batch-13 | A9 | Hurghada `name.ar` is now "متحف الأحياء البحرية بالغردقة"; the seed form is an alias. |
+| batch-13 | A14 | No coordinates added for Akhmim: no site visit or OSM node id is available, so it stays null. |
+| batch-13 | A1–A8, A10–A13, A15, A16 | Kept as recorded. |
+| batch-13 | G4 | Product question; see question 4 below. |
+
+**Time-limited notes.** All are still valid on 2026-10-05 and kept, with a `TIME-LIMITED … still valid on 2026-10-05` line in `curationNote`:
+
+| Place | Note | Expires |
+|---|---|---|
+| Alamein and October War Panorama | free entry | after 2026-10-06 |
+| BA (manuscripts, planetarium, Sadat) | 8 Oct holiday hours | after 2026-10-08 |
+| Sadat museum | "Sadat panorama" line | after 2026-10-31 |
+| Sharm | exhibition | about 2026-11-29 |
+| Suez National Museum | "Blue" exhibition | about 2027-01-04 |
+
+Two expired notes were removed:
+- the Umm Kulthum Museum Day 2026 free-entry sentence;
+- the Deir al-Muharraq Great Lent 2026 dates.
+
+### Consistency pass (all 260 files)
+
+- **`curationNote`:**
+  - About 30 open remarks ("see batch-N report", "Recommend …", "validator error expected") replaced with the decision applied.
+  - The Marina, Ashmunein, National Library and Sharqia notes were rewritten.
+- **Prose:** removed source talk from 5 statusNotes (al-Arish, Ismailia, Zagazig university, Ayun Musa, Suez Canal Authority museum) and from the Egyptian Capitals description, in both languages.
+- **Time ranges:** en dashes in the NMEC and Qaitbay statusNote/bestTime.
+- **`freeGroups`:** wording normalised in 12 records:
+  - "Egyptians with special needs" replaces "Egyptians with disabilities" (8 major places).
+  - Fine Arts lists use "Seniors over 60", "Veterans", "Members of artists' professional syndicates" and the Arabic "ذوو الهمم".
+- **Mirrored records:** the 5 older `includedIn` records (crocodile, military, police, Imhotep, Karnak open-air) now copy the parent's free groups as well as its tiers.
+- **Checked, no change needed:**
+  - `freeGroupsLocalized` is present wherever `freeGroups` is.
+  - No `en` text lacks `ar`, and no `ar` text lacks `en`.
+  - Every Ramadan exception runs 2027-02-08 to 2027-03-08 with "update when officially announced".
+  - Every summer exception ends 2026-10-29.
+  - Every `includedIn` target exists.
+  - Every priced place has a `tickets` object with `timedEntry`.
+  - No `utm_` parameters and no slashes in area, labels or rules.
+
+### Counts
+
+| | open | unknown | renovation | closed | high | medium | low |
+|---|---|---|---|---|---|---|---|
+| New places kept (152) | 109 | 24 | 10 | 9 | 31 | 77 | 44 |
+| Whole catalogue (260) | 214 | 24 | 12 | 10 | 62 | 143 | 55 |
+
+- Catalogue tiers: 30 major, 78 notable, 152 minor.
+- New-place prices: 81 confirmed, 4 free, 59 unconfirmed, 8 without a `prices` object.
+
+### Questions for Mo (recommended answer in **bold**)
+
+1. **Minor places without a photo** (27, e.g. Suez National Museum, Rommel's Cave, Adam Henein):
+   **(a) Show a category illustration as the placeholder and leave these places out of photo-led carousels.**
+   (b) Show a map tile instead.
+   (c) Show them like any other place, with a blank image.
+2. **Museums that are built or announced but not yet open** (Aten Museum, due Q4 2027; Museum of Egyptian Capitals):
+   **(a) Use an "Opening soon" badge, separate from "Closed", and leave them out of "open now" and itineraries.**
+   (b) Use the same "Closed" badge.
+   (c) Hide them until they open.
+3. **Places with restricted access** (airside airport museums: passengers only; university and faculty museums, the parliament museum, the Banque Misr museum: by appointment):
+   **(a) Add an optional `access` field ("public", "appointment", "passengers") in schema 1.4, and show a badge.**
+   (b) Keep it in `statusNote` text only.
+   (c) Hide these places.
+4. **Places with status `unknown`** (24, mostly minor; batch-13 G4):
+   **(a) Show them with the "Check before you go" badge, and leave them out of "open now" and itineraries.**
+   (b) Show them only in search results.
+   (c) Hide them until they are verified.
+
+### Scheduled rechecks added
+
+- **After 8 Oct 2026:** remove the BA holiday exception (3 records).
+- **After 31 Oct 2026:** remove the Sadat panorama line.
+- **After 29 Oct 2026:** winter hours for Carter House, Qurnet Murai, Seti I, Matrouh, Deir el-Shelwit, Assasif, Khokha and the Sohag last entry.
+- **Mid-Nov 2026:** Nativity Fast rules at the Wadi Natrun monasteries.
+- **Q4 2026:** Giza Zoo reopening.
+- **About 4 Jan 2027:** remove the Suez "Blue" exhibition line.
+- **Early 2027:**
+  - Ramadan 2027 announcements;
+  - Muharraq and Baramus Lent and feast closures.
+- **H1 2027:** Marina el-Alamein reopening.
+- **2027:** reopenings of Aswan Museum, Beit el-Umma, the Calligraphy and History of Science museums, and the Aten Museum (Q4).
+- **Any time:** National Museum of Asyut status; Arish, Taba and Ismailia museums; phone checks for prices marked `unconfirmed` (hotline 19654).

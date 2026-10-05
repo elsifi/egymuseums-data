@@ -231,8 +231,6 @@
    "Children under 6",
    "Egyptians aged 60+",
    "Egyptians with special needs",
-   "Orphaned children",
-   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
    "Mobile-phone photography is free"
   ],
   "includedIn": "cairo-citadel",
@@ -248,14 +246,6 @@
    {
     "en": "Egyptians with special needs",
     "ar": "المصريون من ذوي الهمم"
-   },
-   {
-    "en": "Orphaned children",
-    "ar": "الأطفال الأيتام"
-   },
-   {
-    "en": "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
-    "ar": "رحلات المدارس الحكومية والأزهرية للمرحلتين الابتدائية والإعدادية المحجوزة عبر منصة «رحلة»"
    },
    {
     "en": "Mobile-phone photography is free",
@@ -375,5 +365,5 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Hours: egymonuments.gov.eg 08:00-17:00 (ticket window closes 16:00) vs MoTA guide 09:00-17:00; earlier opening used, consistent with Citadel D5. Ramadan 09:00-15:00 from MoTA guide (last entry 14:00 by its one-hour rule). Price: museum page shows the old Citadel ticket (200/100); current Citadel ticket used. Operator kept as seed (interior), although MoTA lists it in its SCA museums guide."
+ "curationNote": "Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Hours: egymonuments.gov.eg 08:00-17:00 (ticket window closes 16:00) vs MoTA guide 09:00-17:00; earlier opening used, consistent with Citadel D5. Ramadan 09:00-15:00 from MoTA guide (last entry 14:00 by its one-hour rule). Price: museum page shows the old Citadel ticket (200/100); current Citadel ticket used. Operator kept as seed (interior), although MoTA lists it in its SCA museums guide. 2026-10-05: freeGroups aligned with cairo-citadel (same ticket)."
 }

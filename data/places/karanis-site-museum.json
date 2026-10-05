@@ -1,0 +1,247 @@
+{
+ "id": "karanis-site-museum",
+ "kind": "museum",
+ "wikidataId": "Q6368472",
+ "name": {
+  "en": "Karanis Site Museum",
+  "ar": "متحف كوم أوشيم"
+ },
+ "aliases": [
+  "Kom Ushim Museum",
+  "Karanis Museum",
+  "Museum of Kom Ushim",
+  "Kom Aushim Museum",
+  "متحف كرانيس اوشيم"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "faiyum",
+ "city": {
+  "en": "Tamiya",
+  "ar": "طامية"
+ },
+ "area": {
+  "en": "Kom Aushim, at the entrance to the Karanis site",
+  "ar": "كوم أوشيم، عند مدخل موقع كرانيس"
+ },
+ "address": {
+  "en": "Cairo–Faiyum desert road, Kom Aushim, Tamiya, Faiyum Governorate",
+  "ar": "طريق القاهرة–الفيوم الصحراوي، كوم أوشيم، طامية، محافظة الفيوم"
+ },
+ "lat": 29.518607,
+ "lng": 30.897882,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A two-floor regional museum at the gate of Karanis that tells the story of the Faiyum from prehistory to the Islamic era.",
+  "ar": "متحف إقليمي من طابقين عند مدخل كرانيس يروي تاريخ الفيوم من عصور ما قبل التاريخ حتى العصر الإسلامي."
+ },
+ "description": {
+  "en": "The Kom Aushim Museum stands beside the ruins of Karanis on the desert road into the Faiyum and serves as the region’s archaeological museum. It first opened in 1974, gained an upper floor in 1993, and has been closed and reopened several times for restoration, most recently in the mid-2010s. The displays trace the history of the Faiyum from its earliest settlers to later periods, with an emphasis on daily life, local crafts and the beliefs of the people who farmed the oasis. Objects come from sites across the province, including Karanis itself and the old capital of Shedet, the city of the crocodile god Sobek. Among the most striking pieces are painted mummy portraits of the Roman period, which blend Egyptian burial customs with Graeco-Roman painting, together with Coptic textiles, pottery, tools and statues. Its small size makes it an easy stop before or after walking around Karanis.",
+  "ar": "يقع متحف كوم أوشيم إلى جوار أطلال كرانيس على الطريق الصحراوي المؤدي إلى الفيوم، وهو المتحف الأثري الإقليمي للمحافظة. افتُتح أول مرة عام 1974، وأُضيف إليه طابق علوي عام 1993، ثم أُغلق وأُعيد افتتاحه أكثر من مرة لأعمال الترميم والتطوير، كان آخرها في منتصف العقد الثاني من القرن الحالي. يتتبع العرض تاريخ الفيوم منذ أقدم سكانه حتى العصور اللاحقة، مع التركيز على الحياة اليومية والحرف المحلية والمعتقدات الدينية لأهل الواحة. وتأتي المعروضات من مواقع مختلفة في المحافظة، منها كرانيس نفسها وشدت العاصمة القديمة، مدينة المعبود سوبك. ومن أبرز القطع وجوه المومياوات الملونة من العصر الروماني التي تمزج بين عادات الدفن المصرية وفن التصوير اليوناني الروماني، إلى جانب منسوجات قبطية وأوانٍ فخارية وأدوات وتماثيل. وصغر حجمه يجعله محطة سهلة قبل التجول في كرانيس أو بعده."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Faiyum mummy portraits",
+    "ar": "وجوه الفيوم"
+   },
+   "desc": {
+    "en": "Roman-period portraits painted on wood for mummies.",
+    "ar": "صور شخصية من العصر الروماني رُسمت على الخشب لتغطية المومياوات."
+   }
+  },
+  {
+   "title": {
+    "en": "Finds from Karanis",
+    "ar": "مكتشفات كرانيس"
+   },
+   "desc": {
+    "en": "Everyday objects from the Graeco-Roman town next door.",
+    "ar": "أدوات من الحياة اليومية في البلدة اليونانية الرومانية المجاورة."
+   }
+  },
+  {
+   "title": {
+    "en": "Coptic textiles",
+    "ar": "المنسوجات القبطية"
+   },
+   "desc": {
+    "en": "Woven linen and wool fabrics from late antiquity.",
+    "ar": "أقمشة من الكتان والصوف من أواخر العصور القديمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Crafts of the Faiyum",
+    "ar": "حرف الفيوم"
+   },
+   "desc": {
+    "en": "Displays on the industries and traditions the province was known for.",
+    "ar": "عرض للصناعات والتقاليد التي اشتهرت بها المحافظة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Late morning, combined with the Karanis site.",
+   "ar": "آخر الصباح، مع زيارة موقع كرانيس."
+  },
+  "crowdNotes": {
+   "en": "A small museum that is usually quiet; school groups visit on some weekdays.",
+   "ar": "متحف صغير هادئ في الغالب، وتزوره الرحلات المدرسية في بعض أيام الأسبوع."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/KaranisMuseumCoptic.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:KaranisMuseumCoptic.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Karanis_Site_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%83%D9%88%D9%85_%D8%A3%D9%88%D8%B4%D9%8A%D9%85",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6368472",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q130216139",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-15:00, Ramadan same),address,description,status",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-كوم-أوشيم/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: 100/50, 10/5, 09:00-15:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Karanis_Site_Museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status open: listed in the live MoTA open-museums guide (undated official page, counts as current per D6). Hours 09:00-15:00 (guide and Nov 2024 list); last entry 14:00 by MoTA's one-hour rule (not printed on this museum's guide page). Ramadan hours equal the normal week, so no exception (batch-4 Q13a). Prices from the Nov 2024 MoTA list, the only official price source (no egymonuments.gov.eg portal page, not on the egymonuments.com booking platform, so no onlineUrl). No Arab tier (abolished at SCA sites from 1 Jan 2026). Free groups are not stated on any official page for this site, so omitted. name.ar changed locally from the seed 'متحف كرانيس اوشيم' to the official 'متحف كوم أوشيم' (seed form kept as alias). Latest reopening: MoTA says 2016, en-wiki says 2017 - text says 'mid-2010s'. Object counts (313 per en-wiki) not used. Building (1974/1993) not photographed under the no-FoP rule; one object photo only."
+}

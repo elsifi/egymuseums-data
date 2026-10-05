@@ -1,0 +1,346 @@
+{
+ "id": "gebel-el-mawta",
+ "kind": "site",
+ "wikidataId": "Q14209830",
+ "name": {
+  "en": "Gebel al-Mawta Tombs",
+  "ar": "مقابر جبل الموتى"
+ },
+ "aliases": [
+  "Mountain of the Dead",
+  "Gebel el-Mawta",
+  "جبل الموتى"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "matrouh",
+ "city": {
+  "en": "Siwa",
+  "ar": "سيوة"
+ },
+ "area": {
+  "en": "North edge of Siwa town",
+  "ar": "الطرف الشمالي لمدينة سيوة"
+ },
+ "address": {
+  "en": "Gebel el-Mawta, about 2 km north of Siwa town centre, Matrouh Governorate",
+  "ar": "جبل الموتى، على بعد نحو 2 كم شمال وسط مدينة سيوة، محافظة مطروح"
+ },
+ "lat": 29.211489,
+ "lng": 25.5253,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Four painted tombs are open to visitors.",
+  "ar": "مفتوح يوميًا، وأربع من المقابر الملونة مفتوحة للزيارة."
+ },
+ "summary": {
+  "en": "A conical hill honeycombed with rock-cut tombs, Siwa's main cemetery from the 26th Dynasty to Roman times, with four painted tombs.",
+  "ar": "تل مخروطي تتخلله المقابر المنحوتة في الصخر، كان الجبانة الرئيسية لسيوة من الأسرة السادسة والعشرين حتى العصر الروماني، ويضم أربع مقابر ملونة."
+ },
+ "description": {
+  "en": "The Mountain of the Dead is a limestone hill about 50 metres high on the northern edge of Siwa town, its flanks cut with terraces of rock tombs. It was the oasis's main burial ground from the 26th Dynasty, when Siwa's oracle of Amun was famous across the Mediterranean, until late Roman and Byzantine times. Most tombs are plain chambers or long corridors with side niches for family burials, but four on the middle terrace are painted in a style that mixes Egyptian and Greek elements. The finest belongs to Si-Amun, probably a wealthy local merchant of the 4th century BC, who appears twice, as a young man and in old age, among scenes of his funeral procession and his judgement before Osiris. The tombs of Mesu-Isis, Pa-Thoth and the Crocodile complete the visit. From the top there are wide views over the town, the palm groves and the salt lakes.",
+  "ar": "جبل الموتى تل من الحجر الجيري يرتفع نحو 50 مترًا عند الطرف الشمالي لمدينة سيوة، نُحتت في سفوحه مدرجات من المقابر الصخرية. وكان الجبانة الرئيسية للواحة منذ عصر الأسرة السادسة والعشرين، حين ذاع صيت وحي آمون في سيوة في أرجاء البحر المتوسط، حتى أواخر العصرين الروماني والبيزنطي. ومعظم المقابر حجرات بسيطة أو ممرات طويلة تتفرع منها كوات لدفن أفراد الأسرة، غير أن أربعًا منها في المدرج الأوسط زُينت بالرسوم على طراز يمزج العناصر المصرية باليونانية. وأجملها مقبرة سي آمون، وكان على الأرجح تاجرًا محليًا ثريًا في القرن الرابع قبل الميلاد، ويظهر فيها مرتين، شابًا ثم في سن متقدمة، بين مناظر موكب جنازته ومحاكمته أمام أوزير. وتكتمل الزيارة بمقابر مسو إيزيس وبا تحوت والتمساح. ومن قمة التل يمتد المشهد فوق المدينة وبساتين النخيل والبحيرات المالحة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Si-Amun",
+    "ar": "مقبرة سي آمون"
+   },
+   "desc": {
+    "en": "The finest painted tomb, with Egyptian and Greek features side by side.",
+    "ar": "أجمل المقابر الملونة، تجتمع فيها الملامح المصرية واليونانية."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Mesu-Isis",
+    "ar": "مقبرة مسو إيزيس"
+   },
+   "desc": {
+    "en": "A decorated tomb on the middle terrace.",
+    "ar": "مقبرة مزخرفة في المدرج الأوسط."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Pa-Thoth",
+    "ar": "مقبرة با تحوت"
+   },
+   "desc": {
+    "en": "One of the four decorated tombs on the middle terrace.",
+    "ar": "إحدى المقابر الأربع المزخرفة في المدرج الأوسط."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of the Crocodile",
+    "ar": "مقبرة التمساح"
+   },
+   "desc": {
+    "en": "Named after the crocodile figure painted inside.",
+    "ar": "سُميت بهذا الاسم نسبة إلى رسم التمساح في داخلها."
+   }
+  },
+  {
+   "title": {
+    "en": "Summit view",
+    "ar": "المشهد من القمة"
+   },
+   "desc": {
+    "en": "Views over Siwa town, the Shali ruins and the palm groves.",
+    "ar": "إطلالة على مدينة سيوة وأطلال شالي وبساتين النخيل."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/TombsofGabalal-Mawta",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Early morning or late afternoon; climb to the top for sunset views.",
+   "ar": "الصباح الباكر أو آخر النهار، واصعد إلى القمة لمشاهدة الغروب."
+  },
+  "crowdNotes": {
+   "en": "The painted tombs are small and are opened by a guard, so visits go in turns. Photography is allowed with mobile phones only. Siwa is a long drive from Marsa Matrouh; plan an overnight stay.",
+   "ar": "المقابر الملونة صغيرة يفتحها الحارس، فتجري الزيارة بالتناوب، ويُسمح بالتصوير بالهاتف المحمول فقط. والطريق إلى سيوة من مرسى مطروح طويل، فخطط للمبيت."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/SiwaMautaWestSide.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SiwaMautaWestSide.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/SiwaMautaTombs.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SiwaMautaTombs.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Mountain_of_the_Dead_Siwa.JPG",
+   "author": "Kevin Gabbert",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mountain_of_the_Dead_Siwa.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%A7%D9%84%D9%85%D9%88%D8%AA%D9%89",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q14209830",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00; Ramadan 09:00-16:00; last entry 1 h before closing),address,description,highlights (four painted tombs)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مقابر-جبل-الموتى/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (opening 09:00; Ramadan last entry 16:00),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/TombsofGabalal-Mawta",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (MoTA Nov 2024 list: 120/60, 10/5, 09:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (checked: the 9 Jul 2026 SCA board decision raising prices from 1 Oct 2026 names only Bahariya Oasis sites; not applied here)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights,visit (hill height, Si-Amun date, mobile-only photography; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Gebel_el-Maut%C4%81",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%A7%D9%84%D9%85%D9%88%D8%AA%D9%89",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Opening-time conflict: MoTA guide 08:00, booking platform and Nov 2024 list 09:00 -> 09:00 (narrowest window, batch-7 Q1a). Booking platform last entry 17:00 equals closing time -> 16:00 by MoTA's one-hour rule (as at Aghurmi). Ramadan: guide 09:00-16:00, booking last entry 16:00 -> last entry 15:00 (earlier). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. The Jul 2026 oasis price rise covers Bahariya only (batch-7 finding), not applied. 'Mobile-phone photography only' from Wikivoyage (Dec 2023) and the booking platform's free mobile photography; not a dated official rule."
+}

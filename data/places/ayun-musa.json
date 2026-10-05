@@ -1,0 +1,151 @@
+{
+ "id": "ayun-musa",
+ "kind": "site",
+ "wikidataId": "Q2903692",
+ "name": {
+  "en": "Ayun Musa (Springs of Moses)",
+  "ar": "عيون موسى"
+ },
+ "aliases": [
+  "‘Uyūn Mūsá",
+  "مزار عيون موسى السياحي",
+  "مزار عيون موسى",
+  "Oyun Musa"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "south-sinai",
+ "city": {
+  "en": "Ras Sudr",
+  "ar": "رأس سدر"
+ },
+ "area": {
+  "en": "Ahmed Hamdi Tunnel–Sharm el-Sheikh road, north of Ras Sudr",
+  "ar": "طريق نفق أحمد حمدي–شرم الشيخ، شمال رأس سدر"
+ },
+ "address": {
+  "en": "About 30 km south of the Ahmed Hamdi Tunnel on the road to Ras Sudr, Sinai",
+  "ar": "على بعد نحو 30 كيلومترًا جنوب نفق أحمد حمدي على طريق رأس سدر، سيناء"
+ },
+ "lat": 29.876944,
+ "lng": 32.658333,
+ "status": "unknown",
+ "statusNote": {
+  "en": "A development project to improve visitor facilities began in 2026, so access and fees may change during the works; check locally.",
+  "ar": "بدأ عام 2026 مشروع لتطوير الموقع وخدمات الزوار، وقد يتغير نظام الدخول أو رسومه خلال الأعمال، لذا يُنصح بالتحقق محليًا."
+ },
+ "summary": {
+  "en": "A palm-shaded oasis of freshwater springs on the Gulf of Suez coast, linked by tradition to the wells of Moses.",
+  "ar": "واحة من العيون العذبة تظللها أشجار النخيل على ساحل خليج السويس، ترتبط في التقاليد بآبار النبي موسى."
+ },
+ "description": {
+  "en": "Ayun Musa, the Springs of Moses, is a small oasis of freshwater wells on the Sinai shore of the Gulf of Suez, about 30 km south of the Ahmed Hamdi Tunnel on the road to Ras Sudr and Sharm el-Sheikh. Islamic tradition identifies it with the twelve springs that gushed forth when Moses struck the rock, as told in the Quran, and Christian travellers linked it with the biblical stations of Marah and Elim on the Exodus route. Only five of the twelve wells survive today, the others having silted up and been overgrown by reeds; each is marked with its name and depth. The stone-lined wells, built of soft local limestone, probably took their present form in the Byzantine period. Palms and tamarisks make the spot a green stop for travellers on the way south, as nineteenth-century artists such as David Roberts recorded. A development project announced in 2026 aims to uncover the buried springs and add visitor services.",
+  "ar": "عيون موسى واحة صغيرة من الآبار العذبة على ساحل سيناء المطل على خليج السويس، على بعد نحو 30 كيلومترًا جنوب نفق أحمد حمدي على الطريق إلى رأس سدر وشرم الشيخ. ويربطها التراث الإسلامي بالعيون الاثنتي عشرة التي انفجرت حين ضرب موسى الحجر بعصاه كما ورد في القرآن الكريم، وربطها الرحالة المسيحيون بمحطتي مارة وإيليم على طريق الخروج في الكتاب المقدس. ولم يبق من العيون الاثنتي عشرة اليوم سوى خمس، بعد أن طُمرت الأخرى ونمت فوقها نباتات البوص، ووُضعت بجانب كل عين لافتة باسمها وعمقها. ويُرجح أن الآبار المبطنة بالحجر الجيري المحلي الهش اتخذت شكلها الحالي في العصر البيزنطي. ويجعل النخيل والطرفاء المكان محطة خضراء للمسافرين جنوبًا، كما سجلها فنانو القرن التاسع عشر مثل ديفيد روبرتس. ويهدف مشروع تطوير أُعلن عنه عام 2026 إلى الكشف عن العيون المطمورة وتوفير خدمات للزوار."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "The surviving springs",
+    "ar": "العيون الباقية"
+   },
+   "desc": {
+    "en": "Five stone-lined wells, each marked with its name and depth.",
+    "ar": "خمس آبار مبطنة بالحجر، لكل منها لافتة باسمها وعمقها."
+   }
+  },
+  {
+   "title": {
+    "en": "Palm oasis",
+    "ar": "واحة النخيل"
+   },
+   "desc": {
+    "en": "Palms and tamarisks around the wells, a green stop on the desert road.",
+    "ar": "نخيل وطرفاء حول الآبار، محطة خضراء على الطريق الصحراوي."
+   }
+  },
+  {
+   "title": {
+    "en": "Exodus tradition",
+    "ar": "تقاليد الخروج"
+   },
+   "desc": {
+    "en": "A place linked to Moses in Islamic and Christian tradition.",
+    "ar": "مكان ارتبط بالنبي موسى في التراثين الإسلامي والمسيحي."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "As a stop on the drive between Cairo and the Sinai resorts, in daylight.",
+   "ar": "كمحطة على الطريق بين القاهرة ومنتجعات سيناء، في ساعات النهار."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Moses_spring_BW_1.jpg",
+   "author": "Berthold Werner",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moses_spring_BW_1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Moses_spring_BW_2.jpg",
+   "author": "Berthold Werner",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moses_spring_BW_2.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Roberts%26Haghe_Wells_of_Moses_wilderness_of_Tyn_February_12th_1839.jpg",
+   "author": "David Roberts and Louis Haghe",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roberts%26Haghe_Wells_of_Moses_wilderness_of_Tyn_February_12th_1839.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Oyun_Musa",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D9%88%D9%86_%D9%85%D9%88%D8%B3%D9%89_(%D9%85%D8%B5%D8%B1)",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q2903692",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q29513758",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,operator (antiquities sector head announces start of the Ayun Musa development project; news 25 Apr 2026)",
+   "url": "https://www.youm7.com/story/2026/4/25/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D8%B3%D9%8A%D9%86%D8%A7%D8%A1-%D8%AF%D8%B1%D8%B9-%D9%85%D8%B5%D8%B1-%D9%88%D9%85%D8%AE%D8%B2%D9%86-%D8%AB%D8%B1%D9%88%D8%A7%D8%AA%D9%87%D8%A7-%D9%88%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81%D8%A7%D8%AA-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/7389813",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D9%88%D9%86_%D9%85%D9%88%D8%B3%D9%89_(%D9%85%D8%B5%D8%B1)",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Elim/Marah tradition, location; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Oyun_Musa",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Operator changed from seed 'other' to 'mota-sca': the 2026 development is led by the SCA's Egyptian antiquities sector (youm7, 25 Apr 2026) and the wells are treated as antiquities; check. Governorate kept as seed 'south-sinai' although ar-wiki says the springs are administered by Suez Governorate - check. Status 'unknown': the site was traditionally freely accessible beside the road, but no official 2024-2026 statement on visiting, hours or fees during the works. Photos: two 2010 CC BY-SA photos of the springs and the 1839 Roberts/Haghe lithograph (public domain)."
+}

@@ -1,0 +1,300 @@
+{
+ "id": "qasr-qarun",
+ "kind": "site",
+ "wikidataId": "Q11944146",
+ "name": {
+  "en": "Qasr Qarun Temple",
+  "ar": "قصر قارون"
+ },
+ "aliases": [
+  "Qasr Qarun"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "faiyum",
+ "city": {
+  "en": "Yusuf al-Siddiq",
+  "ar": "يوسف الصديق"
+ },
+ "area": {
+  "en": "Qarun village, west end of Lake Qarun",
+  "ar": "قرية قارون، الطرف الغربي لبحيرة قارون"
+ },
+ "address": {
+  "en": "Qarun village, Yusuf al-Siddiq, Faiyum Governorate",
+  "ar": "قرية قارون، يوسف الصديق، محافظة الفيوم"
+ },
+ "lat": 29.405631,
+ "lng": 30.418289,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A well-preserved Ptolemaic temple of Sobek at ancient Dionysias, with dark corridors, rooftop chapels and a winter-solstice sunrise in the sanctuary.",
+  "ar": "معبد بطلمي لسوبك في مدينة ديونيسياس القديمة، محفوظ جيدًا بممراته المظلمة ومقاصير سطحه، وتضيء شمس الانقلاب الشتوي قدس أقداسه."
+ },
+ "description": {
+  "en": "Qasr Qarun stands at the western end of Lake Qarun, on the site of the Graeco-Roman town of Dionysias. Its local name has nothing to do with the Qarun of tradition; it comes from the nearby lake. The temple was built in the Ptolemaic period for Sobek, the crocodile god of the Faiyum, and later associated with the Greek Dionysus, with additions in Roman times. Built of local limestone on an east–west axis, it is unusually complete: two halls lead to a sanctuary of three chapels, while side rooms, stairs and narrow corridors climb through several levels to chapels on the roof, from which the desert and the remains of the town can be seen. Each year around 21 December the rising sun reaches deep into the sanctuary, an event that draws visitors. Nearby are the ruins of the town and of a Roman fort from the time of Diocletian.",
+  "ar": "يقع قصر قارون عند الطرف الغربي لبحيرة قارون، في موضع مدينة ديونيسياس اليونانية الرومانية، ولا صلة لاسمه بقارون المذكور في التراث، فقد نُسب إلى البحيرة المجاورة. شُيد المعبد في العصر البطلمي للمعبود سوبك، معبود التمساح في الفيوم، ثم ارتبط لاحقًا بالمعبود الإغريقي ديونيسيوس، وأضيفت إليه عناصر في العصر الروماني. بُني المعبد من الحجر الجيري المحلي على محور يمتد من الشرق إلى الغرب، ويتميز باكتماله النادر: صالتان تؤديان إلى قدس أقداس من ثلاث مقاصير، وحجرات جانبية وسلالم وممرات ضيقة تصعد عبر عدة مستويات إلى مقاصير على السطح تطل على الصحراء وأطلال المدينة. وفي نحو الحادي والعشرين من ديسمبر من كل عام تتوغل أشعة الشمس عند شروقها حتى قدس الأقداس، وهي ظاهرة تجتذب الزوار. وبالقرب من المعبد بقايا المدينة وحصن روماني من عهد دقلديانوس."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Temple of Sobek",
+    "ar": "معبد سوبك"
+   },
+   "desc": {
+    "en": "A nearly complete Ptolemaic limestone temple with a three-chapel sanctuary.",
+    "ar": "معبد بطلمي من الحجر الجيري شبه مكتمل، بقدس أقداس من ثلاث مقاصير."
+   }
+  },
+  {
+   "title": {
+    "en": "Rooftop chapels",
+    "ar": "مقاصير السطح"
+   },
+   "desc": {
+    "en": "Stairs and corridors climb to roof chapels with desert views.",
+    "ar": "سلالم وممرات تصعد إلى مقاصير على السطح تطل على الصحراء."
+   }
+  },
+  {
+   "title": {
+    "en": "Winter-solstice sunrise",
+    "ar": "شروق الانقلاب الشتوي"
+   },
+   "desc": {
+    "en": "Around 21 December the sunrise lights up the sanctuary.",
+    "ar": "في نحو 21 ديسمبر تضيء أشعة الشروق قدس الأقداس."
+   }
+  },
+  {
+   "title": {
+    "en": "Dionysias ruins",
+    "ar": "أطلال ديونيسياس"
+   },
+   "desc": {
+    "en": "Remains of the Graeco-Roman town and a Roman fort nearby.",
+    "ar": "بقايا المدينة اليونانية الرومانية وحصن روماني قريب."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning; the sunrise around 21 December is a special occasion.",
+   "ar": "الصباح، ويُعد شروق الشمس في نحو 21 ديسمبر مناسبة خاصة."
+  },
+  "crowdNotes": {
+   "en": "Inner corridors are dark and stairs are narrow; a torch helps.",
+   "ar": "الممرات الداخلية مظلمة والسلالم ضيقة، ويفيد حمل مصباح يدوي."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/QasrQarunFacade.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:QasrQarunFacade.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/QasrQarunInside.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:QasrQarunInside.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Dionysias_001.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dionysias_001.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Qasr_Qarun",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D9%82%D8%A7%D8%B1%D9%88%D9%86",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q11944146",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description,status",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/قصر-قارون/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: 150/75, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original; 21 Dec solar event)",
+   "url": "https://en.wikipedia.org/wiki/Qasr_Qarun",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (name origin)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D9%82%D8%A7%D8%B1%D9%88%D9%86",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status open: listed in the live MoTA open-sites guide (undated official page, counts as current per D6). Hours 08:00-17:00 (MoTA open-sites guide, matches Nov 2024 list); last entry 16:00 by the guide's 'last entry one hour before closing' rule. Ramadan 09:00-16:00 per guide, last entry 15:00. Prices from the Nov 2024 MoTA list, the only official price source (no egymonuments.gov.eg portal page, not on the egymonuments.com booking platform, so no onlineUrl). No Arab tier (abolished at SCA sites from 1 Jan 2026). Free groups are not stated on any official page for this site, so omitted. Solstice timing is gate-hours dependent; no official statement on early opening for 21 Dec found - do not promise sunrise access. Roman fort 'of Diocletian' is from general literature (not on MoTA page). City set to Yusuf al-Siddiq (MoTA address). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

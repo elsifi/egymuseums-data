@@ -1,0 +1,115 @@
+{
+ "id": "egyptian-textile-museum",
+ "kind": "museum",
+ "wikidataId": "Q94999633",
+ "name": {
+  "en": "Egyptian Textile Museum",
+  "ar": "متحف النسيج المصري"
+ },
+ "category": "specialised",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Al-Nahhasin, al-Muizz Street",
+  "ar": "النحاسين، شارع المعز"
+ },
+ "address": {
+  "en": "Sabil of Muhammad Ali Pasha, al-Muizz li-Din Allah Street, al-Nahhasin, Cairo",
+  "ar": "سبيل محمد علي باشا، شارع المعز لدين الله، النحاسين، القاهرة"
+ },
+ "lat": 30.04997,
+ "lng": 31.26138,
+ "status": "closed",
+ "statusNote": {
+  "en": "Closed. Its collection was moved to the textile hall of the National Museum of Egyptian Civilization, and the historic sabil building awaits restoration.",
+  "ar": "مغلق، إذ نُقلت مجموعته إلى قاعة النسيج بالمتحف القومي للحضارة المصرية، وينتظر مبنى السبيل الأثري الترميم."
+ },
+ "summary": {
+  "en": "A former museum of Egyptian textiles in the 1828 sabil of Muhammad Ali on al-Muizz Street; its collection is now at the National Museum of Egyptian Civilization.",
+  "ar": "متحف سابق للنسيج المصري في سبيل محمد علي بشارع المعز (1828)، وتُعرض مجموعته الآن في المتحف القومي للحضارة المصرية."
+ },
+ "description": {
+  "en": "Opened in 2010, the Egyptian Textile Museum was described as the first museum of its kind in the Middle East. It occupied the sabil of Muhammad Ali Pasha at al-Nahhasin, built in 1828 in the Ottoman style, whose marble facade on al-Muizz Street is carved with plant motifs and inscriptions. Around 250 textiles and fifteen carpets were displayed in chronological order to show how spinning, weaving, materials and techniques developed over five thousand years: ancient Egyptian linen, including children's clothes, Graeco-Roman wool and linen from the state workshops of Alexandria, Coptic tapestry weaves mixing late-antique and Christian motifs, and Islamic textiles and carpets. Between 2020 and 2022 the galleries were closed because the historic building needed restoration, and the core collection was moved to the textile hall of the National Museum of Egyptian Civilization in Fustat. The sabil's facade can still be admired from the street.",
+  "ar": "افتُتح متحف النسيج المصري عام 2010، ووُصف بأنه الأول من نوعه في الشرق الأوسط. وشغل سبيل محمد علي باشا بالنحاسين، الذي شُيّد عام 1828 على الطراز العثماني، وتكسو واجهته المطلة على شارع المعز ألواح رخامية منقوشة بزخارف نباتية وكتابات. وعُرضت فيه نحو 250 قطعة نسيج وخمس عشرة سجادة بترتيب زمني يوضح تطور الغزل والنسج والخامات والتقنيات عبر خمسة آلاف عام، من الكتان المصري القديم ومنه ملابس أطفال، إلى الصوف والكتان اليوناني الروماني من مصانع الدولة في الإسكندرية، والنسيج القبطي الذي جمع بين زخارف العصور المتأخرة والرموز المسيحية، ثم المنسوجات والسجاد الإسلامي. وبين عامي 2020 و2022 أُغلقت القاعات لحاجة المبنى الأثري إلى الترميم، ونُقلت المجموعة الأساسية إلى قاعة النسيج بالمتحف القومي للحضارة المصرية في الفسطاط. ولا تزال واجهة السبيل تستحق التأمل من الشارع."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Sabil of Muhammad Ali Pasha",
+    "ar": "سبيل محمد علي باشا"
+   },
+   "desc": {
+    "en": "The 1828 Ottoman-style public fountain building with a carved marble facade.",
+    "ar": "مبنى السبيل العثماني الطراز (1828) بواجهته الرخامية المنقوشة."
+   }
+  },
+  {
+   "title": {
+    "en": "Where the textiles are now",
+    "ar": "أين المنسوجات الآن"
+   },
+   "desc": {
+    "en": "The collection is displayed in the textile hall of the National Museum of Egyptian Civilization.",
+    "ar": "تُعرض المجموعة في قاعة النسيج بالمتحف القومي للحضارة المصرية."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Egyptian_Textile_Museum.jpg",
+   "author": "LittleT889",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egyptian_Textile_Museum.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%AC_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A_%2C_%D8%B4%D8%A7%D8%B1%D8%B9_%D8%A7%D9%84%D9%85%D8%B9%D8%B2.jpg",
+   "author": "Mohammed Moussa",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%AC_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A_,_%D8%B4%D8%A7%D8%B1%D8%B9_%D8%A7%D9%84%D9%85%D8%B9%D8%B2.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%AC_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q94999633",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,summary,description,highlights (closure and transfer of the collection to NMEC, 2020-2022; facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%AC_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (collection shown before its transfer to NMEC; news 7 Oct 2020)",
+   "url": "https://www.youm7.com/story/2020/10/7/%D8%B4%D8%A7%D9%87%D8%AF-%D9%85%D9%82%D8%AA%D9%86%D9%8A%D8%A7%D8%AA-%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%AC-%D9%82%D8%A8%D9%84-%D9%86%D9%82%D9%84%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%84%D9%84%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9/5010108",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (not on the Nov 2024 MoTA ticket list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status 'closed': AR Wikipedia (galleries closed and collection moved to NMEC, 2020-2022) and youm7 Oct 2020 (objects shown before transfer to NMEC); absent from the Nov 2024 MoTA list and from egymonuments. No reopening news found. Seed has no city; Cairo added. Kept as a closed record whose statusNote points to NMEC (batch-9 Q4a)."
+}

@@ -1,0 +1,165 @@
+{
+ "id": "museum-of-siwan-traditions",
+ "kind": "museum",
+ "wikidataId": "Q20402182",
+ "name": {
+  "en": "Siwa House Museum",
+  "ar": "متحف البيت السيوي"
+ },
+ "aliases": [
+  "Siwa House Museum",
+  "Museum of Siwan Traditions",
+  "Traditional Siwan House",
+  "متحف سيوة",
+  "البيت السيوي"
+ ],
+ "category": "specialised",
+ "operator": "other",
+ "governorate": "matrouh",
+ "city": {
+  "en": "Siwa",
+  "ar": "سيوة"
+ },
+ "area": {
+  "en": "Siwa town centre",
+  "ar": "وسط مدينة سيوة"
+ },
+ "address": {
+  "en": "Town centre, Siwa, Matrouh Governorate",
+  "ar": "وسط مدينة سيوة، محافظة مطروح"
+ },
+ "lat": null,
+ "lng": null,
+ "status": "unknown",
+ "statusNote": {
+  "en": "Opening hours are not published; check locally in Siwa before visiting.",
+  "ar": "مواعيد الزيارة غير معلنة، فتحقق منها محليًا في سيوة قبل الزيارة."
+ },
+ "summary": {
+  "en": "A small ethnographic museum in a house built the traditional Siwan way, showing the oasis's costumes, silver jewellery and crafts.",
+  "ar": "متحف صغير للتراث الشعبي في بيت شُيّد على الطريقة السيوية التقليدية، يعرض أزياء الواحة وحليها الفضية وحرفها."
+ },
+ "description": {
+  "en": "The Siwa House was opened in 1990 to record a way of life that was changing fast in the oasis. The idea took shape in the late 1980s, when a Canadian ambassador visiting Siwa offered funding, and local families spent two years gathering clothes, jewellery and tools for display. The building itself is part of the exhibit: it was raised in kershef, the traditional mix of salt rock and mud that keeps rooms cool, with ceilings of palm trunks and fronds. On two floors it shows the embroidered dresses that Siwan brides wear at their weddings and in the days that follow, heavy silver ornaments, men's and children's costume, baskets and pottery, a kitchen with its cooking and baking tools, a tea corner and the winter sitting room. Musical instruments used at weddings, such as drums, pipes and a float made from a gourd, complete a short but evocative visit.",
+  "ar": "افتُتح البيت السيوي عام 1990 لتوثيق نمط حياة كان يتغير سريعًا في الواحة. وقد تبلورت الفكرة في أواخر الثمانينيات حين زار سفير كندي سيوة وعرض تمويل المشروع، فأمضى الأهالي عامين في جمع الملابس والحلي والأدوات لعرضها. والمبنى نفسه جزء من المعروضات، إذ شُيّد بالكرشيف، وهو مزيج تقليدي من الملح الصخري والطين يحفظ برودة الغرف، وسُقف بجذوع النخيل وجريده. ويعرض في طابقين الأثواب المطرزة التي ترتديها العروس السيوية في زفافها وفي الأيام التالية له، والحلي الفضية الثقيلة، وأزياء الرجال والأطفال، والسلال والأواني الفخارية، ومطبخًا بأدوات الطهي والخبز، وركنًا لإعداد الشاي، وغرفة القعدة الشتوية. وتكمل الآلات الموسيقية المستخدمة في الأفراح، كالطبلة والمزمار وعوامة مصنوعة من القرع، زيارة قصيرة لكنها معبرة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Bridal costume",
+    "ar": "أزياء العروس"
+   },
+   "desc": {
+    "en": "Embroidered dresses worn by Siwan brides.",
+    "ar": "الأثواب المطرزة التي ترتديها العروس السيوية."
+   }
+  },
+  {
+   "title": {
+    "en": "Silver jewellery",
+    "ar": "الحلي الفضية"
+   },
+   "desc": {
+    "en": "Traditional silver ornaments of Siwan women.",
+    "ar": "حلي فضية تقليدية تتزين بها نساء سيوة."
+   }
+  },
+  {
+   "title": {
+    "en": "Kershef architecture",
+    "ar": "عمارة الكرشيف"
+   },
+   "desc": {
+    "en": "Walls of salt rock and mud under palm-trunk ceilings.",
+    "ar": "جدران من الملح الصخري والطين تحت أسقف من جذوع النخيل."
+   }
+  },
+  {
+   "title": {
+    "en": "Baskets and pottery",
+    "ar": "السلال والفخار"
+   },
+   "desc": {
+    "en": "Everyday crafts of the oasis.",
+    "ar": "حرف الحياة اليومية في الواحة."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 30,
+  "deepMinutes": 45,
+  "bestTime": {
+   "en": "Morning, on a walk round Siwa town and the Shali fortress.",
+   "ar": "الصباح، ضمن جولة في مدينة سيوة وقلعة شالي."
+  },
+  "crowdNotes": {
+   "en": "A small house; hours and fees are set locally, so ask at the Siwa tourist office.",
+   "ar": "بيت صغير تُحدَّد مواعيده ورسومه محليًا، فاسأل في مكتب السياحة بسيوة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/SiwaMuseumJewellery.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SiwaMuseumJewellery.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/SiwaMuseumBaskets.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:SiwaMuseumBaskets.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B3%D9%8A%D9%88%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q20402182",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description (opened 1990, Canadian support, kershef, two floors, collection; news 13 Nov 2019)",
+   "url": "https://www.elbalad.news/4054914",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (museum receiving school groups, Siwa tourism department, news 7 Dec 2022)",
+   "url": "https://ahlmasrnews.com/news/local-news/13057393/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B3%D9%8A%D9%88%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Run by the Siwa town council's tourism department (operator 'other'), not by MoTA: not in the MoTA ticket list, guide or booking platform. Latest status evidence is a Dec 2022 news item; no 2024-2026 source found, so status 'unknown'. Search-engine summaries quote EGP 5 Egyptian / 2 student / 10 foreign, not verified in any dated source, so prices are unconfirmed. No coordinates on Wikidata (Q20402182) and none from an allowed source, so lat/lng stay null. Name changed from 'Museum of Siwan Traditions' to the commonly used 'Siwa House Museum'; old name kept as alias. Photos show displayed crafts, not the 1990 building."
+}

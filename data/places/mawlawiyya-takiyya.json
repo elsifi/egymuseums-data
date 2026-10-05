@@ -1,0 +1,305 @@
+{
+ "id": "mawlawiyya-takiyya",
+ "kind": "site",
+ "wikidataId": "Q130634161",
+ "name": {
+  "en": "Mawlawiyya Takiyya (Madrasa of Sunqur al-Sa'di)",
+  "ar": "التكية المولوية (مدرسة سنقر السعدي)"
+ },
+ "aliases": [
+  "Cairo Takiyya Mawlawiyya",
+  "Takiyya Mawlawiyya in Cairo",
+  "Mevlevi tekke in Cairo"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "al-Suyufiyya Street, al-Darb al-Ahmar (Helmiya)",
+  "ar": "شارع السيوفية، الدرب الأحمر (الحلمية)"
+ },
+ "address": {
+  "en": "al-Suyufiyya Street, al-Darb al-Ahmar, Cairo",
+  "ar": "شارع السيوفية، الدرب الأحمر، القاهرة"
+ },
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily; ticketed at the entrance.",
+  "ar": "مفتوحة يوميًا، وتُشترى التذكرة عند المدخل."
+ },
+ "summary": {
+  "en": "A Mamluk madrasa turned Mevlevi lodge, with Cairo's only surviving whirling-dervish theatre under a painted wooden dome.",
+  "ar": "مدرسة مملوكية تحولت إلى تكية للمولوية، تضم مسرح الدراويش الوحيد الباقي في القاهرة أسفل قبة خشبية ملونة."
+ },
+ "description": {
+  "en": "The site began as the madrasa and mausoleum of Amir Shams al-Din Sunqur al-Sa'di, built in 1321 on Suyufiyya Street and famous for its stucco decoration; from 1344 it was also known as the dome of Shaykh Hasan Sadaqa. A takiyya, or lodge for the poor, was added in 1595, its facade mixing Mamluk and Ottoman styles, and from the seventeenth century it became the home of Cairo's Mevlevi dervishes, the order of Jalal al-Din Rumi known for its whirling ceremony. The heart of the complex is the semahane, the dervish theatre built in the nineteenth century: a circular wooden stage ringed by a balustrade, under a painted wooden dome carried on twelve pillars, with an upper gallery for guests and women. After the Sufi lodges were closed in the twentieth century the building decayed, and a long Italian–Egyptian restoration brought it back; a small display on the Mevlevi order occupies the madrasa's iwan.",
+  "ar": "بدأ الموقع مدرسةً وضريحًا للأمير شمس الدين سنقر السعدي، شُيّدا عام 1321 في شارع السيوفية واشتهرا بزخارفهما الجصية، ثم عُرف منذ عام 1344 أيضًا بقبة الشيخ حسن صدقة. وأضيفت تكية لإيواء الفقراء عام 1595، تجمع واجهتها بين الطرازين المملوكي والعثماني، ومنذ القرن السابع عشر صارت مقرًا لدراويش الطريقة المولوية في القاهرة، أتباع جلال الدين الرومي المعروفين برقصة الدوران. وقلب المجموعة هو «السماع خانة»، مسرح الدراويش الذي بُني في القرن التاسع عشر: منصة خشبية دائرية يحيط بها درابزين، أسفل قبة خشبية ملونة تحملها اثنتا عشرة دعامة، وفوقها شرفة علوية للضيوف والنساء. وبعد إغلاق التكايا الصوفية في القرن العشرين تدهور المبنى، حتى أعاده ترميم مصري إيطالي طويل، ويشغل إيوان المدرسة اليوم عرض صغير عن الطريقة المولوية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Dervish theatre",
+    "ar": "مسرح الدراويش"
+   },
+   "desc": {
+    "en": "A circular wooden stage for the whirling ceremony, with an upper gallery.",
+    "ar": "منصة خشبية دائرية لحلقات الذكر المولوي، تعلوها شرفة."
+   }
+  },
+  {
+   "title": {
+    "en": "Painted dome",
+    "ar": "القبة الملونة"
+   },
+   "desc": {
+    "en": "A wooden dome on twelve pillars, painted with floral designs.",
+    "ar": "قبة خشبية على اثنتي عشرة دعامة مزينة برسوم نباتية."
+   }
+  },
+  {
+   "title": {
+    "en": "Sunqur al-Sa'di mausoleum",
+    "ar": "قبة سنقر السعدي"
+   },
+   "desc": {
+    "en": "The 1321 Mamluk dome with fine carved stucco.",
+    "ar": "قبة مملوكية من عام 1321 بزخارف جصية دقيقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Mevlevi display",
+    "ar": "عرض المولوية"
+   },
+   "desc": {
+    "en": "Costumes and objects of the order in the madrasa's iwan.",
+    "ar": "أزياء وأدوات الطريقة المولوية في إيوان المدرسة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Morning, combined with Prince Taz Palace and the Sultan Hassan Mosque nearby.",
+   "ar": "الصباح، مع الجمع بين الزيارة وقصر الأمير طاز ومسجد السلطان حسن القريبين."
+  },
+  "crowdNotes": {
+   "en": "No dervish ceremonies are held here; for a whirling performance see the Tanoura show at the Ghuri Dome.",
+   "ar": "لا تُقام هنا حلقات الذكر المولوية، ولمشاهدة رقص التنورة يمكن حضور عرض قبة الغوري."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Iwan_della_madrasa_di_Sunqur_Sa%27di_e_il_museo_Mevlevi.jpg",
+   "author": "FANGIUSI",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iwan_della_madrasa_di_Sunqur_Sa'di_e_il_museo_Mevlevi.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Le_pitture_della_cupola_della_sa%27khana.jpg",
+   "author": "FANGIUSI",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_pitture_della_cupola_della_sa'khana.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Madrasa_and_Mausoleum_of_Amir_Sunqur_Sa%27di%2C_Al-Suyufiyya%2C_Cairo_01.jpg",
+   "author": "Hassan Hamdy wahidy",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madrasa_and_Mausoleum_of_Amir_Sunqur_Sa'di,_Al-Suyufiyya,_Cairo_01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/the-takeyya-mawlawiyya/",
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q130634161",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-takeyya-mawlawiyya/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-takeyya-mawlawiyya/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan 09:00-16:00),address,description (MoTA open-sites guide; last entry one hour before closing)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D8%A7%D9%84%D8%AA%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D9%84%D9%88%D9%8A%D8%A9/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (listed among Cairo heritage sites open at student rates), 25 Mar 2026",
+   "url": "https://www.cairo360.com/ar/article/%D9%85%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9/cairo-museums-5-egp-students-budget-guide/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Portal prices (foreign 100/50, Egyptian 10/5) match the Nov 2024 list; not on the booking platform, so no free-group list and tickets onsite. Coordinates null in seed and Wikidata; not filled. Theatre date: MoTA gives '1255 AH / 1810 AD', which do not match (1255 AH = 1839-40), so the text says 'nineteenth century'. Italian-Egyptian restoration (CISS) is general knowledge supported by the Italian-language Commons uploads; dates not given. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

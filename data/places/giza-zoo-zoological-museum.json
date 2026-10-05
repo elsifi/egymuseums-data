@@ -1,0 +1,129 @@
+{
+ "id": "giza-zoo-zoological-museum",
+ "kind": "museum",
+ "wikidataId": "Q20391739",
+ "name": {
+  "en": "Zoological Museum (Giza Zoo)",
+  "ar": "المتحف الحيواني بحديقة الحيوان بالجيزة"
+ },
+ "aliases": [
+  "المتحف الحيواني",
+  "Giza Zoo Museum"
+ ],
+ "category": "science-natural",
+ "operator": "agriculture",
+ "governorate": "giza",
+ "city": {
+  "en": "Giza",
+  "ar": "الجيزة"
+ },
+ "area": {
+  "en": "Inside the Giza Zoo, Charles de Gaulle Street",
+  "ar": "داخل حديقة الحيوان بالجيزة، شارع شارل ديجول"
+ },
+ "address": {
+  "en": "Giza Zoo, Charles de Gaulle Street, Giza",
+  "ar": "حديقة الحيوان، شارع شارل ديجول، الجيزة"
+ },
+ "lat": 30.02453,
+ "lng": 31.2139,
+ "status": "renovation",
+ "statusNote": {
+  "en": "The Giza Zoo has been closed for a comprehensive redevelopment and is officially expected to reopen in the last quarter of 2026. The museum’s own reopening has not been announced.",
+  "ar": "حديقة الحيوان بالجيزة مغلقة لأعمال تطوير شاملة، ومن المقرر رسميًا إعادة افتتاحها في الربع الأخير من عام 2026، ولم يُعلن بعد موعد إعادة افتتاح المتحف نفسه."
+ },
+ "summary": {
+  "en": "A natural-history museum inside the historic Giza Zoo, with mounted animals, birds and reptiles, closed while the zoo is redeveloped.",
+  "ar": "متحف للتاريخ الطبيعي داخل حديقة الحيوان التاريخية بالجيزة، يضم حيوانات وطيورًا وزواحف محنطة، ومغلق أثناء تطوير الحديقة."
+ },
+ "description": {
+  "en": "The Giza Zoo, laid out in the gardens of Khedive Ismail’s palace and opened in 1891, is one of the oldest zoos in Africa and the Middle East. Its zoological museum dates from the early twentieth century and displays preserved specimens of mammals, birds and reptiles, many of them species native to Egypt, in old-fashioned glass cases. The museum closed in the late 1990s and was later prepared for reopening; photographs from 2014 show its galleries of mounted birds and animals. The whole zoo was closed in 2023 for a redevelopment that links it to the neighbouring Orman Garden, and its reopening is planned for the end of 2026. Until the museum’s own status is announced, it should be treated as closed.",
+  "ar": "أُنشئت حديقة الحيوان بالجيزة في حدائق سراي الخديوي إسماعيل وافتُتحت عام 1891، وهي من أقدم حدائق الحيوان في أفريقيا والشرق الأوسط. ويعود المتحف الحيواني فيها إلى مطلع القرن العشرين، ويعرض في خزانات زجاجية تقليدية عينات محنطة من الثدييات والطيور والزواحف، كثير منها من الأنواع المصرية. أُغلق المتحف في أواخر التسعينيات ثم جرى تجهيزه لإعادة الافتتاح، وتُظهر صور من عام 2014 قاعاته بما فيها من طيور وحيوانات محنطة. وفي عام 2023 أُغلقت الحديقة بالكامل لتطوير شامل يربطها بحديقة الأورمان المجاورة، ومن المقرر إعادة افتتاحها في نهاية عام 2026. وإلى أن يُعلن وضع المتحف، ينبغي اعتباره مغلقًا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Mounted birds",
+    "ar": "الطيور المحنطة"
+   },
+   "desc": {
+    "en": "Cases of Egyptian and migratory birds.",
+    "ar": "خزانات تضم طيورًا مصرية ومهاجرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Mammal displays",
+    "ar": "عرض الثدييات"
+   },
+   "desc": {
+    "en": "Preserved wolves, foxes and other animals.",
+    "ar": "ذئاب وثعالب وحيوانات أخرى محنطة."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Zoological_Museum_in_Giza_Zoo_by_Hatem_Moushir.JPG",
+   "author": "Hatem Moushir",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zoological_Museum_in_Giza_Zoo_by_Hatem_Moushir.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Zoological_Museum_in_Giza_Zoo_by_Hatem_Moushir_18.JPG",
+   "author": "Hatem Moushir",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zoological_Museum_in_Giza_Zoo_by_Hatem_Moushir_18.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q20391739",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (zoo reopening planned for Q4 2026; 2 Oct 2026)",
+   "url": "https://www.elbalad.news/7127406",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "coordinates (Giza Zoo, Wikidata CC0 - approximate for the museum)",
+   "url": "https://www.wikidata.org/wiki/Q2509245",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (museum founded 1914, closed 1998)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%AD%D8%AF%D9%8A%D9%82%D8%A9_%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86_%D8%A8%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (zoo history)",
+   "url": "https://en.wikipedia.org/wiki/Giza_Zoo",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Status 'renovation': the whole Giza Zoo is closed for redevelopment (since 2023); elbalad 2 Oct 2026 reports reopening planned for Q4 2026 subject to African zoo association approval. No statement on the zoological museum itself. Coordinates are the Giza Zoo's Wikidata point (approximate; the item Q20391739 has none). Museum founding date conflicts in ar-wiki (1906 building vs 1914 founding) - text says 'early twentieth century'. Zoo opening year 1891 from general sources. Hours/prices not given. name.ar expanded from seed 'المتحف الحيواني' (kept as alias). Recheck in Dec 2026."
+}

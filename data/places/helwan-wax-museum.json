@@ -1,0 +1,129 @@
+{
+ "id": "helwan-wax-museum",
+ "kind": "museum",
+ "wikidataId": "Q13635773",
+ "name": {
+  "en": "Helwan Wax Museum",
+  "ar": "متحف الشمع في حلوان"
+ },
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Helwan",
+  "ar": "حلوان"
+ },
+ "area": {
+  "en": "Ain Helwan",
+  "ar": "عين حلوان"
+ },
+ "address": {
+  "en": "Ain Helwan, near Ain Helwan metro station, Cairo",
+  "ar": "عين حلوان، بالقرب من محطة مترو عين حلوان، القاهرة"
+ },
+ "lat": 29.8603,
+ "lng": 31.3258,
+ "status": "renovation",
+ "statusNote": {
+  "en": "Closed to visitors while the Ministry of Culture prepares and develops the museum; no reopening date has been announced.",
+  "ar": "مغلق أمام الزوار بينما تعمل وزارة الثقافة على تطوير المتحف وتجهيزه، ولم يُعلن موعد لإعادة افتتاحه."
+ },
+ "summary": {
+  "en": "A historic wax museum in Helwan, with more than a hundred figures and dozens of scenes from Egyptian history, closed for development.",
+  "ar": "متحف شمع تاريخي في حلوان يضم أكثر من مئة تمثال وعشرات المشاهد من تاريخ مصر، وهو مغلق للتطوير."
+ },
+ "description": {
+  "en": "Egypt's wax museum was created in the 1930s by the artist George (Fouad) Abdel-Malek, who had studied the craft in France and wanted to tell the country's history through life-size figures. It began in a palace downtown, moved to Qasr al-Aini Street and settled in 1950 in a villa at Ain Helwan; the Ministry of Culture's Fine Arts Sector took it over in 1997. Its 116 wax figures are arranged in 26 scenes across many rooms, from pharaonic and religious subjects to Islamic history, the Muhammad Ali era and modern events such as the Denshawai incident, alongside scenes of Ramadan nights and folk life. Years without air conditioning and maintenance damaged many figures, and the museum closed for safety in 2009, reopened partly in 2014 and closed again. In 2026 the ministry announced a plan to develop it and prepare it for visitors.",
+  "ar": "أنشأ الفنان جورج (فؤاد) عبد الملك متحف الشمع المصري في ثلاثينيات القرن العشرين بعد أن درس هذا الفن في فرنسا، ليروي تاريخ البلاد من خلال تماثيل بالحجم الطبيعي. وبدأ في قصر بوسط القاهرة، ثم انتقل إلى شارع القصر العيني، واستقر عام 1950 في فيلا بعين حلوان، وتولى قطاع الفنون التشكيلية بوزارة الثقافة الإشراف عليه عام 1997. وتتوزع تماثيله الشمعية البالغ عددها 116 تمثالًا على 26 مشهدًا في قاعات عديدة، من الموضوعات الفرعونية والدينية إلى التاريخ الإسلامي وعصر محمد علي وأحداث حديثة مثل حادثة دنشواي، إلى جانب مشاهد ليالي رمضان والحياة الشعبية. وأضرت سنوات بلا تكييف أو صيانة بكثير من التماثيل، فأُغلق المتحف حفاظًا على سلامة الزوار عام 2009، ثم أعيد فتحه جزئيًا عام 2014 وأُغلق مجددًا. وفي عام 2026 أعلنت الوزارة خطة لتطويره وتجهيزه لاستقبال الجمهور."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Historical scenes",
+    "ar": "المشاهد التاريخية"
+   },
+   "desc": {
+    "en": "Tableaux from pharaonic times to the twentieth century, including Saladin and Richard the Lionheart.",
+    "ar": "مشاهد من العصر الفرعوني حتى القرن العشرين، منها صلاح الدين وريتشارد قلب الأسد."
+   }
+  },
+  {
+   "title": {
+    "en": "Denshawai scene",
+    "ar": "مشهد دنشواي"
+   },
+   "desc": {
+    "en": "A dramatic reconstruction of the 1906 Denshawai incident.",
+    "ar": "تجسيد درامي لحادثة دنشواي عام 1906."
+   }
+  },
+  {
+   "title": {
+    "en": "Ramadan nights",
+    "ar": "ليالي رمضان"
+   },
+   "desc": {
+    "en": "Scenes of lanterns and festive street life in Ramadan.",
+    "ar": "مشاهد للفوانيس والحياة الاحتفالية في شوارع رمضان."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Museum_of_wax_-_Helwan.jpg",
+   "author": "Ibrahim.ID",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_wax_-_Helwan.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Helwan_wax_museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B4%D9%85%D8%B9_(%D8%AD%D9%84%D9%88%D8%A7%D9%86)",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q13635773",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (official Fine Arts Sector visitor page: 'currently under development and preparation')",
+   "url": "https://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=26",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (Ministry of Culture development plan to prepare the museum to receive the public; news 19 Feb 2026)",
+   "url": "https://www.youm7.com/story/2026/2/19/%D9%85%D9%84%D9%81-%D8%A8%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3-%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%B4%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D9%82%D8%B1%D8%B1-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1%D9%87/7308775",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Helwan_wax_museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B4%D9%85%D8%B9_(%D8%AD%D9%84%D9%88%D8%A7%D9%86)",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Ministry of Culture (Fine Arts Sector). Status 'renovation': official fineart.gov.eg page says 'currently under development and preparation' for both hours and prices; youm7 19 Feb 2026 reports a ministry development plan. Seed note ('AR list says closed for maintenance') confirmed. Founding year conflict: 1934 (wikis) vs 1937 (youm7 2026); prose says 'the 1930s'. A 2026 search summary quoting '10:00-14:00' hours is not used. Photos: the wax figures (modern artworks) excluded; the entrance gate photo used."
+}

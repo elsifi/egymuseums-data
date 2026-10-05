@@ -1,0 +1,159 @@
+{
+ "id": "al-muayyad-mosque",
+ "kind": "site",
+ "wikidataId": "Q838360",
+ "name": {
+  "en": "Mosque of Sultan al-Mu'ayyad Shaykh",
+  "ar": "مسجد السلطان المؤيد شيخ"
+ },
+ "aliases": [
+  "الجامع المؤيدي",
+  "المسجد المؤيدي",
+  "جامع السلطان الملك المؤيد",
+  "مسجد المؤيد",
+  "Al Muayyad Mosque",
+  "Mosque of al-Mu'ayyad Shaykh",
+  "Sultan Al-Muayyad Mosque"
+ ],
+ "category": "islamic",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Bab Zuwayla, southern end of al-Muizz Street",
+  "ar": "باب زويلة، الطرف الجنوبي لشارع المعز"
+ },
+ "lat": 30.0431,
+ "lng": 31.2575,
+ "status": "open",
+ "statusNote": {
+  "en": "A working mosque, open daily; visitors are welcome outside prayer times. Its two minarets are climbed from the Bab Zuwayla gate, which has its own ticket.",
+  "ar": "مسجد تُقام فيه الصلاة ويفتح يوميًا، ويُرحب بالزوار خارج أوقات الصلاة. ويُصعد إلى مئذنتيه من بوابة باب زويلة التي لها تذكرة مستقلة."
+ },
+ "summary": {
+  "en": "A grand Mamluk mosque of 1415–1421 whose twin minarets crown the towers of Bab Zuwayla.",
+  "ar": "جامع مملوكي كبير شُيّد بين عامي 1415 و1421، وتعلو مئذنتاه برجي باب زويلة."
+ },
+ "description": {
+  "en": "Sultan al-Mu'ayyad Shaykh built this mosque between 1415 and 1421 just inside Bab Zuwayla, on the site of the Khizanat Shama'il prison where he had once been held. Legend says he vowed during his imprisonment that, if he ever ruled, he would replace the jail with a mosque. The result impressed even the Ottoman sultan Selim I, who reportedly called it a building fit for kings. Behind a monumental portal with a bronze-plated door, thought to have been taken from the madrasa of Sultan Hassan, an open courtyard with a central fountain is surrounded by arcades; the deepest is the prayer hall, with a marble-panelled qibla wall and painted wooden ceilings. Of the two domed mausoleums flanking it, only the one holding the sultan and his sons survives. Al-Mu'ayyad's architects built the two minarets on the towers of the Fatimid gate, giving Bab Zuwayla its famous silhouette. A hammam belonging to the foundation still stands to the west.",
+  "ar": "شيّد السلطان المؤيد شيخ هذا الجامع بين عامي 1415 و1421 داخل باب زويلة، في موضع سجن «خزانة شمائل» الذي كان قد سُجن فيه من قبل. وتقول الرواية إنه نذر وهو في السجن أن يبني مكانه مسجدًا إن صار سلطانًا. وقد أعجب البناء السلطان العثماني سليم الأول حتى قيل إنه وصفه بأنه عمارة الملوك. ويؤدي المدخل الضخم ذو الباب المصفح بالبرونز، الذي يُرجح أنه نُقل من مدرسة السلطان حسن، إلى صحن مكشوف تتوسطه فسقية وتحيط به الأروقة، وأعمقها رواق القبلة بجداره المكسو بالرخام وأسقفه الخشبية الملونة. ومن القبتين اللتين كانتا تكتنفانه لم تبق إلا القبة التي دُفن تحتها السلطان وأبناؤه. وقد بنى مهندسو المؤيد المئذنتين فوق برجي البوابة الفاطمية، فمنحا باب زويلة صورته الشهيرة. ولا يزال حمام تابع للمنشأة قائمًا في الجهة الغربية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Minarets on Bab Zuwayla",
+    "ar": "مئذنتا باب زويلة"
+   },
+   "desc": {
+    "en": "Two Mamluk minarets built on the towers of the Fatimid gate.",
+    "ar": "مئذنتان مملوكيتان شُيّدتا فوق برجي البوابة الفاطمية."
+   }
+  },
+  {
+   "title": {
+    "en": "Bronze door",
+    "ar": "الباب البرونزي"
+   },
+   "desc": {
+    "en": "A monumental bronze-plated door thought to come from the madrasa of Sultan Hassan.",
+    "ar": "باب ضخم مصفح بالبرونز يُرجح أنه نُقل من مدرسة السلطان حسن."
+   }
+  },
+  {
+   "title": {
+    "en": "Prayer hall",
+    "ar": "رواق القبلة"
+   },
+   "desc": {
+    "en": "A marble-panelled qibla wall under painted and gilded wooden ceilings.",
+    "ar": "جدار قبلة مكسو بالرخام أسفل أسقف خشبية ملونة ومذهبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Sultan's mausoleum",
+    "ar": "قبة السلطان"
+   },
+   "desc": {
+    "en": "The surviving dome over the tomb of al-Mu'ayyad Shaykh and his sons.",
+    "ar": "القبة الباقية فوق مدفن المؤيد شيخ وأبنائه."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Morning, combined with Bab Zuwayla (for the minaret climb) and the Sabil of Nafisa al-Bayda opposite.",
+   "ar": "الصباح، مع الجمع بين الزيارة وباب زويلة (لصعود المئذنتين) وسبيل نفيسة البيضاء المقابل."
+  },
+  "crowdNotes": {
+   "en": "Dress modestly, remove shoes in the prayer hall and avoid prayer times, especially Friday noon.",
+   "ar": "يُرجى ارتداء ملابس محتشمة وخلع الأحذية في رواق الصلاة وتجنب أوقات الصلاة، خاصة صلاة الجمعة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cairo%2C_moschea_di_al-muayyad%2C_01.JPG",
+   "author": "Sailko",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo,_moschea_di_al-muayyad,_01.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Courtyard_Arcades_and_Central_Pavilion_of_Sultan_al-Muayyad_Mosque.jpg",
+   "author": "Sphotography13",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Courtyard_Arcades_and_Central_Pavilion_of_Sultan_al-Muayyad_Mosque.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Egypt%2C_Cairo%2C_Mosque_of_Sultan_al-Muayyad_minaret_in_Islamic_Cairo.jpg",
+   "author": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egypt,_Cairo,_Mosque_of_Sultan_al-Muayyad_minaret_in_Islamic_Cairo.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/al-muayyad-sheikh-mosque/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mosque_of_Sultan_al-Muayyad",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D8%A4%D9%8A%D8%AF_%D8%B4%D9%8A%D8%AE",
+  "osm": "way/29973662"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q838360",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/al-muayyad-sheikh-mosque/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (official portal; no hours or ticket listed)",
+   "url": "https://egymonuments.gov.eg/en/monuments/al-muayyad-sheikh-mosque/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Mosque_of_Sultan_al-Muayyad",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Working mosque: the portal lists no visiting hours or ticket; not on the MoTA Nov 2024 list or the booking platform. Hours omitted and prices.status 'unconfirmed' (D9, as al-Azhar). Status 'open' assumes normal daily use as a mosque; no dated 2024-2026 visitor statement found. Operator kept as seed 'other' (Awqaf mosque; SCA monument). Minaret access is via Bab Zuwayla (see bab-zuwayla record)."
+}

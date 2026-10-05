@@ -1,0 +1,308 @@
+{
+ "id": "qasr-el-ghueita",
+ "kind": "site",
+ "wikidataId": "Q14218430",
+ "name": {
+  "en": "Qasr el-Ghueita Temple",
+  "ar": "قصر الغويطة"
+ },
+ "aliases": [
+  "Qasr al-Ghuwayta",
+  "Qasr el-Ghueita",
+  "Qasr Ghueita",
+  "معبد الغويطة"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "new-valley",
+ "city": {
+  "en": "Kharga",
+  "ar": "الخارجة"
+ },
+ "area": {
+  "en": "Genah village, south of Kharga town",
+  "ar": "قرية جناح، جنوب مدينة الخارجة"
+ },
+ "address": {
+  "en": "Off the Kharga-Baris road, about 18 km south of Kharga town, New Valley Governorate",
+  "ar": "بجوار طريق الخارجة باريس، على بعد نحو 18 كم جنوب مدينة الخارجة، محافظة الوادي الجديد"
+ },
+ "lat": 25.286639,
+ "lng": 30.557889,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A hilltop fortress and temple of the Theban triad above the Darb el-Arbain caravan road, with fine Ptolemaic reliefs.",
+  "ar": "قلعة ومعبد للثالوث الطيبي على تل يطل على درب الأربعين، بنقوش بطلمية بديعة."
+ },
+ "description": {
+  "en": "Qasr el-Ghueita sits on a high outcrop about 18 km south of Kharga town, overlooking the Darb el-Arbain, the forty-day caravan route to Sudan. Its ancient name, Per-Usekh, the great house, belonged to a settlement famous in pharaonic times for its wine, delivered as far as the Theban palaces. A massive mud-brick fortress wall, added in the Roman period, encloses a sandstone temple of Amun, Mut and Khonsu. Work on the temple began under the 25th or 26th Dynasty and was completed under the Ptolemies. The hypostyle hall carries the best reliefs: Ptolemy III and Queen Berenice II offering wine and fields to the triad, and a procession of Nile gods bearing the produce of Egypt's provinces. Beyond lie a vestibule and the sanctuary, with mud-brick storerooms and houses inside the walls. The view from the ramparts over the green fields of Genah and the desert is one of the finest in the oasis.",
+  "ar": "يقع قصر الغويطة فوق ربوة مرتفعة على بعد نحو 18 كيلومترًا جنوب مدينة الخارجة، ويطل على درب الأربعين، طريق القوافل إلى السودان. وكان اسمه القديم بر أوسخ، أي البيت الواسع، لمستوطنة اشتهرت في العصور الفرعونية بنبيذها الذي كان يُرسل حتى قصور طيبة. ويحيط سور ضخم من الطوب اللبن، أُضيف في العصر الروماني، بمعبد من الحجر الرملي لآمون وموت وخونسو، بدأ بناؤه في عهد الأسرة الخامسة والعشرين أو السادسة والعشرين واكتمل في العصر البطلمي. وتحمل صالة الأعمدة أجمل النقوش، ومنها بطليموس الثالث والملكة برنيكي الثانية يقدمان النبيذ والحقول للثالوث، وموكب لمعبودات النيل يحمل خيرات أقاليم مصر. ويلي ذلك دهليز ثم قدس الأقداس، وداخل السور مخازن وبيوت من الطوب اللبن. والمشهد من الأسوار على حقول جناح الخضراء والصحراء من أجمل مشاهد الواحة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Nile gods procession",
+    "ar": "موكب معبودات النيل"
+   },
+   "desc": {
+    "en": "Figures carrying the produce of Egypt's provinces in the hypostyle hall.",
+    "ar": "معبودات تحمل خيرات أقاليم مصر في صالة الأعمدة."
+   }
+  },
+  {
+   "title": {
+    "en": "Ptolemy III and Berenice II",
+    "ar": "بطليموس الثالث وبرنيكي الثانية"
+   },
+   "desc": {
+    "en": "The royal couple offering to Amun, Mut and Khonsu.",
+    "ar": "الزوجان الملكيان يقدمان القرابين لآمون وموت وخونسو."
+   }
+  },
+  {
+   "title": {
+    "en": "Fortress walls",
+    "ar": "أسوار القلعة"
+   },
+   "desc": {
+    "en": "Roman mud-brick ramparts around the temple.",
+    "ar": "أسوار رومانية من الطوب اللبن تحيط بالمعبد."
+   }
+  },
+  {
+   "title": {
+    "en": "Darb el-Arbain view",
+    "ar": "إطلالة على درب الأربعين"
+   },
+   "desc": {
+    "en": "Views over the old caravan road and the fields of Genah.",
+    "ar": "مشهد يطل على طريق القوافل القديم وحقول جناح."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Late afternoon, for the light on the walls and the view.",
+   "ar": "آخر النهار، حيث يجمل الضوء على الأسوار ويتسع المشهد."
+  },
+  "crowdNotes": {
+   "en": "A short drive from Qasr el-Zayyan, so the two are usually visited together. Bring water and sun protection: there are no facilities at most desert sites.",
+   "ar": "على مسافة قصيرة من قصر الزيان، فتجري زيارتهما معًا عادة. احمل الماء وواقيًا من الشمس، فمعظم المواقع الصحراوية بلا خدمات."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/GhweitaTemple.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:GhweitaTemple.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/GhweitaPM4.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:GhweitaPM4.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_Fortress_of_Qasr_el-Ghueita_%28I%29_%284929872451%29.jpg",
+   "author": "Institute for the Study of the Ancient World from New York, United States of America",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Fortress_of_Qasr_el-Ghueita_(I)_(4929872451).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q14218430",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00; Ramadan 09:00-16:00; last entry 1 h before closing),address,description (Per-Usekh, 25th Dynasty to Ptolemaic, Hapi procession)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/معبد-الغويطة/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (MoTA Nov 2024 list: 'Temple of Qasr al-Ghuweita' 100/50, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (checked: the 9 Jul 2026 SCA board decision raising prices from 1 Oct 2026 names only Bahariya Oasis sites; not applied here)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (wine, Ptolemy III and Berenice II, fortress; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Qa%E1%B9%A3r_el-Ghuwei%E1%B9%ADa",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "visit.crowdNotes (travel advice: oasis roads exempt from warnings; updated 4 Aug 2026)",
+   "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Dynasty of the first building: the MoTA guide says 25th Dynasty, other references 26th; prose says '25th or 26th'. Prices only from the MoTA Nov 2024 list (no portal page, not on egymonuments.com); kept as confirmed (batch-7 Q4a). The 9 Jul 2026 oasis price rise covers Bahariya only (batch-7 finding), not applied. Ramadan from the MoTA guide (09:00-16:00, last entry 15:00). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

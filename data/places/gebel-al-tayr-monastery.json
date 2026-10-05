@@ -1,0 +1,218 @@
+{
+ "id": "gebel-al-tayr-monastery",
+ "kind": "site",
+ "wikidataId": "Q12212345",
+ "name": {
+  "en": "Monastery of the Virgin, Gebel al-Tayr",
+  "ar": "دير العذراء بجبل الطير"
+ },
+ "aliases": [
+  "ديرجبل الطير، المنيا",
+  "جبل الطير",
+  "جبل الطير، المنيا",
+  "دير جبل الطير",
+  "Deir el-Adra",
+  "Deir al-Adhra",
+  "دير العذراء",
+  "Gebel al-Kaff",
+  "Deir el-Bakara"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "minya",
+ "city": {
+  "en": "Samalut",
+  "ar": "سمالوط"
+ },
+ "area": {
+  "en": "Gebel al-Tayr, east bank opposite Samalut",
+  "ar": "جبل الطير، البر الشرقي في مواجهة سمالوط"
+ },
+ "address": {
+  "en": "Deir Gebel al-Tayr village, Samalut, Minya Governorate (east bank)",
+  "ar": "قرية دير جبل الطير، مركز سمالوط، محافظة المنيا (البر الشرقي)"
+ },
+ "lat": 28.280446,
+ "lng": 30.747911,
+ "status": "open",
+ "statusNote": {
+  "en": "A working monastery and major pilgrimage site; very crowded during the summer feast of the Virgin.",
+  "ar": "دير عامر ومقصد كبير للحج، ويشهد زحامًا شديدًا خلال مولد العذراء في الصيف."
+ },
+ "summary": {
+  "en": "A hilltop monastery above the Nile, revered as a resting place of the Holy Family, with a church partly cut into the rock.",
+  "ar": "دير على قمة جبل يطل على النيل، يُعد من محطات العائلة المقدسة، وتضم كنيسته جزءًا منحوتًا في الصخر."
+ },
+ "description": {
+  "en": "The Monastery of the Virgin stands on Gebel al-Tayr, the Mountain of the Birds, a limestone cliff on the east bank of the Nile about 20 km north-east of Minya, opposite Samalut. Coptic tradition counts it among the stations of the Holy Family's flight into Egypt. One story tells that the infant Jesus raised his hand to stop a falling rock, leaving the print of his palm, which gave the hill its other name, Gebel al-Kaff. The church is attributed to the time of Empress Helena in the fourth century and was partly hollowed out of the rock, reusing an older rock-cut chamber; it was restored in 1938. Inside, a baptismal font is cut into one of the columns, and a frieze above the west door shows seven apostles. Monks once reached the clifftop by a basket on a pulley, hence the name Deir el-Bakara. Today a stairway of 166 steps and a road lead up from the river.",
+  "ar": "يقوم دير العذراء على جبل الطير، وهو جرف من الحجر الجيري على البر الشرقي للنيل على بعد نحو 20 كيلومترًا شمال شرق المنيا، في مواجهة سمالوط. ويعدّه التقليد القبطي من محطات رحلة العائلة المقدسة إلى مصر، وتروي إحدى القصص أن الطفل يسوع رفع يده ليوقف صخرة كانت تهوي، فانطبع كفه عليها، ومن هنا جاء اسم الجبل الآخر، جبل الكف. وتُنسب الكنيسة إلى عصر الملكة هيلانة في القرن الرابع، وقد نُحت جزء منها في الصخر مستفيدًا من حجرة صخرية أقدم، ورُممت عام 1938. وفي داخلها جرن للمعمودية منحوت في أحد الأعمدة، وإفريز فوق الباب الغربي يصور سبعة من الرسل. وكان الرهبان يصعدون قديمًا إلى قمة الجرف في سلة معلقة ببكرة، ومن هنا عُرف أيضًا بدير البكرة. أما اليوم فيصعد الزائر إليه بدرج من 166 درجة أو بطريق من جهة النهر."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Rock-cut Church of the Virgin",
+    "ar": "كنيسة العذراء المنحوتة في الصخر"
+   },
+   "desc": {
+    "en": "A church partly carved into the cliff, attributed to the fourth century.",
+    "ar": "كنيسة نُحت جزء منها في الجرف وتُنسب إلى القرن الرابع."
+   }
+  },
+  {
+   "title": {
+    "en": "Holy Family resting place",
+    "ar": "محطة العائلة المقدسة"
+   },
+   "desc": {
+    "en": "A small room beside the sanctuary linked with the Holy Family's stay.",
+    "ar": "حجرة صغيرة بجوار الهيكل ترتبط بإقامة العائلة المقدسة."
+   }
+  },
+  {
+   "title": {
+    "en": "Apostles frieze",
+    "ar": "إفريز الرسل"
+   },
+   "desc": {
+    "en": "Carved stones above the west door showing seven apostles.",
+    "ar": "أحجار منقوشة فوق الباب الغربي تصور سبعة من الرسل."
+   }
+  },
+  {
+   "title": {
+    "en": "Nile views",
+    "ar": "إطلالة على النيل"
+   },
+   "desc": {
+    "en": "Wide views over the valley from the clifftop.",
+    "ar": "مشهد واسع للوادي من قمة الجرف."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Weekday mornings outside the pilgrimage season.",
+   "ar": "صباح أيام الأسبوع خارج موسم الزيارات الدينية."
+  },
+  "crowdNotes": {
+   "en": "During the annual feast of the Virgin huge crowds of pilgrims gather and access becomes slow; dress modestly. Foreign visitors travelling by road in Minya governorate may be asked by police to register their route or travel with an escort, so allow extra time.",
+   "ar": "خلال مولد العذراء السنوي يتوافد عدد هائل من الزوار ويصبح الوصول بطيئًا، والتزم بالملابس المحتشمة. قد تطلب الشرطة من الزوار الأجانب المسافرين برًا في محافظة المنيا تسجيل خط سيرهم أو التنقل بمرافقة أمنية، فاحسب وقتًا إضافيًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/DeirAdraChurch.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:DeirAdraChurch.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Egipto%2C_1882_%22Gebel-Et-Teir%22_%2821053348374%29.jpg",
+   "author": "Fondo Antiguo de la Biblioteca de la Universidad de Sevilla from Sevilla, España",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egipto,_1882_%22Gebel-Et-Teir%22_(21053348374).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%AC%D8%A8%D9%84_%D8%A7%D9%84%D8%B7%D9%8A%D8%B1",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12212345",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q12204751",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (no fee listed: dashes),hours (09:00-17:00, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Holy Family path project)",
+   "url": "https://egymonuments.gov.eg/en/news/the-project-to-revive-the-path-of-the-holy-family-in-monastery-of-jabal-al-tair-in-minya/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "coordinates (church listing),description,highlights (legends, 328/1938, 166 steps, frieze; free entry; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Deir_el-%CA%BFAdhr%C4%81%CA%BE",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "identity (village item)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%AC%D8%A8%D9%84_%D8%A7%D9%84%D8%B7%D9%8A%D8%B1",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Seed Wikidata Q12212345 is the village of Deir Gebel al-Tayr (duplicate village item Q12204751); kept as identity. Coordinates from the German Wikivoyage church listing (Wikidata has none). Hours 09:00-17:00 only from the MoTA Nov 2024 list (the church follows its own liturgical schedule); no last entry. Price unconfirmed: dashes in the list; Wikivoyage says entry is free (not official) - D9 treatment, confirm via hotline 19654. Feast timing: Wikivoyage mentions July pilgrimages and 22 August; prose says 'summer feast' only. The 1882 engraving photo is a historic illustration of the monastery cliff (CC BY 2.0 scan)."
+}

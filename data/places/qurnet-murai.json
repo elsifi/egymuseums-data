@@ -1,0 +1,294 @@
+{
+ "id": "qurnet-murai",
+ "kind": "site",
+ "wikidataId": "Q1754795",
+ "name": {
+  "en": "Qurnet Murai Tombs",
+  "ar": "قرنة مرعي"
+ },
+ "aliases": [
+  "Qurnet Murai"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor (West Bank)",
+  "ar": "الأقصر (البر الغربي)"
+ },
+ "area": {
+  "en": "Qurnet Murai hill, between Deir el-Medina and Medinet Habu",
+  "ar": "تل قرنة مرعي، بين دير المدينة ومدينة هابو"
+ },
+ "address": {
+  "en": "Qurnet Murai, Qurna, West Bank, Luxor",
+  "ar": "قرنة مرعي، القرنة، البر الغربي، الأقصر"
+ },
+ "lat": 25.725216,
+ "lng": 32.60341,
+ "status": "open",
+ "statusNote": {
+  "en": "Usually open daily; only a few tombs are open to visitors.",
+  "ar": "مفتوحة يوميًا في العادة، والمفتوح للزيارة عدد قليل من المقابر."
+ },
+ "summary": {
+  "en": "A hillside of officials' tombs on the Theban west bank, best known for the tomb of Huy, Tutankhamun's viceroy of Kush.",
+  "ar": "تل يضم مقابر كبار الموظفين في البر الغربي بطيبة، وأشهرها مقبرة حوي نائب الملك توت عنخ آمون في بلاد كوش."
+ },
+ "description": {
+  "en": "Qurnet Murai is a low hill at the southern end of the Theban necropolis, just south of Deir el-Medina and north-west of the temple of Amenhotep III. Its slopes were used for burials from the late Middle Kingdom, but most of the rock-cut tombs belong to New Kingdom officials, several of them priests of Montu or administrators of Nubia. The highlight is the tomb of Amenhotep, called Huy, viceroy of Kush under Tutankhamun. Its painted walls show Nubian princes arriving with gold rings, giraffe tails, ebony furniture and a chariot, and a princess riding in an ox cart, all presented to the young king. Nearby tombs of Ramesside priests, such as Amenemonet and Amenemheb, add scenes of offerings and funerary rites. The hill takes its name from the shrine of a local Muslim saint on its summit, and until recently a village of mud-brick houses covered the slope in front of the tombs.",
+  "ar": "قرنة مرعي تل منخفض في الطرف الجنوبي من جبانة طيبة، جنوب دير المدينة مباشرة وإلى الشمال الغربي من معبد أمنحتب الثالث. واستُخدمت سفوحه للدفن منذ أواخر الدولة الوسطى، غير أن معظم مقابره المنحوتة في الصخر تعود إلى موظفي الدولة الحديثة، وكان بعضهم كهنة للمعبود مونتو أو مسؤولين عن إدارة النوبة. وأبرزها مقبرة أمنحتب المعروف بحوي، نائب الملك في كوش في عهد توت عنخ آمون، وتصور جدرانها الملونة أمراء النوبة قادمين بحلقات الذهب وأذناب الزراف والأثاث المصنوع من الأبنوس وعربة حربية، وأميرة تركب عربة يجرها ثوران، وكلها هدايا تُقدَّم إلى الملك الشاب. وتضيف مقابر كهنة من العصر الرمسيسي، مثل أمون إم إينت وأمون إم حب، مناظر للقرابين وطقوس الدفن. ويستمد التل اسمه من ضريح ولي محلي على قمته، وظلت قرية من البيوت الطينية تغطي السفح أمام المقابر حتى سنوات قليلة مضت."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Huy (TT40)",
+    "ar": "مقبرة حوي (TT40)"
+   },
+   "desc": {
+    "en": "Painted scenes of Nubian tribute presented to Tutankhamun.",
+    "ar": "مناظر ملونة لجزية النوبة وهي تُقدَّم إلى توت عنخ آمون."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Amenemonet (TT277)",
+    "ar": "مقبرة أمون إم إينت (TT277)"
+   },
+   "desc": {
+    "en": "A Ramesside priest's tomb with offering and funerary scenes.",
+    "ar": "مقبرة كاهن من العصر الرمسيسي بمناظر للقرابين والطقوس الجنائزية."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Amenemheb (TT278)",
+    "ar": "مقبرة أمون إم حب (TT278)"
+   },
+   "desc": {
+    "en": "A small decorated tomb next to that of Amenemonet.",
+    "ar": "مقبرة صغيرة مزخرفة بجوار مقبرة أمون إم إينت."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 120
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Early morning, combined with Deir el-Medina next door.",
+   "ar": "الصباح الباكر، مع الجمع بين الزيارة ودير المدينة المجاورة."
+  },
+  "crowdNotes": {
+   "en": "Very quiet. Ask at the West Bank ticket office which tombs are open on the day; photography inside the tombs may be restricted.",
+   "ar": "هادئة جدًا. اسأل في مكتب التذاكر بالبر الغربي عن المقابر المفتوحة يوم الزيارة، وقد يكون التصوير داخل المقابر مقيدًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Luxor_-Qerna_egypt00_%2810%29_crop.jpg",
+   "author": "Ahmedsalahemam",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luxor_-Qerna_egypt00_(10)_crop.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Amenemonet_s%C3%ADrja_a_TT277.jpeg",
+   "author": "Kingtut at Hungarian Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amenemonet_sírja_a_TT277.jpeg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Qurnet_Murai",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%B1%D9%86%D8%A9_%D9%85%D8%B1%D8%B9%D9%8A",
+  "osm": "way/1558277875"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1754795",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (MoTA Nov 2024 list: 120/60, 10/5, 06:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Qurna area summer 2026: 06:00-18:00 from 24 Apr 2026)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Qurna area summer 2026)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (tomb list; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Qurnet_Murai",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights,visit (open tombs TT40, TT277, TT278; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Qurnat_Mara%CA%BF%C4%AB",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "No egymonuments.gov.eg page, no booking product and no MoTA guide page found (several slugs tried). Prices and hours only from the MoTA Nov 2024 list; kept as confirmed (batch-7 Q4a precedent). Last entry 16:00 from MoTA's general one-hour rule. Summer: the 24 Apr 2026 announcement covers all Qurna-area sites (06:00-18:00), applied as at the Ramesseum. Summer exception dated 2026-04-24 to 2026-10-29 (daylight-saving period, until the last Thursday of October, as all other summer exceptions); the winter 2026-27 schedule had not been announced on 2026-10-05: recheck after 29 Oct 2026. Open tombs (TT40, TT277, TT278) from Wikivoyage, not official; highlights do not claim they are all open. Commons photos dated 11 Dec 2025 show the area accessible. No Ramadan schedule published."
+}

@@ -1,0 +1,298 @@
+{
+ "id": "hosh-al-basha",
+ "kind": "site",
+ "wikidataId": "Q63879875",
+ "name": {
+  "en": "Hosh al-Basha (Tombs of the Muhammad Ali family)",
+  "ar": "حوش الباشا (مقابر أسرة محمد علي)"
+ },
+ "aliases": [
+  "حوش الباشا",
+  "Hosh al-Pasha",
+  "Hosh el Basha",
+  "مقابر العائلة الملكية"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Imam al-Shafi'i, Southern Cemetery",
+  "ar": "الإمام الشافعي، القرافة الصغرى"
+ },
+ "address": {
+  "en": "Hosh al-Basha, behind the Imam al-Shafi'i Mausoleum, Cairo",
+  "ar": "حوش الباشا، خلف قبة الإمام الشافعي، القاهرة"
+ },
+ "lat": 30.012069,
+ "lng": 31.257277,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily; ticketed at the entrance.",
+  "ar": "مفتوح يوميًا، وتُشترى التذكرة عند المدخل."
+ },
+ "summary": {
+  "en": "The domed family cemetery of Muhammad Ali Pasha's dynasty, with richly carved marble tombs, in the Southern Cemetery.",
+  "ar": "المدافن العائلية ذات القباب لأسرة محمد علي باشا، بتراكيبها الرخامية الغنية بالنقوش، في القرافة الصغرى."
+ },
+ "description": {
+  "en": "Hosh al-Basha, the 'Pasha's enclosure', is the burial ground of the family of Muhammad Ali Pasha, who ruled Egypt from 1805. He acquired the plot near the shrine of Imam al-Shafi'i early in his reign and built domed burial chambers for his relatives; he himself was later buried in his mosque at the Citadel. When his son Tusun died in 1816 he was given a grand cenotaph inside a bronze enclosure, and more domes followed in 1816–1823 and again in 1830, when two new chambers received fifteen burials. In 1883 Khedive Tawfiq added a room for his mother, Shafaq Nur, and under King Farouk a new entrance, entrance dome and corridor were built. Among those buried here are Khedive Abbas Hilmi I and princesses of the family, alongside servants and officials close to the court. The tombs are carved white marble cenotaphs painted and gilded with flowers, inscriptions and headdresses that marked each person's rank, under painted domes.",
+  "ar": "حوش الباشا هو مدفن أسرة محمد علي باشا الذي حكم مصر منذ عام 1805. فقد اشترى الأرض بجوار ضريح الإمام الشافعي في مطلع حكمه وبنى عليها مدافن ذات قباب لأفراد أسرته، أما هو فدُفن لاحقًا في جامعه بالقلعة. وعند وفاة ابنه طوسون عام 1816 أقيمت له تركيبة فخمة أحاطتها مقصورة برونزية، ثم أضيفت قباب أخرى بين عامي 1816 و1823، وقبتان جديدتان عام 1830 ضمتا خمسة عشر مدفنًا. وفي عام 1883 أضاف الخديوي توفيق حجرة دفن لوالدته شفق نور، وفي عهد الملك فاروق بُني المدخل الرئيسي وقبته والدهليز المؤدي إلى المدافن. ومن المدفونين هنا الخديوي عباس حلمي الأول وعدد من أميرات الأسرة، إلى جانب خدم ورجال من المقربين إلى القصر. والتراكيب من الرخام الأبيض المنحوت، ملونة ومذهبة بزخارف نباتية وكتابات وأغطية رأس تدل على مكانة صاحب كل قبر، أسفل قباب مزخرفة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Tusun Pasha",
+    "ar": "مدفن طوسون باشا"
+   },
+   "desc": {
+    "en": "A grand cenotaph of 1816 inside a bronze enclosure.",
+    "ar": "تركيبة فخمة من عام 1816 داخل مقصورة برونزية."
+   }
+  },
+  {
+   "title": {
+    "en": "Carved marble cenotaphs",
+    "ar": "التراكيب الرخامية المنحوتة"
+   },
+   "desc": {
+    "en": "Painted and gilded tombs topped with carved turbans and fezzes showing rank.",
+    "ar": "قبور ملونة ومذهبة تعلوها عمائم وطرابيش منحوتة تدل على المكانة."
+   }
+  },
+  {
+   "title": {
+    "en": "Painted domes",
+    "ar": "القباب المزخرفة"
+   },
+   "desc": {
+    "en": "Burial chambers under domes decorated in Ottoman-European style.",
+    "ar": "حجرات دفن أسفل قباب مزخرفة على الطراز العثماني الأوروبي."
+   }
+  },
+  {
+   "title": {
+    "en": "Royal entrance",
+    "ar": "المدخل الملكي"
+   },
+   "desc": {
+    "en": "The entrance, dome and corridor added under King Farouk.",
+    "ar": "المدخل وقبته والدهليز التي أضيفت في عهد الملك فاروق."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 20
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Morning, combined with the Imam al-Shafi'i Mausoleum next door.",
+   "ar": "الصباح، مع الجمع بين الزيارة وقبة الإمام الشافعي المجاورة."
+  },
+  "crowdNotes": {
+   "en": "The surrounding cemetery district is being redeveloped; access roads may change, so use a taxi or driver.",
+   "ar": "تشهد منطقة المقابر المحيطة أعمال تطوير، وقد تتغير طرق الوصول، لذا يُفضل استخدام سيارة أجرة أو سائق."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Hosh_el_basha%2C_domes%2C_2016.jpg",
+   "author": "Nessma Elaassar",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hosh_el_basha,_domes,_2016.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Hosh_el_basha_interior_chamber2%2C_2016.jpg",
+   "author": "Nessma Elaassar",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hosh_el_basha_interior_chamber2,_2016.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tombs_of_the_Royal_Family_of_Muhammad_Ali_Pasha_01.jpg",
+   "author": "Michel Benoist",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tombs_of_the_Royal_Family_of_Muhammad_Ali_Pasha_01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Hosh_al-Basha",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%A8%D8%B1_%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9_(%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85_%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%8A)",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q63879875",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan 09:00-16:00),address,description (MoTA open-sites guide; last entry one hour before closing)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D9%82%D8%A7%D8%A8%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D8%A9/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: 10/5 Egyptian, 40/20 foreign, 09:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Hosh_al-Basha",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Prices from the Nov 2024 MoTA list only (no portal page, not on the booking platform) - batch-7 Q4a treatment. Free groups not stated, so omitted. Burial list kept to names in the MoTA guide (en-wiki's list includes rulers buried elsewhere, e.g. Ismail at al-Rifai). en-wiki's construction date 1854 conflicts with MoTA's 1805-1830 sequence; MoTA used. No dated 2024-2026 visitor report found for the site itself; the crowdNotes remark on cemetery redevelopment is general advice. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

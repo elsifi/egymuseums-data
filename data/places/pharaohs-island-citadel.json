@@ -1,0 +1,313 @@
+{
+ "id": "pharaohs-island-citadel",
+ "kind": "site",
+ "wikidataId": "Q933219",
+ "name": {
+  "en": "Salah al-Din Citadel, Pharaoh's Island (Taba)",
+  "ar": "قلعة صلاح الدين بجزيرة فرعون"
+ },
+ "aliases": [
+  "جزيره فرعون",
+  "Jazirat Firawn",
+  "Pharaoh's Island",
+  "جزيرة فرعون"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "south-sinai",
+ "city": {
+  "en": "Taba",
+  "ar": "طابا"
+ },
+ "area": {
+  "en": "Pharaoh's Island, Gulf of Aqaba, south of Taba",
+  "ar": "جزيرة فرعون، خليج العقبة، جنوب طابا"
+ },
+ "address": {
+  "en": "Pharaoh's Island, about 250 m off the Sinai coast south of Taba, South Sinai",
+  "ar": "جزيرة فرعون، على بعد نحو 250 مترًا من ساحل سيناء جنوب طابا، جنوب سيناء"
+ },
+ "lat": 29.462839,
+ "lng": 34.86005,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The island is reached by boat from the shore opposite.",
+  "ar": "مفتوحة يوميًا، ويُوصل إلى الجزيرة بالقارب من الشاطئ المقابل."
+ },
+ "summary": {
+  "en": "A medieval fortress crowning a small granite island in the Gulf of Aqaba, refortified by Saladin to guard the Red Sea and the pilgrim route.",
+  "ar": "قلعة من العصور الوسطى تتوج جزيرة جرانيتية صغيرة في خليج العقبة، حصّنها صلاح الدين لحماية البحر الأحمر وطريق الحج."
+ },
+ "description": {
+  "en": "Pharaoh's Island is a small granite island at the head of the Gulf of Aqaba, about 250 metres off the Sinai shore south of Taba, at the meeting point of sea routes to Arabia and land routes to Syria and Egypt. Crusader forces seized it in 1116, and in 1170 Saladin took it back and fortified it to secure the Red Sea and protect the pilgrim road to the Hijaz. The fortress consists of two separate strongholds on the island's northern and southern hills, the northern one larger and better preserved, joined by a low plain where granaries, storerooms and service buildings stood. An outer wall with nine defensive towers once ringed the island; almost all of it has fallen, except one tower on the west side near the anchorage. Inside, visitors can explore towers, halls, a small mosque and cisterns, with views across the gulf to the coasts of four countries.",
+  "ar": "جزيرة فرعون جزيرة جرانيتية صغيرة في رأس خليج العقبة، على بعد نحو 250 مترًا من ساحل سيناء جنوب طابا، عند ملتقى الطرق البحرية إلى الجزيرة العربية والطرق البرية إلى الشام ومصر. استولى عليها الصليبيون عام 1116، واستعادها صلاح الدين عام 1170 وحصّنها لتأمين البحر الأحمر وحماية طريق الحج إلى الحجاز. وتتكون القلعة من حصنين مستقلين على التلين الشمالي والجنوبي للجزيرة، الشمالي منهما أكبر حجمًا وأحسن حالًا، ويصل بينهما سهل منخفض أُقيمت فيه مخازن الغلال والمؤن ومبانٍ للخدمات. وكان يحيط بالجزيرة سور خارجي تتخلله تسعة أبراج دفاعية، تهدم كله تقريبًا ولم يبق منه سوى برج واحد في الجهة الغربية بجوار المرسى. وفي الداخل يتجول الزائر بين الأبراج والقاعات ومسجد صغير وصهاريج المياه، مع إطلالة عبر الخليج على سواحل أربع دول."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Northern fortress",
+    "ar": "الحصن الشمالي"
+   },
+   "desc": {
+    "en": "The larger stronghold, with most of its towers and halls preserved.",
+    "ar": "الحصن الأكبر، وقد احتفظ بمعظم أبراجه وقاعاته."
+   }
+  },
+  {
+   "title": {
+    "en": "Southern fortress",
+    "ar": "الحصن الجنوبي"
+   },
+   "desc": {
+    "en": "A smaller stronghold on the island's southern hill.",
+    "ar": "حصن أصغر على التل الجنوبي للجزيرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Mosque",
+    "ar": "المسجد"
+   },
+   "desc": {
+    "en": "A small mosque within the walls.",
+    "ar": "مسجد صغير داخل الأسوار."
+   }
+  },
+  {
+   "title": {
+    "en": "Western tower and anchorage",
+    "ar": "البرج الغربي والمرسى"
+   },
+   "desc": {
+    "en": "The only surviving tower of the outer wall, beside the old harbour.",
+    "ar": "البرج الوحيد الباقي من السور الخارجي بجوار المرسى القديم."
+   }
+  },
+  {
+   "title": {
+    "en": "Gulf views",
+    "ar": "إطلالة الخليج"
+   },
+   "desc": {
+    "en": "Views across the Gulf of Aqaba to Egypt, Israel, Jordan and Saudi Arabia.",
+    "ar": "إطلالة عبر خليج العقبة على سواحل مصر وإسرائيل والأردن والسعودية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 400
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 200
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Morning, before the midday heat on the exposed rock.",
+   "ar": "الصباح، قبل حر الظهيرة على الصخور المكشوفة."
+  },
+  "crowdNotes": {
+   "en": "Steep stairs and uneven paths inside the fortress.",
+   "ar": "سلالم شديدة الانحدار ومسارات غير ممهدة داخل القلعة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Salah_El_Din_Castle_-_Taba.jpg",
+   "author": "Mahmoud Elmeligy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salah_El_Din_Castle_-_Taba.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Citadel_of_Salah_el_Din_Taba.jpg",
+   "author": "Yaramourad",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Citadel_of_Salah_el_Din_Taba.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sand_Castle._Pharaon_Island_%289198174615%29.jpg",
+   "author": "someone10x",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sand_Castle._Pharaon_Island_(9198174615).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Pharaoh%27s_Island",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%81%D8%B1%D8%B9%D9%88%D9%86",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q933219",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing),description,address (MoTA guide)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/قلعة-صلاح-الدين-طابا/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (MoTA ticket list, Nov 2024; only official price source)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (geography, Crusader and Ayyubid history; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Pharaoh%27s_Island",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%81%D8%B1%D8%B9%D9%88%D9%86",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Prices 400/200 foreign, 20/10 Egyptian only from the Nov 2024 MoTA list (no portal or booking page), kept as confirmed (batch-7 Q4a pattern). No Arab tier: the SCA ended Arab = Egyptian pricing from 1 Jan 2026. Hours: MoTA guide and Nov 2024 list agree. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Boat access: no official 2025-2026 source on how the boat crossing is arranged or priced; the text only says the island is reached by boat. Search engines confuse this site with the Cairo Citadel (550/275, 60/30); those prices are not used. freeGroups omitted (no official list). cashAccepted not set."
+}

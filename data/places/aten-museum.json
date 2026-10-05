@@ -1,0 +1,120 @@
+{
+ "id": "aten-museum",
+ "kind": "museum",
+ "wikidataId": "Q20400357",
+ "name": {
+  "en": "Aten Museum (Akhenaten Museum)",
+  "ar": "المتحف الآتوني (متحف إخناتون)"
+ },
+ "aliases": [
+  "Akhenaten Museum",
+  "Aton Museum",
+  "متحف إخناتون",
+  "المتحف الآتوني",
+  "متحف الملك آخناتون",
+  "Minya Museum"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "minya",
+ "city": {
+  "en": "Minya",
+  "ar": "المنيا"
+ },
+ "area": {
+  "en": "Nile corniche, Minya city",
+  "ar": "كورنيش النيل، مدينة المنيا"
+ },
+ "address": {
+  "en": "Nile corniche, Minya, Minya Governorate",
+  "ar": "كورنيش النيل، المنيا، محافظة المنيا"
+ },
+ "lat": null,
+ "lng": null,
+ "status": "closed",
+ "statusNote": {
+  "en": "Not yet open; the opening is planned for the last quarter of 2027.",
+  "ar": "لم يُفتتح بعد، ومن المقرر افتتاحه في الربع الأخير من عام 2027."
+ },
+ "summary": {
+  "en": "A large museum for Akhenaten and the Amarna period, under construction in Minya since the 2000s and due to open in late 2027.",
+  "ar": "متحف كبير لإخناتون وعصر العمارنة، يجري إنشاؤه في المنيا منذ العقد الأول من القرن الحادي والعشرين، ومن المقرر افتتاحه أواخر عام 2027."
+ },
+ "description": {
+  "en": "The Aten Museum is Minya's long-awaited showcase for the Amarna age, when the pharaoh Akhenaten moved his capital to Tell el-Amarna, about 60 km to the south, and promoted the cult of the sun disc, the Aten. The project was conceived in 2002 and building started in 2004 on a plot of about 25 feddans beside the Nile, with a design inspired by the pyramid form and the rays of the sun. Work stalled for years because of funding and administrative problems and the upheaval after 2011. Plans call for several thousand objects, most of them from Amarna and Akhenaten's reign, with galleries devoted to his father Amenhotep III and to the distinctive art of the period, alongside an open-air display area and a conservation school. Opening is now planned for the last quarter of 2027.",
+  "ar": "المتحف الآتوني هو المتحف الذي طال انتظاره في المنيا لعرض حضارة عصر العمارنة، حين نقل الملك إخناتون عاصمته إلى تل العمارنة، على بعد نحو 60 كيلومترًا جنوبًا، ودعا إلى عبادة قرص الشمس آتون. وقد طُرحت فكرة المشروع عام 2002، وبدأ البناء عام 2004 على أرض تبلغ نحو 25 فدانًا بجوار النيل، بتصميم مستوحى من شكل الهرم وأشعة الشمس. ثم توقفت الأعمال سنوات بسبب أزمات مالية وإدارية والأحداث التي أعقبت عام 2011. ويُخطط لأن يضم المتحف آلاف القطع، معظمها من العمارنة ومن عهد إخناتون، مع قاعات مخصصة لأبيه أمنحتب الثالث ولفن تلك الحقبة المميز، إلى جانب منطقة للعرض المكشوف ومدرسة للترميم. ومن المقرر الآن افتتاح المتحف في الربع الأخير من عام 2027."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Amarna collection",
+    "ar": "مقتنيات العمارنة"
+   },
+   "desc": {
+    "en": "Planned galleries of finds from Akhenaten's capital.",
+    "ar": "قاعات مخطط لها لعرض مكتشفات عاصمة إخناتون."
+   }
+  },
+  {
+   "title": {
+    "en": "Amenhotep III gallery",
+    "ar": "قاعة أمنحتب الثالث"
+   },
+   "desc": {
+    "en": "A hall planned for Akhenaten's father.",
+    "ar": "قاعة مخصصة لوالد إخناتون."
+   }
+  },
+  {
+   "title": {
+    "en": "Sun-ray architecture",
+    "ar": "عمارة أشعة الشمس"
+   },
+   "desc": {
+    "en": "A building whose form echoes the pyramid and the rays of the Aten.",
+    "ar": "مبنى يستلهم شكل الهرم وأشعة قرص الشمس."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A2%D8%AA%D9%88%D9%86%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q20400357",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,statusNote (opening planned for Q4 2027; over 5,000 objects; news 7 Jul 2026)",
+   "url": "https://www.elwatannews.com/news/details/8316083",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (25 feddans, design, planned collection; news 12 Jan 2023)",
+   "url": "https://www.youm7.com/story/2023/1/12/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%A2%D8%AA%D9%88%D9%86%D9%89-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7-%D9%8A%D8%B9%D8%B1%D8%B6-10%D8%A2%D9%84%D8%A7%D9%81-%D9%82%D8%B7%D8%B9%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%A7%D8%AD%D8%A9-25%D9%81%D8%AF%D8%A7%D9%86%D8%A7-%D8%A7%D9%84%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD/6045549",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (project history 2002/2004, halls for Amenhotep III and Aten art)",
+   "url": "https://aawsat.com/%D9%8A%D9%88%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82/5210203-%D8%A8%D8%B9%D8%AF-%D8%B2%D8%AE%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%A7%D8%A8%D9%82-%D8%A7%D9%84%D8%B2%D9%85%D9%86-%D9%84%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D9%85%D9%86-%D8%A7%D9%84%D8%A2%D8%AA%D9%88%D9%86%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A2%D8%AA%D9%88%D9%86%D9%8A",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Not yet opened: SCA Secretary-General Hisham el-Leithy told elwatannews (7 Jul 2026) the museum opens in Q4 2027; status 'closed' (never opened), recheck in 2027. Object count differs between sources (over 5,000 in 2026, 10,000 in a Jan 2023 report), so prose says 'several thousand'. The 'open-air display and conservation school' detail comes from a search summary of an aawsat report (Nov 2025); treat as planned features. No coordinates on Wikidata (Q20400357) or any allowed source, so lat/lng null. Only Commons photos show the modern building (excluded, no freedom of panorama), so photos are empty. The seed record minya-museum (Q130216212) duplicates this project and is excluded from the catalogue (batch-12 Q2a); its English name is kept as an alias."
+}

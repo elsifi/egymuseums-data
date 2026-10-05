@@ -1,0 +1,327 @@
+{
+ "id": "farouk-corner-museum",
+ "kind": "museum",
+ "wikidataId": "Q122689047",
+ "name": {
+  "en": "Farouk Corner Museum",
+  "ar": "متحف ركن فاروق"
+ },
+ "aliases": [
+  "Helwan Corner Museum"
+ ],
+ "category": "royal-palace",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Helwan",
+  "ar": "حلوان"
+ },
+ "area": {
+  "en": "Helwan, on the Nile bank",
+  "ar": "حلوان، على ضفة النيل"
+ },
+ "address": {
+  "en": "Corniche el-Nil, Helwan, Cairo",
+  "ar": "كورنيش النيل، حلوان، القاهرة"
+ },
+ "lat": 29.84705,
+ "lng": 31.29483,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "King Farouk's 1942 winter rest house on the Nile at Helwan, shaped like a moored boat and furnished with royal possessions.",
+  "ar": "استراحة الملك فاروق الشتوية على النيل في حلوان (1942)، صُممت على هيئة قارب راسٍ وتضم مقتنيات ملكية."
+ },
+ "description": {
+  "en": "King Farouk built this winter retreat on the Nile bank at Helwan in 1942, designing it in the shape of a boat moored at the shore, with its own river landing for yachts and larger vessels. The surrounding garden, with a wooden pergola, holds rare plants and more than thirty varieties of mango brought from Albania for the royal palaces. The rest house joined the museums sector in 1976 and was turned into a museum, which opened and closed several times, shut in 2011 and reopened after restoration in 2016. Its halls, large terrace and sleeping suite display royal furniture, objets d'art, statues, souvenirs, oil paintings and photographs of the royal family. It also shows replicas of furniture from Tutankhamun's tomb, which once furnished Farouk's rest house near the Giza pyramids.",
+  "ar": "شيّد الملك فاروق هذه الاستراحة الشتوية على ضفة النيل في حلوان عام 1942، وصممها على هيئة قارب يرسو على الشاطئ، ولها مرسى نهري خاص لاستقبال اليخوت والسفن الكبيرة. وتضم الحديقة المحيطة بها برجولة خشبية ونباتات نادرة وأكثر من ثلاثين نوعًا من أشجار المانجو جُلبت من ألبانيا لزراعتها في القصور الملكية. وانضمت الاستراحة إلى قطاع المتاحف عام 1976 وحُولت إلى متحف ظل بين الفتح والإغلاق، حتى أُغلق عام 2011 ثم أعيد افتتاحه بعد ترميمه عام 2016. وتعرض قاعاته وشرفته الكبيرة وجناح النوم أثاثًا ملكيًا وتحفًا وتماثيل وتذكارات ولوحات زيتية وصورًا لأفراد الأسرة المالكة. كما يعرض نسخًا مقلدة من أثاث مقبرة توت عنخ آمون كانت تزين استراحة الملك فاروق بالقرب من أهرامات الجيزة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Boat-shaped rest house",
+    "ar": "الاستراحة على هيئة قارب"
+   },
+   "desc": {
+    "en": "A 1942 royal retreat designed to look like a vessel moored on the Nile.",
+    "ar": "استراحة ملكية من عام 1942 صُممت لتبدو كسفينة راسية على النيل."
+   }
+  },
+  {
+   "title": {
+    "en": "Royal collections",
+    "ar": "المقتنيات الملكية"
+   },
+   "desc": {
+    "en": "Furniture, paintings, photographs and souvenirs of the royal family.",
+    "ar": "أثاث ولوحات وصور وتذكارات للأسرة المالكة."
+   }
+  },
+  {
+   "title": {
+    "en": "Tutankhamun furniture replicas",
+    "ar": "نسخ أثاث توت عنخ آمون"
+   },
+   "desc": {
+    "en": "Copies of the boy king's furniture moved from Farouk's rest house at Giza.",
+    "ar": "نسخ من أثاث الملك الصغير نُقلت من استراحة فاروق بالجيزة."
+   }
+  },
+  {
+   "title": {
+    "en": "Mango garden",
+    "ar": "حديقة المانجو"
+   },
+   "desc": {
+    "en": "A riverside garden with rare plants and Albanian mango varieties.",
+    "ar": "حديقة على النيل بها نباتات نادرة وأنواع من المانجو الألباني."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Orphaned children",
+    "ar": "الأطفال الأيتام"
+   },
+   {
+    "en": "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+    "ar": "رحلات المدارس الحكومية والأزهرية للمرحلتين الابتدائية والإعدادية المحجوزة عبر منصة «رحلة»"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "A weekday morning, with time to walk in the garden by the river.",
+   "ar": "صباح أحد أيام الأسبوع، مع وقت للتجول في الحديقة على النيل."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded. Helwan is at the southern end of metro line 1; the museum is a short taxi ride from the station.",
+   "ar": "نادرًا ما يزدحم. وتقع حلوان في نهاية الخط الأول للمترو، والمتحف على مسافة قصيرة بسيارة أجرة من المحطة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/%D9%85%D8%AA%D8%AD%D9%81_%D8%B1%D9%83%D9%86_%D9%85%D8%A7%D9%84%D9%83_%D9%81%D8%A7%D8%B1%D9%88%D9%82_1.jpg",
+   "author": "IslamAboAmer",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%AA%D8%AD%D9%81_%D8%B1%D9%83%D9%86_%D9%85%D8%A7%D9%84%D9%83_%D9%81%D8%A7%D8%B1%D9%88%D9%82_1.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/helwan-corner-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Farouk_Corner_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B1%D9%83%D9%86_%D9%81%D8%A7%D8%B1%D9%88%D9%82",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q122689047",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/helwan-corner-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-17:00, ticket window closes 16:00), prices, freeGroups, description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/museums/helwan-corner-museum/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (09:00-17:00; Ramadan 09:00-15:00), address, description (MoTA guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D8%AA%D8%AD%D9%81-%D8%B1%D9%83%D9%86-%D9%81%D8%A7%D8%B1%D9%88%D9%82/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Nov 2024 MoTA ticket list: 20/10 Egyptian, 100/50 foreign; hours there 09:00-15:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Farouk_Corner_Museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Hours conflict: portal (09:00-17:00, ticket window closes 16:00) and MoTA guide (09:00-17:00) vs Nov 2024 MoTA list (09:00-15:00). The two live official pages agree and are kept, as for gayer-anderson-museum (same PDF conflict); batch-9 Q3a. Ramadan 09:00-15:00 (MoTA guide), last entry 14:00 by the one-hour rule. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Prices: portal and Nov 2024 list agree. Not on egymonuments.com: platform onsite. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found. Seed alias 'Helwan Corner Museum' is the official portal name. Photos: garden photos showing a person excluded; one interior hall photo used."
+}

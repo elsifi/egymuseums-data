@@ -1,0 +1,318 @@
+{
+ "id": "al-hammamiya-tombs",
+ "kind": "site",
+ "wikidataId": "Q1604678",
+ "name": {
+  "en": "Al-Hammamiya Tombs",
+  "ar": "مقابر الحمامية"
+ },
+ "aliases": [
+  "الهمامية، أسيوط",
+  "al-Hammamiyya",
+  "el-Hemamieh",
+  "Hemamieh",
+  "al-Hammamiya",
+  "الهمامية"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "asyut",
+ "city": {
+  "en": "El-Badari",
+  "ar": "البداري"
+ },
+ "area": {
+  "en": "Al-Hammamiya village, east bank",
+  "ar": "قرية الهمامية، البر الشرقي"
+ },
+ "address": {
+  "en": "Al-Hammamiya village, south of El-Badari, east bank of the Nile, Asyut Governorate",
+  "ar": "قرية الهمامية جنوب البداري على البر الشرقي للنيل، محافظة أسيوط"
+ },
+ "lat": 26.930794,
+ "lng": 31.487675,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "Old Kingdom rock tombs of provincial governors above a village south-east of Asyut, near some of Egypt's earliest farming sites.",
+  "ar": "مقابر صخرية لحكام الأقاليم من الدولة القديمة فوق قرية جنوب شرق أسيوط، قرب بعض أقدم المواقع الزراعية في مصر."
+ },
+ "description": {
+  "en": "On the east bank of the Nile south of El-Badari, the cliffs above the village of al-Hammamiya hold the rock tombs of the governors of the tenth province of Upper Egypt from the late 4th and early 5th Dynasties. They are cut into the mountain in the form of mastabas, the free-standing tomb type familiar from Giza and Saqqara, which makes them early examples of the rock-cut provincial tomb. The best preserved belong to a father and son, both named Kaikhent, who held the title of overseer of the palace; their walls show offering scenes, daily life and the tomb owners with their families. The surrounding desert edge is famous in prehistory: excavations here and at nearby sites in the 1920s defined the Badarian culture, among the earliest farming communities of Upper Egypt.",
+  "ar": "على البر الشرقي للنيل جنوب البداري، تضم المرتفعات المطلة على قرية الهمامية المقابر الصخرية لحكام الإقليم العاشر من أقاليم مصر العليا من أواخر الأسرة الرابعة وأوائل الأسرة الخامسة. وقد نُحتت في الجبل على هيئة المصاطب، أي طراز المقابر القائمة المعروف في الجيزة وسقارة، مما يجعلها من الأمثلة المبكرة للمقابر الصخرية في الأقاليم. وأفضلها حالًا مقبرتا أب وابنه يحمل كلاهما اسم كاي خنت ولقب المشرف على القصر، وتصور جدرانهما مناظر تقديم القرابين والحياة اليومية وصاحبي المقبرتين مع أسرتيهما. وتشتهر حافة الصحراء المحيطة في دراسات ما قبل التاريخ؛ إذ حددت الحفائر التي أجريت هنا وفي المواقع القريبة خلال عشرينيات القرن العشرين الحضارة البدارية، وهي من أقدم المجتمعات الزراعية في مصر العليا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tombs of Kaikhent",
+    "ar": "مقبرتا كاي خنت"
+   },
+   "desc": {
+    "en": "Father and son governors, overseers of the palace.",
+    "ar": "حاكمان أب وابن حملا لقب المشرف على القصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Rock-cut mastabas",
+    "ar": "المصاطب الصخرية"
+   },
+   "desc": {
+    "en": "Tombs carved into the cliff in the form of mastabas.",
+    "ar": "مقابر نُحتت في الجرف على هيئة المصاطب."
+   }
+  },
+  {
+   "title": {
+    "en": "Badarian heritage",
+    "ar": "التراث البداري"
+   },
+   "desc": {
+    "en": "The area that gave its name to an early farming culture.",
+    "ar": "المنطقة التي منحت اسمها لحضارة زراعية مبكرة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/AlhammamyaTombs",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Early morning, before climbing to the tombs in the heat.",
+   "ar": "الصباح الباكر قبل الصعود إلى المقابر في الحر."
+  },
+  "crowdNotes": {
+   "en": "Remote and rarely visited; a car and driver from Asyut or Sohag are needed. A climb up to the tombs.",
+   "ar": "موقع ناءٍ نادر الزوار، ويحتاج إلى سيارة وسائق من أسيوط أو سوهاج، مع صعود إلى المقابر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/HammamiyaNecropolis.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:HammamiyaNecropolis.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/HammamiyaBGroupTombs.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:HammamiyaBGroupTombs.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Hemamieh",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%87%D9%85%D8%A7%D9%85%D9%8A%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1604678",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan),address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D9%82%D8%A7%D8%A8%D8%B1-%D8%A7%D9%84%D9%87%D9%85%D8%A7%D9%85%D9%8A%D8%A9/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),freeGroups (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/AlhammamyaTombs",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/201",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Hemamieh",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "MoTA guide (08:00-17:00, Ramadan 09:00-16:00, one-hour rule), booking page (08:00, last entry 16:00; Ramadan 09:00, last entry 15:00) and the Nov 2024 list agree; prices 100/50 and 10/5. No portal page. EN Wikipedia puts the village in Sohag; MoTA and the seed put it in Asyut (El-Badari), which is kept. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

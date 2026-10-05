@@ -1,0 +1,288 @@
+{
+ "id": "abu-mena",
+ "kind": "site",
+ "wikidataId": "Q9278",
+ "name": {
+  "en": "Abu Mena",
+  "ar": "أبو مينا"
+ },
+ "aliases": [
+  "Abu Mina",
+  "مارمينا العجايبي"
+ ],
+ "category": "coptic",
+ "operator": "mota-sca",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Mariout desert, near New Borg El Arab",
+  "ar": "صحراء مريوط، بالقرب من مدينة برج العرب الجديدة"
+ },
+ "address": {
+  "en": "Abu Mena archaeological site, Mariout, Amreya district, south-west of Alexandria",
+  "ar": "منطقة آثار أبو مينا، مريوط، حي العامرية، جنوب غرب الإسكندرية"
+ },
+ "lat": 30.84105,
+ "lng": 29.66349,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Conservation works continue on parts of the site, so some areas may be fenced off.",
+  "ar": "مفتوح يوميًا، وتستمر أعمال الترميم في أجزاء من الموقع، لذا قد تكون بعض المناطق مسيّجة."
+ },
+ "summary": {
+  "en": "The ruins of a great early Christian pilgrimage city that grew around the tomb of Saint Menas, a World Heritage Site.",
+  "ar": "أطلال مدينة حج مسيحية كبرى نشأت حول قبر القديس مينا، ومسجلة على قائمة التراث العالمي."
+ },
+ "description": {
+  "en": "In the desert of Mariout south-west of Alexandria lie the remains of one of the most important pilgrimage centres of late antiquity. Tradition holds that Saint Menas, a soldier martyred around the end of the third century, was buried here when the camel carrying his body refused to go further. Healing miracles at the tomb drew pilgrims from across the Mediterranean, and between the fifth and seventh centuries a whole town grew up: a great basilica, a baptistery, churches, baths, hostels for pilgrims, workshops and wine presses around a colonnaded square. Small clay flasks stamped with the saint's image carried holy water home to distant lands. Forgotten after the Middle Ages, the site was rediscovered by a German expedition in 1905 and listed by UNESCO in 1979. Rising groundwater later endangered it, and a long drainage and conservation project has since stabilised the ruins.",
+  "ar": "في صحراء مريوط جنوب غرب الإسكندرية تقع بقايا واحد من أهم مراكز الحج في أواخر العصور القديمة. وتروي التقاليد أن القديس مينا، وهو جندي استشهد قرابة نهاية القرن الثالث الميلادي، دُفن هنا حين توقف الجمل الذي كان يحمل جسده ورفض أن يتقدم. واجتذبت معجزات الشفاء عند القبر حجاجًا من أنحاء البحر المتوسط، فنشأت بين القرنين الخامس والسابع مدينة كاملة تضم كنيسة كبرى ومعمودية وكنائس وحمامات واستراحات للحجاج وورشًا ومعاصر للنبيذ حول ساحة تحيط بها الأعمدة. وكانت قوارير فخارية صغيرة مختومة بصورة القديس تحمل الماء المقدس إلى بلاد بعيدة. وقد طوى النسيان الموقع بعد العصور الوسطى حتى أعادت بعثة ألمانية اكتشافه عام 1905، وسجلته اليونسكو عام 1979. ثم هدده ارتفاع المياه الجوفية، فنُفذ مشروع طويل لخفض المياه وترميم الموقع أعاد إليه الاستقرار."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Saint Menas",
+    "ar": "قبر القديس مينا"
+   },
+   "desc": {
+    "en": "The crypt at the heart of the pilgrimage complex.",
+    "ar": "السرداب الذي يتوسط مجمع الحج."
+   }
+  },
+  {
+   "title": {
+    "en": "Great Basilica",
+    "ar": "الكنيسة الكبرى"
+   },
+   "desc": {
+    "en": "Foundations of one of the largest churches in Egypt.",
+    "ar": "أساسات واحدة من أكبر الكنائس في مصر."
+   }
+  },
+  {
+   "title": {
+    "en": "Baptistery",
+    "ar": "المعمودية"
+   },
+   "desc": {
+    "en": "An octagonal baptistery beside the tomb church.",
+    "ar": "معمودية مثمنة بجوار كنيسة القبر."
+   }
+  },
+  {
+   "title": {
+    "en": "Pilgrims' court",
+    "ar": "ساحة الحجاج"
+   },
+   "desc": {
+    "en": "A colonnaded square where pilgrims gathered.",
+    "ar": "ساحة تحيط بها الأعمدة كان يجتمع فيها الحجاج."
+   }
+  },
+  {
+   "title": {
+    "en": "Pilgrim flasks",
+    "ar": "قوارير الحجاج"
+   },
+   "desc": {
+    "en": "Clay ampullae stamped with the saint, carried home as souvenirs.",
+    "ar": "قوارير فخارية مختومة بصورة القديس حملها الحجاج إلى بلادهم."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "19:00",
+    "lastEntry": "18:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "19:00",
+    "lastEntry": "18:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "19:00",
+    "lastEntry": "18:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "19:00",
+    "lastEntry": "18:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "19:00",
+    "lastEntry": "18:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "19:00",
+    "lastEntry": "18:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "19:00",
+    "lastEntry": "18:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Early morning or late afternoon; there is almost no shade.",
+   "ar": "الصباح الباكر أو آخر العصر، فلا يكاد يوجد ظل."
+  },
+  "crowdNotes": {
+   "en": "Remote and quiet; a car is needed. The modern Monastery of Saint Mina nearby is a separate, busy place of pilgrimage.",
+   "ar": "موقع بعيد وهادئ ويحتاج إلى سيارة. ودير مار مينا الحديث القريب مكان حج منفصل يشهد إقبالًا كبيرًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Ruins_at_Abu_Mena_%28VI%29.jpg",
+   "author": "isawnyu",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruins_at_Abu_Mena_(VI).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/EG_Abu_Mina_0206_001_%2817204131426%29.jpg",
+   "author": "Diego Tirira from Quito, Ecuador",
+   "license": "CC BY-SA 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:EG_Abu_Mina_0206_001_(17204131426).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Abumena.png",
+   "author": "Academia784",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abumena.png"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/abu-mina-1/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Abu_Mena",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D9%85%D9%8A%D9%86%D8%A7",
+  "osm": "way/103072436"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q9278",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/abu-mina-1/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan),address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D8%A3%D8%A8%D9%88-%D9%85%D9%8A%D9%86%D8%A7/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices (no fee listed)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (official portal pages)",
+   "url": "https://egymonuments.gov.eg/en/world-heritage/abu-mena/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Abu_Mena",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Hours: MoTA guide 07:00-19:00, Ramadan 09:00-16:00, last entry one hour before closing; Nov 2024 list agrees (07:00-19:00). Price: the Nov 2024 list shows no fee ('-') and the portal page shows none; per D9 the price is unconfirmed (confirm via hotline 19654). Not on egymonuments.com. Removal from UNESCO's danger list in 2025 is from EN Wikipedia and not stated in user text. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

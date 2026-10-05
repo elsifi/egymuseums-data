@@ -29,8 +29,8 @@
  "lng": 30.7792,
  "status": "open",
  "statusNote": {
-  "en": "Open daily, but the monastery usually closes to visitors for most of Great Lent (in 2026 from 24 February to 11 April) and on some other occasions; check before travelling.",
-  "ar": "مفتوح يوميًا، لكن الدير يغلق أبوابه أمام الزوار عادة معظم فترة الصوم الكبير (في عام 2026 من 24 فبراير حتى 11 أبريل) وفي بعض المناسبات الأخرى، لذا يُستحسن التأكد قبل السفر."
+  "en": "Open daily, but the monastery usually closes to visitors for most of Great Lent and on some other occasions; check before travelling.",
+  "ar": "مفتوح يوميًا، لكن الدير يغلق أبوابه أمام الزوار عادة معظم فترة الصوم الكبير وفي بعض المناسبات الأخرى، لذا يُستحسن التأكد قبل السفر."
  },
  "summary": {
   "en": "A major Coptic pilgrimage monastery near El Qusiya, venerated as the longest stop of the Holy Family in Egypt.",
@@ -280,5 +280,5 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "Coptic Orthodox monastery; hours from MoTA's open-sites guide (last entry one hour before closing). No ticket price in any official source (Nov 2024 list shows dashes), so prices.status is 'unconfirmed' (D9 treatment). The Great Lent closure is announced each year by the monastery; 2027 dates not yet known (Orthodox Lent 2027 expected from early March), so it is described in statusNote rather than as a dated exception. Ramadan 2027 overlaps the probable start of Lent. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+ "curationNote": "Coptic Orthodox monastery; hours from MoTA's open-sites guide (last entry one hour before closing). No ticket price in any official source (Nov 2024 list shows dashes), so prices.status is 'unconfirmed' (D9 treatment). The Great Lent closure is announced each year by the monastery; 2027 dates not yet known (Orthodox Lent 2027 expected from early March), so it is described in statusNote rather than as a dated exception. Ramadan 2027 overlaps the probable start of Lent. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. 2026-10-05: removed the past Great Lent 2026 dates from statusNote; add the 2027 Lent dates when the monastery announces them."
 }

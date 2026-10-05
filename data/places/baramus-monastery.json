@@ -1,0 +1,206 @@
+{
+ "id": "baramus-monastery",
+ "kind": "site",
+ "wikidataId": "Q4120046",
+ "name": {
+  "en": "Paromeos (al-Baramus) Monastery",
+  "ar": "دير البراموس"
+ },
+ "aliases": [
+  "Baramos Monastery",
+  "Paromeos Monastery"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "beheira",
+ "city": {
+  "en": "Wadi El Natrun",
+  "ar": "وادي النطرون"
+ },
+ "area": {
+  "en": "Wadi El Natrun (Scetis)",
+  "ar": "وادي النطرون (برية شيهيت)"
+ },
+ "address": {
+  "en": "Paromeos Monastery, Wadi El Natrun, about 12 km off the Cairo–Alexandria desert road, Beheira",
+  "ar": "دير البراموس، وادي النطرون، على بعد نحو 12 كم من طريق القاهرة الإسكندرية الصحراوي، محافظة البحيرة"
+ },
+ "lat": 30.357136,
+ "lng": 30.270755,
+ "status": "open",
+ "statusNote": {
+  "en": "A working monastery that receives visitors; it closes to the public on some feast days and retreat days announced by the monastery.",
+  "ar": "دير عامر يستقبل الزوار، ويغلق أمام الجمهور في بعض الأعياد وأيام الخلوة التي يعلنها الدير."
+ },
+ "summary": {
+  "en": "Probably the oldest of the four inhabited monasteries of Wadi El Natrun, founded in the fourth century.",
+  "ar": "ربما يكون أقدم الأديرة الأربعة العامرة في وادي النطرون، وقد تأسس في القرن الرابع الميلادي."
+ },
+ "description": {
+  "en": "The Monastery of the Virgin Mary, known as al-Baramus, is the northernmost of the four inhabited monasteries of Wadi El Natrun, the desert valley of Scetis where Christian monasticism flourished from the fourth century. Tradition links its foundation, around AD 335, to Saint Macarius the Great, and its name to the cell of two Roman saints, Maximus and Domitius, who lived and died here young; Saint Moses the Black and Saint Arsenius are also associated with it. Raids by desert tribes led to the building of high walls in the ninth century, and the old church of the Virgin, the keep and the refectory still sit within the enclosure. Revived in modern times, the monastery is home to a large community of monks, and Pope Cyril VI lived as a hermit in a cave in the desert nearby. Visits are arranged at the gate.",
+  "ar": "دير السيدة العذراء المعروف بالبراموس هو أقصى الأديرة الأربعة العامرة في وادي النطرون شمالًا، وهو الوادي الصحراوي المعروف ببرية شيهيت الذي ازدهرت فيه الرهبنة المسيحية منذ القرن الرابع. وتربط التقاليد تأسيسه نحو عام 335 بالقديس مقاريوس الكبير، واسمه بقلاية القديسين الروميين مكسيموس ودوماديوس اللذين عاشا وتنيحا فيه في سن مبكرة، كما يرتبط به القديسان موسى الأسود وأرسانيوس. ودفعت غارات القبائل الصحراوية إلى بناء أسوار عالية في القرن التاسع، ولا تزال الكنيسة الأثرية للعذراء والحصن والمائدة قائمة داخل السور. وقد شهد الدير نهضة في العصر الحديث ويضم جماعة كبيرة من الرهبان، وعاش البابا كيرلس السادس متوحدًا في مغارة بالصحراء القريبة. وتُنظم الزيارة عند بوابة الدير."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Church of the Virgin",
+    "ar": "كنيسة العذراء الأثرية"
+   },
+   "desc": {
+    "en": "The monastery's old main church within the walls.",
+    "ar": "الكنيسة الرئيسية القديمة داخل الأسوار."
+   }
+  },
+  {
+   "title": {
+    "en": "Fortified walls",
+    "ar": "الأسوار الحصينة"
+   },
+   "desc": {
+    "en": "High walls raised after the desert raids of the ninth century.",
+    "ar": "أسوار عالية شُيدت بعد غارات القرن التاسع."
+   }
+  },
+  {
+   "title": {
+    "en": "The keep",
+    "ar": "الحصن"
+   },
+   "desc": {
+    "en": "A tower where monks sheltered during attacks.",
+    "ar": "برج كان الرهبان يحتمون به أثناء الهجمات."
+   }
+  },
+  {
+   "title": {
+    "en": "Cave of Pope Cyril VI",
+    "ar": "مغارة البابا كيرلس السادس"
+   },
+   "desc": {
+    "en": "The desert cave where the future pope lived as a hermit.",
+    "ar": "المغارة الصحراوية التي عاش فيها البابا متوحدًا قبل رسامته."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Weekday mornings; Fridays and Coptic feast days are busy.",
+   "ar": "صباح أيام الأسبوع، فأيام الجمعة والأعياد القبطية مزدحمة."
+  },
+  "crowdNotes": {
+   "en": "Modest dress is expected. Can be combined with the monasteries of St Pishoy and the Syrians nearby.",
+   "ar": "يُتوقع ارتداء ملابس محتشمة، ويمكن الجمع بين الزيارة ودير الأنبا بيشوي ودير السريان القريبين."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Paromeos_Monastery-_07.jpg",
+   "author": "Dooragaber",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paromeos_Monastery-_07.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Paromeos_Monastery-_05.jpg",
+   "author": "Dooragaber",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paromeos_Monastery-_05.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Paromeos_Monastery-_04.jpg",
+   "author": "Dooragaber",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paromeos_Monastery-_04.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Paromeos_Monastery",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%85%D9%88%D8%B3",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q4120046",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices (no fee listed)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (monastery notice on a feast-day closure, 20 Jan 2025)",
+   "url": "https://www.youm7.com/story/2025/1/20/x/6852849",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Paromeos_Monastery",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Working Coptic Orthodox monastery (operator other). Hours 08:00-17:00 only from the Nov 2024 MoTA ticket list (no fee shown); no last entry published. Status: the monastery's own notice quoted by youm7 (20 Jan 2025) closed visits on Fri 24 Jan 2025 for the eve of the feast of Saints Maximus and Domitius and reopened them the next day; the same closure is likely each year (around 23-24 Jan) but is not added as a dated exception until announced. Price unconfirmed (D9). Photos avoid the modern church towers."
+}

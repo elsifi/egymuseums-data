@@ -1,0 +1,273 @@
+{
+ "id": "planetarium-science-center",
+ "kind": "museum",
+ "wikidataId": "Q7201222",
+ "name": {
+  "en": "Planetarium Science Center",
+  "ar": "مركز القبة السماوية العلمي"
+ },
+ "aliases": [
+  "مركز القبة السماوية"
+ ],
+ "category": "science-natural",
+ "operator": "other",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Al-Shatby, Bibliotheca Alexandrina",
+  "ar": "الشاطبي، مكتبة الإسكندرية"
+ },
+ "address": {
+  "en": "Bibliotheca Alexandrina plaza, Al-Shatby, Alexandria — tickets at the Planetarium entrance",
+  "ar": "ساحة مكتبة الإسكندرية، الشاطبي، الإسكندرية — التذاكر عند مدخل القبة السماوية"
+ },
+ "lat": 31.209,
+ "lng": 29.9081,
+ "status": "open",
+ "statusNote": {
+  "en": "Open Sunday to Thursday and on Saturday mornings; closed on Fridays. Shows run to a published daily schedule. The History of Science Museum inside is closed for maintenance.",
+  "ar": "مفتوح من الأحد إلى الخميس وصباح السبت، ومغلق يوم الجمعة. وتُقدم العروض وفق جدول يومي معلن، ومتحف تاريخ العلوم بداخله مغلق للصيانة."
+ },
+ "summary": {
+  "en": "The Bibliotheca Alexandrina's science centre: dome shows under the planetarium sphere and a hands-on science hall.",
+  "ar": "مركز العلوم بمكتبة الإسكندرية: عروض القبة السماوية داخل الكرة الشهيرة وقاعة علوم تفاعلية."
+ },
+ "description": {
+  "en": "The Planetarium Science Center is the department of the Bibliotheca Alexandrina that brings science to the public. Its landmark is the dark sphere that seems to float on the library plaza; inside, a domed theatre projects astronomy and science films several times a day, with sessions in Arabic and other languages. Next door, the ALEXploratorium is a hands-on hall where children and families can experiment with physics, light, sound and astronomy, and a newer 12D theatre adds motion and effects to short films. The centre also runs workshops, a robotics programme, school science fairs and an annual Eratosthenes festival celebrating the Alexandrian who measured the Earth. Its small History of Science Museum is currently closed for maintenance. Tickets are sold separately from the library ticket, at the planetarium entrance.",
+  "ar": "مركز القبة السماوية العلمي هو إدارة مكتبة الإسكندرية المعنية بتبسيط العلوم للجمهور. وعلامته المميزة هي الكرة الداكنة التي تبدو كأنها تطفو فوق ساحة المكتبة، وفي داخلها مسرح ذو قبة يعرض أفلامًا في الفلك والعلوم عدة مرات يوميًا بالعربية ولغات أخرى. وإلى جوارها قاعة الاستكشاف العلمي «ألكسبلوراتوريوم» حيث يجرب الأطفال والأسر بأنفسهم تجارب في الفيزياء والضوء والصوت والفلك، كما يضيف مسرح حديث ثنائي عشري الأبعاد مؤثرات حركية إلى أفلام قصيرة. وينظم المركز أيضًا ورش عمل وبرنامجًا للروبوت ومعارض علمية للمدارس ومهرجانًا سنويًا باسم إراتوستينس، العالم السكندري الذي قاس محيط الأرض. أما متحف تاريخ العلوم الصغير التابع له فمغلق حاليًا للصيانة. وتُباع تذاكر المركز منفصلة عن تذكرة المكتبة عند مدخل القبة السماوية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Planetarium dome",
+    "ar": "القبة السماوية"
+   },
+   "desc": {
+    "en": "Daily astronomy and science shows under the dome.",
+    "ar": "عروض يومية في الفلك والعلوم تحت القبة."
+   }
+  },
+  {
+   "title": {
+    "en": "ALEXploratorium",
+    "ar": "ألكسبلوراتوريوم"
+   },
+   "desc": {
+    "en": "Hands-on exhibits on physics, light, sound and space.",
+    "ar": "معروضات تفاعلية في الفيزياء والضوء والصوت والفضاء."
+   }
+  },
+  {
+   "title": {
+    "en": "12D theatre",
+    "ar": "مسرح الأبعاد"
+   },
+   "desc": {
+    "en": "Short films with motion seats and special effects.",
+    "ar": "أفلام قصيرة بمقاعد متحركة ومؤثرات خاصة."
+   }
+  },
+  {
+   "title": {
+    "en": "Science festivals",
+    "ar": "المهرجانات العلمية"
+   },
+   "desc": {
+    "en": "School fairs and the annual Eratosthenes festival.",
+    "ar": "معارض مدرسية ومهرجان إراتوستينس السنوي."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "14:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:30",
+    "close": "17:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "October War anniversary holiday: shortened hours",
+     "ar": "عطلة ذكرى نصر أكتوبر: مواعيد مختصرة"
+    },
+    "from": "2026-10-08",
+    "to": "2026-10-08",
+    "weekly": [
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 200
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "senior",
+    "amount": 50
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "ALEXploratorium: foreign visitor",
+     "ar": "ألكسبلوراتوريوم: زائر أجنبي"
+    },
+    "audience": "foreign",
+    "amount": 150
+   },
+   {
+    "label": {
+     "en": "ALEXploratorium: Egyptian adult or senior",
+     "ar": "ألكسبلوراتوريوم: زائر مصري أو كبير سن"
+    },
+    "audience": "egyptian",
+    "amount": 20
+   },
+   {
+    "label": {
+     "en": "ALEXploratorium: Egyptian student",
+     "ar": "ألكسبلوراتوريوم: طالب مصري"
+    },
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "label": {
+     "en": "12D theatre: foreign visitor",
+     "ar": "مسرح الأبعاد: زائر أجنبي"
+    },
+    "audience": "foreign",
+    "amount": 150
+   },
+   {
+    "label": {
+     "en": "12D theatre: Egyptian visitor",
+     "ar": "مسرح الأبعاد: زائر مصري"
+    },
+    "audience": "egyptian",
+    "amount": 30
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Check the daily show schedule and arrive early to buy tickets at the planetarium entrance.",
+   "ar": "راجع جدول العروض اليومي واحضر مبكرًا لشراء التذاكر عند مدخل القبة السماوية."
+  },
+  "crowdNotes": {
+   "en": "School groups fill the morning shows on weekdays; afternoons and Saturdays are calmer.",
+   "ar": "تمتلئ عروض الصباح في أيام الأسبوع بالرحلات المدرسية، وفترة بعد الظهر والسبت أهدأ."
+  }
+ },
+ "photos": [],
+ "contacts": {
+  "phone": "+20 3 483 9999",
+  "website": "https://www.bibalex.org/psc/en/planyourvisit/planetariumschedule.aspx",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Planetarium_Science_Center",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D9%83%D8%B2_%D8%A7%D9%84%D9%82%D8%A8%D8%A9_%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A",
+  "osm": "way/157879323"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q7201222",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,hours.exceptions (official BA home page, opening hours box)",
+   "url": "https://www.bibalex.org/en/Default",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,extras (official BA admission page)",
+   "url": "https://www.bibalex.org/en/Page/BA_Visiting",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (show schedule page)",
+   "url": "https://www.bibalex.org/psc/en/planyourvisit/planetariumschedule.aspx",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Planetarium_Science_Center",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Bibliotheca Alexandrina department; operator other. Prices (planetarium show used as the main tiers; ALEXploratorium and 12D theatre as extras) from the BA admission page, checked 2026-10-05: planetarium Egyptians student 20, adult 50, senior 50, non-Egyptians 200 for all; ALEXploratorium 10/20/20 and 150; 12D 30 and 150. BA hours: the bibalex.org home page (checked 2026-10-05) gives 'Visits, Museums & Planetarium Science Center' Sun-Thu 09:30-17:00, Sat 10:00-14:00, Fri closed; no last entry and no Ramadan schedule published. TIME-LIMITED: the 2026-10-08 exception (October War anniversary, 10:00-14:00) expires after 2026-10-08; still valid on 2026-10-05; remove it then. Photos: every Commons image shows the modern planetarium sphere or BA buildings (no freedom of panorama), so photos are empty; allowed for minor places (decision of 2026-10-05)."
+}

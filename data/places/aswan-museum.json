@@ -1,0 +1,151 @@
+{
+ "id": "aswan-museum",
+ "kind": "museum",
+ "wikidataId": "Q535586",
+ "name": {
+  "en": "Aswan Museum",
+  "ar": "متحف أسوان"
+ },
+ "aliases": [
+  "Elephantine Museum",
+  "متحف آثار أسوان",
+  "متحف جزيرة إلفنتين"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Aswan",
+  "ar": "أسوان"
+ },
+ "area": {
+  "en": "Elephantine Island",
+  "ar": "جزيرة إلفنتين"
+ },
+ "address": {
+  "en": "Southern end of Elephantine Island, Aswan",
+  "ar": "الطرف الجنوبي لجزيرة إلفنتين، أسوان"
+ },
+ "lat": 24.0847,
+ "lng": 32.8867,
+ "status": "renovation",
+ "statusNote": {
+  "en": "The main museum building has been closed since 2010; development works began in 2024. The annex next door, with finds from Elephantine, is open on the island ticket.",
+  "ar": "مبنى المتحف الرئيسي مغلق منذ عام 2010، وبدأت أعمال تطويره عام 2024. أما الملحق المجاور الذي يعرض مكتشفات إلفنتين فمفتوح بتذكرة الجزيرة."
+ },
+ "summary": {
+  "en": "One of Egypt's oldest regional museums, in a colonial-era villa on Elephantine Island, closed for redevelopment.",
+  "ar": "من أقدم المتاحف الإقليمية في مصر، في فيلا من أوائل القرن العشرين بجزيرة إلفنتين، ومغلق حاليًا للتطوير."
+ },
+ "description": {
+  "en": "The museum occupies a graceful villa with deep verandas built in 1898 as a rest house for William Willcocks, the British engineer who designed the first Aswan Dam. When the dam's later heightenings threatened the monuments of Nubia, rescue excavations produced large collections, and the villa was turned into a museum in the 1910s to hold them. Over the following decades it displayed statues, sarcophagi, pottery, ram mummies sacred to the god Khnum and finds from the cemeteries of Aswan and Elephantine. A rear wing was added in the 1950s and an annex for the German excavations in the 1990s. Overshadowed by the Nubia Museum and in need of modern lighting and services, the main building closed in 2010. A development project started in 2024 aims to reopen it with a new display, while the garden, the temples of the island and the annex remain open to visitors.",
+  "ar": "يشغل المتحف فيلا أنيقة ذات شرفات عميقة شُيدت عام 1898 استراحةً لويليام ويلكوكس، المهندس البريطاني الذي صمم خزان أسوان الأول. وحين هددت تعليات الخزان اللاحقة آثار النوبة، أسفرت حفائر الإنقاذ عن مجموعات كبيرة، فتحولت الفيلا إلى متحف في العقد الثاني من القرن العشرين لاستيعابها. وعلى مدى عقود عرض المتحف تماثيل وتوابيت وفخاريات ومومياوات الكباش المقدسة للمعبود خنوم، ومكتشفات جبانات أسوان وإلفنتين. وأضيف إليه جناح خلفي في خمسينيات القرن العشرين، ثم ملحق لمكتشفات البعثة الألمانية في التسعينيات. ومع تراجع الاهتمام به بعد افتتاح متحف النوبة وحاجته إلى إضاءة وخدمات حديثة، أُغلق المبنى الرئيسي عام 2010. وبدأ عام 2024 مشروع تطوير يهدف إلى إعادة افتتاحه بعرض جديد، في حين تظل الحديقة ومعابد الجزيرة والملحق مفتوحة للزوار."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Willcocks villa",
+    "ar": "فيلا ويلكوكس"
+   },
+   "desc": {
+    "en": "The 1898 rest house of the engineer of the first Aswan Dam.",
+    "ar": "استراحة عام 1898 لمهندس خزان أسوان الأول."
+   }
+  },
+  {
+   "title": {
+    "en": "Ram mummies",
+    "ar": "مومياوات الكباش"
+   },
+   "desc": {
+    "en": "Sacred rams of Khnum, god of the cataract.",
+    "ar": "الكباش المقدسة لخنوم رب الجندل."
+   }
+  },
+  {
+   "title": {
+    "en": "Nubian rescue finds",
+    "ar": "مكتشفات إنقاذ النوبة"
+   },
+   "desc": {
+    "en": "Objects saved when the old dam was heightened.",
+    "ar": "قطع أُنقذت عند تعلية الخزان القديم."
+   }
+  },
+  {
+   "title": {
+    "en": "Island garden",
+    "ar": "حديقة الجزيرة"
+   },
+   "desc": {
+    "en": "Gardens leading to the temples and Nilometer of Elephantine.",
+    "ar": "حدائق تؤدي إلى معابد إلفنتين ومقياس النيل."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Assuan-Museum_01.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Assuan-Museum_01.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Assuan-Museum_03.JPG",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Assuan-Museum_03.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mus%C3%A9e_Assouan_-_Assouan_%28EG%29_-_2025-12-07_-_2.jpg",
+   "author": "Chabe01",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Assouan_-_Assouan_(EG)_-_2025-12-07_-_2.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Aswan_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A3%D8%B3%D9%88%D8%A7%D9%86_(%D9%85%D8%AA%D8%AD%D9%81_%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D8%A5%D9%84%D9%81%D9%86%D8%AA%D9%8A%D9%86)",
+  "osm": "way/554848968"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q535586",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,description (museum director interview, 26 May 2024)",
+   "url": "https://bashkatibnews.com/ainalaswani/dep/feature_profile/171670941234984735",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Aswan_Museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status: museum director interview (bashkatibnews, 26 May 2024): main building closed since 2010, development started March 2024 with opening planned about two years later; no 2026 reopening announcement found (one web search). Commons photos dated Dec 2025 show building materials beside the museum, consistent with ongoing works. Not on the MoTA guide, portal or Nov 2024 ticket list. Founding date differs between sources (1912 in EN Wikipedia, 1917 in the interview), so the description says 'the 1910s'. While closed, hours and tickets are omitted and the price is unconfirmed (precedent: rashid-national-museum)."
+}

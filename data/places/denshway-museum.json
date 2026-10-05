@@ -1,0 +1,172 @@
+{
+ "id": "denshway-museum",
+ "kind": "museum",
+ "wikidataId": "Q4119527",
+ "name": {
+  "en": "Denshway Museum",
+  "ar": "متحف دنشواي"
+ },
+ "aliases": [
+  "Dunshway Museum",
+  "Denshawai Museum",
+  "متحف دنشواى"
+ ],
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "monufia",
+ "city": {
+  "en": "Shohada",
+  "ar": "الشهداء"
+ },
+ "area": {
+  "en": "Denshway village, Shohada district",
+  "ar": "قرية دنشواي، مركز الشهداء"
+ },
+ "address": {
+  "en": "Denshway village, Shohada, Monufia Governorate",
+  "ar": "قرية دنشواي، مركز الشهداء، محافظة المنوفية"
+ },
+ "lat": 30.601944,
+ "lng": 30.853611,
+ "status": "open",
+ "statusNote": {
+  "en": "Open to visitors; opening hours are not published, so check locally.",
+  "ar": "مفتوح للزوار، ومواعيد الزيارة غير معلنة، فتحقق منها محليًا."
+ },
+ "summary": {
+  "en": "A memorial museum on the spot where the 1906 Denshway incident took place, a turning point in Egypt's struggle against British occupation.",
+  "ar": "متحف تذكاري في موقع حادثة دنشواي عام 1906، التي كانت نقطة تحول في كفاح مصر ضد الاحتلال البريطاني."
+ },
+ "description": {
+  "en": "On 13 June 1906 a party of British officers went pigeon shooting at Denshway, a village in the Nile Delta. A woman was wounded, a fight broke out with the villagers and one officer died. A special tribunal sentenced four villagers to hang, eight to be flogged and others to prison, and the sentences were carried out in public in the village. The case caused outrage in Egypt and abroad, gave new force to the national movement led by Mustafa Kamil, and was followed by the departure of the British consul-general, Lord Cromer. The museum stands on the ground where the trial and executions took place. It was first set up in 1963 and was rebuilt and reopened on 1 July 1999. Across three levels, paintings, sculptures and dioramas retell the events in fifteen scenes, alongside six original photographs of 1906, the gallows itself, traditional farming tools and an open-air theatre.",
+  "ar": "في 13 يونيو 1906 خرجت مجموعة من الضباط البريطانيين لصيد الحمام في دنشواي، إحدى قرى الدلتا، فأصيبت امرأة ونشب عراك مع الأهالي لقي فيه أحد الضباط حتفه. وأصدرت محكمة خاصة أحكامًا بإعدام أربعة من أهل القرية وجلد ثمانية وسجن آخرين، ونُفذت الأحكام علنًا في القرية. وأثارت القضية غضبًا واسعًا في مصر وخارجها، ومنحت الحركة الوطنية بقيادة مصطفى كامل دفعة جديدة، وأعقبها رحيل المعتمد البريطاني اللورد كرومر. ويقوم المتحف على الأرض التي شهدت المحاكمة وتنفيذ الأحكام، وقد أُنشئ أول مرة عام 1963، ثم أعيد بناؤه وافتُتح في 1 يوليو 1999. ويروي في ثلاثة مستويات أحداث الحادثة عبر خمسة عشر مشهدًا من اللوحات والتماثيل والمجسمات، إلى جانب ست صور فوتوغرافية أصلية من عام 1906، والمشنقة نفسها، وأدوات زراعية تقليدية، ومسرح مكشوف."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "The original gallows",
+    "ar": "المشنقة الأصلية"
+   },
+   "desc": {
+    "en": "The gallows on which the villagers were hanged in 1906.",
+    "ar": "المشنقة التي نُفذ بها حكم الإعدام في أهالي القرية عام 1906."
+   }
+  },
+  {
+   "title": {
+    "en": "Photographs of 1906",
+    "ar": "صور عام 1906"
+   },
+   "desc": {
+    "en": "Six original photographs of the trial and executions.",
+    "ar": "ست صور فوتوغرافية أصلية للمحاكمة وتنفيذ الأحكام."
+   }
+  },
+  {
+   "title": {
+    "en": "Fifteen scenes",
+    "ar": "خمسة عشر مشهدًا"
+   },
+   "desc": {
+    "en": "Paintings and sculptures retelling the incident from the shooting party to the verdicts.",
+    "ar": "لوحات وتماثيل تروي الحادثة من رحلة الصيد حتى صدور الأحكام."
+   }
+  },
+  {
+   "title": {
+    "en": "Village life",
+    "ar": "حياة القرية"
+   },
+   "desc": {
+    "en": "Traditional tools such as the shaduf and the water wheel.",
+    "ar": "أدوات تقليدية مثل الشادوف والساقية."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Weekday mornings; school groups visit often.",
+   "ar": "صباح أيام الأسبوع، وكثيرًا ما تزوره الرحلات المدرسية."
+  },
+  "crowdNotes": {
+   "en": "Busy with school trips on many weekdays and on national anniversaries; a short drive from Shibin el-Kom.",
+   "ar": "يزدحم بالرحلات المدرسية في كثير من أيام الأسبوع وفي المناسبات الوطنية، ويقع على مسافة قصيرة بالسيارة من شبين الكوم."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dunshuwai_trial_prisoners_1906.jpg",
+   "author": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dunshuwai_trial_prisoners_1906.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Denshway_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%AF%D9%86%D8%B4%D9%88%D8%A7%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q4119527",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,description,highlights (museum visit; 1963, reopened 1 Jul 1999; 105 works, 15 scenes, gallows; news 24 Jan 2026)",
+   "url": "https://www.youm7.com/story/2026/1/24/%D9%87%D9%86%D8%A7-%D9%88%D9%82%D8%B9%D8%AA-%D8%AF%D9%86%D8%B4%D9%88%D8%A7%D9%8A-%D9%85%D8%AA%D8%AD%D9%81-%D9%8A%D8%AE%D9%84%D8%AF-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-%D9%85%D9%86-%D8%A3%D9%87%D9%85-%D9%84%D8%AD%D8%B8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9/7178380",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (daily visitors and school trips; news 24 Aug 2025)",
+   "url": "https://www.masrawy.com/news/news_regions/details/2025/8/24/2842391/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (Ministry of Culture invites visits, news 27 Nov 2025)",
+   "url": "https://www.youm7.com/story/2025/11/27/%D9%85%D8%AA%D8%AD%D9%81-%D8%AF%D9%86%D8%B4%D9%88%D8%A7%D9%89-%D9%81%D9%89-%D9%82%D9%84%D8%A8-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D9%81%D8%B1%D8%AD%D8%A7%D9%86%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1-%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D9%88%D8%B7%D9%86/7211914",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (incident; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Denshway_Museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%AF%D9%86%D8%B4%D9%88%D8%A7%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Run by the Ministry of Culture, not MoTA: absent from MoTA ticket lists, guide and booking platform. Open per press visits (Aug 2025, Jan 2026), but no hours or fees published anywhere found: hours omitted, prices unconfirmed. 'Cromer departure' follows youm7's 'change of the British high commissioner'; Cromer left in 1907. The museum building (1999) and its modern artworks are in copyright (no freedom of panorama), so the only photo is a public-domain 1906 photograph of the trial prisoners, the kind of image the museum exhibits (Commons category 'Dunshway Museum'); replace if a compliant photo of the place appears."
+}

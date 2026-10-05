@@ -1,0 +1,327 @@
+{
+ "id": "suez-canal-museum",
+ "kind": "museum",
+ "wikidataId": "Q137799678",
+ "name": {
+  "en": "Suez Canal Museum",
+  "ar": "متحف قناة السويس"
+ },
+ "aliases": [
+  "المتحف العالمي لهيئة قناة السويس"
+ ],
+ "category": "specialised",
+ "operator": "other",
+ "governorate": "ismailia",
+ "city": {
+  "en": "Ismailia",
+  "ar": "الإسماعيلية"
+ },
+ "area": {
+  "en": "Canal waterfront, central Ismailia",
+  "ar": "واجهة القناة، وسط الإسماعيلية"
+ },
+ "address": {
+  "en": "Former Suez Canal Company headquarters (1862), Ismailia",
+  "ar": "المقر الإداري السابق لشركة قناة السويس (1862)، الإسماعيلية"
+ },
+ "lat": 30.59017,
+ "lng": 32.27325,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Foreign visitors’ ticket prices rose on 1 July 2026.",
+  "ar": "مفتوح يوميًا. وارتفعت أسعار تذاكر الزائرين الأجانب اعتبارًا من 1 يوليو 2026."
+ },
+ "summary": {
+  "en": "The story of the Suez Canal from pharaonic ideas to the 2015 New Suez Canal, told in 12 halls of the restored 1862 headquarters of the canal company.",
+  "ar": "قصة قناة السويس من فكرتها في مصر القديمة حتى قناة السويس الجديدة عام 2015، تُروى في 12 قاعة داخل المقر الإداري لشركة القناة الذي شُيد عام 1862 وجرى ترميمه."
+ },
+ "description": {
+  "en": "The Suez Canal Museum occupies a nineteenth-century building in Ismailia, erected in 1862 as the administrative headquarters of the Suez Canal Company and associated with Ferdinand de Lesseps. After careful restoration it opened to the public in 2024 under the Suez Canal Authority. Some 2,000 objects are arranged in twelve halls along seven themes: the ancient Egyptian idea of linking the seas, the digging of the canal by hand, forced labour, mechanisation, nationalisation under Gamal Abdel Nasser, the widening projects, and the New Suez Canal of 2015. Displays include a salon associated with Empress Eugénie, who attended the canal’s opening in 1869, the bronze statue of de Lesseps that once stood at the entrance of Port Said, historic railway carriages, digging tools, and documents of the 1956 nationalisation. Ticket prices for foreign visitors are set by the Supreme Council of Antiquities.",
+  "ar": "يشغل متحف قناة السويس مبنى من القرن التاسع عشر في الإسماعيلية، شُيد عام 1862 مقرًا إداريًا لشركة قناة السويس، ويرتبط باسم فرديناند ديليسبس. وبعد ترميم دقيق فُتح للجمهور عام 2024 تحت إشراف هيئة قناة السويس. ويضم نحو ألفي قطعة موزعة على اثنتي عشرة قاعة وفق سبعة محاور: فكرة الربط بين البحرين في مصر القديمة، والحفر اليدوي، ونظام السخرة، والميكنة، والتأميم في عهد جمال عبد الناصر، ومشروعات التوسيع والازدواج، وقناة السويس الجديدة عام 2015. ومن المعروضات صالون يرتبط بالإمبراطورة أوجيني التي حضرت افتتاح القناة عام 1869، وتمثال ديليسبس البرونزي الذي كان قائمًا عند مدخل بورسعيد، وعربات قطار تاريخية وأدوات الحفر ووثائق تأميم القناة عام 1956. ويحدد المجلس الأعلى للآثار أسعار تذاكر الزائرين الأجانب."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "De Lesseps statue",
+    "ar": "تمثال ديليسبس"
+   },
+   "desc": {
+    "en": "The bronze statue that once greeted ships at Port Said.",
+    "ar": "التمثال البرونزي الذي كان يستقبل السفن في بورسعيد."
+   }
+  },
+  {
+   "title": {
+    "en": "Empress Eugénie salon",
+    "ar": "صالون الإمبراطورة أوجيني"
+   },
+   "desc": {
+    "en": "Period furnishings linked to the canal’s 1869 opening.",
+    "ar": "أثاث من الحقبة يرتبط بافتتاح القناة عام 1869."
+   }
+  },
+  {
+   "title": {
+    "en": "Nationalisation documents",
+    "ar": "وثائق التأميم"
+   },
+   "desc": {
+    "en": "Papers and memorabilia of the 1956 nationalisation.",
+    "ar": "أوراق ومقتنيات تخص تأميم القناة عام 1956."
+   }
+  },
+  {
+   "title": {
+    "en": "Historic railway carriages",
+    "ar": "عربات القطار التاريخية"
+   },
+   "desc": {
+    "en": "Carriages and equipment from the canal’s working history.",
+    "ar": "عربات ومعدات من تاريخ تشغيل القناة."
+   }
+  },
+  {
+   "title": {
+    "en": "Digging tools and models",
+    "ar": "أدوات الحفر والنماذج"
+   },
+   "desc": {
+    "en": "Tools and models showing how the canal was dug and widened.",
+    "ar": "أدوات ونماذج توضح كيف حُفرت القناة ووُسعت."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 400
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 200
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 40
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 20
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/SuezcanalMuseum",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Morning; pair it with a walk through the colonial-era streets of Ismailia.",
+   "ar": "الصباح، مع جولة في شوارع الإسماعيلية ذات الطابع التاريخي."
+  },
+  "crowdNotes": {
+   "en": "Popular with domestic tour groups at weekends; quieter on weekdays.",
+   "ar": "يقصده كثير من الرحلات الداخلية في عطلات نهاية الأسبوع، وأهدأ في أيام العمل."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/IsmailiaLessepsHouse.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:IsmailiaLessepsHouse.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "https://scamuseum.suezcanal.gov.eg/home/english/pages/default.aspx",
+  "social": [
+   "https://www.facebook.com/scamuseum/"
+  ]
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q137799678",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (lastEntry 16:00, Ramadan lastEntry 14:00),prices (Egyptian 40/20, foreign 400/200),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/SuezcanalMuseum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (booking page)",
+   "url": "https://egymonuments.com/book-date/171",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (SCA board 5 May 2026: foreign 400/200 from 1 Jul 2026 for the exhibition in the canal company’s first HQ building; tourism chamber circular 74/2026)",
+   "url": "https://misrelaan.com/article/117899/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (09:00-17:00, ticket office closes 16:00),description (1862 building, 12 halls, 7 themes, exhibits; 26 May 2025)",
+   "url": "https://www.masrawy.com/news/news_regions/details/2025/5/26/2794084/x",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Villa de Lesseps building; 2 Aug 2025)",
+   "url": "https://www.maspero.eg/art-and-culture/2025/08/02/880131/x",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (trial opening for the public, 2024)",
+   "url": "https://www.youm7.com/story/2024/9/25/x/6718915",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "identity,coordinates,website (Wikidata)",
+   "url": "https://www.wikidata.org/wiki/Q137799678",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:IsmailiaLessepsHouse.jpg",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Operated by the Suez Canal Authority, but listed on MoTA's egymonuments.com booking platform with SCA-set prices. Prices: booking page 400/200 foreign, 40/20 Egyptian; the foreign rise (from 300/150) follows the SCA board decision of 5 May 2026 effective 1 Jul 2026, known only from a news report of a tourism-chamber circular, so no effectiveFrom (REVIEW rule). The decision text speaks of 'the temporary exhibition in the first administrative HQ building of the Suez Canal Authority' - taken to be this museum (same 1862 HQ building; booking page title 'Suez canal Museum'). Hours: 09:00-17:00 (masrawy May 2025), last entry 16:00 (booking; matches 'ticket office closes 16:00'). Ramadan: booking last entry 14:00, closing not published. Opening year: maspero says officially 2023, youm7 a trial opening in 2024 (10th of Ramadan) - text says 2024. Address given generally (no official street address found). Photo: the house of de Lesseps (1862) per Commons; that it is exactly the museum building is likely but not confirmed - flagged. City added. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

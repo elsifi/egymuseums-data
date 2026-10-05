@@ -1,0 +1,301 @@
+{
+ "id": "lahun-pyramid",
+ "kind": "site",
+ "wikidataId": "Q1698602",
+ "name": {
+  "en": "El-Lahun Pyramid (Senusret II)",
+  "ar": "هرم اللاهون"
+ },
+ "aliases": [
+  "Pyramid of El Lahun",
+  "Pyramid of Senusret II"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "faiyum",
+ "city": {
+  "en": "El-Lahun",
+  "ar": "اللاهون"
+ },
+ "area": {
+  "en": "El-Lahun village, south-east of Faiyum city",
+  "ar": "قرية اللاهون، جنوب شرق مدينة الفيوم"
+ },
+ "address": {
+  "en": "El-Lahun village, Faiyum Governorate",
+  "ar": "قرية اللاهون، محافظة الفيوم"
+ },
+ "lat": 29.236111,
+ "lng": 30.970556,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "Senusret II’s mudbrick pyramid, built over a rock core, with its entrance hidden away to the south and the workers’ town of Kahun nearby.",
+  "ar": "هرم الملك سنوسرت الثاني المبني من الطوب اللبن فوق نواة صخرية، ومدخله مخفي في الجنوب، وعلى مقربة منه مدينة العمال المعروفة باسم كاهون."
+ },
+ "description": {
+  "en": "Senusret II of the Twelfth Dynasty built his pyramid at el-Lahun in the early nineteenth century BC, close to where the Bahr Yusuf canal enters the Faiyum. The builders used a natural outcrop of yellow limestone as its core, raised mudbrick walls around it and covered the whole with fine white limestone, which was later quarried away, possibly under Ramesses II. Breaking with tradition, the entrance was not placed on the north face but hidden in shafts to the south, in the hope of fooling robbers. Around the pyramid are mastaba tombs of the royal family, a small queen’s pyramid and traces of trees once planted around the enclosure. The tomb of Princess Sat-Hathor-Iunet, found here, yielded a famous treasure of jewellery. The valley temple lies some distance away, near the planned workers’ town known today as Kahun. The pyramid was opened to visitors in 2019.",
+  "ar": "شيد الملك سنوسرت الثاني من الأسرة الثانية عشرة هرمه في اللاهون في مطلع القرن التاسع عشر قبل الميلاد، قرب موضع دخول بحر يوسف إلى الفيوم. استغل البناؤون نتوءًا طبيعيًا من الحجر الجيري الأصفر نواةً للهرم، وأقاموا حوله جدرانًا من الطوب اللبن، ثم كسوه بالحجر الجيري الأبيض الذي نُزع لاحقًا، وربما حدث ذلك في عهد رمسيس الثاني. وخلافًا للتقاليد، لم يوضع المدخل في الواجهة الشمالية، بل أُخفي في آبار إلى الجنوب أملًا في تضليل اللصوص. ويحيط بالهرم عدد من المصاطب لأفراد الأسرة المالكة وهرم صغير للملكة، فضلًا عن آثار أشجار كانت مزروعة حول السور. ومن هنا خرجت كنوز مقبرة الأميرة سات حتحور إيونت من الحلي الشهيرة. أما معبد الوادي فيقع على مسافة من الهرم، بالقرب من مدينة العمال المخططة المعروفة اليوم باسم كاهون. وقد فُتح الهرم للزيارة عام 2019."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Pyramid on a rock core",
+    "ar": "الهرم ذو النواة الصخرية"
+   },
+   "desc": {
+    "en": "Mudbrick walls built around a natural limestone outcrop.",
+    "ar": "جدران من الطوب اللبن شُيدت حول نتوء طبيعي من الحجر الجيري."
+   }
+  },
+  {
+   "title": {
+    "en": "Hidden southern entrance",
+    "ar": "المدخل الجنوبي المخفي"
+   },
+   "desc": {
+    "en": "Access shafts placed south of the pyramid instead of on its north face.",
+    "ar": "آبار الدخول وُضعت جنوب الهرم بدلًا من واجهته الشمالية."
+   }
+  },
+  {
+   "title": {
+    "en": "Royal mastabas and queen’s pyramid",
+    "ar": "مصاطب الأسرة المالكة وهرم الملكة"
+   },
+   "desc": {
+    "en": "Family tombs and a small pyramid within the royal enclosure.",
+    "ar": "مقابر أفراد الأسرة وهرم صغير داخل السور الملكي."
+   }
+  },
+  {
+   "title": {
+    "en": "Kahun workers’ town",
+    "ar": "مدينة عمال كاهون"
+   },
+   "desc": {
+    "en": "The planned settlement that housed the pyramid’s builders and staff.",
+    "ar": "المدينة المخططة التي سكنها بناة الهرم والعاملون فيه."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning, before the desert heat; combine with other Fayoum sites by car.",
+   "ar": "الصباح قبل اشتداد حرارة الصحراء، مع الجمع بينه وبين مواقع الفيوم الأخرى بالسيارة."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded. The ground is uneven and exposed; bring water and sun protection.",
+   "ar": "نادرًا ما يزدحم. والأرض غير ممهدة ومكشوفة، فاحرص على حمل الماء والوقاية من الشمس."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/El_Lahun_Pyramid_01.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Lahun_Pyramid_01.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/LahunPyramidNorthSide.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:LahunPyramidNorthSide.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/LahunMastabas.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:LahunMastabas.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Pyramid_of_Senusret_II",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%87%D8%B1%D9%85_%D8%A7%D9%84%D9%84%D8%A7%D9%87%D9%88%D9%86",
+  "osm": "way/89036414"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1698602",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,address,description,status",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/هرم-اللاهون/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: 150/75, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (day-trip report, 9 May 2026)",
+   "url": "https://www.youm7.com/story/2026/5/9/x/7402996",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original; opened to visitors 28 Jun 2019)",
+   "url": "https://en.wikipedia.org/wiki/Pyramid_of_Senusret_II",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status open: listed in the live MoTA open-sites guide (undated official page, counts as current per D6); youm7 (9 May 2026) describes Hawara and Lahun as day-trip sites with horse rides between them. Hours 08:00-17:00 (MoTA open-sites guide, matches Nov 2024 list); last entry 16:00 by the guide's 'last entry one hour before closing' rule. Ramadan 09:00-16:00 per guide, last entry 15:00. Prices from the Nov 2024 MoTA list, the only official price source (no egymonuments.gov.eg portal page, not on the egymonuments.com booking platform, so no onlineUrl). No Arab tier (abolished at SCA sites from 1 Jan 2026). Free groups are not stated on any official page for this site, so omitted. Whether the interior passages are open on a given day is not stated by an official page; the description says only that the pyramid opened to visitors in 2019. City set to El-Lahun (MoTA address). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

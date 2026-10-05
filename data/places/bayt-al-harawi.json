@@ -1,0 +1,345 @@
+{
+ "id": "bayt-al-harawi",
+ "kind": "site",
+ "wikidataId": "Q25451854",
+ "name": {
+  "en": "Bayt al-Harawi",
+  "ar": "بيت الهراوي"
+ },
+ "aliases": [
+  "منزل عبد الرحمن الهراوي",
+  "house of al-Harawi",
+  "house of al-Harawy"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "al-Azhar, behind al-Azhar Mosque",
+  "ar": "الأزهر، خلف الجامع الأزهر"
+ },
+ "address": {
+  "en": "End of al-Ayni lane, off al-Azhar Street, Cairo (next to the House of Sitt Wasila)",
+  "ar": "نهاية زقاق العيني المتفرع من شارع الأزهر، القاهرة (بجوار منزل الست وسيلة)"
+ },
+ "lat": 30.04431,
+ "lng": 31.263324,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The house is also home to the Arab Oud House, so concerts and classes take place here.",
+  "ar": "مفتوح يوميًا. ويضم المنزل أيضًا بيت العود العربي، فتُقام فيه الحفلات ودروس العزف."
+ },
+ "summary": {
+  "en": "An 18th-century merchant house behind al-Azhar, restored by a French–Egyptian team and now home to the Arab Oud House.",
+  "ar": "منزل تاجر من القرن الثامن عشر خلف الجامع الأزهر، رممه فريق مصري فرنسي ويضم اليوم بيت العود العربي."
+ },
+ "description": {
+  "en": "This Ottoman-era house stands at the end of a narrow lane behind al-Azhar Mosque, between the House of Sitt Wasila and the House of Zaynab Khatun. It was built in 1731 by Ahmad ibn Yusuf al-Sayrafi, but takes its name from its last owner, Abd al-Rahman al-Harawi, a physician at the Qasr al-Aini school of medicine. Three wings of three storeys are arranged around an open courtyard. On the ground floor are a mill, a stable, grain stores and kitchens, together with a summer loggia (maq'ad) and the men's reception hall. Upstairs, the grand reception room (mandara) is cooled by a marble fountain, and separate rooms formed the women's quarters, the haramlik. The house was restored between 1986 and 1993 by the Supreme Council of Antiquities with the French Institute of Oriental Archaeology and the French foreign ministry. Since 1998 it has hosted the Arab Oud House, the school founded by the Iraqi musician Naseer Shamma.",
+  "ar": "يقوم هذا المنزل العثماني في نهاية زقاق ضيق خلف الجامع الأزهر، بين منزل الست وسيلة ومنزل زينب خاتون. أنشأه أحمد بن يوسف الصيرفي عام 1731، لكنه يُنسب إلى آخر من امتلكه، عبد الرحمن الهراوي، الذي كان طبيبًا في مدرسة الطب بالقصر العيني. ويتألف من ثلاث وحدات من ثلاثة طوابق حول فناء مكشوف. ففي الطابق الأرضي طاحونة وإسطبل ومخازن للغلال ومطابخ، إلى جانب مقعد صيفي وقاعة لاستقبال الرجال. وفي الطابق العلوي المندرة، قاعة الاستقبال الكبرى، تلطّف جوها فسقية من الرخام، وغرف مستقلة كانت جناحًا للنساء (الحرملك). ورُمم المنزل بين عامي 1986 و1993 بتعاون بين المجلس الأعلى للآثار والمعهد الفرنسي للآثار الشرقية ووزارة الخارجية الفرنسية. ومنذ عام 1998 يحتضن بيت العود العربي، المدرسة التي أسسها الموسيقار العراقي نصير شمة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Courtyard",
+    "ar": "الفناء"
+   },
+   "desc": {
+    "en": "An open courtyard linking the house's three wings.",
+    "ar": "فناء مكشوف يربط بين وحدات المنزل الثلاث."
+   }
+  },
+  {
+   "title": {
+    "en": "Summer loggia",
+    "ar": "المقعد الصيفي"
+   },
+   "desc": {
+    "en": "A raised arcaded loggia open to the courtyard's breezes.",
+    "ar": "مقعد مرتفع ذو عقود ينفتح على نسيم الفناء."
+   }
+  },
+  {
+   "title": {
+    "en": "Mandara",
+    "ar": "المندرة"
+   },
+   "desc": {
+    "en": "The grand reception hall with its marble fountain.",
+    "ar": "قاعة الاستقبال الكبرى بفسقيتها الرخامية."
+   }
+  },
+  {
+   "title": {
+    "en": "Mill and stable",
+    "ar": "الطاحونة والإسطبل"
+   },
+   "desc": {
+    "en": "Service rooms that show how a self-sufficient Cairene household worked.",
+    "ar": "ملحقات خدمية تكشف كيف كان البيت القاهري يكفي حاجاته بنفسه."
+   }
+  },
+  {
+   "title": {
+    "en": "Arab Oud House",
+    "ar": "بيت العود العربي"
+   },
+   "desc": {
+    "en": "Oud classes and concerts held in the restored halls.",
+    "ar": "دروس وحفلات العود في القاعات المرممة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Elharawy",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Morning, combined with the neighbouring houses of Sitt Wasila and Zaynab Khatun.",
+   "ar": "الصباح، مع الجمع بين الزيارة ومنزلي الست وسيلة وزينب خاتون المجاورين."
+  },
+  "crowdNotes": {
+   "en": "Quiet by day; evening concerts of the Oud House may need separate invitations or tickets.",
+   "ar": "هادئ نهارًا، وقد تتطلب حفلات بيت العود المسائية دعوات أو تذاكر منفصلة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Oud_class_at_Cairo%27s_Beit_el-Oud_%28House_of_Oud%29.jpg",
+   "author": "Enas El Masry",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oud_class_at_Cairo's_Beit_el-Oud_(House_of_Oud).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Oud_students_practice_at_the_Beit_el-Oud_music_school_in_Old_Cairo.jpg",
+   "author": "Enas El Masry",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oud_students_practice_at_the_Beit_el-Oud_music_school_in_Old_Cairo.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "http://www.araboudhouse.gov.eg/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D9%87%D8%B1%D8%A7%D9%88%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q25451854",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan lastEntry),freeGroups,tickets (official MoTA booking platform)",
+   "url": "https://egymonuments.com/details/Elharawy",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,tickets (official booking page)",
+   "url": "https://egymonuments.com/book-date/88",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan 09:00-16:00),address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D9%86%D8%B2%D9%84-%D8%A7%D9%84%D9%87%D8%B1%D8%A7%D9%88%D9%8A/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "contacts.website (Arab Oud House, CDF venue list)",
+   "url": "https://www.cdf.gov.eg/?q=node/29",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D9%87%D8%B1%D8%A7%D9%88%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Booking platform, MoTA guide and Nov 2024 list agree (09:00-17:00, last entry 16:00; foreign 100/50, Egyptian 10/5). No egymonuments.gov.eg portal page exists for this house. Date of al-Harawi's ownership differs (MoTA guide: document of 1798; ar-wiki: 1881), so no year is given. Photos show oud classes in the house's historic interior (Commons has no architectural photo). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

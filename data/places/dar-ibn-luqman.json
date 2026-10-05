@@ -1,0 +1,318 @@
+{
+ "id": "dar-ibn-luqman",
+ "kind": "museum",
+ "wikidataId": "Q12211213",
+ "name": {
+  "en": "Dar ibn Luqman",
+  "ar": "دار ابن لقمان"
+ },
+ "aliases": [
+  "Mansoura National Museum",
+  "متحف المنصورة القومي",
+  "دار ابن لقمان",
+  "Dar Ibn Lokman"
+ ],
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "dakahlia",
+ "city": {
+  "en": "Mansoura",
+  "ar": "المنصورة"
+ },
+ "area": {
+  "en": "Port Said Street, near al-Muwafi Square",
+  "ar": "شارع بورسعيد، بالقرب من ميدان الموافي"
+ },
+ "address": {
+  "en": "Port Said Street (Dar Ibn Luqman), al-Muwafi Square, Mansoura, Dakahlia",
+  "ar": "شارع بورسعيد (دار ابن لقمان)، ميدان الموافي، المنصورة، الدقهلية"
+ },
+ "lat": 31.045218,
+ "lng": 31.379952,
+ "status": "open",
+ "statusNote": {
+  "en": "Open five days a week; closed on Mondays, Fridays and official holidays.",
+  "ar": "مفتوح خمسة أيام في الأسبوع، ويُغلق يومي الاثنين والجمعة والعطلات الرسمية."
+ },
+ "summary": {
+  "en": "The house of the judge Ibn Luqman in Mansoura, where King Louis IX of France was held prisoner in 1250, now the Mansoura National Museum.",
+  "ar": "بيت القاضي ابن لقمان بالمنصورة، الذي سُجن فيه ملك فرنسا لويس التاسع عام 1250، ويضم اليوم متحف المنصورة القومي."
+ },
+ "description": {
+  "en": "Dar Ibn Luqman takes its name from Fakhr al-Din Ibrahim ibn Luqman, the city’s judge in the thirteenth century. Its fame comes from the Seventh Crusade: after the Crusader army was defeated near Mansoura and at Fariskur in 1250, King Louis IX of France was captured and held in this house until his ransom was arranged. The building keeps the plan of a traditional town house around a central court with a wooden staircase. The ground-floor rooms, rebuilt as a single hall, present the history of the Crusades and the battle of Mansoura with paintings and medieval weapons. Upstairs is the room where the king is said to have been confined, furnished with a wooden bench and a large chair and dramatised by a life-size figure of Louis in chains with his guard, the eunuch Subayh. Verses mocking the defeated king are inscribed above the door. The house opened as a museum in 1960 and reopened in 2015 after restoration.",
+  "ar": "تحمل دار ابن لقمان اسم فخر الدين إبراهيم بن لقمان، قاضي المدينة في القرن الثالث عشر الميلادي. واكتسبت شهرتها من الحملة الصليبية السابعة، فبعد هزيمة جيش الصليبيين قرب المنصورة وفي فارسكور عام 1250 أُسر ملك فرنسا لويس التاسع، واحتُجز في هذه الدار حتى جرى الاتفاق على فديته. يحتفظ المبنى المتواضع بتخطيط البيت التقليدي حول صحن أوسط يصعد منه سلم خشبي إلى الدور الثاني. وقد أُعيد بناء حجرات الدور الأرضي على هيئة قاعة واحدة تعرض تاريخ الحروب الصليبية ومعركة المنصورة بلوحات وأسلحة من العصور الوسطى. وفي الدور العلوي الحجرة التي يُقال إن الملك حُبس فيها، وبها أريكة خشبية وكرسي ضخم، ويجسد المشهدَ تمثالٌ بالحجم الطبيعي للويس مكبلًا وخلفه حارسه الطواشي صبيح. وتعلو الباب أبيات شعرية تسخر من الملك المهزوم. افتُتحت الدار متحفًا عام 1960، وأُعيد افتتاحها عام 2015 بعد ترميمها."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Room of Louis IX",
+    "ar": "حجرة لويس التاسع"
+   },
+   "desc": {
+    "en": "The upper room where the captive king was held, with a life-size tableau.",
+    "ar": "الحجرة العلوية التي احتُجز فيها الملك الأسير، ويجسدها مشهد بالحجم الطبيعي."
+   }
+  },
+  {
+   "title": {
+    "en": "Crusades hall",
+    "ar": "قاعة الحروب الصليبية"
+   },
+   "desc": {
+    "en": "Paintings of the battle of Mansoura and medieval weapons.",
+    "ar": "لوحات لمعركة المنصورة وأسلحة من العصور الوسطى."
+   }
+  },
+  {
+   "title": {
+    "en": "Inscribed verses",
+    "ar": "الأبيات المنقوشة"
+   },
+   "desc": {
+    "en": "Lines of poetry over the door recalling the king’s defeat.",
+    "ar": "أبيات شعرية فوق الباب تستعيد هزيمة الملك."
+   }
+  },
+  {
+   "title": {
+    "en": "Central court",
+    "ar": "صحن الدار"
+   },
+   "desc": {
+    "en": "The open court and wooden staircase of a medieval town house.",
+    "ar": "الصحن المكشوف والسلم الخشبي لبيت من العصور الوسطى."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "10:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (Fine Arts Sector museums)",
+     "ar": "مواعيد شهر رمضان (متاحف قطاع الفنون التشكيلية)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "closed": true
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 5
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 3
+   }
+  ],
+  "freeGroups": [
+   "People with special needs",
+   "Veterans",
+   "Seniors over 60",
+   "Children under 12",
+   "Members of artists' professional syndicates",
+   "Members of national museum committees"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "People with special needs",
+    "ar": "ذوو الهمم"
+   },
+   {
+    "en": "Veterans",
+    "ar": "المحاربون القدامى"
+   },
+   {
+    "en": "Seniors over 60",
+    "ar": "كبار السن فوق 60 عامًا"
+   },
+   {
+    "en": "Children under 12",
+    "ar": "الأطفال دون 12 عامًا"
+   },
+   {
+    "en": "Members of artists' professional syndicates",
+    "ar": "أعضاء النقابات المهنية للفنانين"
+   },
+   {
+    "en": "Members of national museum committees",
+    "ar": "أعضاء اللجان الوطنية للمتاحف"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Late morning on a weekday other than Monday or Friday.",
+   "ar": "آخر الصباح في أي يوم عدا الاثنين والجمعة."
+  },
+  "crowdNotes": {
+   "en": "A small house with a narrow staircase; school groups can fill it quickly.",
+   "ar": "بيت صغير بسلم ضيق، وقد تملؤه الرحلات المدرسية سريعًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/MansuraLuqmanEntrance.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MansuraLuqmanEntrance.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/MansuraLuqmanCourt.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MansuraLuqmanCourt.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "http://www.fineart.gov.eg/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1_%D8%A7%D8%A8%D9%86_%D9%84%D9%82%D9%85%D8%A7%D9%86",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12211213",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (10:00-16:00 except Mon and Fri),prices,freeGroups,address (official Fine Arts Sector visitor page, Mansoura National Museum)",
+   "url": "http://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (sector summer-2026 schedule: specialised museums 09:00-16:00, closed Fri and Mon)",
+   "url": "https://www.youm7.com/story/2026/6/4/x/7437546",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (museum feature, 28 Nov 2025)",
+   "url": "https://www.youm7.com/story/2025/11/28/x/7214407",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (opened 7 May 1960, reopened 2015)",
+   "url": "https://www.elwatannews.com/news/details/6580532",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1_%D8%A7%D8%A8%D9%86_%D9%84%D9%82%D9%85%D8%A7%D9%86",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Dar Ibn Luqman houses the 'Mansoura National Museum' of the Fine Arts Sector (fineart.gov.eg IDs=9). Ministry of Culture (Fine Arts Sector) museum, not SCA: the SCA Arab-tier rule does not apply. Prices 5 Egyptian / 3 Egyptian student / 10 foreign and free groups from the undated official fineart.gov.eg visitor page (live official page, D6); no 2025-2026 price decision found, and the page also shows outdated hours, so prices should be confirmed by phone. No foreign-student price published. Ramadan: sector-wide 10:00-14:00 (Ramadan 2026 statement), Mon/Fri closed as in the normal week. No last entry published. Hours conflict: the fineart.gov.eg visitor page says 10:00-16:00 except Monday and Friday; the Fine Arts Sector's summer-2026 statement (youm7, 4 Jun 2026) gives 09:00-16:00, closed Friday and Monday, for 'the other specialised museums such as' Rateb Seddik, Mukhtar, Mohamed Nagy, Effat Nagy/Saad al-Khadem and al-Nasr - this museum is not named, so the narrower window (opening 10:00) is used with the same closed days. Status: youm7 feature of 28 Nov 2025 (open museum); no 2026 closure found. The judge's name varies in sources (Fakhr al-Din / Ibrahim ibn Luqman). Phone on the official page (343763) lacks a current area-code format, not used. Photos: the old house (entrance, court); the Louis IX figure is not used. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

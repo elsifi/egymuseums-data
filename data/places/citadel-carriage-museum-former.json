@@ -1,0 +1,126 @@
+{
+ "id": "citadel-carriage-museum-former",
+ "kind": "museum",
+ "wikidataId": "Q5046116",
+ "name": {
+  "en": "Carriage Museum (Cairo Citadel, former)",
+  "ar": "متحف المركبات الملكية بالقلعة"
+ },
+ "aliases": [
+  "Royal Carriages Museum",
+  "متحف الركايب",
+  "متحف الركايب الملكية",
+  "متحف الركايب الملكيه",
+  "Carriage Museum"
+ ],
+ "category": "royal-palace",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Northern enclosure, Cairo Citadel",
+  "ar": "الحرم الشمالي، قلعة صلاح الدين"
+ },
+ "address": {
+  "en": "Northern enclosure of the Cairo Citadel, opposite the Mosque of Sulayman Pasha al-Khadim, Cairo",
+  "ar": "الحرم الشمالي لقلعة صلاح الدين، أمام مسجد سليمان باشا الخادم، القاهرة"
+ },
+ "lat": 30.029,
+ "lng": 31.2636,
+ "status": "closed",
+ "statusNote": {
+  "en": "Closed. The royal carriages are now shown at the Royal Carriages Museum in Bulaq.",
+  "ar": "مغلق، وتُعرض العربات الملكية الآن في متحف المركبات الملكية ببولاق."
+ },
+ "summary": {
+  "en": "A former museum of royal carriages inside the Cairo Citadel, now closed; the collection is displayed at the Royal Carriages Museum in Bulaq.",
+  "ar": "متحف سابق للعربات الملكية داخل قلعة صلاح الدين، مغلق الآن، وتُعرض المجموعة في متحف المركبات الملكية ببولاق."
+ },
+ "description": {
+  "en": "For about three decades the Citadel had its own carriage museum, opened in 1983 in a long stone building in the northern enclosure, opposite the Mosque of Sulayman Pasha al-Khadim. The building had served as the officers' mess of the British garrison, which left the Citadel in 1946. Its single hall showed eight state carriages used on official occasions under the Muhammad Ali dynasty, along with harnesses, saddles, figures of grooms and footmen, and a bust of Khedive Ismail. The best known was an open carriage linked to the celebrations for the opening of the Suez Canal in 1869. The museum was refurbished and reopened in 2013 but has since closed, and visitors who want to see the royal carriages now go to the restored Royal Carriages Museum in Bulaq, which reopened in 2020. The empty building can still be seen from outside during a visit to the Citadel.",
+  "ar": "امتلكت القلعة متحفها الخاص للعربات نحو ثلاثة عقود، إذ افتُتح عام 1983 في مبنى حجري طويل بالحرم الشمالي أمام مسجد سليمان باشا الخادم. وكان المبنى ميسًا لضباط الحامية البريطانية التي غادرت القلعة عام 1946. وعرضت قاعته الوحيدة ثماني عربات رسمية استُخدمت في المناسبات الرسمية في عهد أسرة محمد علي، إلى جانب أطقم الخيول والسروج ونماذج للسياس والشماشرجية وتمثال نصفي للخديوي إسماعيل. وأشهرها عربة مكشوفة ارتبطت باحتفالات افتتاح قناة السويس عام 1869. وطُوّر المتحف وأعيد افتتاحه عام 2013 لكنه أُغلق بعد ذلك، ومن يرغب في مشاهدة العربات الملكية يقصد اليوم متحف المركبات الملكية المرمم في بولاق الذي أعيد افتتاحه عام 2020. ويمكن رؤية المبنى من الخارج أثناء زيارة القلعة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Former British officers' mess",
+    "ar": "ميس الضباط الإنجليز سابقًا"
+   },
+   "desc": {
+    "en": "The long stone building that housed the museum, seen from outside on a Citadel visit.",
+    "ar": "المبنى الحجري الطويل الذي ضم المتحف، ويُرى من الخارج أثناء زيارة القلعة."
+   }
+  },
+  {
+   "title": {
+    "en": "Where the carriages are now",
+    "ar": "أين العربات الآن"
+   },
+   "desc": {
+    "en": "The royal carriages are displayed at the Royal Carriages Museum in Bulaq.",
+    "ar": "تُعرض العربات الملكية في متحف المركبات الملكية ببولاق."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D9%82%D9%84%D8%B9%D8%A9.jpg",
+   "author": "Amr F.Nagy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D9%82%D9%84%D8%B9%D8%A9.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Carriage_Museum_(Egypt)",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D9%82%D9%84%D8%B9%D8%A9",
+  "osm": "way/97937687"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q5046116",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (MoTA guide lists only the Royal Carriages Museum in Bulaq, reopened 2020)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D9%82%D9%84%D8%B9%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://en.wikipedia.org/wiki/Carriage_Museum_(Egypt)",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Seed curationNote (former museum; carriages now at the Bulaq Royal Carriages Museum; Wikidata 'out of service') moved into statusNote/description. AR Wikipedia says it is closed and that the collection is 'believed' to have moved to Bulaq; the MoTA guide lists only the Bulaq museum and the Citadel's current ticket (youm7 Apr 2026) names no carriage museum. Exact closing year not found. Kept as a closed record whose statusNote points to the Royal Carriages Museum (batch-9 Q4a). Commons photo (Amr F.Nagy, Feb 2026): extmetadata says Public domain but the file page carries {{self|cc-by-sa-4.0}}; CC BY-SA 4.0 recorded."
+}

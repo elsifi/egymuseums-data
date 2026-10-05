@@ -1,0 +1,128 @@
+{
+ "id": "people-s-assembly-museum",
+ "kind": "museum",
+ "wikidataId": "Q22689515",
+ "name": {
+  "en": "People's Assembly Museum",
+  "ar": "متحف مجلس الشعب"
+ },
+ "category": "specialised",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Former parliament building, Qasr al-Aini Street, Downtown",
+  "ar": "مبنى البرلمان السابق، شارع قصر العيني، وسط البلد"
+ },
+ "status": "unknown",
+ "statusNote": {
+  "en": "The museum is inside the historic parliament building on Qasr al-Aini Street, which the House of Representatives left for the New Capital in late 2025. It was never open to the public on a regular basis, and its current status is unknown.",
+  "ar": "يقع المتحف داخل مبنى البرلمان التاريخي في شارع قصر العيني، الذي غادره مجلس النواب إلى العاصمة الجديدة أواخر عام 2025. ولم يكن مفتوحًا للجمهور بصورة منتظمة، ووضعه الحالي غير معروف."
+ },
+ "summary": {
+  "en": "Two halls in Egypt's historic parliament building that trace law-making and representative government from pharaonic times to the present.",
+  "ar": "قاعتان في مبنى البرلمان المصري التاريخي تتتبعان التشريع والحياة النيابية من العصر الفرعوني حتى اليوم."
+ },
+ "description": {
+  "en": "Egypt's parliament museum was set up inside the historic parliament complex on Qasr al-Aini Street to preserve the heritage of the country's political and legislative life. Its two halls open with replicas of ancient laws, treaties and records, and continue through Coptic and Islamic times, with a copy of the Qur'an as the main source of Islamic law. The modern section tells the story of representative government from the High Council of 1824 onwards. It shows portraits of every speaker since Ismail Ragheb, who presided over the first consultative assembly in 1866, documents of the committee that drafted the 1923 constitution, and photographs of national leaders from Ahmed Urabi to Anwar Sadat. Royal-era pieces include a throne chair and a royal carriage, and a section is devoted to the October 1973 war. Parliament moved to its new seat in the New Administrative Capital in 2025, and the future of the old building and its museum has not been announced.",
+  "ar": "أُنشئ متحف البرلمان المصري داخل مجمع البرلمان التاريخي بشارع قصر العيني للحفاظ على تراث الحياة السياسية والتشريعية في مصر. تبدأ قاعتاه بنسخ طبق الأصل من القوانين والمعاهدات والسجلات القديمة، ثم تمر بالعصرين القبطي والإسلامي، مع نسخة من المصحف الشريف بوصفه المصدر الرئيسي للتشريع الإسلامي. ويروي القسم الحديث قصة الحياة النيابية منذ المجلس العالي عام 1824. ويعرض صور رؤساء المجالس النيابية جميعًا منذ إسماعيل راغب أول رئيس لمجلس شورى النواب عام 1866، ووثائق لجنة وضع دستور 1923، وصورًا للزعماء الوطنيين من أحمد عرابي إلى أنور السادات. ومن مقتنيات العهد الملكي كرسي للعرش وعربة ملكية، كما يُخصص قسم لحرب أكتوبر 1973. وانتقل البرلمان إلى مقره الجديد في العاصمة الإدارية عام 2025، ولم يُعلن بعد مصير المبنى القديم ومتحفه."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Ancient law replicas",
+    "ar": "نسخ التشريعات القديمة"
+   },
+   "desc": {
+    "en": "Copies of pharaonic laws and treaties, with a model of a seated scribe.",
+    "ar": "نسخ من القوانين والمعاهدات الفرعونية، مع نموذج لتمثال الكاتب الجالس."
+   }
+  },
+  {
+   "title": {
+    "en": "Speakers' gallery",
+    "ar": "صور رؤساء المجالس"
+   },
+   "desc": {
+    "en": "Portraits of every speaker since the first consultative assembly of 1866.",
+    "ar": "صور رؤساء المجالس النيابية منذ أول مجلس شورى للنواب عام 1866."
+   }
+  },
+  {
+   "title": {
+    "en": "1923 constitution",
+    "ar": "دستور 1923"
+   },
+   "desc": {
+    "en": "Documents and photographs of the committee that drafted the 1923 constitution.",
+    "ar": "وثائق وصور للجنة التي وضعت دستور 1923."
+   }
+  },
+  {
+   "title": {
+    "en": "Throne chair and royal carriage",
+    "ar": "كرسي العرش والعربة الملكية"
+   },
+   "desc": {
+    "en": "Ceremonial pieces from the monarchy, displayed in the museum hall.",
+    "ar": "قطع من العهد الملكي معروضة في قاعة المتحف."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Egypt_Chamber_of_Deputies_%E2%80%93_Metallic_dome.JPG",
+   "author": "Baume & Marpent Archives",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egypt_Chamber_of_Deputies_%E2%80%93_Metallic_dome.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D8%AC%D9%84%D8%B3_%D8%A7%D9%84%D8%B4%D8%B9%D8%A8_(%D9%85%D8%B5%D8%B1)",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q22689515",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D8%AC%D9%84%D8%B3_%D8%A7%D9%84%D8%B4%D8%B9%D8%A8_(%D9%85%D8%B5%D8%B1)",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (museum feature: throne chair, royal carriage), Jan 2024",
+   "url": "https://www.youm7.com/story/2024/1/27/x/6458749",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (parliament leaves the Qasr al-Aini building), Dec 2025",
+   "url": "https://www.youm7.com/story/2025/12/21/x/7242129",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Coordinates null in seed and Wikidata; not filled. Operator kept as seed 'other' (House of Representatives). No public visiting arrangements found at any time; the building was vacated in Dec 2025 and no decision on its reuse was found. PHOTOS: no Commons photo of the museum; the only photo is a public-domain 1922 plan of the parliament's metal dome (the building that houses the museum) - thematic stand-in, kept until a real photo appears (batch-10 Q2a)."
+}

@@ -1,0 +1,331 @@
+{
+ "id": "zawyet-sultan",
+ "kind": "site",
+ "wikidataId": "Q4894815",
+ "name": {
+  "en": "Zawyet Sultan (Zawyet el-Maiyitin)",
+  "ar": "زاوية سلطان"
+ },
+ "aliases": [
+  "زاوية الميتين",
+  "زاوية سلطان، المنيا",
+  "Zawyet el-Maiyitin"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "minya",
+ "city": {
+  "en": "Minya",
+  "ar": "المنيا"
+ },
+ "area": {
+  "en": "Zawyet Sultan (Zawyet el-Amwat), east bank south of Minya",
+  "ar": "زاوية سلطان (زاوية الأموات)، البر الشرقي جنوب المنيا"
+ },
+ "address": {
+  "en": "Zawyet Sultan Pasha village, about 10 km south of Minya on the road to Beni Hasan",
+  "ar": "قرية زاوية سلطان باشا، على بعد نحو 10 كم جنوب المنيا على طريق بني حسن"
+ },
+ "lat": 28.0625,
+ "lng": 30.8175,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوحة يوميًا."
+ },
+ "summary": {
+  "en": "A vast cemetery on the east bank with the only pyramid on that side of the Nile, Old and New Kingdom rock tombs and the domed tombs of Sultan Pasha's family.",
+  "ar": "جبانة واسعة على البر الشرقي تضم الهرم الوحيد على هذا الجانب من النيل، ومقابر صخرية من الدولتين القديمة والحديثة، وقباب أسرة سلطان باشا."
+ },
+ "description": {
+  "en": "Zawyet Sultan, also called Zawyet el-Amwat, the corner of the dead, is a cemetery that has been in use for more than four thousand years. At its southern end, on the ancient site of Hebenu, a small limestone step pyramid of the late Third Dynasty, often attributed to Huni, is the only pyramid built on the east bank of the Nile; it has no internal chambers and its purpose is still debated. On the hill behind are rock tombs of Old Kingdom officials of the Oryx nome and the New Kingdom tomb of Nefersekheru, along with remains of a temple of Horus begun under Amenhotep III. The modern Muslim cemetery stretches for kilometres along the desert edge. Its best-known monuments are the domed mausoleums of the family of Muhammad Sultan Pasha, first president of Egypt's first elected chamber of deputies, including those of his daughters, among them the feminist pioneer Huda Shaarawi.",
+  "ar": "زاوية سلطان، وتُعرف أيضًا بزاوية الأموات، جبانة ظلت مستخدمة أكثر من أربعة آلاف عام. وفي طرفها الجنوبي، عند موقع مدينة حبنو القديمة، يقوم هرم مدرج صغير من الحجر الجيري من أواخر الأسرة الثالثة، يُنسب في الغالب إلى الملك حوني، وهو الهرم الوحيد المشيد على البر الشرقي للنيل، ولا حجرات بداخله، ولا يزال الغرض منه موضع نقاش. وفي التل خلفه مقابر صخرية لموظفين من إقليم الوعل في الدولة القديمة، ومقبرة نفرسخرو من الدولة الحديثة، وبقايا معبد لحورس بدأ في عهد أمنحتب الثالث. وتمتد الجبانة الإسلامية الحديثة كيلومترات على حافة الصحراء، وأشهر آثارها الأضرحة المقببة لأسرة محمد سلطان باشا، أول رئيس لمجلس نيابي في مصر، ومنها أضرحة بناته، وبينهن رائدة الحركة النسائية هدى شعراوي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Step pyramid",
+    "ar": "الهرم المدرج"
+   },
+   "desc": {
+    "en": "A small Third Dynasty pyramid, the only one on the Nile's east bank.",
+    "ar": "هرم صغير من الأسرة الثالثة، الوحيد على البر الشرقي للنيل."
+   }
+  },
+  {
+   "title": {
+    "en": "Sultan Pasha family mausoleums",
+    "ar": "أضرحة أسرة سلطان باشا"
+   },
+   "desc": {
+    "en": "Domed tombs including that of Huda Shaarawi.",
+    "ar": "أضرحة مقببة منها ضريح هدى شعراوي."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Nefersekheru",
+    "ar": "مقبرة نفرسخرو"
+   },
+   "desc": {
+    "en": "A decorated New Kingdom rock tomb.",
+    "ar": "مقبرة صخرية مزخرفة من الدولة الحديثة."
+   }
+  },
+  {
+   "title": {
+    "en": "Old Kingdom rock tombs",
+    "ar": "مقابر الدولة القديمة الصخرية"
+   },
+   "desc": {
+    "en": "Tombs of officials cut into the hill above the cemetery.",
+    "ar": "مقابر لموظفين منحوتة في التل المطل على الجبانة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/ZawyetSultan",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning, on the way to Beni Hasan.",
+   "ar": "الصباح، في الطريق إلى بني حسن."
+  },
+  "crowdNotes": {
+   "en": "The modern cemetery is in daily use, so behave as at any graveyard. Buy the ticket online beforehand. Foreign visitors travelling by road in Minya governorate may be asked by police to register their route or travel with an escort, so allow extra time.",
+   "ar": "الجبانة الحديثة مستخدمة يوميًا، فراعِ آداب زيارة المقابر، واشترِ التذكرة إلكترونيًا مسبقًا. قد تطلب الشرطة من الزوار الأجانب المسافرين برًا في محافظة المنيا تسجيل خط سيرهم أو التنقل بمرافقة أمنية، فاحسب وقتًا إضافيًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/ZaiyatMaiyitinPyramid.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZaiyatMaiyitinPyramid.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/ZaiyatMaiyitinTombs1.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZaiyatMaiyitinTombs1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/ZaiyatMaiyitinNehersekheru.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZaiyatMaiyitinNehersekheru.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Zawyet_el-Maiyitin",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B2%D8%A7%D9%88%D9%8A%D8%A9_%D8%B3%D9%84%D8%B7%D8%A7%D9%86",
+  "osm": "way/1338271039"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q4894815",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00; Ramadan 09:00-16:00; last entry 1 h before closing),address,description (Sultan Pasha family, Huda Shaarawi)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/زاوية-سلطان/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Egyptian 10/5),hours,tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/ZawyetSultan",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Nov 2024 list: Egyptian 20/10, foreign 100/50),hours",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (pyramid; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Zawyet_el-Maiyitin",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights,visit (Hebenu, Huni, Horus temple, Nefersekheru; no ticket office on site in Nov 2024; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Z%C4%81wiyat_el-Maiyit%C4%ABn",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Egyptian price 10/5 from the booking platform vs 20/10 in the Nov 2024 list, no portal page -> 10/5 (batch-7 Q3a). Hours agree between guide and booking platform. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Wikivoyage (Nov 2024) says there is no ticket office on site and tickets must be bought online or at Beni Hasan by card; reflected only as 'buy online beforehand'. Sultan Pasha's death year left out of the prose: the guide gives 1301 AH / 1883 AD, other references give 1884."
+}

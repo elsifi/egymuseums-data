@@ -1,0 +1,324 @@
+{
+ "id": "aswan-excavations-museum",
+ "kind": "museum",
+ "wikidataId": "Q130215900",
+ "name": {
+  "en": "Museum of Archaeological Excavations (Aswan)",
+  "ar": "متحف الحفائر الأثرية بأسوان"
+ },
+ "aliases": [
+  "Museum of archaeological excavations Aswan",
+  "Museum of archaeological excavations Elephantine",
+  "Museum of archaeological excavations",
+  "Aswan Museum Annex",
+  "متحف أسوان الملحق",
+  "ملحق متحف أسوان"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Aswan",
+  "ar": "أسوان"
+ },
+ "area": {
+  "en": "Elephantine Island",
+  "ar": "جزيرة إلفنتين"
+ },
+ "address": {
+  "en": "Elephantine archaeological site, beside the old Aswan Museum, Elephantine Island, Aswan",
+  "ar": "منطقة آثار إلفنتين، بجوار متحف أسوان القديم، جزيرة إلفنتين، أسوان"
+ },
+ "lat": 24.0847,
+ "lng": 32.8867,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily as part of the Elephantine archaeological site; the island ticket covers it.",
+  "ar": "مفتوح يوميًا ضمن منطقة آثار إلفنتين، وتشمله تذكرة الجزيرة."
+ },
+ "summary": {
+  "en": "A one-room museum on Elephantine showing finds from more than four decades of German excavations on the island.",
+  "ar": "متحف من قاعة واحدة في جزيرة إلفنتين يعرض مكتشفات أكثر من أربعة عقود من الحفائر الألمانية في الجزيرة."
+ },
+ "description": {
+  "en": "Next to the old Aswan Museum, inside the archaeological zone of Elephantine, a single-storey annex displays what the German Archaeological Institute uncovered on the island from 1969 onwards. Built in the early 1990s and reopened after a full redisplay in 2017, it is a site museum: the temples of Satet and Khnum, the Nilometer and the excavated town lie just outside. One large hall is arranged by theme, covering jewellery and cosmetics, trade, crafts and industry, fishing and writing. Stone vessels, funerary stelae, royal statues, furniture from burials, amulets and Greek and Roman coins tell the story of a frontier town that guarded Egypt's southern border for three thousand years. Blocks and inscriptions from the excavations are laid out in the open air around the building. The visit fits easily into a tour of the island.",
+  "ar": "إلى جوار متحف أسوان القديم وداخل منطقة آثار إلفنتين، يعرض مبنى ملحق من طابق واحد ما كشف عنه المعهد الألماني للآثار في الجزيرة منذ عام 1969. وقد شُيّد في مطلع تسعينيات القرن العشرين ثم أعيد افتتاحه بعد تطوير شامل للعرض عام 2017، وهو متحف موقع؛ إذ تقع خارجه مباشرة معابد ساتت وخنوم ومقياس النيل والمدينة المكتشفة. وتنقسم قاعته الكبيرة بحسب الموضوعات: الحلي وأدوات الزينة، والتجارة، والحرف والصناعة، والصيد، والكتابة. وتروي الأواني الحجرية واللوحات الجنائزية والتماثيل الملكية وقطع الأثاث الجنائزي والتمائم والعملات اليونانية والرومانية قصة مدينة حدودية حرست جنوب مصر ثلاثة آلاف عام. وتُعرض حول المبنى في الهواء الطلق كتل ونقوش من الحفائر. ويمكن ضم الزيارة بسهولة إلى جولة في الجزيرة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Royal statues",
+    "ar": "التماثيل الملكية"
+   },
+   "desc": {
+    "en": "Statues found in the temples and town of Elephantine.",
+    "ar": "تماثيل عُثر عليها في معابد إلفنتين ومدينتها."
+   }
+  },
+  {
+   "title": {
+    "en": "Funerary stelae",
+    "ar": "اللوحات الجنائزية"
+   },
+   "desc": {
+    "en": "Inscribed stelae of the island's officials and families.",
+    "ar": "لوحات منقوشة لموظفي الجزيرة وأسرها."
+   }
+  },
+  {
+   "title": {
+    "en": "Daily life",
+    "ar": "الحياة اليومية"
+   },
+   "desc": {
+    "en": "Tools, vessels, jewellery and fishing gear from the ancient town.",
+    "ar": "أدوات وأوانٍ وحلي وأدوات صيد من المدينة القديمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Coins",
+    "ar": "العملات"
+   },
+   "desc": {
+    "en": "Greek and Roman coins from the frontier settlement.",
+    "ar": "عملات يونانية ورومانية من المستوطنة الحدودية."
+   }
+  },
+  {
+   "title": {
+    "en": "Open-air blocks",
+    "ar": "الكتل في الهواء الطلق"
+   },
+   "desc": {
+    "en": "Inscribed blocks from the excavations displayed outside.",
+    "ar": "كتل منقوشة من الحفائر معروضة في الخارج."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "includedIn": "elephantine-island",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/ElephantineIsland",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 30,
+  "deepMinutes": 45,
+  "bestTime": {
+   "en": "Morning, as part of a visit to the Elephantine ruins.",
+   "ar": "الصباح، ضمن زيارة آثار إلفنتين."
+  },
+  "crowdNotes": {
+   "en": "Reached by public ferry or felucca from the Aswan corniche.",
+   "ar": "يمكن الوصول إليه بالعبّارة العامة أو بالفلوكة من كورنيش أسوان."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mus%C3%A9e_Assouan_-_Assouan_%28EG%29_-_2025-12-07_-_10.jpg",
+   "author": "Chabe01",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Assouan_-_Assouan_(EG)_-_2025-12-07_-_10.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Mus%C3%A9e_Assouan_-_Assouan_%28EG%29_-_2025-12-07_-_7.jpg",
+   "author": "Chabe01",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Assouan_-_Assouan_(EG)_-_2025-12-07_-_7.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q130215900",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan),description,identity (MoTA open-sites museum guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D8%AA%D8%AD%D9%81-%D8%A3%D8%B3%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%84%D8%AD%D9%82/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,identity (official portal, Elephantine page: nearby museum with German mission finds)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/elephantine-1/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,description (museum director interview, 26 May 2024)",
+   "url": "https://bashkatibnews.com/ainalaswani/dep/feature_profile/171670941234984735",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page, Elephantine Island)",
+   "url": "https://egymonuments.com/details/ElephantineIsland",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "coordinates (Aswan Museum, Q535586)",
+   "url": "https://www.wikidata.org/wiki/Q535586",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Identified as the Aswan Museum annex (MoTA guide 'متحف أسوان الملحق'): Wikidata Q130215900 is a thin item (aliases 'excavations museum Elephantine'); the portal's Elephantine page mentions 'the nearby museum' with the German mission's finds; the 2024 museum director interview says the annex was added in 1993 and reopened in 2017 while the main building stays closed. Arabic name kept from the seed; MoTA calls it 'متحف أسوان الملحق'. Hours: guide 08:00-17:00 (Ramadan 09:00-15:00) vs the Elephantine site's 08:00-16:00; the earlier closing is used (D3), last entry one hour before. Price: no separate ticket on any MoTA list, so includedIn elephantine-island, mirroring its tiers and free groups. Coordinates borrowed from the Aswan Museum (Q535586); the annex stands about 10 m north of it. Photos show the open-air blocks around the annex (the 1990s building itself is not the main subject). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

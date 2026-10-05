@@ -1,0 +1,164 @@
+{
+ "id": "child-museum",
+ "kind": "museum",
+ "wikidataId": "Q4118593",
+ "name": {
+  "en": "Child Museum",
+  "ar": "متحف الطفل بالقاهرة"
+ },
+ "aliases": [
+  "Children's Civilization and Creativity Center",
+  "The Child Museum of Cairo, - The Children's Civilization and Creativity Center"
+ ],
+ "category": "children",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Heliopolis",
+  "ar": "مصر الجديدة"
+ },
+ "area": {
+  "en": "Heliopolis, Abu Bakr al-Siddiq Square",
+  "ar": "مصر الجديدة، ميدان أبو بكر الصديق"
+ },
+ "address": {
+  "en": "34 Abu Bakr al-Siddiq Square, Heliopolis, Cairo",
+  "ar": "34 ميدان أبو بكر الصديق، مصر الجديدة، القاهرة"
+ },
+ "lat": 30.100519,
+ "lng": 31.333891,
+ "status": "open",
+ "statusNote": {
+  "en": "Run by the Heliopolis Society as the Children's Civilization and Creativity Center, with guided tours, workshops and holiday programmes; book or check times by phone.",
+  "ar": "تديره جمعية مصر الجديدة باسم مركز الطفل للحضارة والإبداع، ويقدم جولات مصحوبة بمرشد وورش عمل وبرامج للإجازات، فاحجز أو تحقق من المواعيد هاتفيًا."
+ },
+ "summary": {
+  "en": "A hands-on museum for children in Heliopolis, where a garden journey down the Nile and science halls introduce Egypt's nature and history.",
+  "ar": "متحف تفاعلي للأطفال في مصر الجديدة، تعرّفهم فيه رحلة في حديقة على امتداد النيل وقاعات للعلوم بطبيعة مصر وتاريخها."
+ },
+ "description": {
+  "en": "The Children's Civilization and Creativity Center, known simply as the Child Museum, was created by the Heliopolis Society with help from Egyptian and foreign museum specialists, including the British Museum, and opened in the 1990s; it has since been renewed more than once. Its idea is learning through play. Outdoors, a path follows the course of the Nile from its sources to the sea, passing life-size models of animals that once lived in the valley, from dinosaurs and early whales to hippos, crocodiles and the savannah animals of prehistoric Egypt, before reaching ancient Egyptian scenes. Indoor halls deal with science, the environment and the history of Egyptian civilisation through interactive displays, replicas and games, and a dome show tells the story of science in Egypt. Theatres, workshops and summer programmes complete the centre.",
+  "ar": "أنشأت جمعية مصر الجديدة مركز الطفل للحضارة والإبداع، المعروف باسم متحف الطفل، بمشاركة خبراء متاحف مصريين وأجانب منهم المتحف البريطاني، وافتُتح في تسعينيات القرن العشرين ثم جُدد أكثر من مرة. وتقوم فكرته على التعلم من خلال اللعب. ففي الخارج يتتبع ممر مسار النيل من منابعه إلى البحر، مارًّا بمجسمات بالحجم الطبيعي لحيوانات عاشت في الوادي قديمًا، من الديناصورات والحيتان الأولى إلى أفراس النهر والتماسيح وحيوانات السافانا في مصر قبل التاريخ، حتى يصل إلى مشاهد من مصر القديمة. وتتناول القاعات الداخلية العلوم والبيئة وتاريخ الحضارة المصرية من خلال عروض تفاعلية ونماذج مستنسخة وألعاب، ويحكي عرض في القبة قصة العلوم في مصر. ويكمل المركزَ مسرحٌ وورش عمل وبرامج صيفية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Nile path",
+    "ar": "ممر النيل"
+   },
+   "desc": {
+    "en": "An outdoor walk down a model Nile with life-size animals from prehistoric to pharaonic times.",
+    "ar": "ممشى خارجي على امتداد نموذج للنيل بمجسمات حيوانات بالحجم الطبيعي من عصور ما قبل التاريخ حتى العصر الفرعوني."
+   }
+  },
+  {
+   "title": {
+    "en": "Science halls",
+    "ar": "قاعات العلوم"
+   },
+   "desc": {
+    "en": "Interactive exhibits on science and the environment.",
+    "ar": "معروضات تفاعلية عن العلوم والبيئة."
+   }
+  },
+  {
+   "title": {
+    "en": "Ancient medicine corner",
+    "ar": "ركن الطب المصري القديم"
+   },
+   "desc": {
+    "en": "Replicas of ancient Egyptian surgical tools and a medical papyrus.",
+    "ar": "نماذج مستنسخة لأدوات جراحية مصرية قديمة وبردية طبية."
+   }
+  },
+  {
+   "title": {
+    "en": "Dome show",
+    "ar": "عرض القبة"
+   },
+   "desc": {
+    "en": "A show about the history of science in Egypt.",
+    "ar": "عرض عن تاريخ العلوم في مصر."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 120,
+  "deepMinutes": 180,
+  "bestTime": {
+   "en": "A weekend or holiday morning with children, after booking a tour by phone.",
+   "ar": "صباح عطلة نهاية الأسبوع أو الإجازة مع الأطفال، بعد حجز جولة هاتفيًا."
+  },
+  "crowdNotes": {
+   "en": "Best for children of primary-school age. Activities change with the season, so ask about the current programme.",
+   "ar": "مناسب أكثر لأطفال المرحلة الابتدائية، وتتغير الأنشطة بحسب الموسم، فاسأل عن البرنامج الحالي."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ancient_Egyptian_medical_%26_surgical_tools_replicas_-_Child_museum_in_Cairo10.jpg",
+   "author": "Ashashyou",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ancient_Egyptian_medical_%26_surgical_tools_replicas_-_Child_museum_in_Cairo10.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 2 2771 4915"
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Child_Museum_(Cairo)",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B7%D9%81%D9%84_%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q4118593",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,contacts,address (operator Heliopolis Society: booking office daily except Friday 09:00-15:00; events listed to Aug 2026)",
+   "url": "https://misralgadeda.org/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%B7%D9%81%D9%84-%D9%84%D9%84%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9-%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%B7%D9%81/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (centre active, book-fair programme; state media, 21 Jan 2026)",
+   "url": "https://www.maspero.eg/art-and-culture/2026/01/21/922341/%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%B7%D9%81%D9%84-%D9%88%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83%D8%A7%D9%86-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A8%D9%86%D8%B3%D8%AE%D8%AA%D9%87-%D8%A7%D9%84%D9%8057",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Child_Museum_(Cairo)",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B7%D9%81%D9%84_%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Operator: Heliopolis Society (seed 'other'). Status open: the operator's page lists programmes and tours up to Aug 2026 and state media (Maspero, Jan 2026) reports the centre's activities; public opening hours and ticket prices are posted only on Facebook and were not verified, so hours omitted and prices.status = unconfirmed (an aggregator's 'Sun-Thu 13:00-17:00, Fri-Sat 10:00-17:00, EGP 150/750' refers to the GEM children's museum and is not used). Booking office: daily except Friday 09:00-15:00, phones 27714915, 27714251, 01060988091 (operator page). Date conflicts: established 1985/1986, opened June 1996, renovated 1996 and 2012 (wikis) vs 'founded 1966, renovated and reopened 2022' (cairo360); prose says 'opened in the 1990s; renewed more than once'. The Suzanne Mubarak statue mentioned by AR wiki is not described. Photos: the 1990s building and modern sculptures excluded; a replica of an ancient papyrus used."
+}

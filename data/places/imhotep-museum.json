@@ -228,10 +228,8 @@
   ],
   "freeGroups": [
    "Children under 6",
-   "Egyptians with special needs",
    "Egyptians aged 60+",
-   "Orphaned children",
-   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Egyptians with special needs",
    "Mobile-phone photography is free"
   ],
   "includedIn": "saqqara",
@@ -241,20 +239,12 @@
     "ar": "الأطفال دون 6 سنوات"
    },
    {
-    "en": "Egyptians with special needs",
-    "ar": "المصريون من ذوي الهمم"
-   },
-   {
     "en": "Egyptians aged 60+",
     "ar": "المصريون من سن 60 فأكثر"
    },
    {
-    "en": "Orphaned children",
-    "ar": "الأطفال الأيتام"
-   },
-   {
-    "en": "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
-    "ar": "رحلات المدارس الحكومية والأزهرية للمرحلتين الابتدائية والإعدادية المحجوزة عبر منصة «رحلة»"
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
    },
    {
     "en": "Mobile-phone photography is free",
@@ -391,5 +381,5 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "STATUS CONFLICT (resolved 2026-10-04): saqqara.json said the Imhotep Museum was closed for restoration (from the Saqqara page of the MoTA guide). Newer evidence says open: the museum's own MoTA guide page lists hours, elwatannews (27 Apr 2026) describes it open daily 08:00-17:00, and it reportedly reopened in Dec 2023 after closing in Mar 2022 (presidency/SIS, per research notes) with a temporary exhibition in June 2026 (Maspero). Recorded as open (newest dated source wins); saqqara.json statusNote, description, all-inclusive label and highlights were updated to match on 2026-10-04. Prices: portal says the Saqqara area ticket (600/300, 30/10) includes the museum; elwatannews' 450/230 looks outdated. Ramadan: museum guide page 09:00-15:00; lastEntry 14:00 from the guide's one-hour rule. Djoser statue base: Wikipedia says it was a loan shown only in the opening months; the MoTA guide and elwatannews (2026) list it on display - kept, verify on site. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+ "curationNote": "STATUS CONFLICT (resolved 2026-10-04): saqqara.json said the Imhotep Museum was closed for restoration (from the Saqqara page of the MoTA guide). Newer evidence says open: the museum's own MoTA guide page lists hours, elwatannews (27 Apr 2026) describes it open daily 08:00-17:00, and it reportedly reopened in Dec 2023 after closing in Mar 2022 (presidency/SIS, per research notes) with a temporary exhibition in June 2026 (Maspero). Recorded as open (newest dated source wins); saqqara.json statusNote, description, all-inclusive label and highlights were updated to match on 2026-10-04. Prices: portal says the Saqqara area ticket (600/300, 30/10) includes the museum; elwatannews' 450/230 looks outdated. Ramadan: museum guide page 09:00-15:00; lastEntry 14:00 from the guide's one-hour rule. Djoser statue base: Wikipedia says it was a loan shown only in the opening months; the MoTA guide and elwatannews (2026) list it on display - kept, verify on site. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. 2026-10-05: freeGroups aligned with saqqara (same ticket)."
 }

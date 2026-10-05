@@ -11,7 +11,10 @@
   "صان الحجر البحرية، الشرقية",
   "صان الحجر القبلية، الشرقية",
   "Tanis",
-  "صان الحجر القبلية"
+  "صان الحجر القبلية",
+  "San el-Hagar Museum",
+  "Tanis Museum",
+  "متحف صان الحجر"
  ],
  "category": "pharaonic",
  "operator": "mota-sca",
@@ -417,5 +420,5 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "Weekly = winter hours. Summer exception dated 2026-04-24 to 2026-10-29: no official SCA season definition; inferred from the daylight-saving period (Law 24/2023; DST 2026 ends at midnight Thu 29 Oct per youm7). All summer exceptions (Karnak and the Luxor West Bank included) were aligned to 2026-10-29 on 2026-10-04 (batch-7 Q7a). MoTA guide (09:00-17:00 winter, 09:00-18:00 summer, Ramadan 09:00-16:00) and booking-platform last entries agree. Tomb interior access not confirmed; visitor centre (opened Dec 2022) status in 2026 uncertain (a 2026 report says no visitor facilities), so it is not listed. Some Tanis treasures are on tour (Psusennes I collar at the de Young, San Francisco, Aug 2026-Jan 2027), so highlights only say 'Egyptian Museum' in general terms. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+ "curationNote": "Weekly = winter hours. Summer exception dated 2026-04-24 to 2026-10-29: no official SCA season definition; inferred from the daylight-saving period (Law 24/2023; DST 2026 ends at midnight Thu 29 Oct per youm7). All summer exceptions (Karnak and the Luxor West Bank included) were aligned to 2026-10-29 on 2026-10-04 (batch-7 Q7a). MoTA guide (09:00-17:00 winter, 09:00-18:00 summer, Ramadan 09:00-16:00) and booking-platform last entries agree. Tomb interior access not confirmed; visitor centre (opened Dec 2022) status in 2026 uncertain (a 2026 report says no visitor facilities), so it is not listed. Some Tanis treasures are on tour (Psusennes I collar at the de Young, San Francisco, Aug 2026-Jan 2027), so highlights only say 'Egyptian Museum' in general terms. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. The seed record san-el-hagar-museum (Q130216405) is excluded as a duplicate of this site (batch-13 G3a); its names are kept as aliases."
 }

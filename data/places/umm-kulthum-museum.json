@@ -160,8 +160,8 @@
    "ar": "الفترة الصباحية، ثم التوجه إلى مقياس النيل المجاور."
   },
   "crowdNotes": {
-   "en": "Small and usually calm. The museum offered free entry on International Museum Day (18 May) in 2026.",
-   "ar": "متحف صغير وهادئ عادة، وقد أتاح الدخول المجاني في اليوم العالمي للمتاحف (18 مايو) عام 2026."
+   "en": "Small and usually calm.",
+   "ar": "متحف صغير وهادئ عادة."
   }
  },
  "photos": [
@@ -250,7 +250,7 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "Ministry of Culture (Cultural Development Fund), not SCA: Arab-tier rule does not apply, and the CDF page has its own prices (Egyptian 5 / student 2, foreign 20 / student 10). The foreign student price is on the CDF page only. No lastEntry published. Wikidata P856 (umkalthoum.gov.eg) not used - the CDF page is the live official page. Photos: object shots (belongings, dresses, medals); the 2001 museum interior and the modern memorial sculpture nearby are not used.",
+ "curationNote": "Ministry of Culture (Cultural Development Fund), not SCA: Arab-tier rule does not apply, and the CDF page has its own prices (Egyptian 5 / student 2, foreign 20 / student 10). The foreign student price is on the CDF page only. No lastEntry published. Wikidata P856 (umkalthoum.gov.eg) not used - the CDF page is the live official page. Photos: object shots (belongings, dresses, medals); the 2001 museum interior and the modern memorial sculpture nearby are not used. 2026-10-05: removed the past Museum Day 2026 free-entry sentence from crowdNotes (expired).",
  "tickets": {
   "onlineUrl": null,
   "platform": "onsite",

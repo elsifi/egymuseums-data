@@ -1,0 +1,236 @@
+{
+ "id": "citadel-prison-museum",
+ "kind": "museum",
+ "name": {
+  "en": "Citadel Prison Museum",
+  "ar": "متحف سجن القلعة"
+ },
+ "category": "specialised",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Cairo Citadel",
+  "ar": "قلعة صلاح الدين"
+ },
+ "address": {
+  "en": "Inside the Cairo Citadel, Salah Salem Street, al-Khalifa, Cairo",
+  "ar": "داخل قلعة صلاح الدين، شارع صلاح سالم، الخليفة، القاهرة"
+ },
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily; entry is included in the Cairo Citadel ticket.",
+  "ar": "مفتوح يوميًا، والدخول مشمول بتذكرة قلعة صلاح الدين."
+ },
+ "summary": {
+  "en": "The Citadel's former political prison, a corridor of cells where well-known Egyptians were held in the twentieth century, shown as part of the Citadel visit.",
+  "ar": "السجن السياسي السابق في القلعة، ممر من الزنازين احتُجز فيه مصريون بارزون في القرن العشرين، ويُزار ضمن جولة القلعة."
+ },
+ "description": {
+  "en": "The Citadel held prisons long before this building existed, including a deep pit reached by stairs and a jail beside the Mosque of Sulayman Pasha. The present prison was set up by Khedive Ismail after he moved the seat of government to Abdeen Palace in 1874, and it was enlarged under Khedive Tawfiq. After the 1952 revolution it was run by the Military Police, and in the twentieth century many prominent public and political figures, among them the future president Anwar Sadat, were held here. Its later fame led to its conversion into a museum. Visitors walk along a corridor about fifty metres long, lined with cells in an eastern and a western wing. Some rooms use wax figures to recreate how prisoners were interrogated, including a room fitted out in 1932 and modelled on the Bastille in Paris.",
+  "ar": "عرفت القلعة السجون قبل هذا المبنى بزمن طويل، ومنها جب عميق يُنزل إليه بسلم وسجن بجوار مسجد سليمان باشا. أما السجن الحالي فأنشأه الخديوي إسماعيل بعد أن نقل مقر الحكم إلى قصر عابدين عام 1874، ثم وسّعه الخديوي توفيق. وبعد ثورة 1952 تولت الشرطة العسكرية إدارته، واحتُجز فيه خلال القرن العشرين كثير من الشخصيات العامة والسياسية البارزة، ومنهم الرئيس أنور السادات قبل توليه الحكم. وقد أدت شهرته إلى تحويله إلى متحف. ويسير الزائر في ممر يبلغ طوله نحو خمسين مترًا تصطف على جانبيه زنازين موزعة على قطاعين شرقي وغربي. وتستعين بعض الغرف بتماثيل من الشمع لتجسيد أساليب استجواب السجناء، ومنها غرفة جُهزت عام 1932 على غرار سجن الباستيل في باريس."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Cell corridor",
+    "ar": "ممر الزنازين"
+   },
+   "desc": {
+    "en": "A fifty-metre corridor lined with cells in two wings.",
+    "ar": "ممر طوله خمسون مترًا تصطف عليه الزنازين في قطاعين."
+   }
+  },
+  {
+   "title": {
+    "en": "Political prisoners",
+    "ar": "السجناء السياسيون"
+   },
+   "desc": {
+    "en": "Cells associated with famous detainees, including Anwar Sadat.",
+    "ar": "زنازين ترتبط بأسماء محتجزين مشهورين، منهم أنور السادات."
+   }
+  },
+  {
+   "title": {
+    "en": "Interrogation rooms",
+    "ar": "غرف الاستجواب"
+   },
+   "desc": {
+    "en": "Rooms where wax figures recreate the treatment of prisoners.",
+    "ar": "غرف تجسد فيها تماثيل الشمع معاملة السجناء."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 60
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 30
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 550
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 275
+   }
+  ],
+  "includedIn": "cairo-citadel",
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/SalahEldinCitadel",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 15,
+  "standardMinutes": 25,
+  "deepMinutes": 40,
+  "bestTime": {
+   "en": "Morning, as part of a Citadel visit with the Police Museum next door.",
+   "ar": "الصباح، ضمن زيارة القلعة مع متحف الشرطة المجاور."
+  },
+  "crowdNotes": {
+   "en": "The corridor and cells are narrow and dim and can feel cramped when groups pass through.",
+   "ar": "الممر والزنازين ضيقة وخافتة الإضاءة، وقد تبدو مزدحمة عند مرور المجموعات."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Cairo_Citadel_prison_museum_20190604_114744.jpg",
+   "author": "Ashashyou",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo_Citadel_prison_museum_20190604_114744.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cairo_Citadel_prison_museum_20190604_115115.jpg",
+   "author": "Ashashyou",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo_Citadel_prison_museum_20190604_115115.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/citadel-prison/",
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/citadel-prison/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-16:00 daily), description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/citadel-prison/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,prices (prison museum among the sites on the single Citadel ticket, EGP 60/30 for Egyptians; news 18 Apr 2026)",
+   "url": "https://www.youm7.com/story/2026/4/18/%D9%83%D8%AF%D9%87-%D8%B1%D8%B6%D8%A7-%D8%AF%D9%84%D9%8A%D9%84%D9%83-%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D8%B9%D8%A9-10-%D8%A3%D9%85%D8%A7%D9%83%D9%86-%D9%87%D8%AA%D8%AF%D8%AE%D9%84%D9%87%D8%A7-%D8%A8%D8%AA%D8%B0%D9%83%D8%B1%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9/7382269",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,tickets,freeGroups (mirrors cairo-citadel record)",
+   "url": "https://egymonuments.com/details/SalahEldinCitadel",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Included in the Cairo Citadel ticket (youm7 18 Apr 2026 lists the Citadel prison among the ten sites on one ticket); tiers, free groups and tickets mirror cairo-citadel. Hours 08:00-16:00 from the portal (the Citadel itself closes at 17:00); no last entry and no Ramadan hours published for the prison, so no exception. Seed lat/lng null; not added (no Wikidata item). Search-engine claims ('42 cells', 'turned into a Ministry of Culture museum by Mubarak') not verified and not used. Photos: the cell door and an empty cell; a photo of a modern wax figure excluded."
+}

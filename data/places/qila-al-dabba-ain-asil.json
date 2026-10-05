@@ -1,0 +1,249 @@
+{
+ "id": "qila-al-dabba-ain-asil",
+ "kind": "site",
+ "wikidataId": "Q14300118",
+ "name": {
+  "en": "Qila al-Dabba and Ain Asil (Balat)",
+  "ar": "قلع الضبة وعين أصيل"
+ },
+ "aliases": [
+  "Ain Asil",
+  "عين أصيل",
+  "عين الأصيل",
+  "Qila' el-Dabba",
+  "قلاع الضبة",
+  "Balat"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "new-valley",
+ "city": {
+  "en": "Dakhla Oasis",
+  "ar": "الواحات الداخلة"
+ },
+ "area": {
+  "en": "Balat, eastern Dakhla",
+  "ar": "بلاط، شرق الداخلة"
+ },
+ "address": {
+  "en": "North-east of Balat village, Dakhla Oasis, New Valley Governorate",
+  "ar": "شمال شرق قرية بلاط، الواحات الداخلة، محافظة الوادي الجديد"
+ },
+ "lat": 25.5578,
+ "lng": 29.2803,
+ "status": "open",
+ "statusNote": {
+  "en": "Usually open daily; one ticket covers the cemetery of Qila al-Dabba and the town of Ain Asil.",
+  "ar": "مفتوحة يوميًا في العادة، وتشمل تذكرة واحدة جبانة قلع الضبة ومدينة عين أصيل."
+ },
+ "summary": {
+  "en": "The Old Kingdom governors' town of Dakhla and its cemetery of mud-brick mastabas, among the oldest pharaonic monuments in the Western Desert.",
+  "ar": "مدينة حكام الداخلة في الدولة القديمة وجبانتها من المصاطب المبنية بالطوب اللبن، وهي من أقدم الآثار الفرعونية في الصحراء الغربية."
+ },
+ "description": {
+  "en": "In the Sixth Dynasty, around the 23rd century BC, the pharaohs governed the Dakhla Oasis from a fortified town at Ain Asil, near today's Balat. Excavations by the French Institute since the 1970s have revealed the governors' palace, workshops and houses inside thick mud-brick walls, one of the most important Old Kingdom settlements known outside the Nile Valley. A short distance away, the cemetery of Qila al-Dabba holds five great mastabas of these governors, with their families buried in shafts around them. The finest belongs to Khentika, son of the governor Ima-Pepi, who died young: a modern stair leads down to a limestone burial chamber painted with banquet scenes, boats with oarsmen and offerings, in the style of contemporary tombs in the Nile Valley. Part of the mud-brick superstructure has been rebuilt behind it. Finds from both sites, including Ima-Pepi's tomb door and statues, are in the Kharga museum.",
+  "ar": "في عهد الأسرة السادسة، نحو القرن الثالث والعشرين قبل الميلاد، حكم الفراعنة واحة الداخلة من مدينة محصنة في عين أصيل قرب بلاط الحالية. وكشفت حفائر المعهد الفرنسي منذ سبعينيات القرن العشرين عن قصر الحكام وورش وبيوت داخل أسوار سميكة من الطوب اللبن، فكانت من أهم المستوطنات المعروفة من الدولة القديمة خارج وادي النيل. وعلى مسافة قصيرة منها تضم جبانة قلع الضبة خمس مصاطب كبيرة لهؤلاء الحكام، دُفن أفراد أسرهم في آبار حولها. وأجملها مصطبة خنتيكا، ابن الحاكم إيما بيبي الذي توفي شابًا، وينزل الزائر إليها بسلم حديث إلى حجرة دفن من الحجر الجيري مزينة بمناظر الولائم والمراكب ذات المجدفين والقرابين، على طراز مقابر الوادي المعاصرة لها. وقد أعيد بناء جزء من بنائها العلوي بالطوب اللبن خلفها. وتُعرض مكتشفات الموقعين، ومنها باب مقبرة إيما بيبي وتماثيله، في متحف الخارجة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Mastaba of Khentika",
+    "ar": "مصطبة خنتيكا"
+   },
+   "desc": {
+    "en": "A painted limestone burial chamber reached by a stair.",
+    "ar": "حجرة دفن ملونة من الحجر الجيري يُنزل إليها بسلم."
+   }
+  },
+  {
+   "title": {
+    "en": "Governors' mastabas",
+    "ar": "مصاطب الحكام"
+   },
+   "desc": {
+    "en": "Five large mud-brick tombs of Sixth Dynasty governors.",
+    "ar": "خمس مقابر كبيرة من الطوب اللبن لحكام الأسرة السادسة."
+   }
+  },
+  {
+   "title": {
+    "en": "Ain Asil town",
+    "ar": "مدينة عين أصيل"
+   },
+   "desc": {
+    "en": "Remains of the walled governors' town and palace.",
+    "ar": "بقايا مدينة الحكام المسورة وقصرها."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning, combined with Bashendi and old Balat.",
+   "ar": "الصباح، مع الجمع بين الزيارة وبشندي وبلاط القديمة."
+  },
+  "crowdNotes": {
+   "en": "The burial chamber is small and deep; the stair is steep. Dakhla is a long drive from the Nile Valley or Kharga, so plan an overnight stay in Mut or al-Qasr.",
+   "ar": "حجرة الدفن صغيرة وعميقة والسلم شديد الانحدار. والطريق إلى الداخلة طويل من وادي النيل أو الخارجة، فخطط للمبيت في موط أو القصر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/QilaDabbaMastaba4KentikauPepi.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:QilaDabbaMastaba4KentikauPepi.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Qila_al-Dabba_Tombs_in_Dakhla_Oasis%2C_Balat%2C_Egypt_01.jpg",
+   "author": "Viktor Lazić",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qila_al-Dabba_Tombs_in_Dakhla_Oasis,_Balat,_Egypt_01.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%B5%D9%8A%D9%84",
+  "osm": "way/430931515"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q14300118",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q14299218",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (MoTA Nov 2024 list: 'Qila al-Dabba & Ayn Asil' 100/50, 10/5, 08:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (checked: the 9 Jul 2026 SCA board decision raising prices from 1 Oct 2026 names only Bahariya Oasis sites; not applied here)",
+   "url": "https://mota.gov.eg/ar/الأخبار-2-1-1/وزير-السياحة-والآثار-يترأس-اجتماع-مجلس-إدارة-المجلس-الأعلى-للآثار-19/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "identity (Ain Asil, duplicate item)",
+   "url": "https://www.wikidata.org/wiki/Q14299218",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (mastabas, Khentika, IFAO; joint ticket with Ain Asil; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Qil%C4%81%CA%BF_e%E1%B8%8D-%E1%B8%8Cabba",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%B5%D9%8A%D9%84",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "visit.crowdNotes (travel advice: oasis roads exempt from warnings; updated 4 Aug 2026)",
+   "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Only official source: the MoTA Nov 2024 list, which prices 'Qila al-Dabba & Ayn Asil' as one ticket (Wikivoyage Dec 2023 agrees: joint visit LE 100/50); no guide page found under several slugs. Prices only from the MoTA Nov 2024 list (no portal page, not on egymonuments.com); kept as confirmed (batch-7 Q4a). The 9 Jul 2026 oasis price rise covers Bahariya only (batch-7 finding), not applied. Last entry 16:00 by MoTA's one-hour rule; no Ramadan schedule published, so no exception. 'Five mastabas' from a Commons caption and Wikivoyage; verify. Whether Ain Asil itself is open for walking visits is not confirmed by an official source."
+}

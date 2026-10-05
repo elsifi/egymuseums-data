@@ -1,0 +1,211 @@
+{
+ "id": "rommels-cave-museum",
+ "kind": "museum",
+ "wikidataId": "Q40888495",
+ "name": {
+  "en": "Rommel's Cave Museum",
+  "ar": "متحف كهف روميل"
+ },
+ "aliases": [
+  "متحف رومل",
+  "Rommel Museum, Mersa Matruh",
+  "Rommel Museum"
+ ],
+ "category": "military",
+ "operator": "mota-sca",
+ "governorate": "matrouh",
+ "city": {
+  "en": "Marsa Matruh",
+  "ar": "مرسى مطروح"
+ },
+ "area": {
+  "en": "Rommel's peninsula, on the eastern shore of Matrouh bay",
+  "ar": "شبه جزيرة روميل، على الشاطئ الشرقي لخليج مطروح"
+ },
+ "address": {
+  "en": "Rommel area, Marsa Matrouh, Matrouh Governorate",
+  "ar": "منطقة روميل، مرسى مطروح، محافظة مطروح"
+ },
+ "lat": 31.3656,
+ "lng": 27.2484,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily, mornings only.",
+  "ar": "مفتوح يوميًا في الفترة الصباحية فقط."
+ },
+ "summary": {
+  "en": "A cave by the sea in Marsa Matrouh that served Erwin Rommel as a command post in 1942, now a small museum of his personal effects.",
+  "ar": "كهف على البحر في مرسى مطروح اتخذه إرفين روميل مقرًا للقيادة عام 1942، وصار متحفًا صغيرًا لمقتنياته الشخصية."
+ },
+ "description": {
+  "en": "This museum occupies a cave cut into the rock near the sea at Marsa Matrouh. The cavity was used in Graeco-Roman times as a grain store, and during the Second World War the German field marshal Erwin Rommel used it as a headquarters during the desert campaign that ended at El Alamein. The idea of turning it into a museum came in 1977, when Rommel's son Manfred, then mayor of Stuttgart, visited Egypt and gave the governorate some of his father's belongings. The museum opened in 1988, closed in 2010 for safety works and restoration, and reopened in 2017 with a new display, lighting and reinforced rock walls. A sequence of small rooms shows Rommel's leather coat, field glasses and compass, campaign maps annotated in his own hand, photographs in uniform and weapons of the period. The nearby beach and island also carry his name.",
+  "ar": "يشغل هذا المتحف كهفًا منحوتًا في الصخر قرب البحر في مرسى مطروح، استُخدم في العصر اليوناني الروماني لتخزين الغلال، ثم اتخذه القائد الألماني إرفين روميل مقرًا لقيادته خلال الحرب العالمية الثانية في حملة الصحراء التي انتهت عند العلمين. وولدت فكرة تحويله إلى متحف عام 1977، حين زار ابنه مانفريد روميل، عمدة شتوتغارت آنذاك، مصر وأهدى المحافظة بعض مقتنيات أبيه. وافتُتح المتحف عام 1988، ثم أُغلق عام 2010 لدواعي السلامة والترميم، وأُعيد افتتاحه عام 2017 بسيناريو عرض جديد وإضاءة حديثة وتدعيم لجدران الكهف. ويعرض في عدد من القاعات الصغيرة معطف روميل الجلدي ومنظاره وبوصلته، وخرائط المعارك وعليها ملاحظات بخط يده، وصورًا له بالزي العسكري، وأسلحة من تلك الحقبة. ويحمل الشاطئ والجزيرة القريبان اسمه أيضًا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Hand-annotated maps",
+    "ar": "الخرائط المكتوبة بخط اليد"
+   },
+   "desc": {
+    "en": "Campaign maps with notes in Rommel's handwriting.",
+    "ar": "خرائط المعارك وعليها ملاحظات بخط روميل."
+   }
+  },
+  {
+   "title": {
+    "en": "Personal effects",
+    "ar": "المقتنيات الشخصية"
+   },
+   "desc": {
+    "en": "His leather coat, field glasses and compass.",
+    "ar": "معطفه الجلدي ومنظاره وبوصلته."
+   }
+  },
+  {
+   "title": {
+    "en": "The cave itself",
+    "ar": "الكهف نفسه"
+   },
+   "desc": {
+    "en": "A rock-cut chamber used for grain storage in antiquity.",
+    "ar": "تجويف منحوت في الصخر استُخدم لتخزين الغلال في العصور القديمة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 30,
+  "deepMinutes": 45,
+  "bestTime": {
+   "en": "Morning, combined with a swim at Rommel beach in summer.",
+   "ar": "الصباح، مع السباحة في شاطئ روميل صيفًا."
+  },
+  "crowdNotes": {
+   "en": "Small and can feel cramped when a group is inside; busiest in the summer holiday season.",
+   "ar": "متحف صغير قد يضيق بزواره عند وجود مجموعة بداخله، ويزدحم في موسم المصايف."
+  }
+ },
+ "photos": [],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Rommel_Museum,_Mersa_Matruh",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B1%D9%88%D9%85%D9%84",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q40888495",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-15:00; Ramadan 09:00-15:00),description (1977 idea, 1988 opening, 2010 closure, 2017 reopening)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-كهف-روميل/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (MoTA Nov 2024 list: 100/50, 10/5, 09:00-15:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (exhibits; reopened 25 Aug 2017; facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B1%D9%88%D9%85%D9%84",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://en.wikipedia.org/wiki/Rommel_Museum,_Mersa_Matruh",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Opening year conflict: English Wikipedia says the museum opened in 1977; the MoTA guide says the idea dates from 1977 and the museum opened in 1988 (used). Ramadan hours equal the normal week, so no Ramadan exception. Last entry not stated on the guide page for this museum, so omitted. Prices from the MoTA Nov 2024 list (kept as confirmed). The only Commons photo (MarsaMatruhRommelCave.jpg) shows a modern stone-clad entrance with a decorative gate, excluded under the no-freedom-of-panorama rule, so photos are empty."
+}

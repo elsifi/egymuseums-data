@@ -1,0 +1,316 @@
+{
+ "id": "house-of-gamal-al-din-al-dhahabi",
+ "kind": "site",
+ "wikidataId": "Q25451903",
+ "name": {
+  "en": "House of Gamal al-Din al-Dhahabi",
+  "ar": "بيت جمال الدين الذهبي"
+ },
+ "aliases": [
+  "Jamal al-Din al-Dhahabi House",
+  "Manzil Gamal al-Din al-Dahabi",
+  "House of Jamal al-Din al-Dhahabi"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "al-Ghuriya, off al-Muizz Street",
+  "ar": "الغورية، متفرع من شارع المعز"
+ },
+ "address": {
+  "en": "Khushqadam (Hosh Qadam) lane, off al-Muizz Street, al-Ghuriya, Cairo",
+  "ar": "حارة خشقدم (حوش قدم)، المتفرعة من شارع المعز، الغورية، القاهرة"
+ },
+ "lat": 30.04451,
+ "lng": 31.25965,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "The 1637 house of Cairo's chief merchant, a well-preserved Ottoman home in a lane off al-Muizz Street.",
+  "ar": "بيت كبير تجار القاهرة الذي شُيّد عام 1637، وهو منزل عثماني محفوظ جيدًا في حارة متفرعة من شارع المعز."
+ },
+ "description": {
+  "en": "Gamal al-Din al-Dhahabi was the shahbandar al-tujjar, the head of Cairo's merchants, when he built this house in 1637 in Khushqadam lane in the Ghuriya district. The house has three stone facades and rises over a ground floor and two upper floors. At street level, storerooms and shops opening onto the lanes served as warehouses and guardrooms, while the bent entrance leads into a large courtyard with a fountain, a small hall, a second courtyard and a bath. On the first floor the house divides into the men's salamlik — with the open loggia (maq'ad), a bath and an upper hall — and the women's quarters. The finest room is the great hall on the east side, two raised iwans facing each other across a central space roofed by a small wooden dome. The founder's name and the date of construction are written on the painted wooden ceiling of the maq'ad.",
+  "ar": "كان جمال الدين الذهبي «شاه بندر التجار»، أي كبير تجار القاهرة، حين بنى هذا المنزل عام 1637 في حارة خشقدم بحي الغورية. وللمنزل ثلاث واجهات حجرية، ويتكون من طابق أرضي وطابقين علويين. ففي مستوى الشارع حواصل وحوانيت تطل على الحارات كانت تُستخدم مخازن وغرفًا للحراسة، ويؤدي المدخل المنكسر إلى فناء كبير تتوسطه فسقية، وقاعة صغيرة وفناء ثانٍ وحمام. وفي الطابق الأول ينقسم البيت إلى السلاملك للرجال، ويضم المقعد المفتوح والحمام والقاعة العلوية، والحرملك للنساء. وأجمل قاعاته القاعة الكبرى في الجهة الشرقية، بإيوانين متقابلين تتوسطهما دُرقاعة تغطيها قبة خشبية صغيرة. ويُقرأ اسم المنشئ وتاريخ البناء على السقف الخشبي الملون للمقعد."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Courtyard and fountain",
+    "ar": "الفناء والفسقية"
+   },
+   "desc": {
+    "en": "A large courtyard centred on a marble fountain.",
+    "ar": "فناء كبير تتوسطه فسقية من الرخام."
+   }
+  },
+  {
+   "title": {
+    "en": "Maq'ad",
+    "ar": "المقعد"
+   },
+   "desc": {
+    "en": "The men's open loggia, with the founder's name and date on its painted ceiling.",
+    "ar": "مقعد الرجال المفتوح، وعلى سقفه الملون اسم المنشئ وتاريخ البناء."
+   }
+  },
+  {
+   "title": {
+    "en": "Great hall",
+    "ar": "القاعة الكبرى"
+   },
+   "desc": {
+    "en": "Two facing iwans under a small wooden dome.",
+    "ar": "إيوانان متقابلان تتوسطهما قبة خشبية صغيرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Street-level shops",
+    "ar": "الحوانيت"
+   },
+   "desc": {
+    "en": "Storerooms and shops that once earned income for the household.",
+    "ar": "مخازن وحوانيت كانت تدر دخلًا لأهل البيت."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 15
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Gamaleldin",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 35,
+  "deepMinutes": 50,
+  "bestTime": {
+   "en": "Morning, combined with the Ghuri complex and al-Muizz Street.",
+   "ar": "الصباح، مع الجمع بين الزيارة ومجموعة الغوري وشارع المعز."
+  },
+  "crowdNotes": {
+   "en": "The lane is narrow and easy to miss; ask for Hosh Qadam near the Ghuri complex.",
+   "ar": "الحارة ضيقة ويسهل أن تفوت الزائر، فاسأل عن حوش قدم قرب مجموعة الغوري."
+  }
+ },
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/house-of-gamal-al-din-al-dhahabi/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%AC%D9%85%D8%A7%D9%84_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q25451903",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/house-of-gamal-al-din-al-dhahabi/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/house-of-gamal-al-din-al-dhahabi/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan lastEntry),freeGroups,tickets (official MoTA booking platform)",
+   "url": "https://egymonuments.com/details/Gamaleldin",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,tickets (official booking page)",
+   "url": "https://egymonuments.com/book-date/97",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Ramadan 09:00-16:00),address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D9%86%D8%B2%D9%84-%D8%AC%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%AC%D9%85%D8%A7%D9%84_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal, booking platform, MoTA guide and Nov 2024 list agree (09:00-17:00, last entry 16:00; foreign 30/15, Egyptian 10/5). PHOTOS: none - Commons has no photo of this house under any English or Arabic name tried; photos are therefore left empty (allowed for minor places, decision of 2026-10-05). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

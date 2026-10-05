@@ -1,0 +1,161 @@
+{
+ "id": "open-air-museum-al-ashmunain",
+ "kind": "site",
+ "wikidataId": "Q732908",
+ "name": {
+  "en": "El-Ashmunein (Hermopolis Magna)",
+  "ar": "الأشمونين (هرموبوليس الكبرى)"
+ },
+ "aliases": [
+  "Open Air Museum al-Ashmunain",
+  "متحف الأشمونين المكشوف",
+  "Hermopolis Magna",
+  "El-Ashmunein",
+  "الأشمونين",
+  "Khmun"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "minya",
+ "city": {
+  "en": "Mallawi",
+  "ar": "ملوي"
+ },
+ "area": {
+  "en": "El-Ashmunein village, about 8 km north-west of Mallawi",
+  "ar": "قرية الأشمونين، على بعد نحو 8 كم شمال غرب ملوي"
+ },
+ "address": {
+  "en": "El-Ashmunein archaeological area, Mallawi, Minya Governorate",
+  "ar": "منطقة آثار الأشمونين، ملوي، محافظة المنيا"
+ },
+ "lat": 27.774439,
+ "lng": 30.801111,
+ "status": "renovation",
+ "statusNote": {
+  "en": "Closed since late 2025 for excavation and restoration work at el-Ashmunein; check locally before visiting.",
+  "ar": "مغلقة منذ أواخر عام 2025 لأعمال الحفائر والترميم في الأشمونين، فتحقق محليًا قبل الزيارة."
+ },
+ "summary": {
+  "en": "The ruins of Hermopolis Magna, city of the god Thoth, with an open-air display dominated by two colossal baboon statues of Amenhotep III.",
+  "ar": "أطلال الأشمونين (هرموبوليس الكبرى)، مدينة المعبود جحوتي، ويتصدر العرض المكشوف بها تمثالان ضخمان لقرد البابون من عهد أمنحتب الثالث."
+ },
+ "description": {
+  "en": "El-Ashmunein, ancient Khmun and the Hermopolis Magna of the Greeks, was the capital of the Hare nome of Upper Egypt and the main cult centre of Thoth, god of wisdom and writing, often shown as a baboon or an ibis. Little of the great city stands today, but its ruins include traces of temples of Amenhotep III, Ramesses II and Philip Arrhidaeus, and a large fifth-century basilica on Kom el-Kanisa, raised over the foundations of an earlier Ptolemaic temple. Beside the site office, an open-air display once held stelae, Coptic tombstones, an Ayyubid water basin and architectural pieces. Most smaller items were removed for safety after 2011, and the display is now dominated by two colossal baboon statues of Thoth, about 4.5 metres high, dedicated by Amenhotep III and re-erected here. Since late 2025 the area has been closed for excavation and restoration, so visiting arrangements may change.",
+  "ar": "كانت الأشمونين، واسمها القديم خمنو وسماها الإغريق هرموبوليس الكبرى، عاصمة إقليم الأرنب في مصر العليا والمركز الرئيسي لعبادة جحوتي، معبود الحكمة والكتابة الذي كثيرًا ما صُوّر في هيئة قرد أو طائر أبو منجل. ولم يبق قائمًا من المدينة العظيمة إلا القليل، غير أن أطلالها تضم بقايا معابد لأمنحتب الثالث ورمسيس الثاني وفيليب أرهيدايوس، وبازيليكا كبيرة من القرن الخامس على كوم الكنيسة شُيدت فوق أساسات معبد بطلمي أقدم. وإلى جوار مكتب المنطقة كان العرض المكشوف يضم لوحات وشواهد قبور قبطية وحوضًا للمياه من العصر الأيوبي وعناصر معمارية، ثم نُقلت معظم القطع الصغيرة حفاظًا عليها بعد عام 2011، ولم يبق في صدارة العرض إلا تمثالان ضخمان لقرد جحوتي، يبلغ ارتفاع كل منهما نحو 4.5 أمتار، أهداهما أمنحتب الثالث وأُعيد نصبهما هنا. ومنذ أواخر عام 2025 أُغلقت المنطقة لأعمال الحفائر والترميم، فقد تتغير ترتيبات الزيارة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Colossal baboons of Thoth",
+    "ar": "تمثالا قرد جحوتي"
+   },
+   "desc": {
+    "en": "Two colossal statues dedicated by Amenhotep III.",
+    "ar": "تمثالان ضخمان أهداهما أمنحتب الثالث."
+   }
+  },
+  {
+   "title": {
+    "en": "Basilica of el-Ashmunein",
+    "ar": "بازيليكا الأشمونين"
+   },
+   "desc": {
+    "en": "A large fifth-century church on Kom el-Kanisa.",
+    "ar": "كنيسة كبيرة من القرن الخامس على كوم الكنيسة."
+   }
+  },
+  {
+   "title": {
+    "en": "Temple ruins",
+    "ar": "أطلال المعابد"
+   },
+   "desc": {
+    "en": "Remains of temples of Amenhotep III, Ramesses II and Philip Arrhidaeus.",
+    "ar": "بقايا معابد أمنحتب الثالث ورمسيس الثاني وفيليب أرهيدايوس."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning, combined with Tuna el-Gebel and the Mallawi Museum.",
+   "ar": "الصباح، مع الجمع بين الزيارة وتونا الجبل ومتحف ملوي."
+  },
+  "crowdNotes": {
+   "en": "Check whether the area has reopened before travelling. Foreign visitors travelling by road in Minya governorate may be asked by police to register their route or travel with an escort, so allow extra time.",
+   "ar": "تحقق من إعادة فتح المنطقة قبل السفر. قد تطلب الشرطة من الزوار الأجانب المسافرين برًا في محافظة المنيا تسجيل خط سيرهم أو التنقل بمرافقة أمنية، فاحسب وقتًا إضافيًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/AshmuneinBaboon.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:AshmuneinBaboon.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Thot_Hermopolis.JPG",
+   "author": "Einsamer Schütze",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thot_Hermopolis.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q130215830",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "coordinates (Hermopolis, Q732908; the open-air museum item has none)",
+   "url": "https://www.wikidata.org/wiki/Q732908",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,description (closed since late 2025 for excavation and restoration; display reduced to the baboon colossi after 2011; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Aschm%C5%ABnein",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (ruins, baboon statues, basilica; news 22 Oct 2024)",
+   "url": "https://www.youm7.com/story/2024/10/22/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D8%B4%D9%85%D9%88%D9%86%D9%8A%D9%86-%D9%81%D9%89-%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7-%D8%AA%D8%B6%D9%85-%D8%A3%D9%83%D8%A8%D8%B1-%D8%AA%D9%85%D8%AB%D8%A7%D9%84%D9%8A%D9%86-%D9%84%D9%82%D8%B1%D8%AF/6718903",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (not in the MoTA Nov 2024 ticket list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "identity,coordinates (re-scoped to the Hermopolis site)",
+   "url": "https://www.wikidata.org/wiki/Q732908",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Status rests on a non-official source: German Wikivoyage says the archaeological area has been closed since late 2025 for excavation and restoration, and that no entry fee was charged before. No MoTA guide page, portal page, booking product or ticket-list entry found. Category set to 'pharaonic' and operator to 'mota-sca' (seed: specialised/unknown) because it is an SCA archaeological area. Coordinates are those of the Hermopolis site (Q732908), not of the display itself. Wikivoyage gives 4.5 m for one statue; prose says 'about 4.5 metres high' for both (verify). Re-scoped on 2026-10-05 (batch-12 Q5a): kind 'site', name 'El-Ashmunein (Hermopolis Magna)', wikidataId Q732908 (Hermopolis); the seed item Q130215830 (the open-air museum) stays in sources and its name is an alias. Status renovation at low confidence; confirm via hotline 19654. id unchanged for stability."
+}

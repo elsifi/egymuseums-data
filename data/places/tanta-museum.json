@@ -1,0 +1,256 @@
+{
+ "id": "tanta-museum",
+ "kind": "museum",
+ "wikidataId": "Q21130227",
+ "name": {
+  "en": "Tanta Museum",
+  "ar": "متحف طنطا"
+ },
+ "aliases": [
+  "متحف آثار طنطا",
+  "Museum of Tanta"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "gharbia",
+ "city": {
+  "en": "Tanta",
+  "ar": "طنطا"
+ },
+ "area": {
+  "en": "Central Tanta",
+  "ar": "وسط مدينة طنطا"
+ },
+ "address": {
+  "en": "Mustafa al-Gindi Street, Tanta, Gharbia Governorate",
+  "ar": "شارع مصطفى الجندي، طنطا، محافظة الغربية"
+ },
+ "lat": 30.796993,
+ "lng": 30.998805,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "Egypt’s first purpose-built regional museum idea, reborn in a five-storey building with finds from across the Delta, from pharaonic statues to Islamic coins.",
+  "ar": "أول فكرة لمتحف إقليمي في مصر، عادت إلى الحياة في مبنى من خمسة طوابق يضم مكتشفات من أنحاء الدلتا، من التماثيل الفرعونية إلى العملات الإسلامية."
+ },
+ "description": {
+  "en": "Tanta’s museum began in 1913, under Khedive Abbas Hilmi II, as a display in the town council building, making it the earliest regional museum project in Egypt. It closed and reopened more than once, moved in the mid-twentieth century, and finally received a dedicated building that opened in 1990. After another long closure it was restored and reopened in 2019. Three of its five floors are used for displays drawn mostly from Delta sites such as Tell el-Fara’in (Buto), Sais, Tanis, Tell Basta, Quesna and Behbeit el-Hagar. The collection spans the pharaonic, Graeco-Roman, Coptic and Islamic periods and continues into the modern era. Highlights include a basalt statue of King Nepherites I of the Twenty-ninth Dynasty and cases of gold, silver and bronze coins from Greek, Roman and Islamic times. The museum also runs workshops and temporary exhibitions for local schools and universities.",
+  "ar": "بدأ متحف طنطا عام 1913 في عهد الخديوي عباس حلمي الثاني، بقاعة عرض في مبنى مجلس مدينة طنطا، فكان أول مشروع لمتحف إقليمي في مصر. ثم أُغلق وأُعيد افتتاحه أكثر من مرة، وانتقل في منتصف القرن العشرين، إلى أن خُصص له مبنى مستقل افتُتح عام 1990. وبعد إغلاق طويل آخر، رُمم المبنى وأُعيد افتتاحه عام 2019. يضم المبنى خمسة طوابق، خُصصت ثلاثة منها للعرض، ومعظم المعروضات من مواقع الدلتا مثل تل الفراعين (بوتو) وصا الحجر وصان الحجر وتل بسطا وقويسنا وبهبيت الحجارة. وتغطي المجموعة العصور الفرعونية واليونانية الرومانية والقبطية والإسلامية وتمتد إلى العصر الحديث. ومن أبرز القطع تمثال من البازلت للملك نفريتس الأول من الأسرة التاسعة والعشرين، وخزانات تعرض عملات ذهبية وفضية وبرونزية من العصور اليونانية والرومانية والإسلامية. كما ينظم المتحف ورشًا ومعارض مؤقتة لطلاب المدارس والجامعات في المحافظة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Statue of Nepherites I",
+    "ar": "تمثال نفريتس الأول"
+   },
+   "desc": {
+    "en": "A basalt statue of a Twenty-ninth Dynasty king.",
+    "ar": "تمثال من البازلت لأحد ملوك الأسرة التاسعة والعشرين."
+   }
+  },
+  {
+   "title": {
+    "en": "Coin collection",
+    "ar": "مجموعة العملات"
+   },
+   "desc": {
+    "en": "Gold, silver and bronze coins from Greek, Roman and Islamic times.",
+    "ar": "عملات ذهبية وفضية وبرونزية من العصور اليونانية والرومانية والإسلامية."
+   }
+  },
+  {
+   "title": {
+    "en": "Finds from Delta sites",
+    "ar": "مكتشفات مواقع الدلتا"
+   },
+   "desc": {
+    "en": "Objects from Buto, Sais, Tanis, Tell Basta and Behbeit el-Hagar.",
+    "ar": "قطع من بوتو وصا الحجر وصان الحجر وتل بسطا وبهبيت الحجارة."
+   }
+  },
+  {
+   "title": {
+    "en": "Coptic and Islamic galleries",
+    "ar": "قاعات الآثار القبطية والإسلامية"
+   },
+   "desc": {
+    "en": "Manuscripts, icons, ceramics and tableware from later periods.",
+    "ar": "مخطوطات وأيقونات وخزف وأدوات مائدة من العصور اللاحقة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning, as the museum closes in mid-afternoon.",
+   "ar": "الصباح، لأن المتحف يغلق في منتصف بعد الظهر."
+  },
+  "crowdNotes": {
+   "en": "Spread over several floors; school groups are common on weekdays.",
+   "ar": "يمتد العرض على عدة طوابق، وتكثر الرحلات المدرسية في أيام الأسبوع."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tanta_Museum_07.jpg",
+   "author": "Sgh45",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tanta_Museum_07.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Tanta_Museum_11.jpg",
+   "author": "Sgh45",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tanta_Museum_11.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tanta_Museum_05.jpg",
+   "author": "Sgh45",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tanta_Museum_05.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B7%D9%86%D8%B7%D8%A7",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q21130227",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-15:00, Ramadan same),address,description,status",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-طنطا/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: 150/75, 20/10, 09:00-15:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (temporary exhibition opened 18 May 2026)",
+   "url": "https://www.dostor.org/5560233",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (history, reopened 1 Sep 2019)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B7%D9%86%D8%B7%D8%A7",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (reopening)",
+   "url": "https://egymonuments.gov.eg/en/news/tanta-antiquities-museum-reopened/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status open: MoTA open-museums guide (live) plus dostor 18 May 2026 (temporary exhibition opened). Hours 09:00-15:00 (guide, Nov 2024 list); last entry 14:00 by MoTA's one-hour rule. Ramadan equals normal hours, so no exception. Prices only from the Nov 2024 MoTA list (no portal page, not on egymonuments.com). No Arab tier from 2026. Free groups not stated officially, omitted. Statue name: MoTA guide 'نفرتيس الأول' (Nepherites I); Commons caption transliterates differently. City added (seed had none). Building (1990) not photographed (no FoP); object photos only (Commons uploads of Dec 2025)."
+}

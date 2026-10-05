@@ -1,0 +1,204 @@
+{
+ "id": "khanqah-of-faraj-ibn-barquq",
+ "kind": "site",
+ "wikidataId": "Q56284343",
+ "name": {
+  "en": "Khanqah of Sultan Faraj ibn Barquq",
+  "ar": "مجموعة السلطان الناصر فرج بن برقوق"
+ },
+ "aliases": [
+  "Khanqah of Faraj ibn Barquq",
+  "Khanqah Sultan Faraj Ibn Barquq",
+  "Mosque and Khanqah of Farag ibn Barquq"
+ ],
+ "category": "islamic",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Northern Cemetery (Qarafat al-Mamalik)",
+  "ar": "صحراء المماليك (القرافة الشرقية)"
+ },
+ "lat": 30.049036,
+ "lng": 31.278881,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily as a working mosque; visits pause during prayers.",
+  "ar": "مفتوحة يوميًا وهي مسجد تُقام فيه الصلاة، وتتوقف الزيارة أثناء الصلوات."
+ },
+ "summary": {
+  "en": "A vast Mamluk funerary complex in the Northern Cemetery, with Cairo's largest pair of stone domes and twin minarets.",
+  "ar": "مجموعة جنائزية مملوكية ضخمة في صحراء المماليك، تعلوها أكبر قبتين حجريتين في القاهرة ومئذنتان متماثلتان."
+ },
+ "description": {
+  "en": "Sultan al-Nasir Faraj built this complex between about 1400 and 1411 in the desert east of Cairo to fulfil the wishes of his father, Sultan Barquq, who asked to be buried near the tombs of Sufi shaykhs. It is one of the largest Mamluk buildings in Egypt and combines a congregational mosque, a khanqah, or residence for Sufis, a school and the family mausoleums, all arranged around a great square courtyard with arcades. Two identical stone domes rise over the corners of the prayer hall: one covers Barquq and his sons, the other the women of the family. They are the largest stone domes of the Mamluk period, carved outside with a zigzag chevron pattern, and two slender minarets stand on the main facade, which also carries two sabil-kuttabs. Inside, the prayer hall is roofed by small brick domes, and a fine carved stone minbar was given by Sultan Qaitbay.",
+  "ar": "شيّد السلطان الناصر فرج هذه المجموعة نحو عامي 1400 و1411 في الصحراء شرق القاهرة، تنفيذًا لوصية أبيه السلطان برقوق الذي أراد أن يُدفن قرب أضرحة شيوخ الصوفية. وهي من أكبر المنشآت المملوكية في مصر، وتجمع بين جامع وخانقاه لإقامة المتصوفة ومدرسة ومدافن الأسرة، حول صحن مربع كبير تحيط به الأروقة. وترتفع قبتان حجريتان متماثلتان فوق ركني رواق القبلة، إحداهما فوق مدفن برقوق وأبنائه والأخرى فوق مدفن نساء الأسرة. وهما أكبر القباب الحجرية في العصر المملوكي، وزُين ظاهرهما بنقوش متعرجة، وتقوم مئذنتان رشيقتان على الواجهة الرئيسية التي تضم أيضًا سبيلين يعلوهما كُتّابان. وفي الداخل يُسقف رواق القبلة بقباب صغيرة من الطوب، ويقوم منبر حجري بديع النحت أهداه السلطان قايتباي."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Twin stone domes",
+    "ar": "القبتان الحجريتان"
+   },
+   "desc": {
+    "en": "The largest stone domes of Mamluk Cairo, carved with a zigzag pattern.",
+    "ar": "أكبر القباب الحجرية في القاهرة المملوكية، تزينها نقوش متعرجة."
+   }
+  },
+  {
+   "title": {
+    "en": "Twin minarets",
+    "ar": "المئذنتان"
+   },
+   "desc": {
+    "en": "Two matching minarets rising from the main facade.",
+    "ar": "مئذنتان متماثلتان تعلوان الواجهة الرئيسية."
+   }
+  },
+  {
+   "title": {
+    "en": "Qaitbay's stone minbar",
+    "ar": "منبر قايتباي الحجري"
+   },
+   "desc": {
+    "en": "A finely carved limestone pulpit donated by Sultan Qaitbay.",
+    "ar": "منبر من الحجر الجيري دقيق النحت أهداه السلطان قايتباي."
+   }
+  },
+  {
+   "title": {
+    "en": "Sufi cells",
+    "ar": "خلاوي الصوفية"
+   },
+   "desc": {
+    "en": "Rooms around the courtyard where Sufis once lived.",
+    "ar": "حجرات حول الصحن كان يقيم فيها المتصوفة."
+   }
+  },
+  {
+   "title": {
+    "en": "Sabil-kuttabs",
+    "ar": "السبيلان والكُتّابان"
+   },
+   "desc": {
+    "en": "Two water fountains with Qur'an schools above on the main facade.",
+    "ar": "سبيلان يعلوهما كُتّابان على الواجهة الرئيسية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Morning, combined with the Qaitbay complex and other monuments of the Northern Cemetery.",
+   "ar": "الصباح، مع الجمع بين الزيارة ومجموعة قايتباي وغيرها من آثار صحراء المماليك."
+  },
+  "crowdNotes": {
+   "en": "Inside a lived-in cemetery district; a local guide or driver helps. Dress modestly and avoid prayer times.",
+   "ar": "تقع داخل منطقة مقابر مأهولة، ويفيد الاستعانة بمرشد أو سائق محلي. ويُرجى ارتداء ملابس محتشمة وتجنب أوقات الصلاة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Khanqah_of_Farag_ibn_Barquq%2C_photo_by_Hatem_Moushir_3.jpg",
+   "author": "Hatem Moushir",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khanqah_of_Farag_ibn_Barquq,_photo_by_Hatem_Moushir_3.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Khanqah-Mausoleum_of_Faraj_ibn_Barquq_DSCF0244.jpg",
+   "author": "R Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khanqah-Mausoleum_of_Faraj_ibn_Barquq_DSCF0244.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Barquq-Grabkomplex_vom_S%C3%BCdwesten_mit_Minaretten.jpg",
+   "author": "Robert Priewasser",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barquq-Grabkomplex_vom_S%C3%BCdwesten_mit_Minaretten.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/mosque-khanqa-and-madrasa-of-sultan-farag-ibn-barquq-in-the-mamluk-cemetery/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Khanqah_of_Faraj_ibn_Barquq",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1_%D9%81%D8%B1%D8%AC_%D8%A8%D9%86_%D8%A8%D8%B1%D9%82%D9%88%D9%82",
+  "osm": "way/29418247"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q56284343",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/mosque-khanqa-and-madrasa-of-sultan-farag-ibn-barquq-in-the-mamluk-cemetery/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-16:00 daily),description (official portal; no ticket listed)",
+   "url": "https://egymonuments.gov.eg/en/monuments/mosque-khanqa-and-madrasa-of-sultan-farag-ibn-barquq-in-the-mamluk-cemetery/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Khanqah_of_Faraj_ibn_Barquq",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Hours 09:00-16:00 from the portal; no lastEntry published. Price not confirmed: the portal lists no ticket and the complex is not on the Nov 2024 MoTA list or the booking platform - prices.status 'unconfirmed' (D9, as qaitbay-funerary-complex). Status 'open' rests on the undated live portal page (decision 6). Operator kept as seed 'other'."
+}

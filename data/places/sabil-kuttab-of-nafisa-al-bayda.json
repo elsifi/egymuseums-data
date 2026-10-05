@@ -1,0 +1,336 @@
+{
+ "id": "sabil-kuttab-of-nafisa-al-bayda",
+ "kind": "site",
+ "wikidataId": "Q23976345",
+ "name": {
+  "en": "Sabil-Kuttab of Nafisa al-Bayda",
+  "ar": "سبيل وكتاب نفيسة البيضة"
+ },
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Bab Zuwayla, al-Sukkariya Street",
+  "ar": "باب زويلة، شارع السكرية"
+ },
+ "address": {
+  "en": "Corner of al-Sukkariya Street and Atfat al-Hammam, inside Bab Zuwayla, opposite the al-Mu'ayyad Mosque",
+  "ar": "ناصية شارع السكرية وعطفة الحمام، داخل باب زويلة، أمام جامع المؤيد شيخ"
+ },
+ "lat": 30.04303,
+ "lng": 31.25796,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "An elegant Ottoman sabil-kuttab of 1796 just inside Bab Zuwayla, built by one of the most influential women of late 18th-century Cairo.",
+  "ar": "سبيل وكُتّاب عثماني أنيق من عام 1796 داخل باب زويلة، أنشأته واحدة من أكثر نساء القاهرة نفوذًا في أواخر القرن الثامن عشر."
+ },
+ "description": {
+  "en": "Nafisa bint Abd Allah, called al-Bayda, 'the white', for her fair complexion, was the widow of the Mamluk ruler Ali Bey al-Kabir and later the wife of Murad Bey, who shared power over Egypt with Ibrahim Bey. Wealthy and respected, she built this complex in 1796 just inside Bab Zuwayla: a wikala for merchants behind, and on the street corner a sabil, which handed out free drinking water, with a kuttab, a Qur'an school for poor children, above it. The sabil has the rounded front typical of Ottoman Cairo, pierced by three windows with bronze grilles in geometric lattice, and a central marble slab with the foundation inscription framed by carved stone squares. Above, the kuttab opens to the street through three arches on two marble columns behind a low wooden screen. The side entrance, under the old arched gate of al-Hammam lane, leads to the sabil chamber and a staircase up to the schoolroom.",
+  "ar": "كانت نفيسة بنت عبد الله، الملقبة بالبيضاء لبياض بشرتها، زوجة الحاكم المملوكي علي بك الكبير، ثم تزوجت بعد وفاته مراد بك الذي تقاسم حكم مصر مع إبراهيم بك. وقد أنشأت، وهي ذات ثراء ومكانة، هذه المجموعة عام 1796 داخل باب زويلة: وكالة للتجار في الخلف، وعلى ناصية الشارع سبيل لسقاية الناس مجانًا يعلوه كُتّاب لتحفيظ القرآن لأبناء الفقراء. وللسبيل الواجهة المقوسة المميزة للأسبلة العثمانية في القاهرة، تتخللها ثلاثة شبابيك بتغشيات نحاسية ذات زخارف هندسية مفرغة، وتتوسطها لوحة رخامية تحمل نص الإنشاء تحيط بها مربعات حجرية منقوشة. ويطل الكُتّاب في الأعلى على الشارع بثلاثة عقود تحملها عمودان من الرخام خلف حاجز خشبي قصير. ويؤدي المدخل الجانبي، أسفل العقد الحجري القديم لبوابة عطفة الحمام، إلى حجرة السبيل وسلم يصعد إلى الكُتّاب."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Rounded facade",
+    "ar": "الواجهة المقوسة"
+   },
+   "desc": {
+    "en": "An Ottoman curved front with three bronze lattice grilles.",
+    "ar": "واجهة عثمانية مقوسة بثلاثة شبابيك ذات تغشيات نحاسية مفرغة."
+   }
+  },
+  {
+   "title": {
+    "en": "Foundation slab",
+    "ar": "لوحة الإنشاء"
+   },
+   "desc": {
+    "en": "A marble inscription framed by carved stone squares.",
+    "ar": "لوحة رخامية بنص الإنشاء تحيط بها مربعات حجرية منقوشة."
+   }
+  },
+  {
+   "title": {
+    "en": "Kuttab loggia",
+    "ar": "شرفة الكُتّاب"
+   },
+   "desc": {
+    "en": "The upper schoolroom open through arches on marble columns.",
+    "ar": "الكُتّاب العلوي المفتوح بعقود على أعمدة رخامية."
+   }
+  },
+  {
+   "title": {
+    "en": "Sabil chamber",
+    "ar": "حجرة السبيل"
+   },
+   "desc": {
+    "en": "The room where water from the cistern was passed to the public.",
+    "ar": "الحجرة التي كان يُقدَّم منها ماء الصهريج للناس."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 60
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 30
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/SabielOfNafesa",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 10,
+  "standardMinutes": 20,
+  "deepMinutes": 30,
+  "bestTime": {
+   "en": "Morning, on a walk from al-Muizz Street through Bab Zuwayla to the Tentmakers' Market.",
+   "ar": "الصباح، ضمن جولة من شارع المعز عبر باب زويلة إلى سوق الخيامية."
+  },
+  "crowdNotes": {
+   "en": "A small monument on a busy market corner.",
+   "ar": "أثر صغير على ناصية سوق مزدحمة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Nafisa_Al_Bayda_Sabil_01.jpg",
+   "author": "Peter Astbury",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nafisa_Al_Bayda_Sabil_01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Sabil_and_Kuttab_of_Nafisa_al-Bayda.jpg",
+   "author": "Mohamedibrahem2025",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sabil_and_Kuttab_of_Nafisa_al-Bayda.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Cairo%2C_bab_zuweila%2C_antica_fontana_pubblica.JPG",
+   "author": "Sailko",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cairo,_bab_zuweila,_antica_fontana_pubblica.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/sabil-kuttab-of-nafisa-al-bayda/",
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q23976345",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/sabil-kuttab-of-nafisa-al-bayda/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/wikala-of-nafisa-al-bayda/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/sabil-kuttab-of-nafisa-al-bayda/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry; Ramadan last entry 16:00),freeGroups,tickets (official MoTA booking platform)",
+   "url": "https://egymonuments.com/details/SabielOfNafesa",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,tickets (official booking page)",
+   "url": "https://egymonuments.com/book-date/91",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Ramadan 09:00-16:00),address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D8%B3%D8%A8%D9%8A%D9%84-%D9%86%D9%81%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal, booking platform, MoTA guide and Nov 2024 list agree on 09:00-17:00 and foreign 60/30, Egyptian 10/5. Ramadan conflict: guide closes 16:00 while the booking platform gives last entry 16:00; the earlier time is used (close 16:00, last entry 15:00). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

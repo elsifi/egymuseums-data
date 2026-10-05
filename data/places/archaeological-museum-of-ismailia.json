@@ -1,0 +1,263 @@
+{
+ "id": "archaeological-museum-of-ismailia",
+ "kind": "museum",
+ "wikidataId": "Q12238576",
+ "name": {
+  "en": "Archaeological Museum of Ismailia",
+  "ar": "متحف آثار الإسماعيلية"
+ },
+ "aliases": [
+  "متحف آثار الإسماعيليه",
+  "National Museum of Ismailia",
+  "Museum of Ismailia",
+  "Museum Ismailia"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "ismailia",
+ "city": {
+  "en": "Ismailia",
+  "ar": "الإسماعيلية"
+ },
+ "area": {
+  "en": "Afrangi (European) quarter",
+  "ar": "حي الإفرنج"
+ },
+ "address": {
+  "en": "Mohamed Ali Street, Afrangi quarter, Ismailia",
+  "ar": "شارع محمد علي، حي الإفرنج، الإسماعيلية"
+ },
+ "lat": 30.592987,
+ "lng": 32.283642,
+ "status": "unknown",
+ "statusNote": {
+  "en": "Its current opening status is uncertain. Call the tourism and antiquities hotline (19654) before travelling.",
+  "ar": "وضعه الحالي غير واضح، فيُرجى الاتصال بالخط الساخن للسياحة والآثار (19654) قبل الزيارة."
+ },
+ "summary": {
+  "en": "One of Egypt’s oldest regional museums, in a temple-style building of the Suez Canal era, with finds from the canal zone and Sinai.",
+  "ar": "من أقدم المتاحف الإقليمية في مصر، في مبنى على طراز المعابد يعود إلى عصر قناة السويس، ويضم مكتشفات من منطقة القناة وسيناء."
+ },
+ "description": {
+  "en": "The Ismailia museum grew out of the work of the French archaeologist Jean Clédat, who excavated along the line of the Suez Canal and in northern Sinai. Engineers of the Suez Canal Company began the collection around 1911 as an open-air display in a garden, then built the present building, designed to resemble an ancient Egyptian pylon temple. It opened to the public in the 1930s and its displays were completely rearranged in 2019. The museum holds around 6,000 objects, about 2,000 of them on show, covering prehistory to the Islamic period. Themes include daily life, writing, jewellery, crafts and Greek mythology. A floor mosaic from Clédat’s finds decorates the main hall, and a funerary room displays Christian-era tombstones returned to Egypt. A granite shrine found at el-Arish in the 1880s is among the best-known pieces.",
+  "ar": "نشأ متحف الإسماعيلية من أعمال الأثري الفرنسي جان كليدا الذي نقّب على امتداد مجرى قناة السويس وفي شمال سيناء. بدأ مهندسو الشركة العالمية لقناة السويس جمع المقتنيات نحو عام 1911 في معرض مكشوف داخل حديقة، ثم شيدوا المبنى الحالي على هيئة صرح معبد مصري قديم. وفُتح المتحف للجمهور في ثلاثينيات القرن العشرين، وجُدد سيناريو العرض فيه بالكامل عام 2019. يضم المتحف نحو ستة آلاف قطعة، يُعرض منها قرابة ألفين، وتمتد من عصور ما قبل التاريخ حتى العصر الإسلامي. ويتناول العرض موضوعات مثل الحياة اليومية والكتابة والحلي والحرف والأساطير الإغريقية. وتزين أرضية البهو الرئيسي فسيفساء من مكتشفات كليدا، وتعرض قاعة جنائزية شواهد قبور من العصر المسيحي استُردت إلى مصر. ومن أشهر القطع ناووس من الجرانيت عُثر عليه في العريش في ثمانينيات القرن التاسع عشر."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Temple-style building",
+    "ar": "المبنى على طراز المعابد"
+   },
+   "desc": {
+    "en": "A museum building modelled on an ancient Egyptian pylon.",
+    "ar": "مبنى المتحف مصمم على هيئة صرح معبد مصري قديم."
+   }
+  },
+  {
+   "title": {
+    "en": "El-Arish granite shrine",
+    "ar": "ناووس العريش الجرانيتي"
+   },
+   "desc": {
+    "en": "A granite naos found at el-Arish in North Sinai.",
+    "ar": "ناووس من الجرانيت عُثر عليه في العريش بشمال سيناء."
+   }
+  },
+  {
+   "title": {
+    "en": "Main-hall mosaic",
+    "ar": "فسيفساء البهو الرئيسي"
+   },
+   "desc": {
+    "en": "A floor mosaic from the early excavations, set in the main hall.",
+    "ar": "أرضية من الفسيفساء من الحفائر المبكرة تزين البهو الرئيسي."
+   }
+  },
+  {
+   "title": {
+    "en": "Funerary room",
+    "ar": "القاعة الجنائزية"
+   },
+   "desc": {
+    "en": "Christian-era tombstones among objects recovered for Egypt.",
+    "ar": "شواهد قبور من العصر المسيحي ضمن قطع استُردت إلى مصر."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning; it is a short walk from the Suez Canal Museum.",
+   "ar": "الصباح، وهو على مسافة قصيرة من متحف قناة السويس."
+  },
+  "crowdNotes": {
+   "en": "Small and usually quiet.",
+   "ar": "متحف صغير وهادئ في الغالب."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/IsmailiaMuseumOutside.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:IsmailiaMuseumOutside.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/IsmailiaMuseumShrine.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:IsmailiaMuseumShrine.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/IsmailiaMuseumMainHall.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:IsmailiaMuseumMainHall.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12238576",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q130215921",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: Ismailia Museum 100/50, 10/5, 09:00-15:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (absent from the live MoTA open-museums listing, checked via GenericList API, page 17737)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (receiving visitors, Aug 2024)",
+   "url": "https://www.youm7.com/story/2024/8/8/x/6667779",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,address,description (May 2023)",
+   "url": "https://www.youm7.com/story/2023/5/26/x/6192165",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (history, 2019 redisplay, collection size)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Status unknown: last dated report of visitors is youm7 Aug 2024; the museum is in the Nov 2024 MoTA price list but NOT in the live MoTA open-museums guide (31 museums, Oct 2026) nor on egymonuments.com. Hours/prices kept from the Nov 2024 list (09:00-15:00, last entry 14:00 by one-hour rule; 100/50, 10/5). Opening year conflicts (1913 vs March 1934 in ar-wiki and press) - text says 1930s. The mosaic is commonly identified as the Sheikh Zuweid mosaic; not named here. Street per youm7 2023 (Mohamed Ali St). Confirm by hotline 19654."
+}

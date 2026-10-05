@@ -1,0 +1,262 @@
+{
+ "id": "tell-basta-museum",
+ "kind": "museum",
+ "wikidataId": "Q131929876",
+ "name": {
+  "en": "Tell Basta Museum",
+  "ar": "متحف تل بسطة"
+ },
+ "aliases": [
+  "Museum of Tal Basta Antiquities"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "sharqia",
+ "city": {
+  "en": "Zagazig",
+  "ar": "الزقازيق"
+ },
+ "area": {
+  "en": "Tell Basta archaeological site, south-east Zagazig",
+  "ar": "منطقة آثار تل بسطا، جنوب شرق الزقازيق"
+ },
+ "address": {
+  "en": "Inside the Tell Basta archaeological site, Al-Nahal village, Zagazig, Sharqia Governorate",
+  "ar": "داخل منطقة آثار تل بسطا، قرية النحال، الزقازيق، محافظة الشرقية"
+ },
+ "lat": 30.573523,
+ "lng": 31.513084,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Entry is included in the Tell Basta site ticket.",
+  "ar": "مفتوح يوميًا، والدخول مشمول في تذكرة منطقة آثار تل بسطا."
+ },
+ "summary": {
+  "en": "Sharqia's antiquities museum inside the Tell Basta site, centred on Bastet, the cat goddess of ancient Bubastis.",
+  "ar": "متحف آثار الشرقية داخل منطقة تل بسطا، ومحوره المعبودة القطة باستت، ربة مدينة بوباستيس القديمة."
+ },
+ "description": {
+  "en": "This site museum stands within the ruins of Bubastis, the city of the cat goddess Bastet, on the edge of Zagazig. It was planned in 2006 to replace the old Sharqia National Museum, but work halted in 2010; it resumed in 2017 and the museum opened in 2018. A single-floor building with 43 showcases presents around a thousand objects from excavations across the governorate. A gallery devoted to Bastet gathers bronze figures of her and of other deities, some in the form of cats. Other cases recreate a burial with a pottery coffin, ushabti figures, a headrest and offering tables, and show canopic jars, jewellery, cosmetic items, coins and oil lamps that evoke daily life. Terracotta figurines in local clay illustrate the Graeco-Roman period. Outside, the open-air garden holds large statues and inscribed blocks from the temples of Bubastis, close to the colossal statue of Queen Meritamun.",
+  "ar": "يقع متحف الموقع هذا وسط أطلال بوباستيس، مدينة المعبودة القطة باستت، على أطراف الزقازيق. خُطط له عام 2006 ليحل محل متحف الشرقية القومي القديم، لكن الأعمال توقفت عام 2010، ثم استؤنفت عام 2017 وافتُتح المتحف عام 2018. ويعرض مبنى من طابق واحد يضم 43 فاترينة نحو ألف قطعة من حفائر مختلفة في المحافظة. وتجمع قاعة مخصصة لباستت تماثيل برونزية لها ولمعبودات أخرى، بعضها على هيئة قطط. وتعيد فاترينات أخرى تصوير دفنة بتابوت من الفخار وتماثيل أوشابتي ومسند للرأس وموائد قرابين، وتعرض أواني للأحشاء وحليًا وأدوات زينة وعملات ومسارج تستحضر الحياة اليومية. وتمثل تماثيل التراكوتا المصنوعة من الطين المحلي العصر اليوناني الروماني. وفي الحديقة المكشوفة تُعرض تماثيل ضخمة وكتل منقوشة من معابد بوباستيس، بالقرب من التمثال الضخم للملكة ميريت آمون."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Bastet gallery",
+    "ar": "قاعة باستت"
+   },
+   "desc": {
+    "en": "Bronze figures of the cat goddess and other deities.",
+    "ar": "تماثيل برونزية للمعبودة القطة ومعبودات أخرى."
+   }
+  },
+  {
+   "title": {
+    "en": "Burial display",
+    "ar": "فاترينة الدفنة"
+   },
+   "desc": {
+    "en": "A pottery coffin with ushabtis, a headrest and offering tables.",
+    "ar": "تابوت من الفخار مع تماثيل أوشابتي ومسند للرأس وموائد قرابين."
+   }
+  },
+  {
+   "title": {
+    "en": "Terracotta figurines",
+    "ar": "تماثيل التراكوتا"
+   },
+   "desc": {
+    "en": "Graeco-Roman figures made of local clay.",
+    "ar": "تماثيل يونانية رومانية من الطين المحلي."
+   }
+  },
+  {
+   "title": {
+    "en": "Open-air garden",
+    "ar": "الحديقة المتحفية المكشوفة"
+   },
+   "desc": {
+    "en": "Colossal statue fragments and inscribed temple blocks from Bubastis.",
+    "ar": "أجزاء من تماثيل ضخمة وكتل معابد منقوشة من بوباستيس."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "includedIn": "tell-basta"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Morning, before the museum closes at 15:00, combined with the Tell Basta ruins.",
+   "ar": "الصباح، قبل إغلاق المتحف في الثالثة عصرًا، مع زيارة أطلال تل بسطا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/%D9%85%D8%AA%D8%AD%D9%81_%D8%AA%D9%84_%D8%A8%D8%B3%D8%B7%D8%A7_%D9%A1%D9%A6.jpg",
+   "author": "Summering2018",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:متحف_تل_بسطا_١٦.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/%D9%85%D8%AA%D8%AD%D9%81_%D8%AA%D9%84_%D8%A8%D8%B3%D8%B7%D8%A7_%D9%A2%D9%A2.jpg",
+   "author": "Summering2018",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:متحف_تل_بسطا_٢٢.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/%D9%85%D8%AA%D8%AD%D9%81_%D8%AA%D9%84_%D8%A8%D8%B3%D8%B7%D8%A7%D9%A1%D9%A4.jpg",
+   "author": "Summering2018",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:متحف_تل_بسطا١٤.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Museum_of_Tal_Basta_Antiquities",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%AA%D9%84_%D8%A8%D8%B3%D8%B7%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q131929876",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q130216451",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q64744342",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (summer 09:00-18:00, winter 09:00-17:00, Ramadan 09:00-15:00),description,address (MoTA guide)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-تل-بسطا/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (09:00-15:00),prices (within the Tell Basta ticket) (MoTA ticket list, Nov 2024)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,prices,hours (open 2026; Egyptians 10/5, foreigners 150/75; summer 18:00, winter 17:00; news 15 May 2026)",
+   "url": "https://www.elwatannews.com/news/details/8284894",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Museum_of_Tal_Basta_Antiquities",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (43 showcases, ~1,000 objects; facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%AA%D9%84_%D8%A8%D8%B3%D8%B7%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Hours conflict: MoTA guide (and elwatannews May 2026) say 09:00-18:00 summer / 09:00-17:00 winter; the Nov 2024 MoTA list says 09:00-15:00. House rule (earlier time): 09:00-15:00, last entry 14:00 (one hour before closing). Ramadan 09:00-15:00 (guide) equals that, so no Ramadan exception. Prices: the Nov 2024 list says the museum is 'within Tell Basta ticket'; tiers mirror tell-basta.json (150/75/10/5), matching elwatannews 2026. No Arab tier: the SCA ended Arab = Egyptian pricing from 1 Jan 2026. Not on egymonuments.com, no online booking. Photos: Commons category 'Tell Basta Museum' (Jan 2026 uploads) shows statue fragments and inscribed blocks in the open-air display - objects only, no modern building. The Meritamun colossus belongs to the Tell Basta site record."
+}

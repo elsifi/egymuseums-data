@@ -1,0 +1,270 @@
+{
+ "id": "suez-national-museum",
+ "kind": "museum",
+ "wikidataId": "Q63973129",
+ "name": {
+  "en": "Suez National Museum",
+  "ar": "متحف السويس القومي"
+ },
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "suez",
+ "city": {
+  "en": "Suez",
+  "ar": "السويس"
+ },
+ "area": {
+  "en": "Port Tawfiq",
+  "ar": "بورتوفيق"
+ },
+ "address": {
+  "en": "23 July Street, Port Tawfiq, Suez",
+  "ar": "شارع 23 يوليو، بورتوفيق، السويس"
+ },
+ "lat": 29.955148,
+ "lng": 32.566931,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. A temporary exhibition on the colour blue in Egyptian art runs for three months from October 2026.",
+  "ar": "مفتوح يوميًا، ويستضيف من أكتوبر 2026 ولمدة ثلاثة أشهر معرضًا مؤقتًا عن اللون الأزرق في الفن المصري."
+ },
+ "summary": {
+  "en": "A museum on the history of Suez and its canals, from the Canal of the Pharaohs to the modern waterway, opened in 2014.",
+  "ar": "متحف لتاريخ السويس وقنواتها، من قناة الفراعنة حتى المجرى الملاحي الحديث، افتُتح عام 2014."
+ },
+ "description": {
+  "en": "Suez lost its first museum during the war of 1967, when the building collapsed and the surviving collection was taken to the storerooms of the Egyptian Museum in Cairo. The present museum, in Port Tawfiq at the southern entrance of the canal, opened in 2014 and tells the history of the city from prehistory to modern times. Its two floors are separated by an open-air court of Greek, Roman and Islamic columns, and the garden holds a modern replica of one of Queen Hatshepsut's trading ships. Galleries explore the canals that linked the Nile to the Red Sea, among them the Canal of the Pharaohs begun by Necho II, as well as mining, shipbuilding, Egypt's trade with distant lands, and the role of Suez on the pilgrimage route to Mecca. A mummification hall recreates a tomb with tools, coloured coffins and a priest's mummy. Key pieces include a statue of Senusret III and a stela of Darius I.",
+  "ar": "فقدت السويس متحفها الأول خلال حرب 1967 حين انهار مبناه، ونُقلت القطع الناجية إلى مخازن المتحف المصري بالقاهرة. وافتُتح المتحف الحالي في بورتوفيق، عند المدخل الجنوبي للقناة، عام 2014، ليروي تاريخ المدينة من عصور ما قبل التاريخ حتى العصر الحديث. ويفصل بين طابقيه فناء مكشوف تُعرض فيه أعمدة يونانية ورومانية وإسلامية، وتضم حديقته نموذجًا حديثًا لإحدى سفن الملكة حتشبسوت التجارية. وتتناول قاعاته القنوات التي ربطت النيل بالبحر الأحمر، ومنها قناة الفراعنة التي بدأها نكاو الثاني، إلى جانب التعدين وبناء السفن وتجارة مصر مع البلاد البعيدة ودور السويس على طريق الحج إلى مكة. وتحاكي قاعة التحنيط مقبرة من الداخل بأدواتها وتوابيتها الملونة ومومياء لكاهن. ومن أبرز قطعه تمثال للملك سنوسرت الثالث ولوحة للملك الفارسي دارا الأول."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Statue of Senusret III",
+    "ar": "تمثال سنوسرت الثالث"
+   },
+   "desc": {
+    "en": "The Middle Kingdom king credited with an early canal project.",
+    "ar": "ملك الدولة الوسطى الذي يُنسب إليه أول محاولة لحفر قناة."
+   }
+  },
+  {
+   "title": {
+    "en": "Stela of Darius I",
+    "ar": "لوحة دارا الأول"
+   },
+   "desc": {
+    "en": "One of four stelae the Persian king set up along the Nile–Red Sea canal.",
+    "ar": "إحدى أربع لوحات أقامها الملك الفارسي على امتداد قناة النيل والبحر الأحمر."
+   }
+  },
+  {
+   "title": {
+    "en": "Mummification hall",
+    "ar": "قاعة التحنيط"
+   },
+   "desc": {
+    "en": "A recreated tomb with tools, coloured coffins and a priest's mummy.",
+    "ar": "محاكاة لمقبرة بأدوات التحنيط والتوابيت الملونة ومومياء كاهن."
+   }
+  },
+  {
+   "title": {
+    "en": "Hatshepsut's ship",
+    "ar": "سفينة حتشبسوت"
+   },
+   "desc": {
+    "en": "A modern replica of one of the queen's trading ships in the garden.",
+    "ar": "نموذج حديث لإحدى سفن الملكة التجارية في الحديقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Column court",
+    "ar": "فناء الأعمدة"
+   },
+   "desc": {
+    "en": "Greek, Roman and Islamic columns in the open court between the floors.",
+    "ar": "أعمدة يونانية ورومانية وإسلامية في الفناء المكشوف بين الطابقين."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "15:00",
+    "lastEntry": "14:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 180
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 90
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+   "Children under 6"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Orphaned children",
+    "ar": "الأطفال الأيتام"
+   },
+   {
+    "en": "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+    "ar": "رحلات المدارس الحكومية والأزهرية للمرحلتين الابتدائية والإعدادية المحجوزة عبر منصة «رحلة»"
+   },
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning; the ticket window closes at 14:00.",
+   "ar": "الصباح، إذ يُغلق شباك التذاكر في الثانية ظهرًا."
+  }
+ },
+ "facilities": {
+  "library": true
+ },
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/the-national-museum-of-suez/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3_%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A",
+  "osm": "node/1947175187"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q63973129",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/the-national-museum-of-suez/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-15:00, ticket window closes 14:00),prices,freeGroups,description,highlights (official portal)",
+   "url": "https://egymonuments.gov.eg/en/museums/the-national-museum-of-suez/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (09:00-15:00, Ramadan 09:00-15:00),address,description (MoTA guide)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-السويس-القومي/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 cross-check)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,statusNote (temporary exhibition \"Blue, the secret of eternity\", 20 objects, three months; MoTA announcement reported 4 Oct 2026)",
+   "url": "https://www.egypttelegraph.com/article/284211",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3_%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal, MoTA guide and Nov 2024 list agree (09:00-15:00; 180/90/20/10); last entry 14:00 from the portal's ticket-window note. Ramadan 09:00-15:00 (guide) equals normal hours, so no Ramadan exception. No Arab tier: the SCA ended Arab = Egyptian pricing from 1 Jan 2026. Not on egymonuments.com; no online booking. Free groups from the portal (no mobile-photography line there). TIME-LIMITED: the statusNote sentence on the 'Blue' exhibition (opened about 4 Oct 2026, three months) expires about 2027-01-04; still valid on 2026-10-05; remove then. No photos: the only Commons image shows the 2014 building (modern, no freedom of panorama); no artefact photos found."
+}

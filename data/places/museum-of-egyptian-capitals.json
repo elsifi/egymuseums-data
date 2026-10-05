@@ -1,0 +1,102 @@
+{
+ "id": "museum-of-egyptian-capitals",
+ "kind": "museum",
+ "wikidataId": "Q90315761",
+ "name": {
+  "en": "Museum of Egyptian Capitals",
+  "ar": "متحف عواصم مصر"
+ },
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "The New Capital",
+  "ar": "العاصمة الجديدة"
+ },
+ "area": {
+  "en": "City of Arts and Culture, New Administrative Capital",
+  "ar": "مدينة الثقافة والفنون، العاصمة الإدارية الجديدة"
+ },
+ "lat": 30.015111,
+ "lng": 31.720842,
+ "status": "closed",
+ "statusNote": {
+  "en": "Built and fitted out, but not yet opened to the public; no opening date has been announced.",
+  "ar": "اكتمل بناؤه وتجهيزه، لكنه لم يُفتتح للجمهور بعد، ولم يُعلن موعد لافتتاحه."
+ },
+ "summary": {
+  "en": "A new antiquities museum in the New Administrative Capital that tells the story of Egypt's successive capitals.",
+  "ar": "متحف آثار جديد في العاصمة الإدارية الجديدة يروي قصة العواصم المصرية المتعاقبة."
+ },
+ "description": {
+  "en": "The Museum of Egyptian Capitals is a Supreme Council of Antiquities museum built in the City of Arts and Culture of the New Administrative Capital, east of Cairo. Its theme is the moving seat of government: a main hall follows Egypt's capitals through time, from Memphis, Thebes and Akhetaten (Amarna) to Alexandria, Fustat, Fatimid Cairo, Khedivial Cairo and finally the New Capital itself. For each city the displays mean to show rulers and officials, writing and administration, warfare and everyday objects such as jewellery and cosmetics, and to explain why the capital moved. Plans published by the antiquities authority speak of around a thousand objects, including pieces of an old Kaaba covering (kiswa). At the end of 2024 the works were declared complete and the museum ready for inauguration, but as of October 2026 it has not opened to visitors.",
+  "ar": "متحف عواصم مصر متحف تابع للمجلس الأعلى للآثار شُيّد في مدينة الثقافة والفنون بالعاصمة الإدارية الجديدة شرق القاهرة. وموضوعه انتقال مقر الحكم عبر التاريخ، إذ تتبع قاعته الرئيسية عواصم مصر المتعاقبة، من منف وطيبة وأخيتاتون (تل العمارنة) إلى الإسكندرية والفسطاط والقاهرة الفاطمية والقاهرة الخديوية، وصولًا إلى العاصمة الجديدة نفسها. ويعتزم العرض أن يقدّم لكل عاصمة حكامها ورجال دولتها، ونظم الكتابة والإدارة، وأدوات الحرب، والمقتنيات اليومية مثل الحلي وأدوات الزينة، مع شرح أسباب انتقال العاصمة. وتشير الخطط المعلنة إلى نحو ألف قطعة أثرية، من بينها أجزاء من كسوة قديمة للكعبة. وقد أُعلن في نهاية عام 2024 اكتمال الأعمال وجاهزية المتحف للافتتاح، لكنه حتى أكتوبر 2026 لم يُفتح للزوار."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Hall of capitals",
+    "ar": "قاعة العواصم"
+   },
+   "desc": {
+    "en": "A single narrative hall moving from Memphis and Thebes to Fatimid and Khedivial Cairo.",
+    "ar": "قاعة عرض واحدة تتنقل من منف وطيبة إلى القاهرة الفاطمية والخديوية."
+   }
+  },
+  {
+   "title": {
+    "en": "Kaaba covering",
+    "ar": "كسوة الكعبة"
+   },
+   "desc": {
+    "en": "Pieces of an old kiswa, the embroidered textile that covered the Kaaba in Mecca.",
+    "ar": "أجزاء من كسوة قديمة، وهي النسيج المطرز الذي كان يكسو الكعبة المشرفة."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B9%D9%88%D8%A7%D8%B5%D9%85_%D9%85%D8%B5%D8%B1",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q90315761",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (SCA: works 100% complete, ready for inauguration; planned for 2025), 31 Dec 2024",
+   "url": "https://www.dostor.org/4910277",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (not listed among bookable sites, checked 2026-10-05)",
+   "url": "https://egymonuments.com/locations",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B9%D9%88%D8%A7%D8%B5%D9%85_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "area (City of Arts and Culture)",
+   "url": "https://sis.gov.eg/ar/%D9%85%D8%B5%D8%B1/%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9/%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9/%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D9%85%D8%AA%D8%AD%D9%81-%D8%B9%D9%88%D8%A7%D8%B5%D9%85-%D9%85%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9/",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status 'closed' = completed but never opened: SCA said on 31 Dec 2024 the museum was 100% complete and ready to open in 2025; no inauguration found, and it is absent from egymonuments.com/locations and the MoTA open-museums guide (checked 2026-10-05). The list of capitals differs between sources (dostor names 8 while saying 9), so no number is given. Object count (~1000) from ar-wiki only. PHOTOS: none. Commons has no photo of the museum, and the building is modern (no freedom of panorama in Egypt). Photos are therefore left empty (allowed for minor places, decision of 2026-10-05)."
+}

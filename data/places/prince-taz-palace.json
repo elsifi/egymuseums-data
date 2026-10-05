@@ -1,0 +1,305 @@
+{
+ "id": "prince-taz-palace",
+ "kind": "site",
+ "wikidataId": "Q3360993",
+ "name": {
+  "en": "Prince Taz Palace",
+  "ar": "قصر الأمير طاز"
+ },
+ "aliases": [
+  "قصر الامير طاز",
+  "Qasr Amir Taz",
+  "Amir Taz Palace"
+ ],
+ "category": "islamic",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Corner of al-Suyufiyya and al-Saliba streets, al-Khalifa",
+  "ar": "تقاطع شارعي السيوفية والصليبة، حي الخليفة"
+ },
+ "address": {
+  "en": "al-Suyufiyya Street, al-Khalifa, Cairo",
+  "ar": "شارع السيوفية، حي الخليفة، القاهرة"
+ },
+ "lat": 30.0319,
+ "lng": 31.2533,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The palace is also a cultural centre of the Ministry of Culture, with concerts, plays and workshops in the evenings.",
+  "ar": "مفتوح يوميًا. والقصر مركز ثقافي تابع لوزارة الثقافة أيضًا، تُقام فيه الحفلات والعروض المسرحية والورش مساءً."
+ },
+ "summary": {
+  "en": "The largest surviving Bahri Mamluk palace in Cairo, built in 1352 around a great courtyard and now a lively cultural centre.",
+  "ar": "أكبر قصر باقٍ من عصر المماليك البحرية في القاهرة، شُيّد عام 1352 حول فناء كبير، وهو اليوم مركز ثقافي نابض."
+ },
+ "description": {
+  "en": "Amir Sayf al-Din Taz, a powerful officer under the sons of Sultan al-Nasir Muhammad ibn Qalawun and later governor of Aleppo, built this palace in 1352 at the meeting of Suyufiyya and Saliba streets. Rooms of several storeys surround a great inner courtyard, overlooked by an arcaded loggia, the maq'ad, where the household received guests in the cooler air. The ceilings are painted with geometric and floral motifs, and the walls carry inscription bands with Taz's titles and roundels showing a cup, the blazon of his office as the sultan's cupbearer. One hall is decorated with verses of al-Busiri's Burda, the poem in praise of the Prophet, in Persian-style calligraphy. Remodelled in Ottoman times, the palace later served as a girls' school and as an education ministry depot, and was badly damaged in the 1992 earthquake. After restoration it opened as a creativity centre of the Cultural Development Fund, hosting concerts, theatre and workshops.",
+  "ar": "شيّد الأمير سيف الدين طاز، أحد كبار الأمراء في عهد أبناء السلطان الناصر محمد بن قلاوون ونائب حلب لاحقًا، هذا القصر عام 1352 عند ملتقى شارعي السيوفية والصليبة. وتحيط حجرات من عدة طوابق بفناء داخلي كبير يطل عليه مقعد ذو عقود كان أهل القصر يستقبلون فيه ضيوفهم في الهواء الأبرد. وزُينت الأسقف بزخارف هندسية ونباتية، وتحمل الجدران أشرطة كتابية بألقاب طاز وجامات مستديرة عليها رنك الكأس، شارة وظيفته ساقيًا للسلطان. وتزين إحدى القاعات أبيات من قصيدة البردة للبوصيري في مدح النبي بخط على الطراز الفارسي. وقد جُدد القصر في العصر العثماني، ثم صار مدرسة للبنات ومخزنًا لوزارة التربية والتعليم، وتضرر بشدة في زلزال 1992. وبعد ترميمه افتُتح مركزًا للإبداع الفني تابعًا لصندوق التنمية الثقافية، تُقام فيه الحفلات والعروض المسرحية والورش."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Maq'ad",
+    "ar": "المقعد"
+   },
+   "desc": {
+    "en": "An arcaded loggia overlooking the great courtyard.",
+    "ar": "مقعد ذو عقود يطل على الفناء الكبير."
+   }
+  },
+  {
+   "title": {
+    "en": "Painted ceilings",
+    "ar": "الأسقف المزخرفة"
+   },
+   "desc": {
+    "en": "Wooden ceilings with geometric and floral painting.",
+    "ar": "أسقف خشبية برسوم هندسية ونباتية."
+   }
+  },
+  {
+   "title": {
+    "en": "Cupbearer blazon",
+    "ar": "رنك الكأس"
+   },
+   "desc": {
+    "en": "Roundels with the cup emblem of Taz's office among inscription bands.",
+    "ar": "جامات تحمل رنك الكأس شارة وظيفة طاز بين الأشرطة الكتابية."
+   }
+  },
+  {
+   "title": {
+    "en": "Burda hall",
+    "ar": "قاعة البردة"
+   },
+   "desc": {
+    "en": "A hall decorated with verses of al-Busiri's Burda.",
+    "ar": "قاعة مزينة بأبيات من بردة البوصيري."
+   }
+  },
+  {
+   "title": {
+    "en": "Courtyard events",
+    "ar": "فعاليات الفناء"
+   },
+   "desc": {
+    "en": "Concerts and plays staged in the courtyard in the evenings.",
+    "ar": "حفلات وعروض مسرحية تُقام في الفناء مساءً."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Morning for the architecture, or an evening event for the atmosphere; combine with the Mawlawiyya and the Sabil of Qaitbay.",
+   "ar": "الصباح لمشاهدة العمارة، أو إحدى الفعاليات المسائية للاستمتاع بالأجواء، مع الجمع بين الزيارة والتكية المولوية وسبيل قايتباي."
+  },
+  "crowdNotes": {
+   "en": "Evening events have their own tickets.",
+   "ar": "للفعاليات المسائية تذاكر خاصة بها."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Amir_Taz_Palace%2C_Cairo10.jpg",
+   "author": "ولاء",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amir_Taz_Palace,_Cairo10.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Amir_Taz_Palace%2C_Cairo3.jpg",
+   "author": "ولاء",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amir_Taz_Palace,_Cairo3.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Amir_Taz_Palace%2C_Cairo48.jpg",
+   "author": "ولاء",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amir_Taz_Palace,_Cairo48.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "http://www.tazpalace.gov.eg/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/prince-taz-palace/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Amir_Taz_Palace",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D8%B7%D8%A7%D8%B2",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q3360993",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/prince-taz-palace/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/al-saliba-street/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,description (official portal; no ticket listed)",
+   "url": "https://egymonuments.gov.eg/en/monuments/prince-taz-palace/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan 09:00-16:00),address,description (MoTA open-sites guide; last entry one hour before closing)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1-%D8%B7%D8%A7%D8%B2/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Nov 2024 MoTA list: no fee shown)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "statusNote,contacts.website (CDF creativity centre: concerts, workshops)",
+   "url": "http://www.tazpalace.gov.eg/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Amir_Taz_Palace",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D8%B7%D8%A7%D8%B2",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Price not confirmed: the Nov 2024 MoTA list shows '-' for Prince Taz Palace (as for Ibn Tulun), and the portal lists no ticket - prices.status 'unconfirmed' (D9). Evening events are ticketed by the CDF (e.g. EGP 65 concert) - not a site price. 1992 earthquake damage and the 2000s restoration are general knowledge (archnet), dates of reopening not checked. Operator kept as seed 'ministry-of-culture' (CDF manages the building; SCA monument). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

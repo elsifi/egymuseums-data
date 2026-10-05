@@ -1,0 +1,116 @@
+{
+ "id": "nag-hammadi-barrages-museum",
+ "kind": "museum",
+ "wikidataId": "Q139895168",
+ "name": {
+  "en": "Nag Hammadi Barrages Museum",
+  "ar": "متحف قناطر نجع حمادي"
+ },
+ "category": "specialised",
+ "operator": "other",
+ "governorate": "qena",
+ "city": {
+  "en": "Nag Hammadi",
+  "ar": "نجع حمادي"
+ },
+ "area": {
+  "en": "New Nag Hammadi Barrages, west bank",
+  "ar": "قناطر نجع حمادي الجديدة، البر الغربي"
+ },
+ "address": {
+  "en": "General Administration building of the New Nag Hammadi Barrages, next to the navigation lock, Nag Hammadi, Qena",
+  "ar": "مبنى الإدارة العامة لقناطر نجع حمادي الجديدة، بجوار الهويس الملاحي، نجع حمادي، محافظة قنا"
+ },
+ "lat": 26.153636,
+ "lng": 32.144571,
+ "status": "unknown",
+ "statusNote": {
+  "en": "A small museum inside an irrigation administration building; public opening times are not published, so ask on site.",
+  "ar": "متحف صغير داخل مبنى إداري للري، ولم تُنشر مواعيد لاستقبال الجمهور، لذا يُنصح بالسؤال في الموقع."
+ },
+ "summary": {
+  "en": "A small museum at the Nag Hammadi barrages, opened in 2021, keeping the instruments, documents and photographs from the building of the 1930 barrage.",
+  "ar": "متحف صغير عند قناطر نجع حمادي افتُتح عام 2021، يحتفظ بأدوات ووثائق وصور من إنشاء قناطر 1930."
+ },
+ "description": {
+  "en": "Opened on 23 September 2021, this museum documents the history of the Nag Hammadi barrages, which regulate the Nile for the irrigation canals of Upper Egypt. It is run by the Ministry of Water Resources and Irrigation and occupies about 100 square metres inside the administration building of the new barrages, next to the navigation lock. The original barrage, a few kilometres away, was begun after King Fuad I laid its foundation stone in 1928 and opened in 1930 to bring perennial irrigation to the region. The museum keeps objects from that project, among them the silver trowel and mortar tray made for the king's ceremony, old survey instruments such as theodolites and a current meter for measuring water speed, a century-old typewriter and office equipment. A small library holds more than 80 volumes, contracts, maps and rare photographs of the construction, the workers and the opening.",
+  "ar": "افتُتح هذا المتحف في 23 سبتمبر 2021 لتوثيق تاريخ قناطر نجع حمادي التي تنظم مياه النيل لترع الري في صعيد مصر. ويتبع وزارة الموارد المائية والري، ويشغل نحو 100 متر مربع داخل مبنى إدارة القناطر الجديدة بجوار الهويس الملاحي. أما القناطر الأصلية، الواقعة على بعد بضعة كيلومترات، فقد بدأ إنشاؤها بعد أن وضع الملك فؤاد الأول حجر أساسها عام 1928، وافتُتحت عام 1930 لتوفير الري الدائم للمنطقة. ويحتفظ المتحف بمقتنيات من ذلك المشروع، منها القروانة والمسطرين الفضيان اللذان صُنعا لمراسم الملك، وأجهزة مساحة قديمة مثل التيودوليت وجهاز لقياس سرعة المياه، وآلة كاتبة عمرها نحو مئة عام وأدوات مكتبية. وتضم مكتبة صغيرة أكثر من 80 كتابًا ومجلدًا وعقودًا وخرائط وصورًا نادرة للإنشاء والعمال والافتتاح."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "King Fuad's silver trowel",
+    "ar": "مسطرين الملك فؤاد الفضي"
+   },
+   "desc": {
+    "en": "The silver trowel and mortar tray made for the 1928 foundation-stone ceremony.",
+    "ar": "المسطرين والقروانة الفضيان اللذان صُنعا لمراسم وضع حجر الأساس عام 1928."
+   }
+  },
+  {
+   "title": {
+    "en": "Survey instruments",
+    "ar": "أجهزة المساحة"
+   },
+   "desc": {
+    "en": "Theodolites, levels and a current meter used to build and run the barrage.",
+    "ar": "أجهزة تيودوليت وقياس مناسيب وجهاز لقياس سرعة المياه استُخدمت في إنشاء القناطر وتشغيلها."
+   }
+  },
+  {
+   "title": {
+    "en": "Archive photographs",
+    "ar": "الصور الأرشيفية"
+   },
+   "desc": {
+    "en": "Photographs of the construction, the workers and the 1930 opening.",
+    "ar": "صور لأعمال الإنشاء والعمال وافتتاح عام 1930."
+   }
+  }
+ ],
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/%D9%82%D9%86%D8%A7%D8%B7%D8%B1_%D9%86%D8%AC%D8%B9_%D8%AD%D9%85%D8%A7%D8%AF%D9%8A_-_1930.png",
+   "author": "Hussein Sirri Pasha",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:قناطر_نجع_حمادي_-_1930.png"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%82%D9%86%D8%A7%D8%B7%D8%B1_%D9%86%D8%AC%D8%B9_%D8%AD%D9%85%D8%A7%D8%AF%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q139895168",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%82%D9%86%D8%A7%D8%B7%D8%B1_%D9%86%D8%AC%D8%B9_%D8%AD%D9%85%D8%A7%D8%AF%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (barrage history; news 3 Apr 2026, no mention of the museum)",
+   "url": "https://www.youm7.com/story/2026/4/3/%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D8%A3%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B9%D9%86-%D9%82%D9%86%D8%A7%D8%B7%D8%B1-%D9%86%D8%AC%D8%B9-%D8%AD%D9%85%D8%A7%D8%AF%D9%8A-%D8%A8%D9%82%D9%86%D8%A7/7348519",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Operator: Ministry of Water Resources and Irrigation ('other'). Status 'unknown': only the 2021 opening reports describe visits; no 2024-2026 source on public opening. Ar-wiki says the old barrage is 'about 3.5 km north' of the museum, which is ambiguous; the description says only 'a few kilometres away'. No hours or prices. Photo: a 1930 Public-domain official print of the barrage (Commons, PD Egypt), used because no image of the museum exists."
+}

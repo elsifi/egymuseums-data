@@ -1,0 +1,80 @@
+{
+ "id": "port-said-national-museum",
+ "kind": "museum",
+ "wikidataId": "Q12238628",
+ "name": {
+  "en": "Port Said National Museum",
+  "ar": "متحف بورسعيد القومي"
+ },
+ "aliases": [
+  "متحف بورسعيد",
+  "National museum at Port Said"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "port-said",
+ "city": {
+  "en": "Port Said",
+  "ar": "بورسعيد"
+ },
+ "area": {
+  "en": "Palestine Street, at the canal entrance",
+  "ar": "شارع فلسطين، عند مدخل القناة"
+ },
+ "address": {
+  "en": "Palestine Street (formerly Sultan Hussein Street), facing the De Lesseps promenade, Port Said",
+  "ar": "شارع فلسطين (السلطان حسين سابقًا)، أمام ممشى ديليسبس، بورسعيد"
+ },
+ "lat": null,
+ "lng": null,
+ "status": "closed",
+ "statusNote": {
+  "en": "Closed: the old museum was cleared for a new building, and work on the replacement stopped years ago. No reopening date has been set.",
+  "ar": "مغلق؛ أُخلي المتحف القديم لإقامة مبنى جديد، وتوقفت أعمال المبنى البديل منذ سنوات، ولم يُحدد موعد لإعادة الافتتاح."
+ },
+ "summary": {
+  "en": "Port Said's antiquities museum at the meeting of the Suez Canal and the Mediterranean, closed while its long-planned rebuilding remains stalled.",
+  "ar": "متحف الآثار في بورسعيد عند التقاء قناة السويس بالبحر المتوسط، وهو مغلق في انتظار إعادة بنائه المتعثرة."
+ },
+ "description": {
+  "en": "Port Said National Museum stood where the Suez Canal meets the Mediterranean, on Palestine Street facing the De Lesseps promenade. It was one of the first regional museums of its kind in Egypt and displayed some 9,000 objects covering every period of the country's past, from pharaonic sculpture and Graeco-Roman pieces to Coptic and Islamic art and items from the modern history of the canal city. The museum was closed so that a new, larger building could replace it, but construction stopped after the events of 2011. In 2023 its fate became a public issue when signs for a housing project appeared on the plot, prompting questions in parliament; the Ministry of Tourism and Antiquities said it had not given up the land. Local heritage groups continue to call for the museum to be rebuilt, but no timetable has been announced.",
+  "ar": "كان متحف بورسعيد القومي يقع عند التقاء قناة السويس بالبحر المتوسط، في شارع فلسطين أمام ممشى ديليسبس. وكان من أوائل المتاحف الإقليمية من نوعه في مصر، وعرض نحو 9000 قطعة أثرية تغطي جميع عصور التاريخ المصري، من التماثيل الفرعونية والقطع اليونانية الرومانية إلى الفنون القبطية والإسلامية ومقتنيات من التاريخ الحديث لمدينة القناة. وقد أُغلق المتحف ليحل محله مبنى جديد أكبر، غير أن أعمال الإنشاء توقفت بعد أحداث عام 2011. وفي عام 2023 أصبح مصيره قضية عامة بعد ظهور لافتات لمشروع سكني على أرضه، فقُدمت بشأنه أسئلة في البرلمان، وأكدت وزارة السياحة والآثار أنها لم تتنازل عن الأرض. ولا تزال جمعيات التراث المحلية تطالب بإعادة بناء المتحف، دون إعلان جدول زمني لذلك."
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A8%D9%88%D8%B1%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12238628",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,description (rebuilding stopped after 2011; housing-project signs, MoTA statement; 20 Mar 2023)",
+   "url": "https://aawsat.com/home/article/4223301/%D9%85%D8%B5%D8%B1-%D8%BA%D9%85%D9%88%D8%B6-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%C2%AB%D9%85%D8%AA%D8%AD%D9%81-%D8%A8%D9%88%D8%B1%D8%B3%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A%C2%BB",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (not listed in the MoTA ticket list of Nov 2024)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (no page in the MoTA guide to open museums, checked 2026-10-05)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,address (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A8%D9%88%D8%B1%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status 'closed': the newest dated source (Asharq Al-Awsat, 20 Mar 2023) says the rebuilding project has been stalled since 2011; the museum is absent from the Nov 2024 MoTA ticket list and the MoTA guide to open museums. No 2024-2026 source found (one WebSearch, no reopening news). Seed coordinates are null and were left null (Wikidata has none). No highlights: the collection is in storage. No photos: no compliant Commons image of the museum or its collection."
+}

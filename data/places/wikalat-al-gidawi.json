@@ -1,0 +1,262 @@
+{
+ "id": "wikalat-al-gidawi",
+ "kind": "site",
+ "wikidataId": "Q98767255",
+ "name": {
+  "en": "Wikalat al-Gidawi (Esna)",
+  "ar": "وكالة الجداوي"
+ },
+ "aliases": [
+  "Wikalat al-Jidawi",
+  "Wikalat al-Giddawy",
+  "وكالة الجداوى"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Esna",
+  "ar": "إسنا"
+ },
+ "area": {
+  "en": "Facing Esna Temple, old town",
+  "ar": "في مواجهة معبد إسنا، المدينة القديمة"
+ },
+ "address": {
+  "en": "Old town of Esna, opposite the Temple of Khnum, Luxor Governorate",
+  "ar": "مدينة إسنا القديمة، في مواجهة معبد خنوم، محافظة الأقصر"
+ },
+ "lat": 25.294034,
+ "lng": 32.556178,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily, with longer hours on Sunday, Tuesday and Friday. Entry is included in the Esna Temple ticket.",
+  "ar": "مفتوحة يوميًا، وتمتد المواعيد أيام الأحد والثلاثاء والجمعة، والدخول ضمن تذكرة معبد إسنا."
+ },
+ "summary": {
+  "en": "An eighteenth-century merchants' inn of brick, with shops below and lodgings above, overlooking the Temple of Esna.",
+  "ar": "خان تجاري من القرن الثامن عشر مبني بالطوب الآجر، حوانيته في الأسفل ومساكن التجار في الأعلى، يطل على معبد إسنا."
+ },
+ "description": {
+  "en": "Hasan Bey al-Gidawi built this wikala, a caravanserai for travelling merchants, in 1792. He took his name from Jeddah, the Red Sea port he had governed in the 1770s. The building has a ground floor of shops opening onto the street and the inner court, where goods were shown and stored, and an upper floor of rooms where traders slept. Its fired-brick facade, with a carved stone doorway, faces the sunken Temple of Khnum, and together with the temple and the minaret of the old mosque it forms one of the most striking views in Esna. The inn recalls the town's prosperity in the eighteenth century, when caravans from Sudan and the Red Sea passed through and Esna was a busy market on the Nile. The building has been restored as part of wider work on Esna's historic centre and is visited with the temple next door.",
+  "ar": "شيّد حسن بك الجداوي هذه الوكالة، وهي خان لنزول التجار المسافرين، عام 1792، وقد عُرف بهذا الاسم لأنه تولى إمارة جدة، ميناء البحر الأحمر، في سبعينيات القرن الثامن عشر. ويتكون المبنى من دور أرضي تصطف فيه الحوانيت المطلة على الشارع وعلى الفناء الداخلي، حيث كانت البضائع تُعرض وتُخزن، ودور علوي من غرف كان التجار يبيتون فيها. وتطل واجهته المبنية بالطوب الآجر، بمدخلها الحجري المزخرف، على معبد خنوم الغائر في الأرض، فتشكّل مع المعبد ومئذنة الجامع العتيق واحدًا من أجمل المشاهد في إسنا. وتشهد الوكالة على ما عرفته المدينة من رخاء في القرن الثامن عشر، حين كانت القوافل القادمة من السودان والبحر الأحمر تمر بها، وكانت سوقًا عامرة على النيل. وقد رُمم المبنى ضمن أعمال أوسع لتطوير قلب إسنا التاريخي، ويُزار مع المعبد المجاور."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Brick facade and stone doorway",
+    "ar": "الواجهة الآجرية والمدخل الحجري"
+   },
+   "desc": {
+    "en": "The main front, facing the Temple of Khnum.",
+    "ar": "الواجهة الرئيسية المطلة على معبد خنوم."
+   }
+  },
+  {
+   "title": {
+    "en": "Inner courtyard",
+    "ar": "الفناء الداخلي"
+   },
+   "desc": {
+    "en": "The court around which shops and stores were arranged.",
+    "ar": "الفناء الذي تنتظم حوله الحوانيت والمخازن."
+   }
+  },
+  {
+   "title": {
+    "en": "Merchants' lodgings",
+    "ar": "مساكن التجار"
+   },
+   "desc": {
+    "en": "Upper-floor rooms where visiting traders stayed.",
+    "ar": "غرف الدور العلوي التي كان ينزل فيها التجار."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "18:00",
+    "lastEntry": "17:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ],
+  "includedIn": "esna-temple"
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/EsnaTemple",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 15,
+  "standardMinutes": 25,
+  "deepMinutes": 40,
+  "bestTime": {
+   "en": "Together with the Temple of Esna, ideally in the morning.",
+   "ar": "مع زيارة معبد إسنا، ويفضل في الصباح."
+  },
+  "crowdNotes": {
+   "en": "Busy when Nile cruise passengers walk up from the quay to the temple; the old market street outside is part of the experience.",
+   "ar": "تزدحم حين يصعد ركاب البواخر النيلية من المرسى إلى المعبد، وشارع السوق القديم أمامها جزء من متعة الزيارة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/EsnaWikalaGedawiOutside.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:EsnaWikalaGedawiOutside.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/EsnaWikalaGedawiInside.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:EsnaWikalaGedawiInside.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/EsnaWikalaGedawiDetail.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:EsnaWikalaGedawiDetail.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q98767255",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (07:00-17:00; Sun, Tue, Fri 07:00-19:00; last entry 1 h before closing),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/وكالة-الجداوي/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Within Esna Temple Ticket),hours (MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Esna Temple ticket: 200/100, 20/10; Sun/Tue/Fri to 18:00),freeGroups,tickets (official booking platform)",
+   "url": "https://egymonuments.com/details/EsnaTemple",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (restoration, 2020)",
+   "url": "https://commons.wikimedia.org/wiki/File:The_Entrance_door_of_Wakalt_Al_Jiddawi.jpg",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Included in the Esna Temple ticket per the MoTA Nov 2024 list only ('Within Esna Temple Ticket'); the booking platform sells only the Esna Temple ticket and does not name the wikala. Tiers mirror esna-temple. Hours conflict on Sun/Tue/Fri: MoTA guide 07:00-19:00, Esna booking platform 07:00-18:00 -> 18:00 used (earlier time; same as esna-temple). Ramadan hours not published for the wikala; Esna temple's Ramadan last entry 16:00 equals the normal week, so no exception. Restoration year not stated in prose (a 2020 Commons photo shows restoration of the doorway). Founder dates (1792; Jeddah 1770) from the MoTA guide."
+}

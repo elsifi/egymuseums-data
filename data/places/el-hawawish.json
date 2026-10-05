@@ -1,0 +1,356 @@
+{
+ "id": "el-hawawish",
+ "kind": "site",
+ "wikidataId": "Q5350657",
+ "name": {
+  "en": "El-Hawawish Tombs",
+  "ar": "مقابر الحواويش"
+ },
+ "aliases": [
+  "الحواويش، سوهاج",
+  "حواويش",
+  "El-Hawawish",
+  "الحواويش"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "sohag",
+ "city": {
+  "en": "Akhmim",
+  "ar": "مركز أخميم"
+ },
+ "area": {
+  "en": "Al-Diabat village, east of Akhmim",
+  "ar": "قرية الديابات، شرق أخميم"
+ },
+ "address": {
+  "en": "Al-Diabat village, Akhmim, Sohag Governorate",
+  "ar": "قرية الديابات، أخميم، محافظة سوهاج"
+ },
+ "lat": 26.6,
+ "lng": 31.816667,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily; tickets can also be booked online.",
+  "ar": "مفتوحة يوميًا، ويمكن حجز التذاكر إلكترونيًا أيضًا."
+ },
+ "summary": {
+  "en": "The rock-cut cemetery of ancient Akhmim, with hundreds of Old Kingdom and First Intermediate Period tombs in the eastern hills.",
+  "ar": "جبانة أخميم القديمة المنحوتة في الصخر، وتضم مئات المقابر من الدولة القديمة وعصر الانتقال الأول في التلال الشرقية."
+ },
+ "description": {
+  "en": "El-Hawawish lies in the desert hills about 7 km from Akhmim and 10 km east of Sohag, and was the main burial ground of Akhmim during the Old Kingdom. The area holds two cemeteries. The lower one, below the plateau, was used from before the pharaohs to the Coptic and Islamic periods, but little of it survives. The upper one contains more than 800 tombs cut into the rock, dating from the Old Kingdom and the First Intermediate Period. Around sixty still keep inscriptions and painted scenes of funerals and offerings, dancing, hunting and farming in the province of Akhmim, and five of them are particularly well preserved. Many belonged to the governors and officials of the ninth Upper Egyptian nome, whose god was Min. From the early 1980s to the early 1990s an Australian team from Macquarie University recorded the tombs in a ten-volume publication, making El-Hawawish one of the best-documented provincial cemeteries in Egypt.",
+  "ar": "تقع الحواويش في التلال الصحراوية على بعد نحو 7 كيلومترات من أخميم و10 كيلومترات شرق سوهاج، وكانت الجبانة الرئيسية لأخميم في عصر الدولة القديمة. وتضم المنطقة جبانتين؛ استُخدمت السفلى الواقعة أسفل الهضبة منذ عصر ما قبل الأسرات حتى العصرين القبطي والإسلامي، لكن لم يبق منها إلا القليل. أما العليا فتضم أكثر من 800 مقبرة منحوتة في الصخر ترجع إلى الدولة القديمة وعصر الانتقال الأول. ولا يزال نحو ستين منها يحتفظ بالنقوش والمناظر الملونة للجنازة وتقديم القرابين والرقص والصيد والزراعة في إقليم أخميم، وخمس منها في حالة جيدة بشكل خاص. وكان كثير منها لحكام الإقليم التاسع من أقاليم الصعيد وكبار موظفيه، وكان معبوده مين. ومن أوائل الثمانينيات حتى أوائل التسعينيات سجلت بعثة أسترالية من جامعة ماكواري المقابر في عشرة مجلدات، فأصبحت الحواويش من أفضل الجبانات الإقليمية توثيقًا في مصر."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Rock-cut tombs",
+    "ar": "المقابر الصخرية"
+   },
+   "desc": {
+    "en": "Hundreds of tombs cut into the eastern hills above Akhmim.",
+    "ar": "مئات المقابر المنحوتة في التلال الشرقية فوق أخميم."
+   }
+  },
+  {
+   "title": {
+    "en": "Painted scenes",
+    "ar": "المناظر الملونة"
+   },
+   "desc": {
+    "en": "Scenes of offerings, dancing, hunting and farming in about sixty tombs.",
+    "ar": "مناظر لتقديم القرابين والرقص والصيد والزراعة في نحو ستين مقبرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Officials' tombs",
+    "ar": "مقابر كبار الموظفين"
+   },
+   "desc": {
+    "en": "Tombs of Akhmim notables such as Hem-Min, Hesi-Min and Shepsi-pu-Min Kheni.",
+    "ar": "مقابر أعيان أخميم مثل حم مين وحسي مين وشبسي بو مين خني."
+   }
+  },
+  {
+   "title": {
+    "en": "Desert views",
+    "ar": "الإطلالة على الوادي"
+   },
+   "desc": {
+    "en": "Views over the Nile valley and Akhmim from the cliff terraces.",
+    "ar": "إطلالة على وادي النيل وأخميم من مصاطب الجبل."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/ElHawawish",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 75,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Early morning, before the heat; combine with the Akhmim statues.",
+   "ar": "الصباح الباكر قبل اشتداد الحر، مع زيارة تماثيل أخميم."
+  },
+  "crowdNotes": {
+   "en": "Reaching the tombs involves climbing on uneven desert paths; wear sturdy shoes.",
+   "ar": "يتطلب الوصول إلى المقابر صعودًا على مسارات صحراوية غير ممهدة، فاحرص على حذاء مريح."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/HawawishRockTombs.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:HawawishRockTombs.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/HawawishRockTombH24.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:HawawishRockTombH24.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/el-hawawish/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/El_Hawawish",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D9%88%D9%8A%D8%B4",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q5350657",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/el-hawawish/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-nehwet-desher-meri/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-ka-hep-theti-iker/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-hem-min/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-hesi-min/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/the-tomb-of-shepsipumin-kheni/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (07:00-17:00, Ramadan 09:00-16:00, last entry 1 h before closing),description,address (MoTA guide)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مقابر-الحواويش/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/el-hawawish/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (last entry 16:00; Ramadan 07:00, last entry 15:00),tickets,freeGroups (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/ElHawawish",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 cross-check)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Macquarie University publication; facts only)",
+   "url": "https://en.wikipedia.org/wiki/El_Hawawish",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Ramadan opening conflict: MoTA guide 09:00-16:00, booking page 07:00 with last entry 15:00. Narrowest window used (09:00-16:00, last entry 15:00), as decided in batch-7 Q1a. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. No Arab tier: the SCA ended Arab = Egyptian pricing from 1 Jan 2026. Which tombs are open on a given day is not published; the highlight names come from the portal's tomb pages (seed enumeration sources). The portal page lists 'EGYPTIANS/ARABS' for the Egyptian tier, which predates the Jan 2026 change. cashAccepted not set."
+}

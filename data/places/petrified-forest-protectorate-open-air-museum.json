@@ -1,0 +1,145 @@
+{
+ "id": "petrified-forest-protectorate-open-air-museum",
+ "kind": "museum",
+ "wikidataId": "Q125941978",
+ "name": {
+  "en": "Petrified Forest Protectorate Open Air Museum",
+  "ar": "متحف محمية الغابة المتحجرة المكشوف"
+ },
+ "category": "science-natural",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "New Cairo",
+  "ar": "القاهرة الجديدة"
+ },
+ "area": {
+  "en": "Fifth Settlement, east of Maadi",
+  "ar": "التجمع الخامس، شرق المعادي"
+ },
+ "lat": 29.976381,
+ "lng": 31.462661,
+ "status": "open",
+ "statusNote": {
+  "en": "The protected area receives visitors and charges an entry fee at the gate. It is open desert with no shade, so bring water and sun protection.",
+  "ar": "تستقبل المحمية الزوار وتُحصّل رسوم الدخول عند البوابة. والموقع صحراء مكشوفة بلا ظل، فاحرص على اصطحاب الماء والوقاية من الشمس."
+ },
+ "summary": {
+  "en": "A protected desert plateau in New Cairo strewn with fossil tree trunks about 35 million years old.",
+  "ar": "هضبة صحراوية محمية في القاهرة الجديدة تنتشر فيها جذوع أشجار متحجرة يقارب عمرها 35 مليون سنة."
+ },
+ "description": {
+  "en": "East of Maadi, inside the spreading suburbs of New Cairo, a fenced patch of desert preserves the remains of a forest that grew here in the Oligocene, around 35 million years ago. Trunks carried by ancient rivers were buried in sand and gravel and slowly replaced by silica, so they now lie on the surface as stone, many still showing bark, knots and growth rings. The site has been a nature protectorate since 1989 and covers roughly seven square kilometres, managed by the Ministry of Environment's nature conservation sector. Because the scattered trunks can be seen where they fell, the protectorate is often described as an open-air museum of fossils. In January 2026 the cutting of some trunks during nearby works caused public concern; the ministry said it would move threatened pieces into a protected open-air display inside the reserve. There are few facilities: visitors walk or drive along desert tracks between the fossil fields.",
+  "ar": "إلى الشرق من المعادي، وسط الضواحي المتنامية للقاهرة الجديدة، تحفظ رقعة صحراوية مسوّرة بقايا غابة نمت هنا في العصر الأوليجوسيني قبل نحو 35 مليون سنة. فقد حملت الأنهار القديمة جذوع الأشجار ودفنتها في الرمال والحصى، وحلّت السيليكا تدريجيًا محل مادتها، فصارت حجارة ملقاة على السطح يظهر في كثير منها اللحاء والعقد وحلقات النمو. وأُعلن الموقع محمية طبيعية عام 1989، وتبلغ مساحته نحو سبعة كيلومترات مربعة، ويديره قطاع حماية الطبيعة بوزارة البيئة. ولأن الجذوع المتناثرة تُرى في أماكنها الطبيعية، توصف المحمية كثيرًا بأنها متحف مفتوح للحفريات. وفي يناير 2026 أثار قطع بعض الجذوع أثناء أعمال مجاورة قلقًا عامًا، وأعلنت الوزارة نقل القطع المهددة إلى عرض مفتوح محمي داخل نطاق المحمية. والخدمات محدودة، إذ يتنقل الزائر سيرًا أو بالسيارة على مسارات صحراوية بين حقول الحفريات."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Petrified trunks",
+    "ar": "الجذوع المتحجرة"
+   },
+   "desc": {
+    "en": "Fossil tree trunks lying on the surface, some several metres long, with bark and rings still visible.",
+    "ar": "جذوع أشجار متحجرة ملقاة على السطح، يبلغ طول بعضها عدة أمتار، ولا يزال اللحاء والحلقات ظاهرة فيها."
+   }
+  },
+  {
+   "title": {
+    "en": "Oligocene landscape",
+    "ar": "مشهد من العصر الأوليجوسيني"
+   },
+   "desc": {
+    "en": "Gravel plains that record an ancient river system some 35 million years old.",
+    "ar": "سهول حصوية تسجل نظامًا نهريًا قديمًا يعود إلى نحو 35 مليون سنة."
+   }
+  },
+  {
+   "title": {
+    "en": "Desert walks",
+    "ar": "الجولات الصحراوية"
+   },
+   "desc": {
+    "en": "Quiet tracks for walking and photography on the edge of the city.",
+    "ar": "مسارات هادئة للمشي والتصوير على أطراف المدينة."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Early morning or late afternoon from October to April.",
+   "ar": "الصباح الباكر أو آخر النهار من أكتوبر إلى أبريل."
+  },
+  "crowdNotes": {
+   "en": "A car is needed to reach the site. Taking fossil wood is forbidden.",
+   "ar": "يلزم الوصول بسيارة. ويُمنع أخذ أي قطع من الخشب المتحجر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/MaadiForestWood1.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MaadiForestWood1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/MaadiForestWood2.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MaadiForestWood2.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/MaadiForestEntrance.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:MaadiForestEntrance.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q125941978",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "coordinates (Wikidata Q12241337, the protectorate named in P276)",
+   "url": "https://www.wikidata.org/wiki/Q12241337",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (minister's inspection of the ticketing system and visitor services), 10 Jan 2026",
+   "url": "https://www.maspero.eg/egypt/2026/01/10/919698/x",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Jan 2026 controversy and planned open-air display)",
+   "url": "https://www.alarabiya.net/arab-and-world/egypt/2026/01/05/%D8%A7%D8%B4%D8%AC%D8%A7%D8%B1-%D9%85%D9%82%D8%B7%D9%88%D8%B9%D8%A9-%D8%B9%D9%85%D8%B1%D9%87%D8%A7-35-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B9%D8%A7%D9%85-%D8%AB%D9%8A%D8%B1-%D8%AC%D8%AF%D9%84%D8%A7-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (EEAA fee page checked: no Petrified Forest entry)",
+   "url": "https://www.eeaa.gov.eg/Topics/85/36/66/Details",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Arabic name added by editor 2026-10-05; verify with an official source. Coordinates were null in the seed; filled from Wikidata Q12241337 (the protectorate, which the museum item names as its location, P276). Wikidata gives the 'open-air museum' an inception of 2018; no official page describing a distinct museum building was found, so the record describes the protectorate as visited. Hours not given: only a travel guide (cairo360) says 08:00-17:00 daily. Price unconfirmed: a travel guide says entry is free with EGP 60 camping, but the Jan 2026 ministry report describes a ticketing system; EEAA's fee page has no entry for this reserve. Protectorate year 1989 and area ~7 km2 are general knowledge consistent with search summaries; not checked on an official page."
+}

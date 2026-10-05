@@ -1,0 +1,128 @@
+{
+ "id": "revolution-command-council-museum",
+ "kind": "museum",
+ "wikidataId": "Q115650048",
+ "name": {
+  "en": "Revolutionary Command Council Museum",
+  "ar": "متحف مجلس قيادة الثورة"
+ },
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Nile bank, Gezira (Zamalek)",
+  "ar": "كورنيش النيل، الجزيرة (الزمالك)"
+ },
+ "status": "unknown",
+ "statusNote": {
+  "en": "The building has been fitted out as a museum, but no public opening or visiting hours have been announced.",
+  "ar": "جُهز المبنى ليكون متحفًا، لكن لم يُعلن افتتاحه للجمهور ولا مواعيد للزيارة."
+ },
+ "summary": {
+  "en": "The Nile-side headquarters of the 1952 Free Officers' council, fitted out as a museum of the July Revolution.",
+  "ar": "المقر المطل على النيل لمجلس قيادة ثورة 1952، وقد جُهز متحفًا لثورة يوليو."
+ },
+ "description": {
+  "en": "This neoclassical building on the Nile at Gezira was begun in 1949 as a rest house and yacht landing for King Farouk and finished in 1951. A year later it became the headquarters of the Revolutionary Command Council that took power in July 1952. Here the council held its meetings and issued the revolution's early decrees, Gamal Abdel Nasser followed the 1956 Suez war, and his funeral procession set out from the building in 1970. A 1996 decree assigned it to the Ministry of Culture to become a museum, but work only started in 2009, when the building was handed to Arab Contractors for restoration. The planned displays fill nine halls on the first floor, telling Egypt's story from Muhammad Ali to the October 1973 war, with some 1,186 objects. They include the microphone used to broadcast the revolution's first statement, the first flag raised in Sinai after the 1973 crossing, busts of Nasser and Sadat, stamps and documents.",
+  "ar": "شُيّد هذا المبنى ذو الطراز الكلاسيكي على النيل في الجزيرة بدءًا من عام 1949 ليكون استراحة للملك فاروق ومرسى لليخوت الملكية، واكتمل عام 1951. وبعد عام واحد صار مقرًا لمجلس قيادة الثورة الذي تولى الحكم في يوليو 1952. وفيه عقد المجلس اجتماعاته وأصدر قرارات الثورة الأولى، وتابع جمال عبد الناصر منه أحداث العدوان الثلاثي عام 1956، ومنه خرجت جنازته عام 1970. وخُصص بقرار عام 1996 لوزارة الثقافة لتحويله إلى متحف، لكن العمل لم يبدأ فعليًا إلا عام 2009 حين سُلّم المبنى لشركة المقاولون العرب لترميمه. ويشغل العرض المخطط تسع قاعات في الطابق الأول تروي تاريخ مصر من محمد علي حتى حرب أكتوبر 1973، بنحو 1186 قطعة. ومنها الميكروفون الذي أُذيع منه بيان الثورة الأول، وأول علم رُفع على أرض سيناء بعد العبور، وتماثيل نصفية لعبد الناصر والسادات، وطوابع تذكارية ووثائق."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Broadcast microphone",
+    "ar": "ميكروفون البيان الأول"
+   },
+   "desc": {
+    "en": "The microphone used to read the first statement of the July 1952 revolution.",
+    "ar": "الميكروفون الذي أُذيع منه البيان الأول لثورة يوليو 1952."
+   }
+  },
+  {
+   "title": {
+    "en": "Sinai flag",
+    "ar": "علم سيناء"
+   },
+   "desc": {
+    "en": "The first Egyptian flag raised in Sinai after the 1973 crossing.",
+    "ar": "أول علم مصري رُفع على أرض سيناء بعد العبور عام 1973."
+   }
+  },
+  {
+   "title": {
+    "en": "Nine history halls",
+    "ar": "القاعات التسع"
+   },
+   "desc": {
+    "en": "A chronological route from Muhammad Ali's state to the October War.",
+    "ar": "مسار زمني من دولة محمد علي حتى حرب أكتوبر."
+   }
+  },
+  {
+   "title": {
+    "en": "Nile-side building",
+    "ar": "المبنى المطل على النيل"
+   },
+   "desc": {
+    "en": "King Farouk's former rest house and yacht landing, completed in 1951.",
+    "ar": "الاستراحة الملكية ومرسى اليخوت السابق للملك فاروق، الذي اكتمل عام 1951."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Egyptian_Revolutionary_Command_Council_1953.jpg",
+   "author": "Unknown author",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egyptian_Revolutionary_Command_Council_1953.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D8%AC%D9%84%D8%B3_%D9%82%D9%8A%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q115650048",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D8%AC%D9%84%D8%B3_%D9%82%D9%8A%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (expert calls for the building to be put on the tourist map), description, 23 Jul 2025",
+   "url": "https://www.youm7.com/story/2025/7/23/x/7064563",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "operator,description (Fine Arts Sector museum page)",
+   "url": "http://www.fineart.gov.eg/arb/musem/Musem.asp?IDS=25",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Coordinates null in seed and Wikidata; not filled. No evidence of regular public opening was found (a 2019 report announced an imminent opening; Jul 2025 coverage still urges putting it 'on the tourist map'); a search-engine summary claimed it is closed for modernisation but no dated source was found. PHOTOS: no Commons photo of the building (completed 1951, i.e. post-1950 - would be excluded anyway); the single photo is a public-domain 1953 group photo of the Revolutionary Command Council - thematic stand-in, kept until a real photo appears (batch-10 Q2a)."
+}

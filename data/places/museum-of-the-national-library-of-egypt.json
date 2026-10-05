@@ -1,0 +1,173 @@
+{
+ "id": "museum-of-the-national-library-of-egypt",
+ "kind": "museum",
+ "wikidataId": "Q140235282",
+ "name": {
+  "en": "Museum of the National Library of Egypt",
+  "ar": "متحف دار الكتب المصرية"
+ },
+ "category": "specialised",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Bab al-Khalq",
+  "ar": "باب الخلق"
+ },
+ "address": {
+  "en": "Historic Dar al-Kutub building, Bab al-Khalq Square, Cairo (shared with the Museum of Islamic Art)",
+  "ar": "مبنى دار الكتب التاريخي، ميدان باب الخلق، القاهرة (المبنى نفسه الذي يضم متحف الفن الإسلامي)"
+ },
+ "lat": 30.044722,
+ "lng": 31.252778,
+ "status": "open",
+ "statusNote": {
+  "en": "Open to visitors in the historic library building at Bab al-Khalq. Opening hours and ticket prices are not published officially, so check before visiting.",
+  "ar": "مفتوح للزوار في مبنى دار الكتب التاريخي بباب الخلق. ولا تُنشر مواعيد العمل وأسعار التذاكر رسميًا، لذا يُستحسن الاستفسار قبل الزيارة."
+ },
+ "summary": {
+  "en": "Treasures of Egypt's national library — early Qur'ans, manuscripts, papyri, coins and maps — in its 1904 building at Bab al-Khalq.",
+  "ar": "نفائس دار الكتب المصرية من مصاحف ومخطوطات وبرديات وعملات وخرائط، في مبناها التاريخي بباب الخلق الذي افتُتح عام 1904."
+ },
+ "description": {
+  "en": "Egypt's national library grew out of the Khedivial Library founded in 1870 on the proposal of Ali Mubarak, who gathered manuscripts endowed to mosques and schools before they could be lost or sold abroad. In 1904 it moved into a purpose-built neo-Mamluk building at Bab al-Khalq, sharing it with the Museum of Islamic Art downstairs. When the library's main collections later moved to a modern building on the Nile Corniche, part of the historic building was turned into a museum of its treasures. The galleries show Qur'ans from the first Islamic centuries written in Kufic script on parchment, richly gilded Mamluk copies, manuscripts in Arabic, Persian and Turkish on medicine, astronomy and history, Arabic papyri, gold and silver coins from an Umayyad dinar of 696 onwards, rare maps, early printed newspapers and calligraphic panels. Touch screens let visitors leaf through digitised manuscripts. The museum holds free open days, for example on International Museum Day.",
+  "ar": "نشأت دار الكتب المصرية من «الكتبخانة الخديوية» التي تأسست عام 1870 باقتراح من علي مبارك، لجمع المخطوطات الموقوفة على المساجد والمدارس قبل أن تضيع أو تتسرب إلى الخارج. وفي عام 1904 انتقلت إلى مبنى شُيد لها خصيصًا على الطراز المملوكي الحديث في ميدان باب الخلق، وتقاسمته مع متحف الفن الإسلامي في الطابق الأرضي. وبعد انتقال المجموعات الرئيسية إلى المبنى الحديث على كورنيش النيل، خُصص جزء من المبنى التاريخي متحفًا لنفائس الدار. وتعرض قاعاته مصاحف من القرون الهجرية الأولى بالخط الكوفي على الرق، ومصاحف مملوكية مذهبة، ومخطوطات بالعربية والفارسية والتركية في الطب والفلك والتاريخ، وبرديات عربية، وعملات ذهبية وفضية أقدمها دينار أموي من عام 696م، وخرائط نادرة، وأوائل الصحف المطبوعة، ولوحات خطية. وتتيح شاشات تفاعلية تصفح مخطوطات رقمية. ويفتح المتحف أبوابه مجانًا في مناسبات مثل اليوم العالمي للمتاحف."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Early Qur'ans",
+    "ar": "المصاحف المبكرة"
+   },
+   "desc": {
+    "en": "Kufic Qur'ans on parchment from the first Islamic centuries and gilded Mamluk copies.",
+    "ar": "مصاحف بالخط الكوفي على الرق من القرون الهجرية الأولى، ومصاحف مملوكية مذهبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Manuscripts",
+    "ar": "المخطوطات"
+   },
+   "desc": {
+    "en": "Arabic, Persian and Turkish manuscripts on religion, medicine, astronomy and history.",
+    "ar": "مخطوطات عربية وفارسية وتركية في الدين والطب والفلك والتاريخ."
+   }
+  },
+  {
+   "title": {
+    "en": "Coins and medals",
+    "ar": "العملات والمسكوكات"
+   },
+   "desc": {
+    "en": "Gold and silver coins from an Umayyad dinar of 696 to the Muhammad Ali dynasty.",
+    "ar": "عملات ذهبية وفضية من دينار أموي يعود إلى عام 696م حتى عصر أسرة محمد علي."
+   }
+  },
+  {
+   "title": {
+    "en": "Early printing",
+    "ar": "أوائل المطبوعات"
+   },
+   "desc": {
+    "en": "Early issues of Egyptian newspapers such as al-Waqa'i al-Misriyya, and old printed books.",
+    "ar": "أعداد مبكرة من الصحف المصرية مثل «الوقائع المصرية»، وكتب مطبوعة قديمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Maps and calligraphy",
+    "ar": "الخرائط واللوحات الخطية"
+   },
+   "desc": {
+    "en": "Rare maps and calligraphic panels by Ottoman-era masters.",
+    "ar": "خرائط نادرة ولوحات خطية لكبار الخطاطين في العصر العثماني."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Weekday mornings; combine with the Museum of Islamic Art in the same building.",
+   "ar": "صباح أيام الأسبوع، مع الجمع بين الزيارة ومتحف الفن الإسلامي في المبنى نفسه."
+  },
+  "crowdNotes": {
+   "en": "The entrance is separate from the Museum of Islamic Art's.",
+   "ar": "مدخل المتحف منفصل عن مدخل متحف الفن الإسلامي."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Dar_Al-Kottob_Al-Masryyia_-_Bab_al-Khalq_-_Cairo.jpg",
+   "author": "Ashashyou",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dar_Al-Kottob_Al-Masryyia_-_Bab_al-Khalq_-_Cairo.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Dar_Al-Kottob_Al-Masryyia_-_Bab_al-Khalq_-_Cairo2.jpg",
+   "author": "Ashashyou",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dar_Al-Kottob_Al-Masryyia_-_Bab_al-Khalq_-_Cairo2.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D9%83%D8%AA%D8%A8_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q140235282",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (Ministry of Culture invites visitors), Nov 2025",
+   "url": "https://www.youm7.com/story/2025/11/19/x/7201999",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (free open day 18 May 2025),highlights",
+   "url": "https://www.youm7.com/story/2025/5/18/x/6990207",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "address,description (2020 feature; its hours not used)",
+   "url": "https://www.youm7.com/story/2020/1/15/x/4586345",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (history; facts only, prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D9%83%D8%AA%D8%A8_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "coordinates (historic Bab al-Khalq building, shared with the Museum of Islamic Art)",
+   "url": "https://www.wikidata.org/wiki/Q3330629",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "COORDINATES: overridden locally (batch-10 Q5a). Seed/Wikidata Q140235282 (30.066389, 31.2275) point to the modern Dar al-Kutub on the Corniche; ar-wiki places the museum in the historic Dar al-Kutub building at Bab al-Khalq, which it shares with the Museum of Islamic Art, so the coordinates of that building (Wikidata Q3330629) are used. Name title-case fixed locally ('Museum of the National Library of Egypt'); seed and Wikidata unchanged. Hours: only a 2020 report (Sun-Thu 10:00-16:45, Sat 10:00-14:30, Fri closed, free entry then) - too old, not used. Price: free open days in 2025 imply normal paid entry; amount unknown -> unconfirmed."
+}

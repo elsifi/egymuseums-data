@@ -1,0 +1,306 @@
+{
+ "id": "amada-temple",
+ "kind": "site",
+ "wikidataId": "Q11951235",
+ "name": {
+  "en": "Temples of Amada",
+  "ar": "معابد عمدا"
+ },
+ "aliases": [
+  "عمدا",
+  "Temple of Amada"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "area": {
+  "en": "New Amada, Lake Nasser",
+  "ar": "عمدا الجديدة، بحيرة ناصر"
+ },
+ "address": {
+  "en": "New Amada, on the west shore of Lake Nasser, about 180 km south of Aswan",
+  "ar": "عمدا الجديدة على الشاطئ الغربي لبحيرة ناصر، على بعد نحو 180 كم جنوب أسوان"
+ },
+ "lat": 22.731104,
+ "lng": 32.262577,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. Most visitors arrive on Lake Nasser cruise boats.",
+  "ar": "مفتوح يوميًا، ويصل معظم الزوار على متن سفن الرحلات النيلية في بحيرة ناصر."
+ },
+ "summary": {
+  "en": "Nubia's oldest surviving temple, with vividly coloured reliefs, rescued from Lake Nasser with the temple of Derr and the tomb of Pennut.",
+  "ar": "أقدم معبد باقٍ في النوبة بنقوش زاهية الألوان، أُنقذ من مياه بحيرة ناصر مع معبد الدر ومقبرة بنوت."
+ },
+ "description": {
+  "en": "Founded by Thutmose III and completed by Amenhotep II in the 18th Dynasty, the temple of Amada is the oldest standing temple in Egyptian Nubia. It was dedicated to Amun-Ra and Ra-Horakhty, and later kings added halls and inscriptions. When the building became a church, its walls were covered in plaster, which protected the painted reliefs; they still keep remarkably fresh colours. Two royal texts stand out: a stela of Amenhotep II recording his campaigns in Asia, and an inscription of Merenptah about his war against the Libyans. In the 1960s, as the High Dam's lake rose, French engineers moved the decorated core of the temple in one piece on rails to higher ground. The site of New Amada also holds the rock-cut temple of Derr, built by Ramesses II, and the painted tomb of Pennut, a Nubian official of the 20th Dynasty.",
+  "ar": "أسس الملك تحتمس الثالث معبد عمدا وأكمله أمنحتب الثاني في عصر الأسرة الثامنة عشرة، وهو أقدم معبد قائم في النوبة المصرية. وقد كُرس لعبادة آمون رع ورع حور آختي، وأضاف إليه ملوك لاحقون صالات ونقوشًا. وحين تحول المبنى إلى كنيسة غُطيت جدرانه بطبقة من الملاط حمت النقوش الملونة، فبقيت ألوانها زاهية على نحو لافت. ويبرز فيه نصان ملكيان: لوحة لأمنحتب الثاني تسجل حملاته في آسيا، ونقش للملك مرنبتاح عن حربه ضد الليبيين. وفي ستينيات القرن العشرين، مع ارتفاع مياه بحيرة السد العالي، نقل مهندسون فرنسيون قلب المعبد المزخرف كتلة واحدة على قضبان إلى أرض أعلى. ويضم موقع عمدا الجديدة أيضًا معبد الدر المنحوت في الصخر الذي شيده رمسيس الثاني، ومقبرة بنوت الملونة، وهو موظف نوبي من عصر الأسرة العشرين."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Painted reliefs",
+    "ar": "النقوش الملونة"
+   },
+   "desc": {
+    "en": "Colours preserved under the plaster of its church phase.",
+    "ar": "ألوان حُفظت تحت ملاط مرحلة استخدامه كنيسة."
+   }
+  },
+  {
+   "title": {
+    "en": "Stela of Amenhotep II",
+    "ar": "لوحة أمنحتب الثاني"
+   },
+   "desc": {
+    "en": "A royal record of campaigns in Asia.",
+    "ar": "سجل ملكي لحملات في آسيا."
+   }
+  },
+  {
+   "title": {
+    "en": "Merenptah inscription",
+    "ar": "نقش مرنبتاح"
+   },
+   "desc": {
+    "en": "A text on the king's war against the Libyans.",
+    "ar": "نص عن حرب الملك ضد الليبيين."
+   }
+  },
+  {
+   "title": {
+    "en": "Temple of Derr",
+    "ar": "معبد الدر"
+   },
+   "desc": {
+    "en": "A rock-cut temple of Ramesses II moved to the same site.",
+    "ar": "معبد منحوت في الصخر لرمسيس الثاني نُقل إلى الموقع نفسه."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Pennut",
+    "ar": "مقبرة بنوت"
+   },
+   "desc": {
+    "en": "The painted tomb of a 20th-Dynasty Nubian official.",
+    "ar": "المقبرة الملونة لموظف نوبي من الأسرة العشرين."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 150
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 75
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/TempleOfAmada",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Morning, before the desert heat; cruise stops are usually timed for this.",
+   "ar": "الصباح قبل اشتداد حرارة الصحراء، وعادة ما تُرتب محطات الرحلات النيلية لذلك."
+  },
+  "crowdNotes": {
+   "en": "Very remote: most visitors come on Lake Nasser cruises between Aswan and Abu Simbel.",
+   "ar": "موقع ناءٍ جدًا، ويأتي معظم الزوار ضمن رحلات بحيرة ناصر بين أسوان وأبو سمبل."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Tempel_Amada_014.jpg",
+   "author": "Olaf Tausch",
+   "license": "CC BY 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tempel_Amada_014.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Amada_-_interior_detail_of_Thutmose_III_with_natural_spotlight.jpg",
+   "author": "CommonMerganser",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amada_-_interior_detail_of_Thutmose_III_with_natural_spotlight.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Amada%2C_Temple_MET_DP243439.jpg",
+   "author": "John Beasley Greene",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amada,_Temple_MET_DP243439.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/amada-temples/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Temple_of_Amada",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D8%AF%D8%A7",
+  "osm": "way/187011617"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q11951235",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/amada-temples/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/amada-temple/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/temple-of-al-derr/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-penniut/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices,description (official portal page)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/amada-temples/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D8%B9%D8%A8%D8%AF-%D8%B9%D9%85%D8%AF%D8%A7/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),freeGroups (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/TempleOfAmada",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/57",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Temple_of_Amada",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal and booking page agree: 07:00-16:00, last entry 15:00 (booking page), 150/75 and 10/5; the booking page's Ramadan row equals the normal schedule, so there is no Ramadan exception (batch-4 D13). MoTA guide also gives 07:00-16:00 and the one-hour last-entry rule. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

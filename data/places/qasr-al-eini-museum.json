@@ -1,0 +1,130 @@
+{
+ "id": "qasr-al-eini-museum",
+ "kind": "museum",
+ "wikidataId": "Q7267034",
+ "name": {
+  "en": "Qasr Al-Eini Museum",
+  "ar": "متحف كلية طب قصر العيني"
+ },
+ "category": "specialised",
+ "operator": "university",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Faculty of Medicine, Cairo University, Qasr al-Aini",
+  "ar": "كلية الطب جامعة القاهرة، القصر العيني"
+ },
+ "lat": 30.030636,
+ "lng": 31.228074,
+ "status": "unknown",
+ "statusNote": {
+  "en": "A university museum inside the Qasr al-Aini medical campus; there are no published public visiting hours, so visits normally need to be arranged with the Faculty of Medicine.",
+  "ar": "متحف جامعي داخل حرم القصر العيني الطبي، ولا توجد مواعيد زيارة معلنة للجمهور، وتُرتب الزيارات عادةً مع كلية الطب."
+ },
+ "summary": {
+  "en": "A museum of the history of medicine at Egypt's oldest modern medical school.",
+  "ar": "متحف لتاريخ الطب في أقدم مدرسة طب حديثة في مصر."
+ },
+ "description": {
+  "en": "The Qasr al-Aini Faculty of Medicine, now part of Cairo University, traces its origins to the medical school founded under Muhammad Ali in 1827, the first modern medical school in the region. Its museum was the idea of the gynaecologist Mohammed Almenawi, then the faculty's secretary-general, in 1976. The first phase opened on 8 March 1998, in the presence of delegations from medical schools around the world, and a second phase followed in March 1999. Three halls survey the history of medicine from pharaonic Egypt to modern times, with a section on the great epidemics that struck the region. The museum's library holds rare medical books, manuscripts, documents, photographs and statues, an original set of the Description de l'Égypte, and an encyclopedia of the lives of 154 professors who taught at Qasr al-Aini. It is primarily a teaching and heritage collection for the faculty.",
+  "ar": "تعود كلية طب القصر العيني، التابعة اليوم لجامعة القاهرة، إلى مدرسة الطب التي تأسست في عهد محمد علي عام 1827، وهي أول مدرسة طب حديثة في المنطقة. وقد ولدت فكرة متحفها عام 1976 على يد طبيب أمراض النساء والتوليد محمد المناوي، الأمين العام للكلية آنذاك. وافتُتحت المرحلة الأولى في 8 مارس 1998 بحضور وفود من كليات الطب حول العالم، ثم المرحلة الثانية في مارس 1999. وتستعرض ثلاث قاعات تاريخ الطب من مصر الفرعونية حتى العصر الحديث، مع قسم عن الأوبئة الكبرى التي أصابت المنطقة. وتضم مكتبة المتحف كتبًا طبية نادرة ومخطوطات ووثائق وصورًا وتماثيل، ونسخة أصلية من كتاب «وصف مصر»، وموسوعة لسير 154 أستاذًا درّسوا في القصر العيني. وهو في الأساس مجموعة تعليمية وتراثية تخدم الكلية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "History of medicine halls",
+    "ar": "قاعات تاريخ الطب"
+   },
+   "desc": {
+    "en": "Three halls from pharaonic medicine to the founding of the modern school.",
+    "ar": "ثلاث قاعات تمتد من الطب الفرعوني حتى تأسيس المدرسة الحديثة."
+   }
+  },
+  {
+   "title": {
+    "en": "Epidemics",
+    "ar": "الأوبئة"
+   },
+   "desc": {
+    "en": "A section on the plagues and epidemics that shaped medicine in the region.",
+    "ar": "قسم عن الطواعين والأوبئة التي أثرت في تاريخ الطب بالمنطقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Description de l'Égypte",
+    "ar": "وصف مصر"
+   },
+   "desc": {
+    "en": "An original set of the great survey made by Napoleon's scholars.",
+    "ar": "نسخة أصلية من الموسوعة التي أعدها علماء الحملة الفرنسية."
+   }
+  },
+  {
+   "title": {
+    "en": "Professors' biographies",
+    "ar": "سير الأساتذة"
+   },
+   "desc": {
+    "en": "An encyclopedia of 154 professors who taught at Qasr al-Aini.",
+    "ar": "موسوعة لسير 154 أستاذًا درّسوا في القصر العيني."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Faculty_of_Medicine-Kasr_Al-Ainy.JPG",
+   "author": "Faris knight",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Faculty_of_Medicine-Kasr_Al-Ainy.JPG"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Qasr_Al-Eini_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%83%D9%84%D9%8A%D8%A9_%D8%B7%D8%A8_%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q7267034",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Qasr_Al-Eini_Museum",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%83%D9%84%D9%8A%D8%A9_%D8%B7%D8%A8_%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (faculty museum-tour page, no visiting hours)",
+   "url": "https://ar.medicine.cu.edu.eg/museum-tour/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "No official visiting hours or prices found; Wikidata P856 (old faculty URL) not used. The faculty also runs a separate embryology/obstetrics museum (youm7 2026) - not this record. 1827 founding date of the medical school is general knowledge (Abu Zaabal, moved to Qasr al-Aini 1837), not checked on an official page. PHOTOS: Commons has no photo of the museum; the single photo shows the main gate of the Qasr al-Aini Faculty of Medicine (2011) - stand-in, kept until a real photo appears (batch-10 Q2a)."
+}

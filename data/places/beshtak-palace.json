@@ -1,0 +1,331 @@
+{
+ "id": "beshtak-palace",
+ "kind": "museum",
+ "wikidataId": "Q4896257",
+ "name": {
+  "en": "Beshtak Palace",
+  "ar": "قصر الأمير بشتاك"
+ },
+ "aliases": [
+  "Amir Bashtak Palace",
+  "Qasr Bashtak"
+ ],
+ "category": "islamic",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Bayn al-Qasrayn, al-Muizz Street, Gamaliya",
+  "ar": "بين القصرين، شارع المعز، الجمالية"
+ },
+ "address": {
+  "en": "Al-Muizz li-Din Allah Street at Darb Qirmiz, Gamaliya, Cairo",
+  "ar": "شارع المعز لدين الله عند درب قرمز، الجمالية، القاهرة"
+ },
+ "lat": 30.0504,
+ "lng": 31.2616,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily on the al-Muizz Street area ticket. The palace also hosts Arabic music evenings.",
+  "ar": "مفتوح يوميًا بتذكرة منطقة شارع المعز، ويستضيف القصر أيضًا أمسيات للموسيقى العربية."
+ },
+ "summary": {
+  "en": "The surviving part of a 14th-century Mamluk emir's palace on al-Muizz Street, with a grand reception hall and fine mashrabiya.",
+  "ar": "ما بقي من قصر أمير مملوكي من القرن الرابع عشر في شارع المعز، بقاعة استقبال فخمة ومشربيات بديعة."
+ },
+ "description": {
+  "en": "Emir Sayf al-Din Bashtak al-Nasiri, a powerful officer and son-in-law of Sultan al-Nasir Muhammad ibn Qalawun, built this residence between 1334 and 1339 on land that had belonged to the great Eastern Palace of the Fatimid caliphs. In its day it rose five storeys, had running water on every floor, and let shops along the street to bring in income. Only part survives, but it is one of the rare examples of Mamluk domestic architecture in Cairo. The highlight is the upper reception hall (qa'a), with a coffered and painted wooden ceiling, stucco windows set with coloured glass and an inlaid marble fountain, overlooked by latticed galleries from which the women of the house could follow events unseen. Restored after the 1992 earthquake with German help, the palace now also serves as a venue for Arabic music.",
+  "ar": "شيّد الأمير سيف الدين بشتاك الناصري، أحد كبار الأمراء وصهر السلطان الناصر محمد بن قلاوون، هذا القصر بين عامي 1334 و1339 على أرض كانت جزءًا من القصر الشرقي الكبير للخلفاء الفاطميين. وكان في زمنه يرتفع خمسة طوابق تصل المياه إلى كل منها، وتطل على الشارع حوانيت تدر عليه دخلًا. ولم يبق منه إلا جزء، لكنه من النماذج النادرة للعمارة السكنية المملوكية في القاهرة. وأبرز ما فيه قاعة الاحتفالات العلوية بسقفها الخشبي المزخرف ذي المربعات الملونة، ونوافذها الجصية المعشقة بالزجاج الملون، ونافورتها الرخامية المطعّمة، وتطل عليها مشربيات كانت نساء القصر يتابعن منها ما يجري دون أن يُرين. ورُمم القصر بعد زلزال 1992 بمشاركة ألمانية، ويُستخدم اليوم أيضًا مقرًا لأمسيات الموسيقى العربية."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Reception hall (qa'a)",
+    "ar": "قاعة الاحتفالات"
+   },
+   "desc": {
+    "en": "A lofty hall with a painted coffered ceiling and coloured-glass stucco windows.",
+    "ar": "قاعة مرتفعة بسقف خشبي مزخرف ونوافذ جصية معشقة بالزجاج الملون."
+   }
+  },
+  {
+   "title": {
+    "en": "Marble fountain",
+    "ar": "النافورة الرخامية"
+   },
+   "desc": {
+    "en": "An inlaid marble fountain in the centre of the hall.",
+    "ar": "نافورة من الرخام المطعّم تتوسط القاعة."
+   }
+  },
+  {
+   "title": {
+    "en": "Mashrabiya galleries",
+    "ar": "المشربيات"
+   },
+   "desc": {
+    "en": "Latticed wooden galleries overlooking the hall from the north and south.",
+    "ar": "مشربيات خشبية تطل على القاعة من جهتي الشمال والجنوب."
+   }
+  },
+  {
+   "title": {
+    "en": "Street facade",
+    "ar": "الواجهة على شارع المعز"
+   },
+   "desc": {
+    "en": "A tall facade with projecting mashrabiya windows above al-Muizz Street.",
+    "ar": "واجهة عالية بمشربيات بارزة تطل على شارع المعز."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   }
+  ],
+  "includedIn": "al-muizz-street",
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Walking the street itself is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Walking the street itself is free",
+    "ar": "التجول في الشارع نفسه مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Elmoezstreet",
+  "platform": "egymonuments",
+  "timedEntry": false
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 30,
+  "deepMinutes": 45,
+  "bestTime": {
+   "en": "Morning, as part of a walk along al-Muizz Street between the Qalawun complex and Bayt al-Suhaymi.",
+   "ar": "الصباح، ضمن جولة سيرًا في شارع المعز بين مجموعة قلاوون وبيت السحيمي."
+  },
+  "crowdNotes": {
+   "en": "The entrance is up a wooden staircase from a side lane. Concert nights follow their own schedule and tickets.",
+   "ar": "يُصعد إلى المدخل بسلم خشبي من حارة جانبية. ولأمسيات الحفلات مواعيدها وتذاكرها الخاصة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bashtak_palace_exterior.jpg",
+   "author": "Casual Builder",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bashtak_palace_exterior.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bashtak_palace_reception_hall.jpg",
+   "author": "Casual Builder",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bashtak_palace_reception_hall.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bashtak_palace_reception_hall_ceiling.jpg",
+   "author": "Casual Builder",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bashtak_palace_reception_hall_ceiling.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Beshtak_Palace",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D8%A8%D8%B4%D8%AA%D8%A7%D9%83",
+  "osm": "way/1316037821"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q4896257",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (included in the al-Muizz Street area ticket; mirrors al-muizz-street record)",
+   "url": "https://egymonuments.com/details/Elmoezstreet",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,prices (al-Muizz area monuments; Nov 2024 MoTA ticket list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Beit al-Ghinaa al-Arabi at the palace; official Cultural Development Fund site)",
+   "url": "https://www.cdf.gov.eg/?q=node/30",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Beshtak_Palace",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D8%A8%D8%B4%D8%AA%D8%A7%D9%83",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Included in the al-Muizz Street area ticket (the al-muizz-street record lists Bashtak Palace among the ticketed monuments); hours, Ramadan exception, tiers, free groups and tickets mirror that record. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. No Bashtak-specific official visitor page found. Operator kept as seed (ministry-of-culture): the palace (an SCA monument) houses the Cultural Development Fund's Beit al-Ghinaa al-Arabi; whether CDF concerts change daytime access is unknown. Restoration: EN wiki says German Archaeological Institute restoration in 1983, AR wiki says restoration with the German institute after the 1992 earthquake; prose says 'after the 1992 earthquake with German help'."
+}

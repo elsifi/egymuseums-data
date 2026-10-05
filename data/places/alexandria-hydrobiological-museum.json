@@ -1,0 +1,226 @@
+{
+ "id": "alexandria-hydrobiological-museum",
+ "kind": "museum",
+ "wikidataId": "Q139585260",
+ "name": {
+  "en": "Hydrobiological Museum and Aquarium (Anfushi)",
+  "ar": "متحف الأحياء المائية المحنطة"
+ },
+ "aliases": [
+  "Museum of Taxidermied Aquatic Life",
+  "متحف الأحياء المحنطة",
+  "Marine Museum Alexandria",
+  "متحف الأحياء المائية",
+  "Water Biology Exhibition",
+  "Alexandria Aquarium",
+  "أكواريوم الإسكندرية",
+  "Museum of Taxidermied Marine Life"
+ ],
+ "category": "science-natural",
+ "operator": "other",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Anfushi, beside the Qaitbay Citadel",
+  "ar": "الأنفوشي، بجوار قلعة قايتباي"
+ },
+ "address": {
+  "en": "Qaitbay Citadel area, Anfushi (Al-Gomrok), Alexandria — next to the Alexandria Aquarium",
+  "ar": "منطقة قلعة قايتباي، الأنفوشي (الجمرك)، الإسكندرية — بجوار أكواريوم الإسكندرية"
+ },
+ "lat": 31.213056,
+ "lng": 29.885278,
+ "status": "open",
+ "statusNote": {
+  "en": "Open every day of the year, including public holidays. Summer evenings run later, until about midnight.",
+  "ar": "مفتوح يوميًا طوال العام بما في ذلك العطلات الرسمية، ويمتد العمل في أمسيات الصيف حتى منتصف الليل تقريبًا."
+ },
+ "summary": {
+  "en": "One of Egypt's oldest science museums: preserved marine life, habitat dioramas and a whale skeleton beside Qaitbay Citadel.",
+  "ar": "من أقدم المتاحف العلمية في مصر: كائنات بحرية محنطة ومجسمات لبيئاتها وهيكل حوت بجوار قلعة قايتباي."
+ },
+ "description": {
+  "en": "Founded in 1930 as the public face of a marine research station at the tip of the Anfushi peninsula, this small museum now belongs to Egypt's National Institute of Oceanography and Fisheries. It stands within the outer precinct of the Qaitbay Citadel, looking over the Eastern Harbour, next to the city's old aquarium. Three galleries walk visitors through the waters of Egypt, from the Red Sea and the Mediterranean to the northern lakes and the Nile. Preserved fish, corals, turtles and crustaceans are shown in glass cases and in dioramas that recreate their habitats, while the largest hall is dominated by the skeleton of a whale. Further displays cover migratory and resident water birds, fossils and instruments once used at sea, along with plates of aquatic life drawn by the scholars of the French expedition. It makes an easy, family-friendly stop before or after the citadel.",
+  "ar": "تأسس هذا المتحف الصغير عام 1930 ليكون واجهة تثقيفية لمحطة أبحاث بحرية عند طرف شبه جزيرة الأنفوشي، ويتبع اليوم المعهد القومي لعلوم البحار والمصايد. ويقع داخل الحرم الخارجي لقلعة قايتباي مطلًا على الميناء الشرقي، إلى جوار أكواريوم المدينة القديم. وتأخذ قاعاته الثلاث الزائر في رحلة عبر مياه مصر، من البحر الأحمر والبحر المتوسط إلى البحيرات الشمالية ونهر النيل. وتُعرض الأسماك والشعاب المرجانية والسلاحف والقشريات المحنطة في خزائن زجاجية ومجسمات تحاكي بيئاتها الطبيعية، بينما يتصدر أكبر القاعات هيكلٌ عظمي لحوت. وتشمل المعروضات كذلك الطيور المائية المهاجرة والمقيمة، وحفريات وأدوات ملاحية قديمة، ولوحات للأحياء المائية رسمها علماء الحملة الفرنسية. وهو محطة سهلة تناسب العائلات قبل زيارة القلعة أو بعدها."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Whale skeleton",
+    "ar": "هيكل الحوت"
+   },
+   "desc": {
+    "en": "A complete whale skeleton suspended in the main gallery.",
+    "ar": "هيكل عظمي كامل لحوت معلق في القاعة الرئيسية."
+   }
+  },
+  {
+   "title": {
+    "en": "Habitat dioramas",
+    "ar": "مجسمات البيئات المائية"
+   },
+   "desc": {
+    "en": "Scenes of Red Sea reefs, Mediterranean shores, lakes and the Nile.",
+    "ar": "مشاهد لشعاب البحر الأحمر وشواطئ المتوسط والبحيرات ونهر النيل."
+   }
+  },
+  {
+   "title": {
+    "en": "Preserved marine life",
+    "ar": "الكائنات البحرية المحنطة"
+   },
+   "desc": {
+    "en": "Fish, turtles, corals and crustaceans from Egyptian waters.",
+    "ar": "أسماك وسلاحف وشعاب مرجانية وقشريات من المياه المصرية."
+   }
+  },
+  {
+   "title": {
+    "en": "Water birds",
+    "ar": "الطيور المائية"
+   },
+   "desc": {
+    "en": "Migratory and resident birds of Egypt's coasts and wetlands.",
+    "ar": "طيور مهاجرة ومقيمة من سواحل مصر وأراضيها الرطبة."
+   }
+  },
+  {
+   "title": {
+    "en": "Fossils and sea instruments",
+    "ar": "الحفريات والأدوات الملاحية"
+   },
+   "desc": {
+    "en": "Fossils and navigation tools from the history of marine science.",
+    "ar": "حفريات وأدوات ملاحية من تاريخ علوم البحار."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "18:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "18:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Morning or late afternoon, combined with the Qaitbay Citadel next door.",
+   "ar": "الصباح أو آخر العصر، مع الجمع بين الزيارة وقلعة قايتباي المجاورة."
+  },
+  "crowdNotes": {
+   "en": "Busy with school trips and families during holidays. Half-price entry applies to school groups.",
+   "ar": "يزدحم بالرحلات المدرسية والعائلات في الإجازات، وتحصل الرحلات المدرسية على تخفيض 50٪ من سعر التذكرة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/AlexOceanMusSkeleton.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:AlexOceanMusSkeleton.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "https://niof-eg.com/museum/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1_%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%AD%D9%86%D8%B7%D8%A9",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q139585260",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q132145251",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "duplicate-wikidata-item",
+   "url": "https://www.wikidata.org/wiki/Q31689",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,description,discounts (official NIOF museum page)",
+   "url": "https://niof-eg.com/museum/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "identity (aquarium)",
+   "url": "https://niof-eg.com/aquarium/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1_%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%AD%D9%86%D8%B7%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Operator: National Institute of Oceanography and Fisheries (NIOF). Hours from the NIOF museum page (live, undated, checked 2026-10-05): winter 09:00-18:00, summer 09:00-24:00, open every day including holidays; summer start/end dates are not published, so the weekly schedule uses the winter hours and the summer evening extension is only mentioned in statusNote. No ticket price is published (only discounts: free for veterans, research students, orphanages and care homes; 50% for school trips), so prices are unconfirmed and freeGroups are not listed. Seed duplicate Wikidata items Q132145251 (museum) and Q31689 (aquarium) kept as sources. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

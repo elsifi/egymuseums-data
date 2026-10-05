@@ -1,0 +1,266 @@
+{
+ "id": "effat-naghi-saad-el-khadem-museum",
+ "kind": "museum",
+ "wikidataId": "Q136802093",
+ "name": {
+  "en": "Effat Naghi and Saad El-Khadem Museum",
+  "ar": "متحف عفت ناجي وسعد الخادم"
+ },
+ "category": "modern-art",
+ "operator": "ministry-of-culture",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Saray al-Qubba, al-Zaytun",
+  "ar": "سراي القبة، الزيتون"
+ },
+ "address": {
+  "en": "12 al-Karim Street, Saray al-Qubba, al-Zaytun, Cairo",
+  "ar": "12 شارع الكريم، سراي القبة، الزيتون، القاهرة"
+ },
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily except Friday and Monday and official holidays.",
+  "ar": "مفتوح يوميًا عدا الجمعة والاثنين والإجازات الرسمية."
+ },
+ "summary": {
+  "en": "The former home of the artist couple Effat Naghi and Saad El-Khadem, kept as a museum of her paintings, folk pottery and his library.",
+  "ar": "منزل الزوجين الفنانين عفت ناجي وسعد الخادم سابقًا، ويُحفظ متحفًا لأعمالها ومجموعة من الفخار الشعبي ومكتبته."
+ },
+ "description": {
+  "en": "Effat Naghi was a pioneering Egyptian painter, known for works drawing on folk art, magic symbols and popular traditions, and her husband Saad El-Khadem was an artist and scholar of Egyptian folk arts and crafts. Their house in Saray al-Qubba was bought by the Fine Arts Sector of the Ministry of Culture in 1991 and opened as a museum in 2001, then refurbished in 2012–2013 with new security and fire systems and a small hall for temporary exhibitions. On three floors covering about 520 square metres, it displays nearly two hundred works by Effat Naghi, a collection of traditional pottery and other folk objects, and a library of more than a thousand rare books, together with the doctoral and master's theses that Saad El-Khadem supervised. It offers a quiet, personal view of two figures of modern Egyptian art.",
+  "ar": "كانت عفت ناجي من رائدات التصوير في مصر، واشتهرت بأعمال تستلهم الفن الشعبي والرموز السحرية والتقاليد الشعبية، وكان زوجها سعد الخادم فنانًا وباحثًا في الفنون والحرف الشعبية المصرية. واشترى قطاع الفنون التشكيلية بوزارة الثقافة منزلهما في سراي القبة عام 1991، وافتُتح متحفًا عام 2001، ثم جُدد بين عامي 2012 و2013 بإضافة أنظمة للأمن والإطفاء وقاعة صغيرة للعروض المؤقتة. ويعرض على ثلاثة طوابق تبلغ مساحتها نحو 520 مترًا مربعًا قرابة مئتي عمل لعفت ناجي، ومجموعة من الفخار الشعبي ومقتنيات تراثية أخرى، ومكتبة تضم أكثر من ألف كتاب نادر، إلى جانب رسائل الدكتوراه والماجستير التي أشرف عليها سعد الخادم. ويقدم المتحف نظرة هادئة وشخصية إلى اثنين من أعلام الفن المصري الحديث."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Effat Naghi's paintings",
+    "ar": "لوحات عفت ناجي"
+   },
+   "desc": {
+    "en": "Nearly two hundred works inspired by folk art and popular symbols.",
+    "ar": "قرابة مئتي عمل مستلهم من الفن الشعبي والرموز الشعبية."
+   }
+  },
+  {
+   "title": {
+    "en": "Folk pottery",
+    "ar": "الفخار الشعبي"
+   },
+   "desc": {
+    "en": "Traditional pots and crafts collected by the couple.",
+    "ar": "أوانٍ فخارية ومشغولات تقليدية جمعها الزوجان."
+   }
+  },
+  {
+   "title": {
+    "en": "Library",
+    "ar": "المكتبة"
+   },
+   "desc": {
+    "en": "More than a thousand rare books and theses supervised by Saad El-Khadem.",
+    "ar": "أكثر من ألف كتاب نادر ورسائل علمية أشرف عليها سعد الخادم."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "mon",
+    "closed": true
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00"
+   },
+   {
+    "day": "fri",
+    "closed": true
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours (Fine Arts Sector museums)",
+     "ar": "مواعيد شهر رمضان (متاحف قطاع الفنون التشكيلية)"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "mon",
+      "closed": true
+     },
+     {
+      "day": "tue",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "10:00",
+      "close": "14:00"
+     },
+     {
+      "day": "fri",
+      "closed": true
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 5
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 3
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "People with special needs",
+   "Veterans",
+   "Seniors over 60",
+   "Children under 12",
+   "Members of artists' professional syndicates",
+   "Members of national museum committees"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "People with special needs",
+    "ar": "ذوو الهمم"
+   },
+   {
+    "en": "Veterans",
+    "ar": "المحاربون القدامى"
+   },
+   {
+    "en": "Seniors over 60",
+    "ar": "كبار السن فوق 60 عامًا"
+   },
+   {
+    "en": "Children under 12",
+    "ar": "الأطفال دون 12 عامًا"
+   },
+   {
+    "en": "Members of artists' professional syndicates",
+    "ar": "أعضاء النقابات المهنية للفنانين"
+   },
+   {
+    "en": "Members of national museum committees",
+    "ar": "أعضاء اللجان الوطنية للمتاحف"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "A weekday morning; call ahead for researchers wishing to use the library.",
+   "ar": "صباح أحد أيام الأسبوع، ويُفضّل أن يتصل الباحثون مسبقًا إذا أرادوا استخدام المكتبة."
+  },
+  "crowdNotes": {
+   "en": "A quiet house museum in a residential street, rarely crowded.",
+   "ar": "متحف منزلي هادئ في شارع سكني، ونادرًا ما يزدحم."
+  }
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B9%D9%81%D8%AA_%D9%86%D8%A7%D8%AC%D9%8A_%D9%88%D8%B3%D8%B9%D8%AF_%D8%A7%D9%84%D8%AE%D8%A7%D8%AF%D9%85",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q136802093",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,hours (daily 09:00-16:00, closed Friday and Monday; Fine Arts Sector head, news 4 Jun 2026)",
+   "url": "https://www.youm7.com/story/2026/6/4/x/7437546",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Fine Arts Sector museums Ramadan 2026: 10:00-14:00)",
+   "url": "https://www.youm7.com/story/2026/2/21/x/7312897",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,freeGroups,address (official Fine Arts Sector visitor page)",
+   "url": "https://www.fineart.gov.eg/arb/musem/Vist.asp?IDs=3",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%B9%D9%81%D8%AA_%D9%86%D8%A7%D8%AC%D9%8A_%D9%88%D8%B3%D8%B9%D8%AF_%D8%A7%D9%84%D8%AE%D8%A7%D8%AF%D9%85",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Ministry of Culture (Fine Arts Sector). Hours: Fine Arts Sector head (youm7, 4 Jun 2026) names this museum: daily 09:00-16:00, weekly closure Friday and Monday plus official holidays; the official fineart.gov.eg page (undated) says 10:00-16:00 - the dated 2026 statement is used, as in batch 5. No last entry published. Ramadan: sector-wide 10:00-14:00 (Ramadan 2026 statement; not museum-specific). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Prices 5/3 Egyptian, 10 foreign and free groups from the undated official page (same pattern as mukhtar-museum); confirm by phone. Seed lat/lng null; not added. No photos: Commons has no photo of the house or a public-domain image of the couple; the artworks are in copyright - photos are left empty (allowed for minor places, decision of 2026-10-05)."
+}

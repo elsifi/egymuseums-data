@@ -1,0 +1,299 @@
+{
+ "id": "fort-qaitbay-rosetta",
+ "kind": "site",
+ "wikidataId": "Q3077898",
+ "name": {
+  "en": "Qaitbay Citadel in Rosetta (Fort Julien)",
+  "ar": "طابية رشيد"
+ },
+ "aliases": [
+  "قلعة قايتباي",
+  "Fort Rashid",
+  "قلعة رشيد",
+  "قلعة سان جوليان",
+  "Fort Julien"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "beheira",
+ "city": {
+  "en": "Rosetta",
+  "ar": "رشيد"
+ },
+ "area": {
+  "en": "Borg Rashid, north of Rosetta",
+  "ar": "برج رشيد، شمال مدينة رشيد"
+ },
+ "address": {
+  "en": "Borg Rashid village, on the west bank of the Rosetta branch about 6 km north of Rosetta, Beheira",
+  "ar": "قرية برج رشيد على الضفة الغربية لفرع رشيد على بعد نحو 6 كم شمال المدينة، محافظة البحيرة"
+ },
+ "lat": 31.439722,
+ "lng": 30.389444,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A fifteenth-century Mamluk fort on the Rosetta branch of the Nile, where French soldiers found the Rosetta Stone in 1799.",
+  "ar": "قلعة مملوكية من القرن الخامس عشر على فرع رشيد، عثر فيها جنود فرنسيون على حجر رشيد عام 1799."
+ },
+ "description": {
+  "en": "Guarding the last stretch of the Rosetta branch before it meets the sea, this fort was built by the Mamluk sultan Qaitbay in about 1479 to defend the coast against raids from the Mediterranean and the growing power of the Ottomans. It is a low rectangular enclosure with round towers at its corners and a central keep, built of limestone, Rashidi brick and reused stone, some of it taken from ancient temples. Sultan al-Ghuri strengthened it in the early sixteenth century. In July 1799, while Napoleon's soldiers were hastily rebuilding the walls and renaming the post Fort Julien, an officer, Pierre-François Bouchard, noticed an inscribed slab in the masonry: the Rosetta Stone, whose three scripts later allowed hieroglyphs to be deciphered. The original is in the British Museum. Restored, the fort has a small mosque and views over the river and palm groves.",
+  "ar": "تحرس هذه القلعة آخر جزء من فرع رشيد قبل التقائه بالبحر، وقد شيدها السلطان المملوكي قايتباي نحو عام 1479 للدفاع عن الساحل ضد الغارات القادمة من البحر المتوسط والقوة العثمانية الصاعدة. وهي سور مستطيل منخفض تدعمه أبراج مستديرة في أركانه ويتوسطه برج رئيسي، وبُنيت من الحجر الجيري والطوب الرشيدي وأحجار أعيد استخدامها أُخذ بعضها من معابد قديمة. وقد دعمها السلطان الغوري في مطلع القرن السادس عشر. وفي يوليو 1799، بينما كان جنود نابليون يعيدون بناء أسوارها على عجل ويطلقون عليها اسم حصن جوليان، لاحظ الضابط بيير فرانسوا بوشار لوحًا منقوشًا ضمن البناء، هو حجر رشيد الذي أتاحت كتاباته الثلاث لاحقًا فك رموز الهيروغليفية. والحجر الأصلي محفوظ في المتحف البريطاني. وتضم القلعة بعد ترميمها مسجدًا صغيرًا وإطلالات على النهر وبساتين النخيل."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Rosetta Stone find-spot",
+    "ar": "موقع اكتشاف حجر رشيد"
+   },
+   "desc": {
+    "en": "Where the stone was found in the fort's walls in 1799.",
+    "ar": "حيث عُثر على الحجر في أسوار القلعة عام 1799."
+   }
+  },
+  {
+   "title": {
+    "en": "Mamluk towers",
+    "ar": "الأبراج المملوكية"
+   },
+   "desc": {
+    "en": "Round corner towers and a central keep from Qaitbay's reign.",
+    "ar": "أبراج ركنية مستديرة وبرج رئيسي من عهد قايتباي."
+   }
+  },
+  {
+   "title": {
+    "en": "Fort mosque",
+    "ar": "مسجد القلعة"
+   },
+   "desc": {
+    "en": "A small mosque with a minaret inside the walls.",
+    "ar": "مسجد صغير بمئذنة داخل الأسوار."
+   }
+  },
+  {
+   "title": {
+    "en": "River views",
+    "ar": "إطلالات النهر"
+   },
+   "desc": {
+    "en": "Views over the Rosetta branch near its mouth.",
+    "ar": "إطلالات على فرع رشيد قرب مصبه."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:30",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 30
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 15
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning, then continue to the historic houses of Rosetta.",
+   "ar": "الصباح، ثم استكمال الجولة في بيوت رشيد التاريخية."
+  },
+  "crowdNotes": {
+   "en": "Quiet on weekdays. The original Rosetta Stone is in the British Museum in London.",
+   "ar": "هادئ في أيام الأسبوع، والحجر الأصلي محفوظ في المتحف البريطاني بلندن."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D9%85_%D8%A7%D9%84%D8%A7%D8%AB%D8%B1%D9%8A%D8%A9_%D9%85%D9%86_%D8%B1%D8%AD%D9%84%D8%A9_%D8%B1%D8%B4%D9%8A%D8%AF_5.jpg",
+   "author": "Hossametsh20",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D9%85_%D8%A7%D9%84%D8%A7%D8%AB%D8%B1%D9%8A%D8%A9_%D9%85%D9%86_%D8%B1%D8%AD%D9%84%D8%A9_%D8%B1%D8%B4%D9%8A%D8%AF_5.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/AAA1605_1.jpg",
+   "author": "Walaa shabeb",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:AAA1605_1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/56%D9%82%D9%84%D8%B9%D9%87_%D8%B1%D8%B4%D9%8A%D8%AF.jpg",
+   "author": "A7med3ssam9",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:56%D9%82%D9%84%D8%B9%D9%87_%D8%B1%D8%B4%D9%8A%D8%AF.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Fort_Julien",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D8%A8%D9%8A%D8%A9_%D8%B1%D8%B4%D9%8A%D8%AF",
+  "osm": "way/301170249"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q3077898",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,hours.exceptions (Ramadan),address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%82%D9%84%D8%B9%D8%A9-%D9%82%D8%A7%D9%8A%D8%AA%D8%A8%D8%A7%D9%8A-%D8%A8%D8%B1%D8%B4%D9%8A%D8%AF/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Fort_Julien",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Hours: MoTA guide 08:30-16:00, Ramadan 09:00-16:00, last entry one hour before closing; the Nov 2024 list agrees (08:30-16:00). Prices 30/15 and 10/5 come only from the Nov 2024 list (separate from the 'Rosetta City Monuments' ticket; not on the portal or booking platform), used as for temple-of-hibis; rosetta-historic-houses only mentions the fort (batch-4 D6). No free groups listed. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

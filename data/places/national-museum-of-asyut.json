@@ -1,0 +1,137 @@
+{
+ "id": "national-museum-of-asyut",
+ "kind": "museum",
+ "wikidataId": "Q130215854",
+ "name": {
+  "en": "National Museum of Asyut",
+  "ar": "متحف أسيوط القومي"
+ },
+ "aliases": [
+  "National Museum Asyut",
+  "National Museum in Asyut",
+  "Alexan Pasha Palace",
+  "قصر ألكسان باشا",
+  "متحف أسيوط القومي"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "asyut",
+ "city": {
+  "en": "Asyut",
+  "ar": "أسيوط"
+ },
+ "area": {
+  "en": "Nile corniche, East district",
+  "ar": "كورنيش النيل، حي شرق"
+ },
+ "address": {
+  "en": "Alexan Pasha Palace, Nile corniche, East district, Asyut",
+  "ar": "قصر ألكسان باشا، كورنيش النيل، حي شرق، أسيوط"
+ },
+ "lat": 27.189115,
+ "lng": 31.192068,
+ "status": "unknown",
+ "statusNote": {
+  "en": "The palace is being prepared as the governorate's national museum; an opening date has not been confirmed.",
+  "ar": "يجري تجهيز القصر ليكون المتحف القومي للمحافظة، ولم يتأكد موعد افتتاحه بعد."
+ },
+ "summary": {
+  "en": "A 1910 riverside palace in Asyut chosen to become the governorate's first national museum.",
+  "ar": "قصر على النيل في أسيوط يعود إلى عام 1910، اختير ليكون أول متحف قومي في المحافظة."
+ },
+ "description": {
+  "en": "Overlooking the Nile in the centre of Asyut, the palace of Alexan Pasha was built in 1910 for a wealthy local lawyer and landowner. Italian, French and British craftsmen took part in its decoration, and the two-storey building mixes European classical façades with oriental details in its windows, towers and ceilings. It received important guests, including King Fuad I in 1935. In 1995 it was registered as a historic monument, and the government decided to turn it into a national museum to gather the antiquities of Asyut governorate, from prehistoric finds and pharaonic tombs to Coptic and Islamic objects. Restoration and conversion have taken many years. In 2025 the governor inspected works to restore the palace, its garden and façades so that it could be opened to the public, but no opening date has been announced.",
+  "ar": "يطل قصر ألكسان باشا على النيل في قلب مدينة أسيوط، وقد شُيد عام 1910 لمحامٍ ووجيه ثري من أبناء المدينة. وشارك في زخرفته حرفيون إيطاليون وفرنسيون وإنجليز، ويجمع مبناه ذو الطابقين بين الواجهات الكلاسيكية الأوروبية واللمسات الشرقية في نوافذه وأبراجه وأسقفه. واستقبل القصر ضيوفًا كبارًا، منهم الملك فؤاد الأول عام 1935. وفي عام 1995 سُجل أثرًا، وقررت الحكومة تحويله إلى متحف قومي يجمع آثار محافظة أسيوط، من مكتشفات ما قبل التاريخ والمقابر الفرعونية إلى القطع القبطية والإسلامية. واستغرقت أعمال الترميم والتحويل سنوات طويلة، وفي عام 2025 تفقد المحافظ أعمال ترميم القصر وحديقته وواجهاته تمهيدًا لفتحه للجمهور، لكن لم يُعلن موعد للافتتاح."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Palace architecture",
+    "ar": "عمارة القصر"
+   },
+   "desc": {
+    "en": "European façades with oriental windows, towers and ceilings.",
+    "ar": "واجهات أوروبية بنوافذ وأبراج وأسقف ذات طابع شرقي."
+   }
+  },
+  {
+   "title": {
+    "en": "Nile garden",
+    "ar": "حديقة النيل"
+   },
+   "desc": {
+    "en": "A large garden running down to the river.",
+    "ar": "حديقة واسعة تمتد حتى النهر."
+   }
+  },
+  {
+   "title": {
+    "en": "Planned collection",
+    "ar": "المجموعة المزمعة"
+   },
+   "desc": {
+    "en": "Antiquities of Asyut from prehistory to the Islamic era.",
+    "ar": "آثار أسيوط من عصور ما قبل التاريخ حتى العصر الإسلامي."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/%D9%82%D8%B5%D8%B1_%D8%A3%D9%84%D9%83%D8%B3%D8%A7%D9%86_%D8%A8%D8%A7%D8%B4%D8%A7.jpg",
+   "author": "Al3alamey",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%82%D8%B5%D8%B1_%D8%A3%D9%84%D9%83%D8%B3%D8%A7%D9%86_%D8%A8%D8%A7%D8%B4%D8%A7.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/%D9%88%D8%A7%D8%AC%D9%87%D9%87_%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D9%83%D8%B3%D8%A7%D9%86.jpg",
+   "author": "Roaa Mahmoud Ghanem",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%88%D8%A7%D8%AC%D9%87%D9%87_%D9%82%D8%B5%D8%B1_%D8%A7%D9%84%D9%83%D8%B3%D8%A7%D9%86.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q130215854",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "coordinates (Alexan Pasha Palace, Q29514123)",
+   "url": "https://www.wikidata.org/wiki/Q29514123",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (governor inspection, 22 Mar 2025)",
+   "url": "https://www.masrawy.com/news/news_regions/details/2025/3/22/2758637/x",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (Ahram daily, 29 Aug 2025; not readable)",
+   "url": "https://gate.ahram.org.eg/daily/News/202588/29/642341/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA/%D9%85%D8%AA%D8%AD%D9%81-%D8%A3%D8%B3%D9%89%D9%88%D8%B7-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89--%D9%89%D8%B1%D9%89-%D8%A7%D9%84%D9%86%D9%88%D8%B1-%D8%A3%D8%AE%D9%89%D8%B1%D8%A7.aspx",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (history of the palace)",
+   "url": "https://www.elwatannews.com/news/details/4412959",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Identification: Wikidata Q130215854 ('National Museum of Asyut', no coordinates) is taken to be the planned museum in the Alexan Pasha Palace (Q29514123), whose coordinates are borrowed; Egyptian press consistently calls that project 'متحف أسيوط القومي'. Status: masrawy 22 Mar 2025 (governor inspecting works 'تمهيدًا لفتحها للجمهور'); an Ahram daily item of 29 Aug 2025 headlined 'finally sees the light' could not be read (403), so the museum may have opened since; recheck. No MoTA guide, portal or booking page. Seed Arabic name kept (editor-added; matches press usage)."
+}

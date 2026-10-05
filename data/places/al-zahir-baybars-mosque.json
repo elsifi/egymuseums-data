@@ -1,0 +1,160 @@
+{
+ "id": "al-zahir-baybars-mosque",
+ "kind": "site",
+ "wikidataId": "Q1535255",
+ "name": {
+  "en": "Mosque of al-Zahir Baybars",
+  "ar": "جامع الظاهر بيبرس"
+ },
+ "category": "islamic",
+ "operator": "other",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "al-Zahir Square, al-Zahir",
+  "ar": "ميدان الظاهر، حي الظاهر"
+ },
+ "lat": 30.062278,
+ "lng": 31.263417,
+ "status": "open",
+ "statusNote": {
+  "en": "Reopened for prayer in June 2023 after a long restoration; visitors are welcome outside prayer times.",
+  "ar": "أُعيد فتحه للصلاة في يونيو 2023 بعد ترميم طويل، ويُرحب بالزوار خارج أوقات الصلاة."
+ },
+ "summary": {
+  "en": "One of Cairo's oldest and largest Mamluk mosques, built by Sultan Baybars in 1266–1269 and reopened in 2023 after centuries of misuse.",
+  "ar": "من أقدم مساجد القاهرة المملوكية وأكبرها، بناه السلطان بيبرس بين عامي 1266 و1269 وأعيد افتتاحه عام 2023 بعد قرون من الإهمال."
+ },
+ "description": {
+  "en": "Sultan al-Zahir Baybars built this congregational mosque in 1266–1269 on what was then open ground north of the walled city. Covering about 12,600 square metres, it is the third-largest historic mosque in Egypt after those of Ibn Tulun and al-Hakim. Arcades surround a vast courtyard, and the prayer hall was once covered by a huge wooden dome in front of the mihrab, long since collapsed. The building had a hard history: Napoleon's army turned it into a fort in 1798–1801, mounting cannon on its walls and using the minaret as a tower until it fell; it later served the British as a store and a slaughterhouse until 1915. Restoration with support from Kazakhstan, the homeland of Baybars, began in 2007 and was completed in 2022, revealing an underground cistern beneath the courtyard. The mosque reopened in June 2023 and Friday prayers were held for the first time in some 225 years.",
+  "ar": "شيّد السلطان الظاهر بيبرس هذا الجامع بين عامي 1266 و1269 على أرض كانت آنذاك فضاءً شمال المدينة المسوّرة. ويمتد على نحو 12,600 متر مربع، فهو ثالث أكبر المساجد الأثرية في مصر بعد جامعي ابن طولون والحاكم بأمر الله. وتحيط الأروقة بصحن واسع، وكانت قبة خشبية ضخمة تغطي المساحة أمام المحراب في رواق القبلة، لكنها انهارت منذ زمن بعيد. وقد مرّ المبنى بتاريخ قاسٍ، إذ حوّله جيش الحملة الفرنسية إلى حصن بين عامي 1798 و1801 ووضع المدافع على أسواره واستخدم المئذنة برجًا حتى تهدمت، ثم استخدمه الإنجليز مخزنًا ومذبحًا حتى عام 1915. وبدأ ترميمه بدعم من كازاخستان، موطن بيبرس، عام 2007 واكتمل عام 2022، وكُشف أثناءه عن صهريج أسفل الصحن. وأُعيد افتتاح الجامع في يونيو 2023، وأقيمت فيه صلاة الجمعة لأول مرة منذ نحو 225 عامًا."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Monumental portals",
+    "ar": "المداخل التذكارية"
+   },
+   "desc": {
+    "en": "Three stone entrances with foundation inscriptions and carved decoration.",
+    "ar": "ثلاثة مداخل حجرية تعلوها لوحات تأسيسية وزخارف محفورة."
+   }
+  },
+  {
+   "title": {
+    "en": "Great courtyard",
+    "ar": "الصحن الكبير"
+   },
+   "desc": {
+    "en": "One of the largest mosque courtyards in Cairo, ringed by restored arcades.",
+    "ar": "من أوسع صحون المساجد في القاهرة، تحيط به أروقة مرممة."
+   }
+  },
+  {
+   "title": {
+    "en": "Qibla wall",
+    "ar": "جدار القبلة"
+   },
+   "desc": {
+    "en": "The restored mihrab area where the great wooden dome once stood.",
+    "ar": "منطقة المحراب المرممة حيث كانت تقوم القبة الخشبية الكبيرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Ablaq stonework",
+    "ar": "الحجر الأبلق"
+   },
+   "desc": {
+    "en": "Alternating light and dark masonry around the portals.",
+    "ar": "مداميك متناوبة من الحجر الفاتح والداكن حول المداخل."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Weekday mornings, outside prayer times.",
+   "ar": "صباح أيام الأسبوع خارج أوقات الصلاة."
+  },
+  "crowdNotes": {
+   "en": "Away from the main tourist routes; dress modestly and avoid Friday noon prayer.",
+   "ar": "بعيد عن المسارات السياحية الرئيسية، ويُرجى ارتداء ملابس محتشمة وتجنب صلاة الجمعة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mosque_of_sultan_al_zahir_baybars.jpg",
+   "author": "Martyn Smith",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosque_of_sultan_al_zahir_baybars.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ablaq_design.jpg",
+   "author": "Martyn Smith",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ablaq_design.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/CairoMosqueBaybars3.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CairoMosqueBaybars3.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/mosque-of-al-zahir-baybars/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Mosque_of_al-Zahir_Baybars",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B8%D8%A7%D9%87%D8%B1_%D8%A8%D9%8A%D8%A8%D8%B1%D8%B3_(%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)",
+  "osm": "way/28848324"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1535255",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/mosque-of-al-zahir-baybars/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (official portal; no hours or ticket listed)",
+   "url": "https://egymonuments.gov.eg/en/monuments/mosque-of-al-zahir-baybars/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (official reopening after restoration), 4 Jun 2023",
+   "url": "https://cabinet.gov.eg/News/Details/63629",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (first Friday prayer after ~225 years), Jun 2023",
+   "url": "https://www.aljazeera.net/news/2023/6/9/%D8%A8%D8%B9%D8%AF-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-225-%D8%B9%D8%A7%D9%85%D8%A7-%D8%A3%D8%AF%D8%A7%D8%A1-%D8%A3%D9%88%D9%84-%D8%B5%D9%84%D8%A7%D8%A9-%D8%AC%D9%85%D8%B9%D8%A9",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Mosque_of_al-Zahir_Baybars",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Working mosque since June 2023; the portal gives no visiting hours or ticket and it is not on the Nov 2024 MoTA list, so hours are omitted and prices.status is 'unconfirmed' (D9). Status rests on the 2023 reopening (no 2024-2026 visitor statement). Photos date from before or during restoration (2003-2006); a post-2023 exterior photo would be better if one appears on Commons. Operator kept as seed 'other'."
+}

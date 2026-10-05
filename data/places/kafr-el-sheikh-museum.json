@@ -1,0 +1,339 @@
+{
+ "id": "kafr-el-sheikh-museum",
+ "kind": "museum",
+ "wikidataId": "Q64744340",
+ "name": {
+  "en": "Kafr El-Sheikh Museum",
+  "ar": "متحف كفر الشيخ"
+ },
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "kafr-el-sheikh",
+ "city": {
+  "en": "Kafr el-Sheikh",
+  "ar": "كفر الشيخ"
+ },
+ "area": {
+  "en": "Sanaa Garden, Kafr el-Sheikh city",
+  "ar": "حديقة صنعاء، مدينة كفر الشيخ"
+ },
+ "address": {
+  "en": "Sanaa Garden, Kafr el-Sheikh, Kafr el-Sheikh Governorate",
+  "ar": "حديقة صنعاء، كفر الشيخ، محافظة كفر الشيخ"
+ },
+ "lat": 31.103759,
+ "lng": 30.94785,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "A regional museum opened in 2020 that presents the heritage of Kafr el-Sheikh, from ancient Buto to the Holy Family route and the Islamic town of Fuwwah.",
+  "ar": "متحف إقليمي افتُتح عام 2020 يعرض تراث كفر الشيخ، من بوتو القديمة إلى مسار العائلة المقدسة ومدينة فوه الإسلامية."
+ },
+ "description": {
+  "en": "Kafr el-Sheikh Governorate holds Tell el-Fara’in, ancient Buto, one of the earliest political and religious centres of Lower Egypt. The idea of a museum for the province dates back to 1992, when land was set aside for it; building work stalled for years and was revived under a 2017 agreement between the antiquities ministry and the governorate, and the museum was inaugurated by video link in 2020. Its single floor is arranged in halls. The first presents finds from the great cemetery and temple area of Buto, including a striking falcon statue of Horus, a theme tied to the myth of Horus and Seth. Another hall recalls Sakha, believed to be a stop on the Holy Family’s journey through Egypt. The museum also explores the history of science, with sections on medicine, veterinary practice and pharmacy, and the Islamic heritage of the town of Fuwwah.",
+  "ar": "تضم محافظة كفر الشيخ تل الفراعين، أي مدينة بوتو القديمة، أحد أقدم المراكز السياسية والدينية في الوجه البحري. تعود فكرة إنشاء متحف للمحافظة إلى عام 1992 حين خُصصت له قطعة أرض، ثم تعثرت أعمال البناء سنوات طويلة إلى أن استؤنفت ببروتوكول تعاون عام 2017 بين وزارة الآثار والمحافظة، وافتُتح المتحف عبر الفيديو كونفرانس عام 2020. يتكون المتحف من طابق واحد مقسم إلى قاعات؛ تعرض الأولى مكتشفات جبانة بوتو الكبرى ومنطقة معبدها، ومنها تمثال لافت لحورس على هيئة الصقر يرتبط بأسطورة الصراع بين حورس وست. وتستعيد قاعة أخرى قصة سخا التي يُعتقد أنها كانت محطة في رحلة العائلة المقدسة إلى مصر. كما يتناول المتحف تاريخ العلوم من طب بشري وبيطري وصيدلة، والتراث الإسلامي لمدينة فوه."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Horus falcon statue",
+    "ar": "تمثال حورس الصقر"
+   },
+   "desc": {
+    "en": "A large falcon statue of Horus from the Buto area.",
+    "ar": "تمثال كبير لحورس على هيئة الصقر من منطقة بوتو."
+   }
+  },
+  {
+   "title": {
+    "en": "Buto finds",
+    "ar": "مكتشفات بوتو"
+   },
+   "desc": {
+    "en": "Objects from the cemetery and temple area of Tell el-Fara’in.",
+    "ar": "قطع من الجبانة ومنطقة المعبد في تل الفراعين."
+   }
+  },
+  {
+   "title": {
+    "en": "Sakha and the Holy Family",
+    "ar": "سخا والعائلة المقدسة"
+   },
+   "desc": {
+    "en": "A hall devoted to Sakha’s place on the Holy Family route.",
+    "ar": "قاعة مخصصة لمكانة سخا على مسار العائلة المقدسة."
+   }
+  },
+  {
+   "title": {
+    "en": "History of science",
+    "ar": "تاريخ العلوم"
+   },
+   "desc": {
+    "en": "Displays on medicine, veterinary practice and pharmacy through the ages.",
+    "ar": "عرض عن الطب البشري والبيطري والصيدلة عبر العصور."
+   }
+  },
+  {
+   "title": {
+    "en": "Fuwwah heritage",
+    "ar": "تراث فوه"
+   },
+   "desc": {
+    "en": "Objects linked to the Islamic-era town of Fuwwah.",
+    "ar": "قطع مرتبطة بمدينة فوه الإسلامية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/KafrElshaikh",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Any morning; the museum is on one floor and easy to see in an hour.",
+   "ar": "أي صباح، فالمتحف من طابق واحد ويمكن زيارته في ساعة."
+  },
+  "crowdNotes": {
+   "en": "Usually quiet apart from school and university groups.",
+   "ar": "هادئ في الغالب باستثناء الرحلات المدرسية والجامعية."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Buto2-Desouk.jpg",
+   "author": "Faris knight",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buto2-Desouk.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/kafr-el-sheikh-museum/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%83%D9%81%D8%B1_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q64744340",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/kafr-el-sheikh-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,last entry 15:00,description",
+   "url": "https://egymonuments.gov.eg/en/museums/kafr-el-sheikh-museum/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (Ramadan 09:00-15:00),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-كفر-الشيخ/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan lastEntry 14:00),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/KafrElshaikh",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (booking page)",
+   "url": "https://egymonuments.com/book-date/246",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (cross-check, MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (opened 31 Oct 2020)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%83%D9%81%D8%B1_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (Buto site statue; licence via Commons API)",
+   "url": "https://commons.wikimedia.org/wiki/File:Buto2-Desouk.jpg",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal, MoTA guide, booking platform and Nov 2024 list agree (09:00-16:00, last entry 15:00; 220/110, 20/10). Ramadan: guide 09:00-15:00, booking last entry 14:00. City/area/address added from the MoTA guide. Photo: the 2020 building cannot be used (no FoP) and no collection photos are on Commons, so the single photo shows a Ramses II group statue at the Buto site itself, not an object in the museum - replace when a collection photo is available. cashAccepted not set. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}

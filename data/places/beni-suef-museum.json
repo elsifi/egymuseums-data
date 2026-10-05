@@ -1,0 +1,139 @@
+{
+ "id": "beni-suef-museum",
+ "kind": "museum",
+ "wikidataId": "Q12238625",
+ "name": {
+  "en": "Beni Suef Museum",
+  "ar": "متحف بني سويف"
+ },
+ "aliases": [
+  "Museum of Beni Suef"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "beni-suef",
+ "city": {
+  "en": "Beni Suef",
+  "ar": "بني سويف"
+ },
+ "area": {
+  "en": "Beni Suef city",
+  "ar": "مدينة بني سويف"
+ },
+ "address": {
+  "en": "Beni Suef city, Beni Suef Governorate",
+  "ar": "مدينة بني سويف، محافظة بني سويف"
+ },
+ "lat": 29.08418,
+ "lng": 31.101029,
+ "status": "closed",
+ "statusNote": {
+  "en": "Closed to visitors. The collection was packed into storage for a development project that stalled, and no reopening date has been announced.",
+  "ar": "مغلق أمام الزوار، إذ نُقلت مقتنياته إلى المخازن ضمن مشروع تطوير توقف، ولم يُعلن موعد لإعادة افتتاحه."
+ },
+ "summary": {
+  "en": "The regional antiquities museum of Beni Suef, with finds from Ihnasya, Meidum and other local sites, closed for many years.",
+  "ar": "متحف الآثار الإقليمي لمحافظة بني سويف، ويضم مكتشفات من إهناسيا وميدوم ومواقع أخرى بالمحافظة، وهو مغلق منذ سنوات طويلة."
+ },
+ "description": {
+  "en": "Beni Suef Governorate holds important archaeological sites, among them Ihnasya, ancient Herakleopolis, the pyramid of Meidum, al-Riqqa, Deshasha and Abusir el-Meleq, and its museum was opened in the 1990s to present their finds. The two-storey building, designed to echo the stepped silhouette of Meidum, showed pharaonic and Graeco-Roman antiquities on the ground floor: statues of kings, gods and private people, funerary stelae, coffins, canopic jars and amulets. The upper floor was devoted to Coptic icons and textiles, Islamic lamps, wooden doors and manuscripts, and objects from the Muhammad Ali family. Groundwater and damp damaged the building, and a development project led to the museum being emptied and its objects boxed in storage in 2012. Work stopped in 2013 and the museum has not reopened.",
+  "ar": "تضم محافظة بني سويف مواقع أثرية مهمة، منها إهناسيا (هيراكليوبوليس القديمة) وهرم ميدوم والرقة ودشاشة وأبو صير الملق، وقد افتُتح متحفها في تسعينيات القرن العشرين لعرض مكتشفاتها. وقد صُمم المبنى المؤلف من طابقين على هيئة تحاكي هرم ميدوم المدرّج، وعرض طابقه الأرضي الآثار الفرعونية واليونانية الرومانية من تماثيل للملوك والآلهة والأفراد ولوحات جنائزية وتوابيت وأوانٍ كانوبية وتمائم. أما الطابق العلوي فخُصص للأيقونات والمنسوجات القبطية، والمشكاوات والأبواب الخشبية والمخطوطات الإسلامية، ومقتنيات من أسرة محمد علي. وأضرت المياه الجوفية والرطوبة بالمبنى، ومع مشروع للتطوير أُخلي المتحف وغُلفت قطعه وخُزنت عام 2012. ثم توقفت الأعمال عام 2013، ولم يُعد افتتاح المتحف حتى الآن."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Royal head",
+    "ar": "رأس ملكي"
+   },
+   "desc": {
+    "en": "A New Kingdom head attributed to Hatshepsut or Thutmose III.",
+    "ar": "رأس من الدولة الحديثة يُنسب إلى حتشبسوت أو تحتمس الثالث."
+   }
+  },
+  {
+   "title": {
+    "en": "Painted coffins",
+    "ar": "التوابيت الملونة"
+   },
+   "desc": {
+    "en": "Wooden and pottery coffins from cemeteries in the governorate.",
+    "ar": "توابيت خشبية وفخارية من جبانات المحافظة."
+   }
+  },
+  {
+   "title": {
+    "en": "Coptic burial goods",
+    "ar": "مقتنيات جنائزية قبطية"
+   },
+   "desc": {
+    "en": "Objects from the grave of a girl of the Coptic period.",
+    "ar": "مقتنيات من مقبرة فتاة من العصر القبطي."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/BeniSuefMuseumHeadT3OrHatsh.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BeniSuefMuseumHeadT3OrHatsh.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/BeniSuefMuseumCoffin.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BeniSuefMuseumCoffin.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/BeniSuefMuseumWoodenCoffin.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:BeniSuefMuseumWoodenCoffin.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A8%D9%86%D9%8A_%D8%B3%D9%88%D9%8A%D9%81",
+  "osm": "way/97352936"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q12238625",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status (not listed in the Nov 2024 MoTA ticket list, which lists only the Meidum pyramid for Beni Suef)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (museum emptied and objects boxed in 2012, works halted since 28 Mar 2013; news 24 Oct 2019)",
+   "url": "https://www.elbalad.news/4030715",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A8%D9%86%D9%8A_%D8%B3%D9%88%D9%8A%D9%81",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Status 'closed': the museum is absent from the Nov 2024 MoTA ticket list and from the MoTA open-museums guide (no guide page found), and the latest detailed report (elbalad, Oct 2019) says it was emptied in 2012 with works halted since March 2013. No 2024-2026 news of a reopening found. Opening year conflict: AR Wikipedia says 1997, elbalad says 'early 1990s'; prose says 'the 1990s'. Highlights describe objects photographed in the museum in 2009; where they are now is unknown. Photos of the 1990s building excluded (no freedom of panorama); artefact photos used."
+}

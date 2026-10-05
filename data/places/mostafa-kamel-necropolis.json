@@ -1,0 +1,244 @@
+{
+ "id": "mostafa-kamel-necropolis",
+ "kind": "site",
+ "wikidataId": "Q6862876",
+ "name": {
+  "en": "Mustafa Kamel Necropolis",
+  "ar": "مقابر مصطفى كامل"
+ },
+ "aliases": [
+  "جبانة مصطفى كامل",
+  "مقابر مصطفى كامل الأثرية",
+  "necropolis of Mustafa Kamel",
+  "necropolis of Mustafa Kamil",
+  "Mostafa Kamel Necropolis"
+ ],
+ "category": "greco-roman",
+ "operator": "mota-sca",
+ "governorate": "alexandria",
+ "city": {
+  "en": "Alexandria",
+  "ar": "الإسكندرية"
+ },
+ "area": {
+  "en": "Mustafa Kamel, Sidi Gaber",
+  "ar": "مصطفى كامل، سيدي جابر"
+ },
+ "address": {
+  "en": "Mustafa Kamel district, near Rushdy, Sidi Gaber, Alexandria",
+  "ar": "منطقة مصطفى كامل، بالقرب من رشدي، حي سيدي جابر، الإسكندرية"
+ },
+ "lat": 31.231024,
+ "lng": 29.947231,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "Four Hellenistic rock-cut tombs in eastern Alexandria, with a painted court, Doric façades and a bed-shaped sarcophagus.",
+  "ar": "أربع مقابر منحوتة في الصخر من العصر الهلنستي شرق الإسكندرية، بفناء ملون وواجهات دورية وتابوت على هيئة سرير."
+ },
+ "description": {
+  "en": "Hidden among the apartment blocks of eastern Alexandria, this small cemetery was found in the 1930s and dates from the third and second centuries BC, with burials continuing into the Roman period. Each tomb was a collective family vault cut into the soft limestone. Of the four, two lie underground and are well preserved, while the two above ground survive only as ruins. In the first tomb a rock-cut stair descends to a square court with an altar at its centre. Its southern side is the most richly carved, with Doric half-columns and three doorways still showing bright paint, and the main burial chamber holds a sarcophagus shaped like a couch. The second tomb has a stair, a court and a hall for funerary prayers with two large benches pierced by burial niches. The blend of Greek architecture with Egyptian touches is typical of early Alexandria.",
+  "ar": "تختفي هذه الجبانة الصغيرة بين العمارات السكنية شرق الإسكندرية، وقد عُثر عليها في ثلاثينيات القرن العشرين، ويرجع تاريخها إلى القرنين الثالث والثاني قبل الميلاد، واستمر الدفن فيها خلال العصر الروماني. وكانت كل مقبرة مدفنًا جماعيًا لأسرة نُحت في الحجر الجيري اللين. ومن المقابر الأربع اثنتان تحت الأرض في حالة جيدة، بينما لم يبق من الاثنتين فوق الأرض سوى الأطلال. وفي المقبرة الأولى يهبط سلم منحوت في الصخر إلى فناء مربع يتوسطه مذبح، ويحظى جانبه الجنوبي بأغنى الزخارف، بأنصاف أعمدة دورية وثلاثة أبواب لا تزال ألوانها زاهية، وفي حجرة الدفن الرئيسية تابوت على هيئة سرير. أما المقبرة الثانية فلها سلم وفناء وصالة للصلوات الجنائزية بها مصطبتان كبيرتان حُفرت فيهما فتحات للدفن. ويمثل هذا المزج بين العمارة اليونانية واللمسات المصرية طابع الإسكندرية في عصرها الأول."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Painted doorways",
+    "ar": "الأبواب الملونة"
+   },
+   "desc": {
+    "en": "Three doorways on the court's south side keep their colours.",
+    "ar": "ثلاثة أبواب في الجانب الجنوبي من الفناء تحتفظ بألوانها."
+   }
+  },
+  {
+   "title": {
+    "en": "Court altar",
+    "ar": "مذبح الفناء"
+   },
+   "desc": {
+    "en": "An altar at the centre of the first tomb's court.",
+    "ar": "مذبح يتوسط فناء المقبرة الأولى."
+   }
+  },
+  {
+   "title": {
+    "en": "Couch sarcophagus",
+    "ar": "التابوت على هيئة سرير"
+   },
+   "desc": {
+    "en": "A rock-cut sarcophagus shaped like a banqueting couch.",
+    "ar": "تابوت منحوت على هيئة أريكة الولائم."
+   }
+  },
+  {
+   "title": {
+    "en": "Doric façade",
+    "ar": "الواجهة الدورية"
+   },
+   "desc": {
+    "en": "Half-columns and lintels in Greek style cut into the rock.",
+    "ar": "أنصاف أعمدة وأعتاب على الطراز اليوناني منحوتة في الصخر."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 20,
+  "standardMinutes": 40,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Morning, before the heat builds in the open courts.",
+   "ar": "الصباح، قبل أن تشتد الحرارة في الأفنية المكشوفة."
+  },
+  "crowdNotes": {
+   "en": "Very quiet; ask locals for the entrance, which is easy to miss among the buildings.",
+   "ar": "هادئ جدًا، وقد تحتاج إلى سؤال السكان عن المدخل لأنه يسهل أن يفوتك بين المباني."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Mustafa_Kamel_Necropolis%2C_Alexandria%2C_April_2008.jpg",
+   "author": "Abdelrhman 1990",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mustafa_Kamel_Necropolis,_Alexandria,_April_2008.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mustafa_Kamel_Necropolis%2C_Alexandria%2C_August_2005-1.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mustafa_Kamel_Necropolis,_Alexandria,_August_2005-1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mustafa_Kamel_Necropolis%2C_Alexandria%2C_August_2005-2.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mustafa_Kamel_Necropolis,_Alexandria,_August_2005-2.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%A8%D8%B1_%D9%85%D8%B5%D8%B7%D9%81%D9%89_%D9%83%D8%A7%D9%85%D9%84",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q6862876",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D9%82%D8%A7%D8%A8%D8%B1-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%83%D8%A7%D9%85%D9%84/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%A8%D8%B1_%D9%85%D8%B5%D8%B7%D9%81%D9%89_%D9%83%D8%A7%D9%85%D9%84",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Hours 09:00-17:00: MoTA guide and Nov 2024 list agree; last entry one hour before closing is MoTA's general rule (this guide page does not repeat it). No Ramadan schedule published. Prices 100/50 and 10/5 only from the Nov 2024 list (no portal or booking page). No free groups listed. Discovery in the 1930s and the couch sarcophagus from the MoTA guide and Commons captions; not cross-checked with a published excavation report. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

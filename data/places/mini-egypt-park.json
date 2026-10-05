@@ -1,0 +1,132 @@
+{
+ "id": "mini-egypt-park",
+ "kind": "museum",
+ "wikidataId": "Q131673300",
+ "name": {
+  "en": "Mini Egypt Park",
+  "ar": "ميني إيجيبت بارك"
+ },
+ "category": "specialised",
+ "operator": "private",
+ "governorate": "red-sea",
+ "city": {
+  "en": "Makadi Bay",
+  "ar": "خليج مكادي"
+ },
+ "area": {
+  "en": "Hurghada–Safaga road, Makadi Bay",
+  "ar": "طريق الغردقة–سفاجا، خليج مكادي"
+ },
+ "address": {
+  "en": "Hurghada–Safaga Road, Makadi Bay, Red Sea Governorate",
+  "ar": "طريق الغردقة–سفاجا، خليج مكادي، محافظة البحر الأحمر"
+ },
+ "lat": 26.98939,
+ "lng": 33.85288,
+ "status": "open",
+ "statusNote": {
+  "en": "A private park visited mostly on guided tours booked with hotel pick-up; ask for current times and prices when booking.",
+  "ar": "حديقة خاصة تُزار غالبًا ضمن جولات مصحوبة بمرشد تُحجز مع الانتقال من الفندق، لذا يُنصح بالسؤال عن المواعيد والأسعار الحالية عند الحجز."
+ },
+ "summary": {
+  "en": "A private open-air park of scale models of Egypt's great monuments near Makadi Bay, laid out as a walk from Cairo to Abu Simbel.",
+  "ar": "حديقة خاصة مكشوفة لمجسمات مصغرة لأشهر آثار مصر قرب خليج مكادي، مرتبة كأنها رحلة سير من القاهرة إلى أبو سمبل."
+ },
+ "description": {
+  "en": "Mini Egypt Park is a privately run miniature park beside the Hurghada–Safaga road at Makadi Bay. Instead of original antiquities it displays scale models of Egypt's best-known monuments, arranged so that visitors walk the length of the Nile Valley in a couple of hours. The route passes the temples of Abu Simbel and the Aswan High Dam, the temple of Edfu, Luxor and the great temple of Karnak, and ends at Giza with the pyramids and the Sphinx. Guides explain each site, which makes the park a quick introduction for resort visitors deciding what to see elsewhere in Egypt, and a family outing for children. The park also has a small museum of miniatures with about sixty works collected over many years. Visits are usually sold as guided tours with transport from hotels in Hurghada, Safaga and El Gouna.",
+  "ar": "ميني إيجيبت بارك حديقة مصغرات يديرها القطاع الخاص بجوار طريق الغردقة–سفاجا عند خليج مكادي. ولا تعرض آثارًا أصلية، بل مجسمات مصغرة لأشهر الآثار المصرية، رُتبت بحيث يقطع الزائر وادي النيل كله سيرًا في ساعتين تقريبًا. ويمر المسار بمعابد أبو سمبل والسد العالي بأسوان، ثم معبد إدفو، فالأقصر ومعبد الكرنك الكبير، وينتهي في الجيزة عند الأهرامات وأبو الهول. ويشرح المرشدون كل موقع، فتصبح الحديقة مقدمة سريعة لزوار المنتجعات الذين يختارون ما سيزورونه في أنحاء مصر، ونزهة عائلية مناسبة للأطفال. وتضم الحديقة أيضًا متحفًا صغيرًا للمصغرات يحتوي على نحو ستين عملًا جُمعت على مدى سنوات. وتُباع الزيارة عادة في صورة جولات مصحوبة بمرشد مع الانتقال من فنادق الغردقة وسفاجا والجونة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Abu Simbel and the High Dam",
+    "ar": "أبو سمبل والسد العالي"
+   },
+   "desc": {
+    "en": "The southern end of the route, with models of the Nubian temples and the dam.",
+    "ar": "الطرف الجنوبي للمسار بمجسمات معابد النوبة والسد."
+   }
+  },
+  {
+   "title": {
+    "en": "Karnak and Luxor",
+    "ar": "الكرنك والأقصر"
+   },
+   "desc": {
+    "en": "Scale models of the great Theban temples.",
+    "ar": "مجسمات مصغرة لمعابد طيبة الكبرى."
+   }
+  },
+  {
+   "title": {
+    "en": "Giza pyramids and Sphinx",
+    "ar": "أهرامات الجيزة وأبو الهول"
+   },
+   "desc": {
+    "en": "The finale of the walk through Egypt in miniature.",
+    "ar": "ختام الرحلة عبر مصر المصغرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Miniature museum",
+    "ar": "متحف المصغرات"
+   },
+   "desc": {
+    "en": "About sixty small works gathered over many years.",
+    "ar": "نحو ستين عملًا صغيرًا جُمعت على مدى سنوات."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": "https://miniegyptpark.com/",
+  "platform": "other",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Late afternoon, when the open-air park is cooler.",
+   "ar": "آخر العصر، حين تكون الحديقة المكشوفة ألطف حرارة."
+  },
+  "crowdNotes": {
+   "en": "Fully outdoors with little shade; bring a hat and water.",
+   "ar": "المكان مكشوف بالكامل وقليل الظل، فاحرص على قبعة ومياه."
+  }
+ },
+ "accessibility": {
+  "wheelchair": "reported"
+ },
+ "contacts": {
+  "phone": "+20 111 986 0033",
+  "website": "https://miniegyptpark.com/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q131673300",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "status,description,highlights,tickets,contacts (official park website with live booking form)",
+   "url": "https://miniegyptpark.com/",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Private attraction, not SCA. Status 'open' on the strength of the live official booking site (no dated 2024-2026 statement found; copyright line says 2022). The site sells guided tours in EUR with hotel transfer; no stand-alone entry price, so prices.status = unconfirmed. Third-party listings (holidify, excursionmania) quote daily 10:00-19:00 and EGP 550/295 or EUR 20 - not official, not used. accessibility.wheelchair 'reported' = the booking page lists 'Wheelchair Accessibility'. No photos: the models are recent copyrighted works and Egypt has no freedom of panorama."
+}

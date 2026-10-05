@@ -165,8 +165,6 @@
    "Children under 6",
    "Egyptians aged 60+",
    "Egyptians with special needs",
-   "Orphaned children",
-   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
    "Mobile-phone photography is free"
   ],
   "includedIn": "cairo-citadel",
@@ -182,14 +180,6 @@
    {
     "en": "Egyptians with special needs",
     "ar": "المصريون من ذوي الهمم"
-   },
-   {
-    "en": "Orphaned children",
-    "ar": "الأطفال الأيتام"
-   },
-   {
-    "en": "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
-    "ar": "رحلات المدارس الحكومية والأزهرية للمرحلتين الابتدائية والإعدادية المحجوزة عبر منصة «رحلة»"
    },
    {
     "en": "Mobile-phone photography is free",
@@ -319,5 +309,5 @@
  ],
  "verifiedAt": "2026-10-04",
  "confidence": "medium",
- "curationNote": "Hours: egymonuments.gov.eg says 08:00-16:00 and that the ticket window closes at 16:00 (no separate last entry; Citadel gate last entry is 16:00). No Ramadan hours found for the museum, so no Ramadan exception. Price: the museum page still shows the old Citadel area ticket (200/100, 60/30) plus a night ticket and camera fees; the current Citadel ticket (550/275, 60/30 on egymonuments.gov.eg Citadel page and egymonuments.com) is used and the stale extras are omitted. Operator: Ministry of Defense (mod.gov.eg lists the museum)."
+ "curationNote": "Hours: egymonuments.gov.eg says 08:00-16:00 and that the ticket window closes at 16:00 (no separate last entry; Citadel gate last entry is 16:00). No Ramadan hours found for the museum, so no Ramadan exception. Price: the museum page still shows the old Citadel area ticket (200/100, 60/30) plus a night ticket and camera fees; the current Citadel ticket (550/275, 60/30 on egymonuments.gov.eg Citadel page and egymonuments.com) is used and the stale extras are omitted. Operator: Ministry of Defense (mod.gov.eg lists the museum). 2026-10-05: freeGroups aligned with cairo-citadel (same ticket)."
 }

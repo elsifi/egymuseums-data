@@ -1,0 +1,58 @@
+[
+ {
+  "id": "heriyet-rezna-museum",
+  "reason": "Duplicate of ahmed-orabi-museum: both records are the Sharqia National Museum at Hurriya Razna (Wikidata Q130218217 and Q6852382). The canonical record is ahmed-orabi-museum, renamed \"Sharqia National Museum\" (batch-13 G2a)."
+ },
+ {
+  "id": "minya-museum",
+  "reason": "Duplicate of aten-museum: Q130216212 has no coordinates, sitelinks or official listing and describes the Aten Museum project in Minya (batch-12 Q2a)."
+ },
+ {
+  "id": "san-el-hagar-museum",
+  "reason": "Duplicate of tanis: no separate museum exists at San el-Hagar; the Tanis site itself is the open-air museum. Name kept as an alias of tanis (batch-13 G3a)."
+ },
+ {
+  "id": "heliopolis-open-air-museum",
+  "reason": "Part of obelisk-of-senusret-i: the open-air museum around the obelisk, entered on the same ticket. Facts folded into the parent as a highlight and aliases (batch-9 Q5a)."
+ },
+ {
+  "id": "hunting-museum-manial",
+  "reason": "Part of manial-palace-museum: a section of the palace museum on the same ticket; the parent already has a Hunting Museum highlight, and the name is kept as an alias (batch-9 Q5a)."
+ },
+ {
+  "id": "mashrabia-art-gallery",
+  "reason": "Commercial art gallery, not a museum (batch-10 Q3a)."
+ },
+ {
+  "id": "espace-karim-francis",
+  "reason": "Commercial art gallery, not a museum (batch-9 Q4a)."
+ },
+ {
+  "id": "science-museum",
+  "reason": "No evidence the museum exists: only a two-sentence ar-wiki stub, with no location, operator or official source (batch-10 Q3a)."
+ },
+ {
+  "id": "damietta-science-museum",
+  "reason": "No evidence the museum exists today: only an undated directory listing and the ar-wiki list (batch-11 Q5a)."
+ },
+ {
+  "id": "al-turathiya-museum-ismailia",
+  "reason": "Unverifiable: no source beyond the ar-wiki list of museums; searches found no museum of this name in Ismailia (batch-11 Q5a)."
+ },
+ {
+  "id": "suez-canal-historical-exhibition",
+  "reason": "Superseded: no source after 2017; replaced by the Suez Canal Museum in Ismailia (suez-canal-museum) (batch-11 Q5a)."
+ },
+ {
+  "id": "confiscated-antiquities-museum",
+  "reason": "No longer exists: the building was found unsafe, its objects were dispersed and the site absorbed into the Citadel development; no photo or current source (batch-9 Q4a)."
+ },
+ {
+  "id": "college-museum-university-of-assiut",
+  "reason": "Not identifiable as a visitable museum: Wikidata gives only a one-line description and no source confirms public access (batch-8 Q7a)."
+ },
+ {
+  "id": "alexandria-underwater-museum",
+  "reason": "Never built: a proposal with no site; the submerged antiquities are only a licensed dive (decision 2026-10-05: records that are not real visitable places are removed; overrides batch-8 Q6a)."
+ }
+]

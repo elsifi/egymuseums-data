@@ -1,0 +1,121 @@
+{
+ "id": "al-arish-national-museum",
+ "kind": "museum",
+ "wikidataId": "Q125496515",
+ "name": {
+  "en": "Al-Arish National Museum",
+  "ar": "متحف العريش"
+ },
+ "aliases": [
+  "متحف العريش القومي"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "north-sinai",
+ "city": {
+  "en": "Arish",
+  "ar": "العريش"
+ },
+ "area": {
+  "en": "Coastal road (Way of Horus route), Arish",
+  "ar": "الطريق الساحلي (مسار طريق حورس)، العريش"
+ },
+ "address": {
+  "en": "Arish, North Sinai Governorate",
+  "ar": "العريش، محافظة شمال سيناء"
+ },
+ "lat": 31.144277,
+ "lng": 33.832743,
+ "status": "unknown",
+ "statusNote": {
+  "en": "Its current opening status is uncertain: a reopening has been announced in the past, so check before travelling.",
+  "ar": "وضعه الحالي غير واضح، فقد أُعلن من قبل عن إعادة افتتاحه، لذا يُنصح بالتحقق قبل السفر."
+ },
+ "summary": {
+  "en": "North Sinai's regional museum, built to tell the story of the peninsula from prehistory to modern times; it has been out of service for years.",
+  "ar": "المتحف الإقليمي لشمال سيناء، أُنشئ ليروي تاريخ شبه الجزيرة من عصور ما قبل التاريخ حتى العصر الحديث، وهو خارج الخدمة منذ سنوات."
+ },
+ "description": {
+  "en": "Al-Arish National Museum stands beside the coastal road that follows the ancient Way of Horus, the military route that linked Egypt with the Levant. Planned in the 1980s and opened in March 2008, it was designed to recall an ancient Egyptian tomb and spreads over two floors with eight galleries. Its purpose was to present finds from excavations in North Sinai and antiquities returned to Egypt by Israel, alongside the heritage of the peninsula's Bedouin communities. The galleries covered the pharaonic, Graeco-Roman, Coptic and Islamic periods, with rooms for pottery and coins and conservation laboratories behind the scenes. When security in North Sinai deteriorated after 2011, the collection was moved to safe storage, and in 2015 the empty building was struck by shells. Plans to restore it and reopen with a new display have been announced, but no reopening has been confirmed.",
+  "ar": "يقع متحف العريش القومي بجوار الطريق الساحلي الذي يتتبع مسار طريق حورس الحربي القديم، الذي ربط مصر ببلاد الشام. خُطط له في ثمانينيات القرن الماضي وافتُتح في مارس 2008، وصُمم مبناه على هيئة مقبرة مصرية قديمة، ويمتد على طابقين يضمان ثماني قاعات. وكان الهدف منه عرض مكتشفات الحفائر في شمال سيناء والآثار التي استردتها مصر من إسرائيل، إلى جانب تراث البدو في شبه الجزيرة. وتناولت قاعاته العصور الفرعونية واليونانية الرومانية والقبطية والإسلامية، مع قاعات للفخار والعملات ومعامل للترميم خلف قاعات العرض. ومع تدهور الأوضاع الأمنية في شمال سيناء بعد عام 2011 نُقلت المقتنيات إلى مخازن آمنة، وفي عام 2015 أصابت قذائف المبنى الخالي. وقد أُعلن عن خطط لترميمه وإعادة افتتاحه بسيناريو عرض جديد، لكن لم يتأكد افتتاحه حتى الآن."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Sinai through the ages",
+    "ar": "سيناء عبر العصور"
+   },
+   "desc": {
+    "en": "Galleries planned to trace the peninsula from its first inhabitants to the Islamic period.",
+    "ar": "قاعات أُعدت لتتبع تاريخ شبه الجزيرة من سكانها الأوائل حتى العصر الإسلامي."
+   }
+  },
+  {
+   "title": {
+    "en": "Way of Horus",
+    "ar": "طريق حورس الحربي"
+   },
+   "desc": {
+    "en": "The museum was built to present the ancient military road along the north Sinai coast.",
+    "ar": "أُنشئ المتحف لإبراز الطريق الحربي القديم على ساحل شمال سيناء."
+   }
+  },
+  {
+   "title": {
+    "en": "Recovered antiquities",
+    "ar": "الآثار المستردة"
+   },
+   "desc": {
+    "en": "Objects returned to Egypt after the Sinai recovery agreements were meant to be shown here.",
+    "ar": "كان من المقرر عرض القطع التي عادت إلى مصر بعد اتفاقيات استرداد آثار سيناء."
+   }
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D8%B4",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q125496515",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,status (not listed in the MoTA list of open museums and sites)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (no page in the MoTA guide to open museums, checked 2026-10-05)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (history, collection, 2015 attack; facts only, prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D8%B4",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "statusNote (reopening announced around the October celebrations; date of article not shown)",
+   "url": "https://akhbarelyom.com/news/newdetails/3827656/1/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (opening 16 Mar 2008, eight halls; governorate page, data of July 2010)",
+   "url": "http://www.northsinai.gov.eg/art/museums/display.aspx?ID=3",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Status 'unknown': no 2024-2026 source says the museum is open; it is absent from the MoTA guide to open museums and from the Nov 2024 ticket list. An Akhbar el-Yom article (id 3827656, blocked to fetch, likely 2022) announced reopening 'by the October celebrations'; no later confirmation found. No hours or prices given. No photos: Commons has no compliant image of the museum or its collection (the 2008 building is modern, no freedom of panorama)."
+}

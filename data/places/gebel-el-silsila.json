@@ -1,0 +1,311 @@
+{
+ "id": "gebel-el-silsila",
+ "kind": "site",
+ "wikidataId": "Q1261930",
+ "name": {
+  "en": "Gebel el-Silsila",
+  "ar": "جبل السلسلة"
+ },
+ "aliases": [
+  "جبل السلسلة (قرية)",
+  "قرية جبل السلسلة",
+  "Khenet"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Kom Ombo",
+  "ar": "كوم أمبو"
+ },
+ "area": {
+  "en": "Both banks of the Nile, north of Kom Ombo",
+  "ar": "ضفتا النيل، شمال كوم أمبو"
+ },
+ "address": {
+  "en": "Gebel el-Silsila, on the Nile about 20 km north of Kom Ombo; the main monuments are on the west bank",
+  "ar": "جبل السلسلة، على النيل على بعد نحو 20 كم شمال كوم أمبو، وتقع الآثار الرئيسية على البر الغربي"
+ },
+ "lat": 24.633333,
+ "lng": 32.933333,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The west-bank monuments are usually reached by boat; many Nile cruises stop here.",
+  "ar": "مفتوح يوميًا، ويمكن الوصول إلى آثار البر الغربي عادةً بالقوارب، وتتوقف عنده كثير من الرحلات النيلية."
+ },
+ "summary": {
+  "en": "The great sandstone quarries of ancient Egypt, lined with rock-cut shrines, chapels and royal stelae beside the Nile.",
+  "ar": "محاجر الحجر الرملي الكبرى في مصر القديمة، تصطف على جانبي النيل مقاصيرها الصخرية ومعابدها ولوحاتها الملكية."
+ },
+ "description": {
+  "en": "Where the Nile narrows between sandstone cliffs, the ancient Egyptians opened more than a hundred quarries that supplied the stone for many of the great temples of Upper Egypt, from the Middle Kingdom until the twentieth century. Tool marks, quarry roads and workers' graffiti still cover the rock. On the west bank, Horemheb cut a temple into the cliff, the Speos, dedicated to seven gods whose statues sit in its sanctuary. Beside it, a row of small rock chapels belonged to high officials of Hatshepsut and Thutmose III, and further south stand the porch-like shrines of Seti I, Ramesses II and Merenptah and a large stela of Ramesses III. These kings honoured the gods of the river and its flood, including Hapy, Taweret, Khnum and Sobek, the crocodile god of the place. Shrines, stelae and graffiti from prehistory to Roman times are scattered along both banks.",
+  "ar": "حيث يضيق مجرى النيل بين مرتفعات الحجر الرملي، فتح المصريون القدماء أكثر من مئة محجر زودت كثيرًا من معابد مصر العليا الكبرى بالأحجار منذ الدولة الوسطى حتى القرن العشرين. ولا تزال آثار الأدوات وطرق المحاجر ونقوش العمال تغطي الصخور. وعلى البر الغربي نحت حور محب معبدًا في الصخر يُعرف بالسبيوس، كرسه لسبعة معبودات تجلس تماثيلها في قدس الأقداس. وإلى جواره صف من المقاصير الصخرية الصغيرة لكبار موظفي حتشبسوت وتحتمس الثالث، وإلى الجنوب تقوم مقاصير على هيئة الأروقة لسيتي الأول ورمسيس الثاني ومرنبتاح، ولوحة كبيرة لرمسيس الثالث. وقد كرّم هؤلاء الملوك معبودات النهر وفيضانه، ومنها حعبي وتاورت وخنوم وسوبك، المعبود التمساح رب المكان. وتنتشر على الضفتين مقاصير ولوحات ونقوش تمتد من عصور ما قبل التاريخ حتى العصر الروماني."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Speos of Horemheb",
+    "ar": "سبيوس حور محب"
+   },
+   "desc": {
+    "en": "A rock-cut temple with statues of seven gods.",
+    "ar": "معبد منحوت في الصخر بتماثيل لسبعة معبودات."
+   }
+  },
+  {
+   "title": {
+    "en": "Officials' chapels",
+    "ar": "مقاصير الموظفين"
+   },
+   "desc": {
+    "en": "Rock chapels of officials of Hatshepsut and Thutmose III.",
+    "ar": "مقاصير صخرية لموظفين من عهد حتشبسوت وتحتمس الثالث."
+   }
+  },
+  {
+   "title": {
+    "en": "Royal shrines",
+    "ar": "المقاصير الملكية"
+   },
+   "desc": {
+    "en": "Shrines of Seti I, Ramesses II and Merenptah above the river.",
+    "ar": "مقاصير سيتي الأول ورمسيس الثاني ومرنبتاح فوق النهر."
+   }
+  },
+  {
+   "title": {
+    "en": "Ancient quarries",
+    "ar": "المحاجر القديمة"
+   },
+   "desc": {
+    "en": "Quarry faces with tool marks and workers' graffiti.",
+    "ar": "واجهات محاجر بآثار الأدوات ونقوش العمال."
+   }
+  },
+  {
+   "title": {
+    "en": "Nile stelae",
+    "ar": "لوحات النيل"
+   },
+   "desc": {
+    "en": "Royal stelae honouring the river and its flood.",
+    "ar": "لوحات ملكية تمجد النهر وفيضانه."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "16:00",
+    "lastEntry": "15:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/Gebelal-Silsila",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Morning or late afternoon, when the light on the sandstone is best.",
+   "ar": "الصباح أو آخر العصر، حين يكون الضوء على الحجر الرملي في أجمل حالاته."
+  },
+  "crowdNotes": {
+   "en": "Quiet except when a cruise boat is moored. Paths along the cliffs are uneven.",
+   "ar": "هادئ إلا عند رسو إحدى السفن السياحية، والممرات على طول المرتفعات غير مستوية."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Silsileh.jpg",
+   "author": "Eliane Ceccon",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silsileh.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Dj%C3%A9bel_Sels%C3%A9leh_%28Silsilis%29%2C_Steles_Architecturales_Taill%C3%A9es_Dans_les_Carri%C3%A9res_MET_DP138589.jpg",
+   "author": "Félix Teynard / Imprimerie photographique H. de Fonteny et Cie",
+   "license": "CC0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dj%C3%A9bel_Sels%C3%A9leh_(Silsilis),_Steles_Architecturales_Taill%C3%A9es_Dans_les_Carri%C3%A9res_MET_DP138589.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Edward_Lear_-_Silsilis_-_Google_Art_Project.jpg",
+   "author": "Edward Lear",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edward_Lear_-_Silsilis_-_Google_Art_Project.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/gebel-el-silsila/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Gebel_el-Silsila",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%A7%D9%84%D8%B3%D9%84%D8%B3%D9%84%D8%A9",
+  "osm": "node/9204369618"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q1261930",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/gebel-el-silsila/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/speos-of-horemheb/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/royal-stelae/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/nile-stelae-1/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/new-kingdom-cemetery-in-gebel-al-silsila/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices,description (official portal page)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/gebel-el-silsila/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),freeGroups (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/Gebelal-Silsila",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/198",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Gebel_el-Silsila",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal 07:00-16:00, booking page last entry 15:00 (Ramadan row identical, so no exception), Nov 2024 list 07:00-16:00; prices 100/50 and 10/5 everywhere. No MoTA guide page found. Seed city empty; Kom Ombo added (nearest town). cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

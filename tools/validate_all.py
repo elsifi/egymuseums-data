@@ -16,7 +16,13 @@ Dataset rules (errors):
 Editorial rules for enriched files (errors):
   * every localized field that has `en` text also has `ar` text
   * every highlight has non-empty title and desc in both languages
-  * at least one photo
+  * at least one photo, except tier "minor" (decision 2026-10-05: minor places may have
+    zero photos when nothing compliant exists; curationNote should say why)
+  * every freeGroups list has a matching freeGroupsLocalized list (same English strings)
+Catalog rules (errors):
+  * prices.includedIn names an existing, non-excluded enriched place
+  * tools/seed/excluded.json ids exist in the seed, are unique, carry a reason,
+    and have no data/places/<id>.json file
 Schema v1.1 rules (errors, enriched and seed):
   * prices.status "unconfirmed" -> no tiers, extras or freeGroups
   * prices.status "free" -> every tier amount is 0
@@ -37,6 +43,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 SCHEMA = ROOT / "data/schema/place.schema.json"
 PLACES = ROOT / "data/places"
 SEED = ROOT / "data/seed/places.json"
+EXCLUDED = ROOT / "tools/seed/excluded.json"
 
 SUPPORTED = {
     "$ref", "type", "enum", "required", "properties", "additionalProperties", "items",
@@ -203,8 +210,15 @@ def editorial(rec, path):
                 val = loc.get(lang) if isinstance(loc, dict) else None
                 if not (isinstance(val, str) and val.strip()):
                     errs.append(f"{path}.highlights[{i}].{part}.{lang}: empty")
-    if not rec.get("photos"):
-        errs.append(f"{path}.photos: at least one photo required")
+    if not rec.get("photos") and rec.get("tier") != "minor":
+        errs.append(f"{path}.photos: at least one photo required (tier {rec.get('tier')!r})")
+    p = rec.get("prices")
+    if isinstance(p, dict) and p.get("freeGroups"):
+        loc = p.get("freeGroupsLocalized")
+        if not loc:
+            errs.append(f"{path}.prices: freeGroups without freeGroupsLocalized")
+        elif [x.get("en") if isinstance(x, dict) else None for x in loc] != p["freeGroups"]:
+            errs.append(f"{path}.prices: freeGroupsLocalized English does not match freeGroups")
     return errs
 
 
@@ -239,6 +253,15 @@ def main():
         if not quiet:
             print(f"{'ok ' if not errs else 'ERR'} data/places/{f.name}" + (f"  ({len(errs)} errors)" if errs else ""))
 
+    # cross-record catalog rules
+    excluded = json.loads(EXCLUDED.read_text(encoding="utf-8")) if EXCLUDED.exists() else []
+    excl_ids = [e.get("id") for e in excluded if isinstance(e, dict)]
+    for pid, fname in ids.items():
+        rec = json.loads((PLACES / fname).read_text(encoding="utf-8"))
+        inc = (rec.get("prices") or {}).get("includedIn") if isinstance(rec.get("prices"), dict) else None
+        if inc and (inc not in ids or inc in excl_ids):
+            errors.append(f"{pid}.prices.includedIn: {inc!r} is not an enriched, non-excluded place")
+
     # seed
     seed = json.loads(SEED.read_text(encoding="utf-8"))
     seed_errs = []
@@ -255,12 +278,22 @@ def main():
             seed_errs.append(f"seed[{pid}]: duplicate id")
         seen.add(pid)
     errors += seed_errs
+    for e in excluded:
+        if not (isinstance(e, dict) and e.get("id") and str(e.get("reason", "")).strip()):
+            errors.append(f"excluded.json: entry needs id and reason: {e!r}")
+    if len(set(excl_ids)) != len(excl_ids):
+        errors.append("excluded.json: duplicate ids")
+    for x in excl_ids:
+        if x not in seen:
+            errors.append(f"excluded.json: {x!r} is not a seed id")
+        if x in ids:
+            errors.append(f"excluded.json: {x!r} still has data/places/{x}.json")
     if not quiet:
         print(f"{'ok ' if not seed_errs else 'ERR'} data/seed/places.json ({len(seed)} records)" + (f"  ({len(seed_errs)} errors)" if seed_errs else ""))
 
     for e in errors:
         print("  -", e)
-    print(f"\n{len(files)} place files + {len(seed)} seed records checked: {len(errors)} errors")
+    print(f"\n{len(files)} place files + {len(seed)} seed records checked ({len(excl_ids)} seed ids excluded): {len(errors)} errors")
     return 1 if errors else 0
 
 

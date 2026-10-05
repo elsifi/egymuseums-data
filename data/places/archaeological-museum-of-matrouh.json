@@ -1,0 +1,413 @@
+{
+ "id": "archaeological-museum-of-matrouh",
+ "kind": "museum",
+ "wikidataId": "Q132126273",
+ "name": {
+  "en": "Marsa Matrouh Museum",
+  "ar": "متحف آثار مطروح"
+ },
+ "aliases": [
+  "Archaeological Museum of Matrouh",
+  "Matrouh Archaeology Museum",
+  "متحف مطروح",
+  "متحف مطروح القومي"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "matrouh",
+ "city": {
+  "en": "Marsa Matrouh",
+  "ar": "مرسى مطروح"
+ },
+ "area": {
+  "en": "Corniche, inside the Misr Public Library",
+  "ar": "الكورنيش، داخل مكتبة مصر العامة"
+ },
+ "address": {
+  "en": "Misr Public Library, Corniche Street, Marsa Matrouh",
+  "ar": "مكتبة مصر العامة، شارع الكورنيش، مرسى مطروح"
+ },
+ "lat": 31.3554,
+ "lng": 27.2393,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. In summer the museum closes for a midday break and reopens in the evening.",
+  "ar": "مفتوح يوميًا، ويغلق المتحف صيفًا لاستراحة في منتصف النهار ثم يعاود الفتح مساءً."
+ },
+ "summary": {
+  "en": "Matrouh's first archaeological museum, on two floors of the public library, telling the story of Egypt's western frontier.",
+  "ar": "أول متحف للآثار في محافظة مطروح، يشغل طابقين من مكتبة مصر العامة ويروي قصة حدود مصر الغربية."
+ },
+ "description": {
+  "en": "This small museum was set up inside the Misr Public Library in Marsa Matrouh in cooperation with the governorate and opened in March 2018. It was the first antiquities museum in Matrouh Governorate, and it presents finds from excavations along the north-west coast and in the Western Desert, a region that ancient Egyptians knew as a frontier with Libya. In Roman times the town itself was the port of Paraetonium. The ground floor looks at how pharaohs secured the western border with forts and garrisons, and at the deities of the desert. Upstairs, seven themed rooms cover trade and fishing, links with neighbouring lands, daily life and adornment, science and learning, beliefs about the afterlife, and Coptic and Islamic art. With its 728 square metres of display, it takes about an hour and pairs well with a seafront walk along the corniche.",
+  "ar": "أُنشئ هذا المتحف الصغير داخل مكتبة مصر العامة في مرسى مطروح بالتعاون مع المحافظة، وافتُتح في مارس 2018، وهو أول متحف للآثار في محافظة مطروح. ويعرض مكتشفات الحفائر على الساحل الشمالي الغربي وفي الصحراء الغربية، وهي منطقة عرفها المصريون القدماء تخمًا مع ليبيا، وكانت المدينة نفسها في العصر الروماني ميناءً يُعرف باسم باريتونيوم. ويتناول الطابق الأول جهود ملوك مصر في تأمين الحدود الغربية بإقامة القلاع والحاميات، ومعبودات الصحراء. أما الطابق الثاني فيضم سبع قاعات تتناول التجارة والصيد، والصلات بالبلاد المجاورة، والحياة اليومية والزينة، والعلوم، والعقائد المتعلقة بالعالم الآخر، والفن القبطي والإسلامي. وتبلغ مساحة العرض 728 مترًا مربعًا، فتكفي الزيارة نحو ساعة، ويسهل الجمع بينها وبين نزهة على الكورنيش."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Western frontier gallery",
+    "ar": "قاعة الحدود الغربية"
+   },
+   "desc": {
+    "en": "Finds illustrating forts and garrisons that guarded Egypt's western border.",
+    "ar": "قطع توضح القلاع والحاميات التي حرست حدود مصر الغربية."
+   }
+  },
+  {
+   "title": {
+    "en": "Trade and fishing",
+    "ar": "التجارة والصيد"
+   },
+   "desc": {
+    "en": "Objects from Matrouh's history as a Mediterranean harbour.",
+    "ar": "مقتنيات من تاريخ مطروح ميناءً على البحر المتوسط."
+   }
+  },
+  {
+   "title": {
+    "en": "Daily life and adornment",
+    "ar": "الحياة اليومية والزينة"
+   },
+   "desc": {
+    "en": "Household items, jewellery and cosmetic objects.",
+    "ar": "أدوات منزلية وحلي وأدوات للزينة."
+   }
+  },
+  {
+   "title": {
+    "en": "Coptic and Islamic art",
+    "ar": "الفن القبطي والإسلامي"
+   },
+   "desc": {
+    "en": "A room on the region's later centuries.",
+    "ar": "قاعة مخصصة للعصور اللاحقة في المنطقة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sat",
+      "open": "17:00",
+      "close": "22:00",
+      "lastEntry": "21:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "17:00",
+      "close": "22:00",
+      "lastEntry": "21:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "17:00",
+      "close": "22:00",
+      "lastEntry": "21:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "17:00",
+      "close": "22:00",
+      "lastEntry": "21:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "17:00",
+      "close": "22:00",
+      "lastEntry": "21:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "17:00",
+      "close": "22:00",
+      "lastEntry": "21:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "17:00",
+      "close": "22:00",
+      "lastEntry": "21:00"
+     }
+    ]
+   },
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00",
+      "lastEntry": "14:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 180
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 90
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 20
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 10
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Orphaned children",
+    "ar": "الأطفال الأيتام"
+   },
+   {
+    "en": "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+    "ar": "رحلات المدارس الحكومية والأزهرية للمرحلتين الابتدائية والإعدادية المحجوزة عبر منصة «رحلة»"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Morning, or an evening visit in summer.",
+   "ar": "الصباح، أو زيارة مسائية في فصل الصيف."
+  },
+  "crowdNotes": {
+   "en": "Quiet outside the summer beach season. The museum shares its building with a public library.",
+   "ar": "هادئ خارج موسم المصايف، ويشترك المتحف في المبنى مع مكتبة عامة."
+  }
+ },
+ "photos": [],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/marsa-matrouh-museum/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Matrouh_Archaeology_Museum",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D8%A2%D8%AB%D8%A7%D8%B1_%D9%85%D8%B7%D8%B1%D9%88%D8%AD",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q132126273",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/marsa-matrouh-museum/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (winter 09:00-17:00; summer 09:00-15:00 and 17:00-22:00; Ramadan 09:00-15:00),address,description",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-متاحف-الآثار-المفتوحة-للزيارة-جديد/متحف-مطروح/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (break 15:00-17:00, ticket window closes 1 h before),prices (80/40, 20/10; see curationNote),freeGroups,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/museums/marsa-matrouh-museum/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (180/90, 20/10),hours (MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (opened 1 March 2018; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Matrouh_Archaeology_Museum",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Foreign price conflict: portal 80/40 vs MoTA Nov 2024 list 180/90 (Egyptian 20/10 in both). The portal figure looks pre-Nov-2024; the newer list is used (batch-12 Q3a); confirm via hotline 19654. Hours conflict: portal 08:00-15:00 + 17:00-22:00 (ticket window closes 14:00 and 21:00) with no seasons; MoTA guide and Nov 2024 list give winter 09:00-17:00 and summer 09:00-15:00 + 17:00-22:00. Narrowest window used (09:00 opening). Winter last entry 16:00 by MoTA's one-hour rule. Not on egymonuments.com. Summer exception dated 2026-04-24 to 2026-10-29 (daylight-saving period, until the last Thursday of October, as all other summer exceptions); the winter 2026-27 schedule had not been announced on 2026-10-05: recheck after 29 Oct 2026. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. No CC photo exists of the museum's objects; the 2018 building is excluded (no freedom of panorama), so photos are empty."
+}

@@ -1,0 +1,270 @@
+{
+ "id": "cairo-airport-museum-terminal-3",
+ "kind": "museum",
+ "wikidataId": "Q130215955",
+ "name": {
+  "en": "Cairo International Airport Museum (Terminal 3)",
+  "ar": "متحف مطار القاهرة الدولي (صالة 3)"
+ },
+ "aliases": [
+  "متحف المطار"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Cairo International Airport, Heliopolis",
+  "ar": "مطار القاهرة الدولي، مصر الجديدة"
+ },
+ "address": {
+  "en": "Terminal 3, Cairo International Airport, Cairo — inside the passenger terminal",
+  "ar": "صالة 3، مطار القاهرة الدولي، القاهرة — داخل مبنى الركاب"
+ },
+ "status": "open",
+ "statusNote": {
+  "en": "Open 24 hours inside the terminal, so in practice it can be visited only by passengers with access to that area.",
+  "ar": "مفتوح على مدار الساعة داخل مبنى الركاب، فيقتصر عمليًا على المسافرين الذين يمكنهم الوصول إلى هذه المنطقة."
+ },
+ "summary": {
+  "en": "The original Cairo Airport museum, in Terminal 3: one gallery of about sixty objects from pharaonic to modern times for travellers.",
+  "ar": "أول متاحف مطار القاهرة، في صالة 3: قاعة واحدة تضم نحو ستين قطعة من العصر الفرعوني حتى العصر الحديث للمسافرين."
+ },
+ "description": {
+  "en": "The first museum at Cairo International Airport opened in Terminal 3 in 2016, with 38 objects in a 60-square-metre space, under an agreement between the antiquities and civil aviation ministries. In 2020 it moved to a larger hall of about 150 square metres on an upper floor of the same terminal, and it reopened on International Museum Day in May 2021. The single gallery is designed as an introduction to Egyptian civilisation for arriving, departing and transit travellers. Around sixty objects lead from the pharaonic period through Graeco-Roman, Coptic and Islamic art to modern times; they include mummies with gilded masks, statues of ancient gods, canopic jars, oil lamps and icons. The museum is open around the clock but sits inside the terminal, so it is in practice reserved for passengers.",
+  "ar": "افتُتح أول متحف بمطار القاهرة الدولي في صالة 3 عام 2016، وضم 38 قطعة على مساحة 60 مترًا مربعًا، بموجب بروتوكول تعاون بين وزارتي الآثار والطيران المدني. وفي عام 2020 نُقل إلى قاعة أكبر تبلغ نحو 150 مترًا مربعًا في طابق علوي بالمبنى نفسه، وأعيد افتتاحه في اليوم العالمي للمتاحف في مايو 2021. وصُممت قاعته الوحيدة لتكون مدخلًا إلى الحضارة المصرية للقادمين والمغادرين ومسافري الترانزيت. وتقود نحو ستين قطعة الزائر من العصر الفرعوني مرورًا بالفنون اليونانية الرومانية والقبطية والإسلامية حتى العصر الحديث، ومنها مومياوات بأقنعة مذهبة وتماثيل لآلهة مصرية قديمة وأوانٍ كانوبية ومسارج وأيقونات. والمتحف مفتوح على مدار الساعة، لكنه يقع داخل مبنى الركاب، فيقتصر عمليًا على المسافرين."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Gilded mummy masks",
+    "ar": "الأقنعة المذهبة"
+   },
+   "desc": {
+    "en": "Mummies covered with gilded and decorated masks.",
+    "ar": "مومياوات تغطيها أقنعة مذهبة ومزخرفة."
+   }
+  },
+  {
+   "title": {
+    "en": "Statues of gods",
+    "ar": "تماثيل الآلهة"
+   },
+   "desc": {
+    "en": "Figures of ancient Egyptian deities.",
+    "ar": "تماثيل لآلهة مصر القديمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Canopic jars and lamps",
+    "ar": "الأواني الكانوبية والمسارج"
+   },
+   "desc": {
+    "en": "Jars for embalmed organs and oil lamps from later periods.",
+    "ar": "أوانٍ لحفظ الأحشاء ومسارج من العصور اللاحقة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "00:00",
+    "close": "23:59"
+   },
+   {
+    "day": "sun",
+    "open": "00:00",
+    "close": "23:59"
+   },
+   {
+    "day": "mon",
+    "open": "00:00",
+    "close": "23:59"
+   },
+   {
+    "day": "tue",
+    "open": "00:00",
+    "close": "23:59"
+   },
+   {
+    "day": "wed",
+    "open": "00:00",
+    "close": "23:59"
+   },
+   {
+    "day": "thu",
+    "open": "00:00",
+    "close": "23:59"
+   },
+   {
+    "day": "fri",
+    "open": "00:00",
+    "close": "23:59"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 25
+   }
+  ],
+  "usdPegged": true,
+  "usdAmount": 5,
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians aged 60+",
+   "Egyptians with special needs",
+   "Orphaned children",
+   "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Orphaned children",
+    "ar": "الأطفال الأيتام"
+   },
+   {
+    "en": "Government and Al-Azhar primary and preparatory school trips booked via the Rehla platform",
+    "ar": "رحلات المدارس الحكومية والأزهرية للمرحلتين الابتدائية والإعدادية المحجوزة عبر منصة «رحلة»"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 15,
+  "standardMinutes": 25,
+  "deepMinutes": 40,
+  "bestTime": {
+   "en": "While waiting for a flight, after passport control.",
+   "ar": "أثناء انتظار الرحلة بعد إنهاء إجراءات الجوازات."
+  },
+  "crowdNotes": {
+   "en": "A short visit that fits a layover. Foreigners pay in US dollars.",
+   "ar": "زيارة قصيرة تناسب فترة الانتظار بين الرحلات، ويدفع الأجانب بالدولار الأمريكي."
+  }
+ },
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/museums/cairo-international-airport-museum-terminal-3/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AD%D9%81_%D9%85%D8%B7%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A_(%D8%B5%D8%A7%D9%84%D8%A9_3)",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q130215955",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/museums/cairo-international-airport-museum-terminal-3/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices (Egyptians EGP 25, foreigners USD 5), hours (24 h), freeGroups (official portal)",
+   "url": "https://egymonuments.gov.eg/en/museums/cairo-international-airport-museum-terminal-3/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (24 h; Ramadan 09:00-15:00), address, description (MoTA open-museums guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D9%85%D8%AA%D8%A7%D8%AD%D9%81-%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D8%AA%D8%AD%D9%81-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%B5%D8%A7%D9%84%D8%A9-%D9%A3/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA ticket list: airport museums, 24 hours, USD 5)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (opening 18 May 2021: T2 304 objects in 100 m2; T3 moved and enlarged to 150 m2; official news)",
+   "url": "https://egymonuments.gov.eg/en/news/in-celebration-of-world-museums-day-the-minister-of-tourism-and-antiquities-and-the-minister-of-civil-aviation-open-the-cairo-international-airport-museums-1/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (none: no compliant Commons photo of the museum)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Object count: about 59-60 (Wikipedia/2022 event page); prose says 'around sixty'. Prices: portal says Egyptians EGP 25, foreigners USD 5 (Nov 2024 list also 'USD 5'); encoded as Egyptian adult tier 25 plus usdPegged/usdAmount 5 for the foreign adult price (no EGP figure published). No student prices published. 24-hour opening encoded as 00:00-23:59. Ramadan 09:00-15:00 from the MoTA guide (no last entry published). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Coordinates null in seed and Wikidata; not added. Status open: undated live official pages only; no 2025-2026 news found. No photos: Commons has no photo of either airport museum, and the modern terminal buildings are excluded (no freedom of panorama) - photos are left empty (allowed for minor places, decision of 2026-10-05)."
+}

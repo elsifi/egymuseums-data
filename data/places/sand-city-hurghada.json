@@ -1,0 +1,119 @@
+{
+ "id": "sand-city-hurghada",
+ "kind": "museum",
+ "wikidataId": "Q125030049",
+ "name": {
+  "en": "Sand City Hurghada",
+  "ar": "مدينة الرمال بالغردقة"
+ },
+ "category": "specialised",
+ "operator": "private",
+ "governorate": "red-sea",
+ "city": {
+  "en": "Hurghada",
+  "ar": "الغردقة"
+ },
+ "area": {
+  "en": "Safaga Road, south Hurghada",
+  "ar": "طريق سفاجا، جنوب الغردقة"
+ },
+ "address": {
+  "en": "Safaga Road, Hurghada, Red Sea Governorate",
+  "ar": "طريق سفاجا، الغردقة، محافظة البحر الأحمر"
+ },
+ "lat": 27.099381,
+ "lng": 33.823149,
+ "status": "unknown",
+ "statusNote": {
+  "en": "Tour operators still sell visits, but there is no current official confirmation of hours or prices; check before going.",
+  "ar": "لا تزال شركات السياحة تبيع زيارات إليه، لكن لا يوجد تأكيد رسمي حديث للمواعيد أو الأسعار، لذا يُنصح بالتحقق قبل الذهاب."
+ },
+ "summary": {
+  "en": "A private open-air museum of large sand sculptures on the Safaga road, with mythological figures on one side and cartoon and film characters on the other.",
+  "ar": "متحف خاص مكشوف لمنحوتات رملية ضخمة على طريق سفاجا، يضم شخصيات أسطورية في جانب وشخصيات الرسوم المتحركة والأفلام في جانب آخر."
+ },
+ "description": {
+  "en": "Sand City presents itself as the only open-air sand sculpture museum in Africa and the Middle East. Opened by a private company beside the Safaga road south of central Hurghada, it is made of thousands of cubic metres of compacted sand and water, carved into large free-standing figures and wall reliefs. The display is divided into two parts. The historical and mythological section shows gods and goddesses, legendary heroes, famous military leaders and great romances of history in about twenty sculptures and several reliefs. The wonderland section turns to animated cartoon characters and figures from well-known films, which makes it popular with families. A workshop called the Magic Castle lets children try sand sculpting with simple tools such as trowels, spatulas and spoons. Because the works are made of sand, the sculptures need regular care and can change from season to season.",
+  "ar": "تقدم مدينة الرمال نفسها بوصفها المتحف المكشوف الوحيد للمنحوتات الرملية في أفريقيا والشرق الأوسط. وقد أنشأته شركة خاصة بجوار طريق سفاجا جنوب وسط الغردقة، وهو مصنوع من آلاف الأمتار المكعبة من الرمل المضغوط والماء، نُحتت منها تماثيل ضخمة قائمة بذاتها ونقوش جدارية. وينقسم العرض إلى قسمين؛ يعرض القسم التاريخي والأسطوري آلهة وإلهات وأبطالًا أسطوريين وقادة عسكريين مشهورين وقصص حب خالدة في نحو عشرين منحوتة وعدد من النقوش. أما قسم بلاد العجائب فيتجه إلى شخصيات الرسوم المتحركة وأبطال أفلام مشهورة، مما يجعله محببًا للعائلات. وتتيح ورشة تُسمى القلعة السحرية للأطفال تجربة النحت بالرمل بأدوات بسيطة مثل المسطرين والملاعق. ولأن الأعمال مصنوعة من الرمل فإنها تحتاج إلى عناية مستمرة وقد تتغير من موسم إلى آخر."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Mythological art",
+    "ar": "الفن الأسطوري"
+   },
+   "desc": {
+    "en": "Sand figures of gods, legendary heroes and historical leaders.",
+    "ar": "منحوتات رملية لآلهة وأبطال أسطوريين وقادة تاريخيين."
+   }
+  },
+  {
+   "title": {
+    "en": "Wonderland art",
+    "ar": "فن بلاد العجائب"
+   },
+   "desc": {
+    "en": "Large sand sculptures of cartoon and film characters.",
+    "ar": "منحوتات رملية كبيرة لشخصيات الرسوم المتحركة والأفلام."
+   }
+  },
+  {
+   "title": {
+    "en": "Magic Castle workshop",
+    "ar": "ورشة القلعة السحرية"
+   },
+   "desc": {
+    "en": "A sand-sculpting workshop for children.",
+    "ar": "ورشة لتعليم الأطفال النحت بالرمل."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 60,
+  "deepMinutes": 90,
+  "bestTime": {
+   "en": "Late afternoon, when the open-air site is cooler.",
+   "ar": "آخر العصر، حين يكون المكان المكشوف ألطف حرارة."
+  },
+  "crowdNotes": {
+   "en": "Fully outdoors; bring sun protection.",
+   "ar": "المكان مكشوف بالكامل، فاحرص على الوقاية من الشمس."
+  }
+ },
+ "contacts": {
+  "phone": null,
+  "website": "http://www.sandcityegypt.com/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q125030049",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "description,highlights (official website; content dated 2014)",
+   "url": "http://www.sandcityegypt.com/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "contacts (official website, P856)",
+   "url": "https://www.wikidata.org/wiki/Q125030049",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Private attraction. Status 'unknown': the official website is from 2014 and no dated 2024-2026 official statement was found; resellers (Viator, Tripadvisor, excursionmania 'updated Sept 2026') still sell tickets, which suggests it operates. Sculpture counts differ on the official site itself (12 or 22 sculptures in the historical part; 20 or 23 in the wonderland part), so the text says 'about twenty'. Seed Arabic name 'مدينة الرمال بالغردقة' is editor-added; the site has no Arabic name - keep or check. Wikidata phone (+20-109-004-2265) not verified, so not given. No photos: the sand sculptures are recent copyrighted works (no freedom of panorama), and many depict copyrighted characters."
+}

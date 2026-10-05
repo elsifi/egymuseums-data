@@ -1,0 +1,213 @@
+{
+ "id": "monastery-of-st-macarius",
+ "kind": "site",
+ "wikidataId": "Q3320218",
+ "name": {
+  "en": "Monastery of St. Macarius the Great",
+  "ar": "دير الأنبا مقار"
+ },
+ "aliases": [
+  "دير أبو مقار",
+  "دير الأنبا مقاريوس",
+  "دير الأنبا مكاريوس",
+  "دير القديس أنبا مقار",
+  "Monastery of Saint Macarius of Alexandria"
+ ],
+ "category": "coptic",
+ "operator": "other",
+ "governorate": "beheira",
+ "city": {
+  "en": "Wadi el-Natrun",
+  "ar": "وادي النطرون"
+ },
+ "area": {
+  "en": "Wadi el-Natrun (ancient Scetis), Western Desert",
+  "ar": "وادي النطرون (برية شيهيت)، الصحراء الغربية"
+ },
+ "address": {
+  "en": "Off the Cairo–Alexandria desert road, Wadi el-Natrun, Beheira Governorate",
+  "ar": "بالقرب من طريق القاهرة – الإسكندرية الصحراوي، وادي النطرون، محافظة البحيرة"
+ },
+ "lat": 30.291389,
+ "lng": 30.476111,
+ "status": "open",
+ "statusNote": {
+  "en": "Working Coptic Orthodox monastery. Day visits are arranged in advance by phone with the monastery, and large tour groups are not usually received. Like other Coptic monasteries it may restrict or suspend visits during the great fasts and closes completely in Holy Week, so check before travelling.",
+  "ar": "دير قبطي أرثوذكسي عامر، وتُرتَّب الزيارات النهارية مسبقًا بالاتصال بالدير، ولا يستقبل عادة المجموعات السياحية الكبيرة. وكسائر الأديرة القبطية قد يقيّد الزيارة أو يعلّقها في الأصوام الكبرى ويغلق تمامًا في أسبوع الآلام، فتحقق قبل السفر."
+ },
+ "summary": {
+  "en": "The monastery founded by Saint Macarius the Great in the fourth century, one of the four ancient monasteries still active in Wadi el-Natrun.",
+  "ar": "الدير الذي أسسه القديس مقاريوس الكبير في القرن الرابع الميلادي، وهو أحد الأديرة الأربعة القديمة التي ما زالت عامرة في وادي النطرون."
+ },
+ "description": {
+  "en": "Saint Macarius the Great, a disciple of Saint Anthony, withdrew to the desert of Scetis, today's Wadi el-Natrun, in the second half of the fourth century, and the community that grew around him became one of the cradles of Christian monasticism. Over the centuries the monastery was sacked several times by desert raiders, which explains its high walls and its keep, a fortified tower with chapels on its upper floor where monks could shelter. Its oldest core includes the Church of Saint Macarius, where the bodies of several patriarchs rest, and the Church of the Forty-Nine Elders, named after monks killed in a raid. From 1969 a revival led by Father Matta El-Meskeen brought new monks, farmland, a library of manuscripts and a printing press, and the monastery grew far beyond its old walls. Visitors are usually shown the historic churches and the keep.",
+  "ar": "اعتزل القديس مقاريوس الكبير، تلميذ القديس أنطونيوس، في برية شيهيت، وادي النطرون حاليًا، في النصف الثاني من القرن الرابع الميلادي، فصار المجتمع الرهباني الذي نشأ حوله من أوائل مهود الرهبنة المسيحية. وتعرّض الدير عبر القرون لغارات متكررة من قبائل الصحراء، ولهذا تحيط به أسوار عالية ويضم حصنًا مرتفعًا تعلوه كنائس صغيرة كان الرهبان يلوذون به وقت الخطر. ومن أقدم أجزائه كنيسة القديس مقاريوس التي ترقد فيها أجساد عدد من البطاركة، وكنيسة الشيوخ التسعة والأربعين التي تحمل اسم رهبان استشهدوا في إحدى الغارات. ومنذ عام 1969 شهد الدير نهضة كبيرة بقيادة الأب متى المسكين، فانضم إليه رهبان جدد وأُنشئت أراضٍ زراعية ومكتبة للمخطوطات ومطبعة، واتسع الدير كثيرًا خارج أسواره القديمة. ويُصحب الزائر عادة إلى الكنائس التاريخية والحصن."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Church of Saint Macarius",
+    "ar": "كنيسة القديس مقاريوس"
+   },
+   "desc": {
+    "en": "The main historic church, where the relics of several patriarchs are kept.",
+    "ar": "الكنيسة التاريخية الرئيسية، وتُحفظ فيها رفات عدد من البطاركة."
+   }
+  },
+  {
+   "title": {
+    "en": "The keep",
+    "ar": "الحصن"
+   },
+   "desc": {
+    "en": "A fortified tower that sheltered the monks during raids, with chapels on its upper floor.",
+    "ar": "برج محصّن كان الرهبان يحتمون به وقت الغارات، وتعلوه كنائس صغيرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Church of the Forty-Nine Elders",
+    "ar": "كنيسة الشيوخ التسعة والأربعين"
+   },
+   "desc": {
+    "en": "Dedicated to monks of Scetis martyred in a fifth-century raid.",
+    "ar": "مكرسة لرهبان شيهيت الذين استشهدوا في غارة خلال القرن الخامس الميلادي."
+   }
+  },
+  {
+   "title": {
+    "en": "Cave of Saint Macarius",
+    "ar": "مغارة القديس مقاريوس"
+   },
+   "desc": {
+    "en": "A rock cave in the desert outside the walls, linked by tradition to the saint's solitary life.",
+    "ar": "مغارة صخرية في الصحراء خارج الأسوار ترتبط في التقليد بحياة القديس في الوحدة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "sun",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "mon",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "08:00",
+    "close": "17:00"
+   },
+   {
+    "day": "fri",
+    "open": "08:00",
+    "close": "17:00"
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "A weekday morning outside the fasting seasons, after confirming the visit by phone.",
+   "ar": "صباح أحد أيام الأسبوع خارج فترات الصوم، بعد تأكيد الزيارة هاتفيًا."
+  },
+  "crowdNotes": {
+   "en": "Dress modestly, with shoulders and knees covered, and respect services in progress. There is no public transport, so come by car from the desert road.",
+   "ar": "التزم بالملابس المحتشمة التي تغطي الكتفين والركبتين، واحترم الصلوات القائمة. ولا توجد مواصلات عامة، فتعال بالسيارة من الطريق الصحراوي."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Cave_of_Saint_Macarius_the_Great.jpg",
+   "author": "Faris knight",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cave_of_Saint_Macarius_the_Great.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Macarius_Kloster_BW_11.jpg",
+   "author": "Berthold Werner",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Macarius_Kloster_BW_11.jpg"
+  }
+ ],
+ "contacts": {
+  "phone": "+20 122 288 4278",
+  "website": "https://stmacariusmonastery.org/"
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Macarius_the_Great",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7_%D9%85%D9%82%D8%A7%D8%B1",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q3320218",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (08:00-17:00 daily, no ticket listed; Nov 2024 MoTA ticket list, Beheira section)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status,contacts (monastery's own site: day visits arranged by phone; checked live)",
+   "url": "https://stmacariusmonastery.org/?lang=en",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (Coptic monasteries' fast-period closures, Lent 2025; news 20 Mar 2025)",
+   "url": "https://www.youm7.com/story/2025/3/20/%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%AF%D9%8A%D8%B1%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B5%D9%88%D9%85-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1/6925068",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description,highlights (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Macarius_the_Great",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7_%D9%85%D9%82%D8%A7%D8%B1",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Hours 08:00-17:00 only from the Nov 2024 MoTA ticket list (no ticket listed, so prices.status = unconfirmed). The monastery's own site says day visits in English are arranged by phone (+201222884278, calls only); a search-engine summary also claimed 'open outside fasting periods, permit required, no group tours', but that text was not found on the fetched pages, so only the phone arrangement and the general fast/Holy Week caution are stated. No fast-period exception entered: no Macarius-specific 2025-2026 notice found. Relics attributed to John the Baptist and Elisha (EN wiki) deliberately not listed as a highlight (contested). Photos: modern bell tower, iconostasis with modern icons and modern wall paintings excluded (no freedom of panorama)."
+}

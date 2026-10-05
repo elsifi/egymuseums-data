@@ -1,0 +1,323 @@
+{
+ "id": "elkab",
+ "kind": "site",
+ "wikidataId": "Q287705",
+ "name": {
+  "en": "El-Kab",
+  "ar": "الكاب"
+ },
+ "aliases": [
+  "Elkab",
+  "كاب",
+  "Eileithyiaspolis",
+  "Necheb",
+  "El Kab"
+ ],
+ "category": "pharaonic",
+ "operator": "mota-sca",
+ "governorate": "aswan",
+ "city": {
+  "en": "Edfu",
+  "ar": "إدفو"
+ },
+ "area": {
+  "en": "East bank of the Nile, north of Edfu",
+  "ar": "البر الشرقي للنيل، شمال إدفو"
+ },
+ "address": {
+  "en": "El-Kab, east bank of the Nile about 15 km north of Edfu, Aswan Governorate",
+  "ar": "الكاب، على البر الشرقي للنيل على بعد نحو 15 كم شمال إدفو، محافظة أسوان"
+ },
+ "lat": 25.116667,
+ "lng": 32.8,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوح يوميًا."
+ },
+ "summary": {
+  "en": "Ancient Nekheb, city of the vulture goddess Nekhbet, with huge mud-brick walls and New Kingdom tombs telling of the war against the Hyksos.",
+  "ar": "نخب القديمة، مدينة الربة نخبت ذات هيئة النسر، بأسوارها الضخمة من الطوب اللبن ومقابر الدولة الحديثة التي تروي الحرب ضد الهكسوس."
+ },
+ "description": {
+  "en": "Midway between Luxor and Aswan, El-Kab was ancient Nekheb, capital of the third province of Upper Egypt and home of Nekhbet, the vulture goddess who protected the king of the south. People lived here from prehistoric times to the Graeco-Roman period. The town is enclosed by enormous mud-brick walls, still standing to an impressive height, around the remains of Nekhbet's temple. In the cliffs to the north are rock-cut tombs of the early New Kingdom, whose inscriptions are among the most valuable historical texts of ancient Egypt. Ahmose son of Ibana, a naval officer, describes in his own words the campaigns that drove the Hyksos out of Egypt, while the tomb of Paheri is famous for lively scenes of farming, fishing and family life. Further into the desert stand a small temple of Amenhotep III and later rock shrines.",
+  "ar": "تقع الكاب في منتصف الطريق بين الأقصر وأسوان، وهي مدينة نخب القديمة عاصمة الإقليم الثالث من أقاليم مصر العليا وموطن الربة نخبت ذات هيئة النسر، حامية ملك الجنوب. وقد عاش فيها الناس منذ عصور ما قبل التاريخ حتى العصر اليوناني الروماني. وتحيط بالمدينة أسوار هائلة من الطوب اللبن لا تزال قائمة بارتفاع لافت حول بقايا معبد نخبت. وفي المرتفعات الصخرية شمالها مقابر منحوتة من بدايات الدولة الحديثة، تُعد نقوشها من أثمن النصوص التاريخية في مصر القديمة؛ إذ يروي أحمس بن أبانا، الضابط في الأسطول، بكلماته الحملات التي طردت الهكسوس من مصر، بينما تشتهر مقبرة باحري بمناظر حية للزراعة والصيد والحياة العائلية. وفي عمق الصحراء يقوم معبد صغير لأمنحتب الثالث ومقاصير صخرية لاحقة."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Tomb of Ahmose son of Ibana",
+    "ar": "مقبرة أحمس بن أبانا"
+   },
+   "desc": {
+    "en": "An eyewitness account of the war against the Hyksos.",
+    "ar": "رواية شاهد عيان عن الحرب ضد الهكسوس."
+   }
+  },
+  {
+   "title": {
+    "en": "Tomb of Paheri",
+    "ar": "مقبرة باحري"
+   },
+   "desc": {
+    "en": "Vivid scenes of harvest, fishing and family banquets.",
+    "ar": "مناظر حية للحصاد والصيد والولائم العائلية."
+   }
+  },
+  {
+   "title": {
+    "en": "Town walls",
+    "ar": "أسوار المدينة"
+   },
+   "desc": {
+    "en": "Massive mud-brick walls enclosing ancient Nekheb.",
+    "ar": "أسوار ضخمة من الطوب اللبن تحيط بنخب القديمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Temple of Amenhotep III",
+    "ar": "معبد أمنحتب الثالث"
+   },
+   "desc": {
+    "en": "A small desert chapel dedicated to Nekhbet.",
+    "ar": "مقصورة صحراوية صغيرة مكرسة لنخبت."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "07:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 200
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 100
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "extras": [
+   {
+    "label": {
+     "en": "Parking: car or taxi",
+     "ar": "انتظار السيارات: ملاكي أو تاكسي"
+    },
+    "amount": 25
+   },
+   {
+    "label": {
+     "en": "Parking: microbus",
+     "ar": "انتظار السيارات: ميكروباص"
+    },
+    "amount": 50
+   },
+   {
+    "label": {
+     "en": "Parking: coaster",
+     "ar": "انتظار السيارات: كوستر"
+    },
+    "amount": 75
+   },
+   {
+    "label": {
+     "en": "Parking: bus",
+     "ar": "انتظار السيارات: أتوبيس"
+    },
+    "amount": 100
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/ElkabTombs",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 60,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Early morning, on the road between Luxor and Edfu.",
+   "ar": "الصباح الباكر، على الطريق بين الأقصر وإدفو."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded. The tombs are reached by a short climb, and the desert temples need a car.",
+   "ar": "نادرًا ما يزدحم، ويُصعد إلى المقابر بمسافة قصيرة، بينما تحتاج معابد الصحراء إلى سيارة."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/El_Kab_Temple.jpg",
+   "author": "Bubuka (assumed)",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Kab_Temple.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/El-Kab_Necheb_2_P1120548.jpg",
+   "author": "Harald Gaertner",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:El-Kab_Necheb_2_P1120548.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Edward_Lear_-_El_Kab_-_Google_Art_Project.jpg",
+   "author": "Edward Lear",
+   "license": "Public domain",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edward_Lear_-_El_Kab_-_Google_Art_Project.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/elkab/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Elkab",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%83%D8%A7%D8%A8_(%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1)",
+  "osm": "way/90500664"
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q287705",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/elkab/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices,description (official portal page)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/elkab/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,address,description (MoTA open-sites guide)",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D8%A7%D9%84%D9%83%D8%A7%D8%A8/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry, Ramadan),freeGroups (official MoTA booking page)",
+   "url": "https://egymonuments.com/details/ElkabTombs",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,tickets (official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/108",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "extras (parking, official MoTA booking page)",
+   "url": "https://egymonuments.com/book-date/108",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours,prices",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Elkab",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal 07:00-17:00, booking page last entry 16:00 and the MoTA guide (07:00-17:00, one-hour rule) agree; the booking page's Ramadan row (07:00, last entry 16:00) equals the normal schedule, so no Ramadan exception. Prices 200/100 and 10/5 (portal, booking page, Nov 2024 list). Parking extras from the booking-date page (same for Egyptians and visitors). Seed city was empty; Edfu added. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

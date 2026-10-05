@@ -1,0 +1,313 @@
+{
+ "id": "ali-labib-house",
+ "kind": "museum",
+ "wikidataId": "Q28715507",
+ "name": {
+  "en": "Ali Labib House",
+  "ar": "بيت علي لبيب"
+ },
+ "aliases": [
+  "بيت المعمار المصري",
+  "دار الملاطيلي",
+  "منزل علي لبيب",
+  "Beit Ali Labib",
+  "House of Egyptian Architecture"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "Al-Khalifa, below the Citadel",
+  "ar": "الخليفة، أسفل القلعة"
+ },
+ "address": {
+  "en": "Darb al-Labbana lane, off Salah al-Din Square, al-Khalifa, Cairo",
+  "ar": "حارة درب اللبانة، ميدان صلاح الدين، الخليفة، القاهرة"
+ },
+ "lat": 30.032496,
+ "lng": 31.258281,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The house is home to the House of Egyptian Architecture, which also holds talks and workshops.",
+  "ar": "مفتوح يوميًا، ويشغله بيت المعمار المصري الذي يقيم فيه أيضًا ندوات وورش عمل."
+ },
+ "summary": {
+  "en": "A well-preserved Ottoman-era house below the Citadel, once a home for artists and now the House of Egyptian Architecture.",
+  "ar": "منزل من العصر العثماني محفوظ جيدًا أسفل القلعة، كان مسكنًا للفنانين، ويضم اليوم بيت المعمار المصري."
+ },
+ "description": {
+  "en": "Tucked into Darb al-Labbana, a lane climbing towards the Citadel, this house is one of the best surviving examples of a Cairene home of the Ottoman period, built in the Mamluk tradition. In the nineteenth century it belonged to Umar al-Malatili and his brother Ibrahim, and it takes its popular name from Ali Effendi Labib, who looked after it. In the twentieth century it was known as the House of Artists, because painters and filmmakers such as Ragheb Ayyad and Shadi Abdel Salam lived and worked here. Rooms are arranged around two courtyards: a summer loggia (maq'ad), a guest hall, the men's reception rooms and, upstairs, the women's quarters and a bath. Carved stone facades, tiles above the loggia entrance and fine mashrabiya screens decorate the house. Since 2010 it has hosted the House of Egyptian Architecture, with displays on Hassan Fathy and Ramses Wissa Wassef.",
+  "ar": "يقع هذا المنزل في حارة درب اللبانة الصاعدة نحو القلعة، وهو من أفضل ما بقي من البيوت القاهرية في العصر العثماني ذات التقاليد المملوكية. وانتقلت ملكيته في القرن التاسع عشر إلى عمر الملاطيلي وشقيقه إبراهيم، وعُرف باسم علي لبيب نسبة إلى علي أفندي لبيب الذي كان يشرف عليه. وفي القرن العشرين اشتهر باسم بيت الفنانين، لأن رسامين وسينمائيين مثل راغب عياد وشادي عبد السلام أقاموا فيه وعملوا. وتتوزع وحداته حول فناءين، ففيه مقعد صيفي وقاعة لاستقبال الضيوف (التختبوش) وقاعة الرجال (السلاملك)، وفي الطابق العلوي قاعة الحريم (الحرملك) وحمام. وتزين المنزلَ واجهاتٌ من الحجر المنحوت، وبلاطات خزفية أعلى مدخل المقعد، ومشربيات دقيقة الصنع. ومنذ عام 2010 يضم بيت المعمار المصري، الذي يعرض جوانب من تراث حسن فتحي ورمسيس ويصا واصف."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Maq'ad (summer loggia)",
+    "ar": "المقعد الصيفي"
+   },
+   "desc": {
+    "en": "An open loggia overlooking the courtyard, with tiles above its entrance.",
+    "ar": "مقعد مفتوح يطل على الفناء، تعلو مدخله بلاطات خزفية."
+   }
+  },
+  {
+   "title": {
+    "en": "Carved stone facades",
+    "ar": "الواجهات الحجرية المنحوتة"
+   },
+   "desc": {
+    "en": "Courtyard walls decorated with fine stone carving.",
+    "ar": "جدران الفناء المزينة بنحت حجري دقيق."
+   }
+  },
+  {
+   "title": {
+    "en": "Mashrabiya screens",
+    "ar": "المشربيات"
+   },
+   "desc": {
+    "en": "Turned-wood screens on the windows of the upper rooms.",
+    "ar": "ستائر من الخشب الخرط على نوافذ الغرف العلوية."
+   }
+  },
+  {
+   "title": {
+    "en": "House of Egyptian Architecture",
+    "ar": "بيت المعمار المصري"
+   },
+   "desc": {
+    "en": "Displays on Egyptian architecture and on Hassan Fathy and Ramses Wissa Wassef.",
+    "ar": "معروضات عن العمارة المصرية وعن حسن فتحي ورمسيس ويصا واصف."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 75,
+  "bestTime": {
+   "en": "Morning, combined with the Sultan Hassan and al-Rifai mosques at the foot of the Citadel.",
+   "ar": "الصباح، مع الجمع بين الزيارة ومسجدي السلطان حسن والرفاعي عند سفح القلعة."
+  },
+  "crowdNotes": {
+   "en": "Rarely crowded. The lane is narrow and steep, so it is easier to arrive on foot from Salah al-Din Square.",
+   "ar": "نادرًا ما يزدحم. والحارة ضيقة وشديدة الانحدار، فالأسهل الوصول سيرًا من ميدان صلاح الدين."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A_%D8%A7%D9%88_%D8%A8%D9%8A%D8%AA_%D8%B9%D9%84%D9%89_%D9%84%D8%A8%D9%8A%D8%A8_01.jpg",
+   "author": "Sherif Alyamany",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A_%D8%A7%D9%88_%D8%A8%D9%8A%D8%AA_%D8%B9%D9%84%D9%89_%D9%84%D8%A8%D9%8A%D8%A8_01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ali_Labib_House%2C_Cairo_03.jpg",
+   "author": "Hassan Hamdy wahidy",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ali_Labib_House,_Cairo_03.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/ali-labib-house/",
+  "wikipediaEn": null,
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%B9%D9%84%D9%8A_%D9%84%D8%A8%D9%8A%D8%A8",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q28715507",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/ali-labib-house/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/ali-labib-house/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (09:00-17:00; Ramadan 09:00-16:00; last entry one hour before closing), address, description",
+   "url": "https://mota.gov.eg/ar/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A2%D8%AB%D8%A7%D8%B1/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%84%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/%D9%85%D9%86%D8%B2%D9%84-%D8%B9%D9%84%D9%8A-%D9%84%D8%A8%D9%8A%D8%A8/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA ticket list: 10/5/100/50, 09:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (House of Egyptian Architecture, Ministry of Culture decree 19/2010; official CDF page)",
+   "url": "https://www.cdf.gov.eg/?q=node/30",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (House of Egyptian Architecture active; news 27 Apr 2026)",
+   "url": "https://www.youm7.com/story/2026/4/27/%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%89-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D9%85%D8%AE%D8%B1%D8%AC%D8%A7%D8%AA-%D9%88%D8%B1%D8%B4%D8%A9-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%B7%D8%B1-%D9%88%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84/7391012",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only; prose original)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%B9%D9%84%D9%8A_%D9%84%D8%A8%D9%8A%D8%A8",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Hours: portal and MoTA guide 09:00-17:00; last entry 16:00 from the guide's one-hour rule; Ramadan 09:00-16:00 (MoTA guide), last entry 15:00. Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Prices 100/50 foreign, 10/5 Egyptian: portal and Nov 2024 list agree. No free-entry list is shown on the portal page, so freeGroups omitted. Not on egymonuments.com: platform onsite. Operator kept as seed (mota-sca, monument no. 496), but the house is assigned to the Ministry of Culture's Cultural Development Fund (decree 19/2010), which runs the House of Egyptian Architecture; whether CDF events change visiting hours is unknown. Date conflict: MoTA guide gives 1051 AH with '1661 AD' (1051 AH = 1641 AD) and the portal says 18th century; prose says 'Ottoman period' only. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found. Commons files by Sherif Alyamany/Hassan Hamdy wahidy: extmetadata says 'Public domain' but file pages carry {{self|cc-by-sa-4.0}}; CC BY-SA 4.0 recorded."
+}

@@ -1,0 +1,341 @@
+{
+ "id": "howard-carter-house",
+ "kind": "site",
+ "wikidataId": "Q14206167",
+ "name": {
+  "en": "Howard Carter House",
+  "ar": "استراحة هوارد كارتر"
+ },
+ "aliases": [
+  "Carter House",
+  "بيت كارتر",
+  "Castle Carter"
+ ],
+ "category": "specialised",
+ "operator": "mota-sca",
+ "governorate": "luxor",
+ "city": {
+  "en": "Luxor (West Bank)",
+  "ar": "الأقصر (البر الغربي)"
+ },
+ "area": {
+  "en": "Elwat el-Diban, at the turn-off to the Valley of the Kings",
+  "ar": "علوة الذبان، عند مفترق الطريق إلى وادي الملوك"
+ },
+ "address": {
+  "en": "Valley of the Kings road, Qurna, West Bank, Luxor",
+  "ar": "طريق وادي الملوك، القرنة، البر الغربي، الأقصر"
+ },
+ "lat": 25.7389,
+ "lng": 32.628231,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily. The ticket also covers the replica of Tutankhamun's tomb in the grounds.",
+  "ar": "مفتوح يوميًا، وتشمل التذكرة زيارة النسخة المطابقة لمقبرة توت عنخ آمون في الحديقة."
+ },
+ "summary": {
+  "en": "The domed mud-brick house where Howard Carter lived while he excavated and recorded the tomb of Tutankhamun.",
+  "ar": "البيت المقبب المبني بالطوب اللبن الذي أقام فيه هوارد كارتر أثناء كشفه لمقبرة توت عنخ آمون وتسجيل محتوياتها."
+ },
+ "description": {
+  "en": "The British archaeologist Howard Carter designed this house himself, and it was built in 1910 to 1911 with the backing of his patron, Lord Carnarvon, on a low rise known locally as Elwat el-Diban, the hill of the flies, near the road to the Valley of the Kings. Arranged around a domed central hall, it held bedrooms, a study, a darkroom and service rooms, and had neither running water nor electricity. Carter lived here during the discovery of Tutankhamun's tomb in November 1922 and the decade of clearing and recording that followed, and kept it as his Luxor base until his death in 1939. The house later passed to the Egyptian Antiquities Service. It opened as a museum in 2009 and was restored again for the tomb's centenary in 2022, with original furniture, photographs and Carter's own drawings. A full-size replica of Tutankhamun's burial chamber stands in the garden.",
+  "ar": "صمم عالم الآثار البريطاني هوارد كارتر هذا البيت بنفسه، وشُيّد بين عامي 1910 و1911 بدعم من راعيه اللورد كارنارفون، فوق ربوة منخفضة يسميها الأهالي علوة الذبان قرب الطريق المؤدي إلى وادي الملوك. ويلتف البيت حول قاعة مركزية تعلوها قبة، ويضم غرف نوم وغرفة مكتب ومعملًا لتحميض الصور وغرفًا للخدمة، ولم تكن فيه مياه جارية ولا كهرباء. وفيه أقام كارتر حين اكتشف مقبرة توت عنخ آمون في نوفمبر 1922 وطوال عقد كامل من إخلائها وتوثيق محتوياتها، وظل مقره في الأقصر حتى وفاته عام 1939. ثم آلت ملكيته إلى مصلحة الآثار المصرية، وافتُتح متحفًا عام 2009، ورُمم من جديد عام 2022 بمناسبة مرور مئة عام على الكشف، ويعرض أثاثًا أصليًا وصورًا ورسومًا بخط كارتر. وفي الحديقة نسخة مطابقة بالحجم الطبيعي لحجرة دفن الملك الشاب."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Domed central hall",
+    "ar": "القاعة المركزية المقببة"
+   },
+   "desc": {
+    "en": "The heart of the house, from which every room opens.",
+    "ar": "قلب البيت الذي تنفتح عليه جميع الغرف."
+   }
+  },
+  {
+   "title": {
+    "en": "Carter's study and darkroom",
+    "ar": "مكتب كارتر ومعمل التصوير"
+   },
+   "desc": {
+    "en": "Work rooms where finds from the tomb were recorded and photographed.",
+    "ar": "غرف العمل التي سُجلت فيها مكتشفات المقبرة وصُوّرت."
+   }
+  },
+  {
+   "title": {
+    "en": "Period furniture and documents",
+    "ar": "الأثاث والوثائق الأصلية"
+   },
+   "desc": {
+    "en": "Original furnishings, photographs and copies of Carter's letters and drawings.",
+    "ar": "أثاث أصلي وصور ونسخ من رسائل كارتر ورسومه."
+   }
+  },
+  {
+   "title": {
+    "en": "Tutankhamun tomb replica",
+    "ar": "نسخة مقبرة توت عنخ آمون"
+   },
+   "desc": {
+    "en": "A full-size facsimile of the burial chamber, built in the garden.",
+    "ar": "نسخة مطابقة بالحجم الطبيعي لحجرة الدفن أُقيمت في الحديقة."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "06:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Summer schedule 2026 (daylight-saving period)",
+     "ar": "المواعيد الصيفية لعام 2026 (فترة التوقيت الصيفي)"
+    },
+    "rule": "summer (daylight-saving period), until the last Thursday of October",
+    "from": "2026-04-24",
+    "to": "2026-10-29",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "sun",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "mon",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "tue",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "wed",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "thu",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     },
+     {
+      "day": "fri",
+      "open": "06:00",
+      "close": "18:00",
+      "lastEntry": "17:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 220
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 110
+   },
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   }
+  ],
+  "freeGroups": [
+   "Children under 6",
+   "Egyptians with special needs",
+   "Egyptians aged 60+",
+   "Mobile-phone photography is free"
+  ],
+  "freeGroupsLocalized": [
+   {
+    "en": "Children under 6",
+    "ar": "الأطفال دون 6 سنوات"
+   },
+   {
+    "en": "Egyptians with special needs",
+    "ar": "المصريون من ذوي الهمم"
+   },
+   {
+    "en": "Egyptians aged 60+",
+    "ar": "المصريون من سن 60 فأكثر"
+   },
+   {
+    "en": "Mobile-phone photography is free",
+    "ar": "التصوير بالهاتف المحمول مجاني"
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": "https://egymonuments.com/details/CarterHouse",
+  "platform": "egymonuments",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 45,
+  "deepMinutes": 60,
+  "bestTime": {
+   "en": "Early morning on the way to or from the Valley of the Kings.",
+   "ar": "الصباح الباكر في الطريق إلى وادي الملوك أو العودة منه."
+  },
+  "crowdNotes": {
+   "en": "Small and rarely crowded; the shaded garden makes it a good break between tombs.",
+   "ar": "بيت صغير نادرًا ما يزدحم، وتجعل حديقته الظليلة منه استراحة مناسبة بين زيارات المقابر."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/CarterHouseSouthSide.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CarterHouseSouthSide.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Maison_Carter_-_Louxor_%28EG%29_-_2025-12-12_-_1.jpg",
+   "author": "Chabe01",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maison_Carter_-_Louxor_(EG)_-_2025-12-12_-_1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/CarterHouseDomedHall.jpg",
+   "author": "Roland Unger",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CarterHouseDomedHall.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/monuments/haward-carter-and-his-house-at-thebes/",
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q14206167",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/monuments/haward-carter-and-his-house-at-thebes/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours,prices,description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/monuments/haward-carter-and-his-house-at-thebes/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices,hours (lastEntry by season),tickets,freeGroups (official booking platform)",
+   "url": "https://egymonuments.com/details/CarterHouse",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours (06:00-17:00, last entry 1 h before closing),address,description (opened 2009, reopened 4 Nov 2022)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/بيت-كارتر/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Qurna area summer 2026: 06:00-18:00 from 24 Apr 2026)",
+   "url": "https://www.elwatannews.com/news/details/8271816",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (Qurna area summer 2026)",
+   "url": "https://www.vetogate.com/5641700",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "hours.exceptions (summer season = daylight-saving period; DST ends 29 Oct 2026)",
+   "url": "https://www.youm7.com/story/2026/9/29/%D9%82%D8%A8%D9%84-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B4%D8%AA%D9%88%D9%89-2026-%D9%81%D9%89-%D9%85%D8%B5%D8%B1/7561357",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (audience: Arabs pay foreign rates from Jan 2026)",
+   "url": "https://www.dostor.org/5134866",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights,statusNote (ticket includes the tomb replica; facts only)",
+   "url": "https://de.wikivoyage.org/wiki/Carter-Haus",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "high",
+ "curationNote": "Portal, booking platform and MoTA guide agree on 220/110 and 10/5 and on 06:00-17:00. Summer 2026: Qurna-area sites 06:00-18:00 per the 24 Apr 2026 Luxor announcement, matching the booking platform's summer last entry 17:00. Summer exception dated 2026-04-24 to 2026-10-29 (daylight-saving period, until the last Thursday of October, as all other summer exceptions); the winter 2026-27 schedule had not been announced on 2026-10-05: recheck after 29 Oct 2026. Ramadan last entry 16:00 on the booking platform equals the normal week, so no Ramadan exception (batch-4 Q13a). Ticket covering the tomb replica: Wikivoyage (Nov 2024), not an official page. Wikivoyage also lists a car-park fee of EGP 25 (not official, not added). Name kept as the seed's 'Howard Carter House'; the official guide calls it 'بيت كارتر', added as alias. Commons photos taken 12 Dec 2025 show the site in use."
+}

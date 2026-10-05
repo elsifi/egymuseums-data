@@ -1,0 +1,152 @@
+{
+ "id": "fayoum-art-center",
+ "kind": "museum",
+ "wikidataId": "Q134292187",
+ "name": {
+  "en": "Fayoum Art Center",
+  "ar": "مركز الفيوم للفنون"
+ },
+ "category": "modern-art",
+ "operator": "private",
+ "governorate": "faiyum",
+ "city": {
+  "en": "Tunis village",
+  "ar": "قرية تونس"
+ },
+ "area": {
+  "en": "Tunis village, above the south shore of Lake Qarun",
+  "ar": "قرية تونس، على الشاطئ الجنوبي لبحيرة قارون"
+ },
+ "address": {
+  "en": "Tunis village, Yusuf al-Siddiq, Faiyum Governorate",
+  "ar": "قرية تونس، يوسف الصديق، محافظة الفيوم"
+ },
+ "lat": 29.39905,
+ "lng": 30.48958,
+ "status": "unknown",
+ "statusNote": {
+  "en": "A private arts centre with a caricature museum. Visiting hours and fees are not published; contact the centre before going.",
+  "ar": "مركز فني خاص يضم متحفًا للكاريكاتير، ولا تُنشر مواعيد الزيارة أو رسومها، فيُرجى التواصل مع المركز قبل الذهاب."
+ },
+ "summary": {
+  "en": "An artists’ centre in Tunis village founded by the painter Mohamed Abla, home to the Middle East’s first caricature museum.",
+  "ar": "مركز للفنانين في قرية تونس أسسه الفنان محمد عبلة، ويضم أول متحف للكاريكاتير في الشرق الأوسط."
+ },
+ "description": {
+  "en": "The Fayoum Art Center was founded in 2006 by the Egyptian painter Mohamed Abla in Tunis, a village overlooking Lake Qarun that has become known for its potters and artists. It offers large studios, an art library, living quarters and a shared dining space, and hosts artists, writers and musicians from Egypt and abroad for residencies. Each year it runs a Winter Academy of intensive workshops and a children’s programme, and it organises Caricatunis, an international competition for caricature and satirical portraits. In 2009 Abla opened the Caricature Museum here in honour of the cartoonist Zohdy El-Adawy; it holds more than 500 original drawings by Egyptian and Arab caricaturists and is described as the first museum of its kind in the region. Tunis village is about one and a half hours’ drive from Cairo and close to Wadi el-Rayan and Wadi el-Hitan.",
+  "ar": "أسس الفنان التشكيلي المصري محمد عبلة مركز الفيوم للفنون عام 2006 في قرية تونس المطلة على بحيرة قارون، التي اشتهرت بخزافيها وفنانيها. ويوفر المركز مراسم واسعة ومكتبة فنية وأماكن للإقامة وقاعة طعام مشتركة، ويستضيف فنانين وكتّابًا وموسيقيين من مصر والخارج في إقامات فنية. وينظم سنويًا «الأكاديمية الشتوية» بورش مكثفة وبرنامجًا للأطفال، إلى جانب مسابقة «كاريكاتونس» الدولية للكاريكاتير والبورتريه الساخر. وفي عام 2009 افتتح عبلة في المركز متحف الكاريكاتير تكريمًا لرسام الكاريكاتير زهدي العدوي، ويضم أكثر من خمسمئة رسم أصلي لرسامي كاريكاتير مصريين وعرب، ويوصف بأنه الأول من نوعه في المنطقة. وتبعد قرية تونس نحو ساعة ونصف بالسيارة عن القاهرة، وتقع بالقرب من وادي الريان ووادي الحيتان."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Caricature Museum",
+    "ar": "متحف الكاريكاتير"
+   },
+   "desc": {
+    "en": "More than 500 original cartoons by Egyptian and Arab artists.",
+    "ar": "أكثر من خمسمئة رسم كاريكاتير أصلي لفنانين مصريين وعرب."
+   }
+  },
+  {
+   "title": {
+    "en": "Artist residencies",
+    "ar": "الإقامات الفنية"
+   },
+   "desc": {
+    "en": "Studios and lodging for visiting artists from Egypt and abroad.",
+    "ar": "مراسم وإقامة للفنانين الزائرين من مصر والخارج."
+   }
+  },
+  {
+   "title": {
+    "en": "Winter Academy",
+    "ar": "الأكاديمية الشتوية"
+   },
+   "desc": {
+    "en": "An annual programme of intensive art workshops.",
+    "ar": "برنامج سنوي من الورش الفنية المكثفة."
+   }
+  },
+  {
+   "title": {
+    "en": "Tunis village",
+    "ar": "قرية تونس"
+   },
+   "desc": {
+    "en": "A lakeside village known for its pottery studios.",
+    "ar": "قرية مطلة على البحيرة تشتهر بورش الخزف."
+   }
+  }
+ ],
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 30,
+  "standardMinutes": 60,
+  "deepMinutes": 120,
+  "bestTime": {
+   "en": "Autumn to spring, combined with the pottery studios of Tunis village.",
+   "ar": "من الخريف إلى الربيع، مع زيارة ورش الخزف في قرية تونس."
+  },
+  "crowdNotes": {
+   "en": "A working centre rather than a public museum; groups should arrange visits in advance.",
+   "ar": "مركز للعمل الفني لا متحف عام، ويُفضل أن ترتب المجموعات زيارتها مسبقًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Tunis_village_-Fayoum_by_Hatem_Moushir_9.JPG",
+   "author": "Hatem Moushir",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tunis_village_-Fayoum_by_Hatem_Moushir_9.JPG"
+  }
+ ],
+ "contacts": {
+  "phone": null,
+  "website": "https://fayoumartcenter.com/",
+  "social": []
+ },
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": null,
+  "wikipediaAr": null,
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "enumeration",
+   "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AA%D8%A7%D8%AD%D9%81_%D9%85%D8%B5%D8%B1",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "identity,coordinates,website (Wikidata, CC0)",
+   "url": "https://www.wikidata.org/wiki/Q134292187",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,highlights (founded 2006, caricature museum 2009, programmes)",
+   "url": "https://fayoumartcenter.com/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description,status (caricature museum feature, 7 Oct 2024)",
+   "url": "https://www.youm7.com/story/2024/10/7/x/6711013",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (Lake Qarun at Tunis village; licence via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "low",
+ "curationNote": "Private arts centre (residency, academy, caricature museum). wikidataId Q134292187 and coordinates added from Wikidata (seed had none) - review. Status unknown: the official site's pages are dated 2014-2022 and the latest dated press item found is youm7 Oct 2024; no visiting hours or fees published, so prices 'unconfirmed'. Caricatures by modern artists are in copyright and the buildings are modern, so the single photo shows Lake Qarun at Tunis village (landscape), not the centre. The centre stays the listed place, with the Caricature Museum as a highlight (batch-11 Q9a)."
+}

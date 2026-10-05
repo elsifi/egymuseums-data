@@ -1,0 +1,248 @@
+{
+ "id": "sabil-kuttab-of-qaitbay",
+ "kind": "site",
+ "wikidataId": "Q23976361",
+ "name": {
+  "en": "Sabil-Kuttab of Sultan Qaitbay",
+  "ar": "سبيل وكتاب قايتباي"
+ },
+ "aliases": [
+  "Sabil-kuttab of Qaytbay"
+ ],
+ "category": "islamic",
+ "operator": "mota-sca",
+ "governorate": "cairo",
+ "city": {
+  "en": "Cairo",
+  "ar": "القاهرة"
+ },
+ "area": {
+  "en": "al-Saliba Street, near the Citadel",
+  "ar": "شارع الصليبة، قرب القلعة"
+ },
+ "address": {
+  "en": "Start of al-Saliba Street, near Salah al-Din (Citadel) Square, Cairo",
+  "ar": "بداية شارع الصليبة، قرب ميدان صلاح الدين (القلعة)، القاهرة"
+ },
+ "lat": 30.03075,
+ "lng": 31.25483,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily; ticketed at the entrance.",
+  "ar": "مفتوح يوميًا، وتُشترى التذكرة عند المدخل."
+ },
+ "summary": {
+  "en": "Sultan Qaitbay's sabil-kuttab of 1479 on Saliba Street, the first free-standing building of its kind in Cairo.",
+  "ar": "سبيل وكُتّاب السلطان قايتباي في شارع الصليبة، الذي شُيّد عام 1479، وهو أول مبنى مستقل من نوعه في القاهرة."
+ },
+ "description": {
+  "en": "Sultan al-Ashraf Qaitbay, the great builder of the late Mamluk period, founded this charitable building in 1479 on Saliba Street, not far from the Citadel. It combined a sabil, where an attendant handed free drinking water to passers-by through grilled windows, with a kuttab, a primary school teaching the Qur'an, on the floor above. Water was drawn from a large cistern under the building, filled once a year from the Nile flood. It was the first sabil-kuttab in Cairo built as a free-standing structure rather than as part of a mosque or madrasa, a type that became common in the Ottoman period. The stone facades are carved with fine geometric and floral bands and carry Qaitbay's epigraphic blazon. Inside, the sabil chamber keeps its marble salsabil, a slanted slab over which the water rippled to cool it, beneath a carved wooden canopy and a painted wooden ceiling; a glimpse of the underground cistern is possible from inside.",
+  "ar": "أسس السلطان الأشرف قايتباي، أحد كبار البنائين في أواخر العصر المملوكي، هذا المبنى الخيري عام 1479 في شارع الصليبة غير بعيد عن القلعة. ويجمع بين سبيل كان القائم عليه يناول الماء مجانًا للمارة من خلال الشبابيك، وكُتّاب لتعليم الأطفال القرآن في الطابق العلوي. وكان الماء يُستمد من صهريج كبير أسفل المبنى يُملأ مرة في العام من فيضان النيل. وهو أول سبيل وكُتّاب في القاهرة يُبنى مستقلًا لا جزءًا من مسجد أو مدرسة، وهو طراز شاع لاحقًا في العصر العثماني. وتزين واجهاته الحجرية أشرطة منحوتة بزخارف هندسية ونباتية دقيقة، ويظهر عليها رنك قايتباي الكتابي. وفي الداخل تحتفظ حجرة السبيل بالشاذروان الرخامي، وهو لوح مائل كان الماء ينساب عليه ليبرد، أسفل مظلة خشبية منحوتة وسقف خشبي ملون، ويمكن من الداخل إلقاء نظرة على الصهريج."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Carved facades",
+    "ar": "الواجهات المنحوتة"
+   },
+   "desc": {
+    "en": "Stone facades with fine geometric and floral carving.",
+    "ar": "واجهات حجرية بنقوش هندسية ونباتية دقيقة."
+   }
+  },
+  {
+   "title": {
+    "en": "Qaitbay's blazon",
+    "ar": "رنك قايتباي"
+   },
+   "desc": {
+    "en": "The sultan's epigraphic emblem carved on the building.",
+    "ar": "الشارة الكتابية للسلطان منحوتة على المبنى."
+   }
+  },
+  {
+   "title": {
+    "en": "Marble salsabil",
+    "ar": "الشاذروان الرخامي"
+   },
+   "desc": {
+    "en": "A slanted marble slab that cooled the water, under a carved wooden canopy.",
+    "ar": "لوح رخامي مائل كان يبرّد الماء، أسفل مظلة خشبية منحوتة."
+   }
+  },
+  {
+   "title": {
+    "en": "Painted ceiling",
+    "ar": "السقف الملون"
+   },
+   "desc": {
+    "en": "A carved and painted wooden ceiling in the sabil chamber.",
+    "ar": "سقف خشبي منحوت وملون في حجرة السبيل."
+   }
+  },
+  {
+   "title": {
+    "en": "Cistern",
+    "ar": "الصهريج"
+   },
+   "desc": {
+    "en": "The underground water tank that supplied the sabil.",
+    "ar": "خزان الماء تحت الأرض الذي كان يغذي السبيل."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00"
+   }
+  ]
+ },
+ "prices": {
+  "currency": "EGP",
+  "tiers": [
+   {
+    "audience": "egyptian",
+    "group": "adult",
+    "amount": 10
+   },
+   {
+    "audience": "egyptian",
+    "group": "student",
+    "amount": 5
+   },
+   {
+    "audience": "foreign",
+    "group": "adult",
+    "amount": 100
+   },
+   {
+    "audience": "foreign",
+    "group": "student",
+    "amount": 50
+   }
+  ]
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 10,
+  "standardMinutes": 20,
+  "deepMinutes": 30,
+  "bestTime": {
+   "en": "Morning, on a walk from the Citadel along Saliba Street to Ibn Tulun.",
+   "ar": "الصباح، ضمن جولة من القلعة عبر شارع الصليبة إلى جامع ابن طولون."
+  },
+  "crowdNotes": {
+   "en": "A small building; combine it with Prince Taz Palace and the Mawlawiyya nearby.",
+   "ar": "مبنى صغير، يمكن ضمه إلى زيارة قصر الأمير طاز والتكية المولوية القريبين."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Qaytbay_sabil-kuttab.jpg",
+   "author": "Robert Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qaytbay_sabil-kuttab.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Qaytbay_sabil_interior.jpg",
+   "author": "Robert Prazeres",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qaytbay_sabil_interior.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Epigraphic_blazon_of_Sultan_Qaybay_from_his_sabil-kuttab%2C_1480%2C_Cairo_%281%29_%2852089039405%29.jpg",
+   "author": "Richard Mortel from Riyadh, Saudi Arabia",
+   "license": "CC BY 2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Epigraphic_blazon_of_Sultan_Qaybay_from_his_sabil-kuttab,_1480,_Cairo_(1)_(52089039405).jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": null,
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Sabil-Kuttab_of_Qaytbay",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%B3%D8%A8%D9%8A%D9%84_%D9%88%D9%83%D8%AA%D8%A7%D8%A8_%D9%82%D8%A7%D9%8A%D8%AA%D8%A8%D8%A7%D9%8A",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q23976361",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "prices,hours (Nov 2024 MoTA list: 10/5 Egyptian, 100/50 foreign, 09:00-17:00)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (Arab tier abolished from 2026-01-01)",
+   "url": "https://www.dostor.org/5363965",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "status (listed among Cairo heritage sites open at student rates), 25 Mar 2026",
+   "url": "https://www.cairo360.com/ar/article/%D9%85%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9/cairo-museums-5-egp-students-budget-guide/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (facts only; prose original)",
+   "url": "https://en.wikipedia.org/wiki/Sabil-Kuttab_of_Qaytbay",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (facts only)",
+   "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%A8%D9%8A%D9%84_%D9%88%D9%83%D8%AA%D8%A7%D8%A8_%D9%82%D8%A7%D9%8A%D8%AA%D8%A8%D8%A7%D9%8A",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Only official source is the Nov 2024 MoTA list (hours 09:00-17:00 and prices); no portal page, booking-platform page or MoTA guide page found - batch-7 Q4a treatment. No lastEntry and no Ramadan exception (not published). Free groups not stated, so omitted. Status 'open' also supported by cairo360 (25 Mar 2026). Cistern filling from the Nile flood is general knowledge about Cairo sabils. Not to be confused with the Wikala and Sabil-Kuttab of Qaitbay near al-Azhar. cashAccepted not set: no official 2025-2026 statement on cash or card payment was found."
+}

@@ -1,0 +1,289 @@
+{
+ "id": "al-bahnasa",
+ "kind": "site",
+ "wikidataId": "Q622640",
+ "name": {
+  "en": "Al-Bahnasa (Oxyrhynchus)",
+  "ar": "البهنسا"
+ },
+ "aliases": [
+  "Al-Bahnasa",
+  "Oxyrhynchus",
+  "أوكسيرينخوس"
+ ],
+ "category": "mixed",
+ "operator": "mota-sca",
+ "governorate": "minya",
+ "city": {
+  "en": "Bani Mazar",
+  "ar": "بني مزار"
+ },
+ "area": {
+  "en": "Al-Bahnasa village, west of Bani Mazar",
+  "ar": "قرية البهنسا، غرب بني مزار"
+ },
+ "address": {
+  "en": "Al-Bahnasa village, Bani Mazar, Minya Governorate",
+  "ar": "قرية البهنسا، بني مزار، محافظة المنيا"
+ },
+ "lat": 28.536111,
+ "lng": 30.655556,
+ "status": "open",
+ "statusNote": {
+  "en": "Open daily.",
+  "ar": "مفتوحة يوميًا."
+ },
+ "summary": {
+  "en": "Ancient Oxyrhynchus, famed for its papyri, and an Islamic-era town of domed shrines to companions of the Prophet and martyrs of the conquest.",
+  "ar": "أوكسيرينخوس القديمة، الشهيرة ببردياتها، ومدينة إسلامية تضم قبابًا وأضرحة لصحابة وشهداء من زمن الفتح."
+ },
+ "description": {
+  "en": "Al-Bahnasa stands on the site of Oxyrhynchus, a regional capital of Graeco-Roman Egypt named after a sacred fish. From 1896 the British scholars Grenfell and Hunt dug its ancient rubbish mounds and recovered hundreds of thousands of papyrus fragments, among them lost Greek literature, early Christian texts and everyday letters and accounts. Recent excavations by a Spanish mission have uncovered Saite and Roman tombs, including burials with gold tongues, and a stone-built underground gallery linked with the cult of Osiris. In the Islamic period the town was an important stage on the road to the Bahariya Oasis. Tradition holds that its garrison resisted the Arab conquest fiercely, and many who fell were buried here, so al-Bahnasa is revered as a place of companions and martyrs. Its cemetery holds historic domes such as the Dome of the Seven Girls and the shrines of Ubada ibn al-Samit and Muhammad ibn Abi Dharr al-Ghifari, which draw many local pilgrims.",
+  "ar": "تقوم البهنسا على موقع أوكسيرينخوس، إحدى عواصم الأقاليم في مصر اليونانية الرومانية، التي سُميت باسم سمكة مقدسة. ومنذ عام 1896 نقّب العالمان البريطانيان جرنفل وهنت في تلال مخلفاتها القديمة، فاستخرجا مئات الآلاف من قصاصات البردي، منها نصوص أدبية يونانية مفقودة وكتابات مسيحية مبكرة ورسائل وحسابات من الحياة اليومية. وكشفت حفائر حديثة لبعثة إسبانية عن مقابر من العصر الصاوي والعصر الروماني، منها دفنات بألسنة ذهبية، وعن رواق حجري تحت الأرض يرتبط بعبادة أوزير. وفي العصر الإسلامي كانت المدينة محطة مهمة على الطريق إلى الواحات البحرية، وتروي التقاليد أن حاميتها قاومت الفتح العربي بشدة، فدُفن فيها كثير ممن استشهدوا، ولذلك تُعرف البهنسا ببلد الصحابة والشهداء. وتضم جبانتها قبابًا أثرية مثل قبة السبع بنات وضريحي عبادة بن الصامت ومحمد بن أبي ذر الغفاري، ويقصدها كثير من الزوار المحليين."
+ },
+ "highlights": [
+  {
+   "title": {
+    "en": "Dome of the Seven Girls",
+    "ar": "قبة السبع بنات"
+   },
+   "desc": {
+    "en": "One of the best-known historic domes of the cemetery.",
+    "ar": "من أشهر القباب الأثرية في الجبانة."
+   }
+  },
+  {
+   "title": {
+    "en": "Shrines of the companions",
+    "ar": "أضرحة الصحابة"
+   },
+   "desc": {
+    "en": "Domed tombs linked with Ubada ibn al-Samit and Muhammad ibn Abi Dharr al-Ghifari.",
+    "ar": "أضرحة مقببة تُنسب إلى عبادة بن الصامت ومحمد بن أبي ذر الغفاري."
+   }
+  },
+  {
+   "title": {
+    "en": "Oxyrhynchus papyrus mounds",
+    "ar": "تلال برديات أوكسيرينخوس"
+   },
+   "desc": {
+    "en": "The rubbish heaps that yielded the famous papyri.",
+    "ar": "تلال المخلفات التي خرجت منها البرديات الشهيرة."
+   }
+  },
+  {
+   "title": {
+    "en": "Roman column",
+    "ar": "العمود الروماني"
+   },
+   "desc": {
+    "en": "A standing column from the ancient city.",
+    "ar": "عمود قائم من المدينة القديمة."
+   }
+  },
+  {
+   "title": {
+    "en": "Osireion gallery",
+    "ar": "رواق الأوزيريون"
+   },
+   "desc": {
+    "en": "An underground stone gallery uncovered by the Spanish mission.",
+    "ar": "رواق حجري تحت الأرض كشفت عنه البعثة الإسبانية."
+   }
+  }
+ ],
+ "hours": {
+  "weekly": [
+   {
+    "day": "sat",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "sun",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "mon",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "tue",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "wed",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "thu",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   },
+   {
+    "day": "fri",
+    "open": "09:00",
+    "close": "17:00",
+    "lastEntry": "16:00"
+   }
+  ],
+  "exceptions": [
+   {
+    "label": {
+     "en": "Ramadan hours",
+     "ar": "مواعيد شهر رمضان"
+    },
+    "rule": "Ramadan",
+    "from": "2027-02-08",
+    "to": "2027-03-08",
+    "weekly": [
+     {
+      "day": "sat",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "sun",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "mon",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "tue",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "wed",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "thu",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     },
+     {
+      "day": "fri",
+      "open": "09:00",
+      "close": "16:00",
+      "lastEntry": "15:00"
+     }
+    ]
+   }
+  ]
+ },
+ "prices": {
+  "status": "unconfirmed"
+ },
+ "tickets": {
+  "onlineUrl": null,
+  "platform": "onsite",
+  "timedEntry": null
+ },
+ "visit": {
+  "quickMinutes": 45,
+  "standardMinutes": 90,
+  "deepMinutes": 150,
+  "bestTime": {
+   "en": "Morning; the cemetery is busiest on Fridays and during local saints' days.",
+   "ar": "الصباح، وتزدحم الجبانة أيام الجمعة وفي موالد الأولياء."
+  },
+  "crowdNotes": {
+   "en": "A working cemetery and pilgrimage place: dress modestly and be discreet with photography. Foreign visitors travelling by road in Minya governorate may be asked by police to register their route or travel with an escort, so allow extra time.",
+   "ar": "جبانة عاملة ومقصد للزيارة الدينية، فالتزم بالملابس المحتشمة وتحفّظ في التصوير. قد تطلب الشرطة من الزوار الأجانب المسافرين برًا في محافظة المنيا تسجيل خط سيرهم أو التنقل بمرافقة أمنية، فاحسب وقتًا إضافيًا."
+  }
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Osireion_Oxyrhynchus.jpg",
+   "author": "Bombaladan",
+   "license": "CC BY-SA 3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osireion_Oxyrhynchus.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/%D8%B9%D9%85%D9%88%D8%AF_%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%B9%D8%A9_%D8%A8%D8%A7%D9%84%D8%A8%D9%87%D9%86%D8%B3%D8%A7.jpg",
+   "author": "Abdallah ali",
+   "license": "CC BY-SA 4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:عمود_القديعة_بالبهنسا.jpg"
+  }
+ ],
+ "links": {
+  "egymonuments": "https://egymonuments.gov.eg/en/archaeological-sites/al-bahnasa-tombs/",
+  "wikipediaEn": "https://en.wikipedia.org/wiki/Oxyrhynchus",
+  "wikipediaAr": "https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D9%83%D8%B3%D9%8A%D8%B1%D9%8A%D9%86%D8%AE%D9%88%D8%B3",
+  "osm": null
+ },
+ "tier": "minor",
+ "sources": [
+  {
+   "field": "identity,name,coordinates,links",
+   "url": "https://www.wikidata.org/wiki/Q622640",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/al-bahnasa-tombs/",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "enumeration,ticketed",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-04"
+  },
+  {
+   "field": "hours (09:00-17:00; Ramadan 09:00-16:00; last entry 1 h before closing),address,description,highlights (domes)",
+   "url": "https://mota.gov.eg/ar/الآثار-والمتاحف/المجلس-الأعلى-للآثار/دليل-المواقع-الأثرية-المفتوحة-للزيارة-جديد/مقابر-البهنسا/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (official portal)",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/al-bahnasa-tombs/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "prices (no fee listed: dashes),hours (MoTA Nov 2024 list)",
+   "url": "https://mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "description (Saite tombs with golden tongues, Spanish mission)",
+   "url": "https://egymonuments.gov.eg/en/news/during-excavation-work-carried-out-by-a-spanish-archaeological-mission-from-barcelona-university-and-ipoa-at-el-bahnasa-archaeological-site-in-meniya-has-uncovered-two-saite-tombs-with-human-remains-with-golden-tongues/",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "summary,description (papyri, Grenfell and Hunt; facts only)",
+   "url": "https://en.wikipedia.org/wiki/Oxyrhynchus",
+   "checkedAt": "2026-10-05"
+  },
+  {
+   "field": "photos (licence and author via Commons API)",
+   "url": "https://commons.wikimedia.org/w/api.php",
+   "checkedAt": "2026-10-05"
+  }
+ ],
+ "verifiedAt": "2026-10-05",
+ "confidence": "medium",
+ "curationNote": "Price unconfirmed: the Nov 2024 list shows dashes and no booking product exists; treated like other worship and free-looking sites (D9) - confirm via hotline 19654. The MoTA guide page describes the Islamic cemetery ('مقابر البهنسا'), while the seed identity is Oxyrhynchus (Q622640); prose covers both. Osireion and gold tongues from the portal news and a Commons caption (Osireion Oxyrhynchus.jpg). Ramadan from the MoTA guide; Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced."
+}
