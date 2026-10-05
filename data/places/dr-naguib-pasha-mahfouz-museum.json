@@ -108,5 +108,10 @@
  ],
  "verifiedAt": "2026-10-05",
  "confidence": "low",
- "curationNote": "Status 'closed' to the general public: elwatannews (2019) and youm7 (Oct 2022) say visits are restricted to medical students/doctors, with a study under way to open it to the public by appointment; no 2025-2026 change found (youm7 May 2026 covers a TV tour only). Coordinates null in seed/Wikidata; not added. Specimen count not given (sources vary). The 'Prof. Naguib Pasha Mahfouz lecturing' Commons file was not used (licence claim 'PD-self' for an old photo is doubtful); the PD-Egypt 1930 portrait is used. Kept as a closed record (not open to the public) (batch-9 Q4a)."
+ "curationNote": "Status 'closed' to the general public: elwatannews (2019) and youm7 (Oct 2022) say visits are restricted to medical students/doctors, with a study under way to open it to the public by appointment; no 2025-2026 change found (youm7 May 2026 covers a TV tour only). Coordinates null in seed/Wikidata; not added. Specimen count not given (sources vary). The 'Prof. Naguib Pasha Mahfouz lecturing' Commons file was not used (licence claim 'PD-self' for an old photo is doubtful); the PD-Egypt 1930 portrait is used. Kept as a closed record (not open to the public) (batch-9 Q4a).",
+ "access": "restricted",
+ "accessNote": {
+  "en": "Teaching museum: open to medical students and doctors only.",
+  "ar": "متحف تعليمي: الزيارة مقصورة على طلاب الطب والأطباء."
+ }
 }

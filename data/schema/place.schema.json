@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://cdn.jsdelivr.net/gh/egymuseums/egymuseums-data/data/schema/place.schema.json",
-  "$comment": "Schema version 1.1 (2026-10-04), additive over 1.0: prices.status; prices.tiers[].onlineAmount; prices.extras[].audience/group/onlineAmount; split-session convention documented on dayHours. Every 1.0 record is valid 1.1; v1/meta.json keeps schemaVersion 1 and adds schemaMinor 1. v1.2: prices.includedIn. v1.3: prices.freeGroupsLocalized.",
+  "$comment": "Schema version 1.1 (2026-10-04), additive over 1.0: prices.status; prices.tiers[].onlineAmount; prices.extras[].audience/group/onlineAmount; split-session convention documented on dayHours. Every 1.0 record is valid 1.1; v1/meta.json keeps schemaVersion 1 and adds schemaMinor 1. v1.2: prices.includedIn. v1.3: prices.freeGroupsLocalized. v1.4: openingSoon, access, accessNote.",
   "title": "EgyMuseums place (schema v1.1)",
   "description": "One museum or archaeological / heritage site in Egypt. Identity and coordinates come from Wikidata (CC0); every hours / price figure must be backed by an entry in `sources`.",
   "type": "object",
@@ -498,6 +498,31 @@
     "curationNote": {
       "type": "string",
       "description": "Internal note for editors; never shown in the app."
+    },
+    "openingSoon": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "expected": {
+          "type": "string",
+          "description": "Free-form expected opening, e.g. 2027-Q4"
+        },
+        "note": {
+          "$ref": "#/$defs/localized"
+        }
+      },
+      "description": "Schema 1.4: built or announced but not yet open. Apps 0.1.9+ show an \"Opening soon\" badge; status stays \"closed\" for older apps."
+    },
+    "access": {
+      "type": "string",
+      "enum": [
+        "public",
+        "restricted"
+      ],
+      "description": "Schema 1.4: restricted = not freely visitable by the public (airside, students, appointment only)."
+    },
+    "accessNote": {
+      "$ref": "#/$defs/localized"
     }
   },
   "$defs": {

@@ -118,5 +118,10 @@
  ],
  "verifiedAt": "2026-10-05",
  "confidence": "low",
- "curationNote": "Operator: Egyptian Exchange (seed 'other'). Status 'unknown': opened to the public in July 2016 (elwatan), but the only 2025 evidence is organised university group visits; no public hours or booking procedure found. Founding year: 1903 per AR wiki (Alexandria exchange 1883 not mentioned). The Sherifein street address is the EGX headquarters; seed lat/lng null, not added. Photo: 1928 building facade (CC BY 4.0, 2025)."
+ "curationNote": "Operator: Egyptian Exchange (seed 'other'). Status 'unknown': opened to the public in July 2016 (elwatan), but the only 2025 evidence is organised university group visits; no public hours or booking procedure found. Founding year: 1903 per AR wiki (Alexandria exchange 1883 not mentioned). The Sherifein street address is the EGX headquarters; seed lat/lng null, not added. Photo: 1928 building facade (CC BY 4.0, 2025).",
+ "access": "restricted",
+ "accessNote": {
+  "en": "Inside the working stock exchange: visits are arranged in advance, mainly for groups.",
+  "ar": "داخل مبنى البورصة: تُرتّب الزيارات مسبقًا، وغالبًا للمجموعات."
+ }
 }

@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "schemaMinor": 3,
- "generatedAt": "2026-10-05T13:15:19+00:00",
+ "schemaMinor": 4,
+ "generatedAt": "2026-10-05T13:17:55+00:00",
  "count": 260,
  "enriched": 260,
  "excluded": 14,
- "sha256": "6261bc71e64f1f3f219425cb5abbd717e1f1c317d537e6d72deff772ce9eb012"
+ "sha256": "3d3bc3189d38b2f103097e430d96b04ccd32cd26c3461b227da20eac632b042a"
 }

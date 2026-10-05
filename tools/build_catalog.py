@@ -12,7 +12,7 @@ prices.tiers[].onlineAmount and prices.extras[].audience/group/onlineAmount. Cli
 import json, pathlib, datetime, hashlib
 
 SCHEMA_VERSION = 1  # major: bump only for breaking changes
-SCHEMA_MINOR = 3    # minor: additive fields only (1.1 = 2026-10-04)
+SCHEMA_MINOR = 4    # minor: additive fields only (1.1 = 2026-10-04)
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 EXCLUDED_FILE = ROOT / "tools/seed/excluded.json"

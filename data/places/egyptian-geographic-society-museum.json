@@ -139,5 +139,10 @@
  ],
  "verifiedAt": "2026-10-05",
  "confidence": "low",
- "curationNote": "Status 'unknown': no official visitor information found; the only 2025 evidence is a museum visit scheduled for congress delegates (IGU 2025 programme, 15 Apr 2025). The building lies within the Shura/Parliament compound, so public access may need prior arrangement. Seed alias 'National Geographic Society Museum' kept (a common English mistranslation used by Tripadvisor). Relief maps and census records from EN wiki/AR wiki library description."
+ "curationNote": "Status 'unknown': no official visitor information found; the only 2025 evidence is a museum visit scheduled for congress delegates (IGU 2025 programme, 15 Apr 2025). The building lies within the Shura/Parliament compound, so public access may need prior arrangement. Seed alias 'National Geographic Society Museum' kept (a common English mistranslation used by Tripadvisor). Relief maps and census records from EN wiki/AR wiki library description.",
+ "access": "restricted",
+ "accessNote": {
+  "en": "Inside a guarded government compound: check visiting arrangements before you go.",
+  "ar": "داخل مجمع حكومي مؤمَّن: تحقّق من ترتيبات الزيارة قبل الذهاب."
+ }
 }

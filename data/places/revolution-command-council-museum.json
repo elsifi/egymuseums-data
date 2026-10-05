@@ -17,7 +17,7 @@
   "en": "Nile bank, Gezira (Zamalek)",
   "ar": "كورنيش النيل، الجزيرة (الزمالك)"
  },
- "status": "unknown",
+ "status": "closed",
  "statusNote": {
   "en": "The building has been fitted out as a museum, but no public opening or visiting hours have been announced.",
   "ar": "جُهز المبنى ليكون متحفًا، لكن لم يُعلن افتتاحه للجمهور ولا مواعيد للزيارة."
@@ -124,5 +124,11 @@
  ],
  "verifiedAt": "2026-10-05",
  "confidence": "low",
- "curationNote": "Coordinates null in seed and Wikidata; not filled. No evidence of regular public opening was found (a 2019 report announced an imminent opening; Jul 2025 coverage still urges putting it 'on the tourist map'); a search-engine summary claimed it is closed for modernisation but no dated source was found. PHOTOS: no Commons photo of the building (completed 1951, i.e. post-1950 - would be excluded anyway); the single photo is a public-domain 1953 group photo of the Revolutionary Command Council - thematic stand-in, kept until a real photo appears (batch-10 Q2a)."
+ "curationNote": "Coordinates null in seed and Wikidata; not filled. No evidence of regular public opening was found (a 2019 report announced an imminent opening; Jul 2025 coverage still urges putting it 'on the tourist map'); a search-engine summary claimed it is closed for modernisation but no dated source was found. PHOTOS: no Commons photo of the building (completed 1951, i.e. post-1950 - would be excluded anyway); the single photo is a public-domain 1953 group photo of the Revolutionary Command Council - thematic stand-in, kept until a real photo appears (batch-10 Q2a).",
+ "openingSoon": {
+  "note": {
+   "en": "Fitted out as a museum; no public opening announced yet.",
+   "ar": "جُهّز كمتحف، ولم يُعلن افتتاحه للجمهور بعد."
+  }
+ }
 }

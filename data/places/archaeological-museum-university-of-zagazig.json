@@ -99,5 +99,10 @@
  ],
  "verifiedAt": "2026-10-05",
  "confidence": "low",
- "curationNote": "University museum. Status 'unknown': no 2024-2026 source on public access; the museum website museum.zu.edu.eg refused connections on 2026-10-05. A 2022 dispute over the collection (an SCA transfer decision of 2019 cancelled in 2021, committee to re-evaluate) is noted but not in user text. Object count: 2,537 (youm7 2017) vs 2,173 (search snippet of a later source); 'some 2,500' used. Floor (4th or 5th) inconsistent in the same 2017 article, so not given. Wikidata P571 = 1992 conflicts with the 1981 start; description says 'early 1980s'. Seed coordinates null, kept. Seed Arabic name editor-added; matches usage. No photos: no Commons image."
+ "curationNote": "University museum. Status 'unknown': no 2024-2026 source on public access; the museum website museum.zu.edu.eg refused connections on 2026-10-05. A 2022 dispute over the collection (an SCA transfer decision of 2019 cancelled in 2021, committee to re-evaluate) is noted but not in user text. Object count: 2,537 (youm7 2017) vs 2,173 (search snippet of a later source); 'some 2,500' used. Floor (4th or 5th) inconsistent in the same 2017 article, so not given. Wikidata P571 = 1992 conflicts with the 1981 start; description says 'early 1980s'. Seed coordinates null, kept. Seed Arabic name editor-added; matches usage. No photos: no Commons image.",
+ "access": "restricted",
+ "accessNote": {
+  "en": "University teaching museum: arrange a visit with the university in advance.",
+  "ar": "متحف جامعي تعليمي: يجب ترتيب الزيارة مسبقًا مع الجامعة."
+ }
 }

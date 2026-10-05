@@ -116,5 +116,12 @@
  ],
  "verifiedAt": "2026-10-05",
  "confidence": "medium",
- "curationNote": "Not yet opened: SCA Secretary-General Hisham el-Leithy told elwatannews (7 Jul 2026) the museum opens in Q4 2027; status 'closed' (never opened), recheck in 2027. Object count differs between sources (over 5,000 in 2026, 10,000 in a Jan 2023 report), so prose says 'several thousand'. The 'open-air display and conservation school' detail comes from a search summary of an aawsat report (Nov 2025); treat as planned features. No coordinates on Wikidata (Q20400357) or any allowed source, so lat/lng null. Only Commons photos show the modern building (excluded, no freedom of panorama), so photos are empty. The seed record minya-museum (Q130216212) duplicates this project and is excluded from the catalogue (batch-12 Q2a); its English name is kept as an alias."
+ "curationNote": "Not yet opened: SCA Secretary-General Hisham el-Leithy told elwatannews (7 Jul 2026) the museum opens in Q4 2027; status 'closed' (never opened), recheck in 2027. Object count differs between sources (over 5,000 in 2026, 10,000 in a Jan 2023 report), so prose says 'several thousand'. The 'open-air display and conservation school' detail comes from a search summary of an aawsat report (Nov 2025); treat as planned features. No coordinates on Wikidata (Q20400357) or any allowed source, so lat/lng null. Only Commons photos show the modern building (excluded, no freedom of panorama), so photos are empty. The seed record minya-museum (Q130216212) duplicates this project and is excluded from the catalogue (batch-12 Q2a); its English name is kept as an alias.",
+ "openingSoon": {
+  "note": {
+   "en": "Expected to open in the last quarter of 2027.",
+   "ar": "من المتوقع افتتاحه في الربع الأخير من عام 2027."
+  },
+  "expected": "2027-Q4"
+ }
 }

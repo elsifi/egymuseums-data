@@ -126,5 +126,10 @@
  ],
  "verifiedAt": "2026-10-05",
  "confidence": "low",
- "curationNote": "No official visiting hours or prices found; Wikidata P856 (old faculty URL) not used. The faculty also runs a separate embryology/obstetrics museum (youm7 2026) - not this record. 1827 founding date of the medical school is general knowledge (Abu Zaabal, moved to Qasr al-Aini 1837), not checked on an official page. PHOTOS: Commons has no photo of the museum; the single photo shows the main gate of the Qasr al-Aini Faculty of Medicine (2011) - stand-in, kept until a real photo appears (batch-10 Q2a)."
+ "curationNote": "No official visiting hours or prices found; Wikidata P856 (old faculty URL) not used. The faculty also runs a separate embryology/obstetrics museum (youm7 2026) - not this record. 1827 founding date of the medical school is general knowledge (Abu Zaabal, moved to Qasr al-Aini 1837), not checked on an official page. PHOTOS: Commons has no photo of the museum; the single photo shows the main gate of the Qasr al-Aini Faculty of Medicine (2011) - stand-in, kept until a real photo appears (batch-10 Q2a).",
+ "access": "restricted",
+ "accessNote": {
+  "en": "On the Qasr al-Aini medical campus: visits need to be arranged in advance.",
+  "ar": "داخل حرم قصر العيني الطبي: يجب ترتيب الزيارة مسبقًا."
+ }
 }

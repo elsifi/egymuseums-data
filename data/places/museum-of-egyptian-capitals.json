@@ -98,5 +98,11 @@
  ],
  "verifiedAt": "2026-10-05",
  "confidence": "medium",
- "curationNote": "Status 'closed' = completed but never opened: SCA said on 31 Dec 2024 the museum was 100% complete and ready to open in 2025; no inauguration found, and it is absent from egymonuments.com/locations and the MoTA open-museums guide (checked 2026-10-05). The list of capitals differs between sources (dostor names 8 while saying 9), so no number is given. Object count (~1000) from ar-wiki only. PHOTOS: none. Commons has no photo of the museum, and the building is modern (no freedom of panorama in Egypt). Photos are therefore left empty (allowed for minor places, decision of 2026-10-05)."
+ "curationNote": "Status 'closed' = completed but never opened: SCA said on 31 Dec 2024 the museum was 100% complete and ready to open in 2025; no inauguration found, and it is absent from egymonuments.com/locations and the MoTA open-museums guide (checked 2026-10-05). The list of capitals differs between sources (dostor names 8 while saying 9), so no number is given. Object count (~1000) from ar-wiki only. PHOTOS: none. Commons has no photo of the museum, and the building is modern (no freedom of panorama in Egypt). Photos are therefore left empty (allowed for minor places, decision of 2026-10-05).",
+ "openingSoon": {
+  "note": {
+   "en": "Built and fitted out; no opening date announced yet.",
+   "ar": "اكتمل بناؤه وتجهيزه، ولم يُعلن موعد افتتاحه بعد."
+  }
+ }
 }

@@ -266,5 +266,10 @@
  ],
  "verifiedAt": "2026-10-05",
  "confidence": "medium",
- "curationNote": "Object count: about 59-60 (Wikipedia/2022 event page); prose says 'around sixty'. Prices: portal says Egyptians EGP 25, foreigners USD 5 (Nov 2024 list also 'USD 5'); encoded as Egyptian adult tier 25 plus usdPegged/usdAmount 5 for the foreign adult price (no EGP figure published). No student prices published. 24-hour opening encoded as 00:00-23:59. Ramadan 09:00-15:00 from the MoTA guide (no last entry published). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Coordinates null in seed and Wikidata; not added. Status open: undated live official pages only; no 2025-2026 news found. No photos: Commons has no photo of either airport museum, and the modern terminal buildings are excluded (no freedom of panorama) - photos are left empty (allowed for minor places, decision of 2026-10-05)."
+ "curationNote": "Object count: about 59-60 (Wikipedia/2022 event page); prose says 'around sixty'. Prices: portal says Egyptians EGP 25, foreigners USD 5 (Nov 2024 list also 'USD 5'); encoded as Egyptian adult tier 25 plus usdPegged/usdAmount 5 for the foreign adult price (no EGP figure published). No student prices published. 24-hour opening encoded as 00:00-23:59. Ramadan 09:00-15:00 from the MoTA guide (no last entry published). Ramadan exception dated 2027-02-08 to 2027-03-08: expected Ramadan 1448 AH (IslamicFinder and hijria.com Egypt calendar: 1 Ramadan = 8 Feb 2027, 29 days, Eid al-Fitr 9 Mar 2027); update when officially announced. Coordinates null in seed and Wikidata; not added. Status open: undated live official pages only; no 2025-2026 news found. No photos: Commons has no photo of either airport museum, and the modern terminal buildings are excluded (no freedom of panorama) - photos are left empty (allowed for minor places, decision of 2026-10-05).",
+ "access": "restricted",
+ "accessNote": {
+  "en": "Inside the airport terminal: only passengers with access to that area can visit.",
+  "ar": "داخل مبنى الركاب بالمطار: الزيارة متاحة فقط للمسافرين المسموح لهم بدخول هذه المنطقة."
+ }
 }
